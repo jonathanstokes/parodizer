@@ -34,7 +34,7 @@
     "uuidv4": "^6.2.0"
   },
   "scripts": {
-    "lint": "eslint 'src/**/*.{js,ts,tsx}' --quiet",
+    "lint": "eslint '{src,server}/**/*.{js,ts,tsx}' --quiet --fix",
     "start": "run-p --race start:server start:app",
     "start:app": "react-scripts start",
     "start:server": "cd server && ts-node-dev --project ../tsconfig.node.json --respawn --transpile-only --debug ./server.ts && wait-on tcp:5500",

@@ -1,17 +1,17 @@
-import {RhymingService} from "./RhymingService";
-import {LyricService, RaGeniusSongResult} from "./LyricService";
-import {Song, Top40Service} from "./Top40Service";
-import {uuid} from 'uuidv4';
+import { RhymingService } from './RhymingService';
+import { LyricService, RaGeniusSongResult } from './LyricService';
+import { Song, Top40Service } from './Top40Service';
+import { uuid } from 'uuidv4';
 import PQueue from 'p-queue';
 import {
   Job,
   LyricMatchedSong,
   SearchTerms,
-  WordMatchedSong
-} from "../../src/client-and-server/lyric-list-service-types";
+  WordMatchedSong,
+} from '../../src/client-and-server/lyric-list-service-types';
 
 export class LyricListService {
-  static queue = new PQueue({concurrency: 1});
+  static queue = new PQueue({ concurrency: 1 });
   static jobsById: { [jobId: string]: Job } = {};
 
   protected rhymingService: RhymingService;
@@ -33,10 +33,10 @@ export class LyricListService {
     const job: Job = {
       id: uuid(),
       status: 'running',
-      input: {primary: primaryTerms, secondary: secondaryTerms},
+      input: { primary: primaryTerms, secondary: secondaryTerms },
       output: {},
       created,
-      lastUpdated: created
+      lastUpdated: created,
     };
     this.queueJob(job);
     LyricListService.jobsById[job.id] = job;
@@ -48,12 +48,12 @@ export class LyricListService {
   }
 
   protected runJob(job: Job): Job {
-    this.doRunJob(job).catch(err => {
+    this.doRunJob(job).catch((err) => {
       console.error(`Error running job ${job.id}:`, err);
       job.error = err.message;
-      job.status = 'error'
+      job.status = 'error';
       job.lastUpdated = new Date();
-    })
+    });
     return job;
   }
 
@@ -89,7 +89,7 @@ export class LyricListService {
     }
     return {
       primary: Array.from(primaryRhymingWords.values()),
-      secondary: Array.from(secondaryRhymingWords.values())
+      secondary: Array.from(secondaryRhymingWords.values()),
     };
   }
 
@@ -99,10 +99,10 @@ export class LyricListService {
 
     const mergedSongs = [...primarySongs];
     for (const ss of secondarySongs) {
-      const matchedPrimary = mergedSongs.find(ps => ps.id === ss.id);
+      const matchedPrimary = mergedSongs.find((ps) => ps.id === ss.id);
       if (matchedPrimary) {
         matchedPrimary.score = matchedPrimary.score + 0.2;
-        ss.containsWords.forEach(w => {
+        ss.containsWords.forEach((w) => {
           if (matchedPrimary.containsWords.indexOf(w) < 0) {
             matchedPrimary.containsWords.push(w);
           }
@@ -120,7 +120,7 @@ export class LyricListService {
       const filteredSongMatches: LyricMatchedSong[] = [];
       const songMatches = await this.lyricService.findSongs(rhymingWord);
       for (const songMatch of songMatches) {
-        const songRating = await this.getSongMatchRating(songMatch)
+        const songRating = await this.getSongMatchRating(songMatch);
         if (songRating > 0) {
           filteredSongMatches.push({
             id: songMatch.id,
@@ -129,25 +129,27 @@ export class LyricListService {
             title: songMatch.title,
             year: (songMatch as any).year || undefined,
             lyricsUrl: songMatch.url,
-            raw: {...songMatch}
+            raw: { ...songMatch },
           });
         }
       }
       songMatchesByRhymingWord[rhymingWord] = filteredSongMatches;
     }
     const songCountByRhymingWord: { [word: string]: number | undefined } = {};
-    Object.keys(songMatchesByRhymingWord).forEach(word => songCountByRhymingWord[word] = songMatchesByRhymingWord[word].length || undefined);
+    Object.keys(songMatchesByRhymingWord).forEach(
+      (word) => (songCountByRhymingWord[word] = songMatchesByRhymingWord[word].length || undefined)
+    );
     console.log(`Unfiltered song counts by word: ${JSON.stringify(songCountByRhymingWord)}`);
 
     const wordMatchedSongsById: { [id: string]: WordMatchedSong } = {};
     for (const word of Object.keys(songMatchesByRhymingWord)) {
       for (const match of songMatchesByRhymingWord[word]) {
-        if (match.score > .6) {
+        if (match.score > 0.6) {
           let outputSong = wordMatchedSongsById[match.id];
           if (!outputSong) {
             outputSong = {
               ...match,
-              containsWords: []
+              containsWords: [],
             };
             wordMatchedSongsById[outputSong.id] = outputSong;
           }
@@ -157,9 +159,13 @@ export class LyricListService {
     }
     const output: WordMatchedSong[] = Object.values(wordMatchedSongsById);
     output.sort((a, b) => b.score - a.score);
-    console.log(`Song results for ${JSON.stringify(rhymingWords)}:${output.map(wms => {
-      return '\n' + wms.score.toFixed(3) + '\t' + wms.year + '\t' + wms.fullTitle;
-    }).join('')}`);
+    console.log(
+      `Song results for ${JSON.stringify(rhymingWords)}:${output
+        .map((wms) => {
+          return '\n' + wms.score.toFixed(3) + '\t' + wms.year + '\t' + wms.fullTitle;
+        })
+        .join('')}`
+    );
     return output;
   }
 
@@ -167,7 +173,7 @@ export class LyricListService {
     try {
       let songTitle = songMatch.full_title.replace(/\s/g, ' ');
       let artist = '';
-      let byIndex = songTitle.lastIndexOf(' by ');
+      const byIndex = songTitle.lastIndexOf(' by ');
       // if (byIndex < 0) byIndex = songTitle.lastIndexOf(' by ');  // <-- non-space spaces
       if (byIndex > 0) {
         artist = songTitle.substring(byIndex + 4);
@@ -204,15 +210,15 @@ export class LyricListService {
 
   protected getSongYear(song: Song): number {
     const history = [...song.chartHistory];
-    history.sort((a, b) => this.toDate(a.weekOf).getTime() - this.toDate(b.weekOf).getTime())
+    history.sort((a, b) => this.toDate(a.weekOf).getTime() - this.toDate(b.weekOf).getTime());
     return this.toDate(history[0].weekOf).getFullYear();
   }
 
   protected scaleRating(targetPassing: number, weekCount: number): number {
     if (weekCount < targetPassing) {
-      return (weekCount / targetPassing) * .7;
+      return (weekCount / targetPassing) * 0.7;
     } else {
-      return .7 + .3 * ((weekCount - targetPassing) / 75);
+      return 0.7 + 0.3 * ((weekCount - targetPassing) / 75);
     }
   }
 

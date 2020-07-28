@@ -1,14 +1,14 @@
-import {Job} from "./lyric-list-service-types";
+import { Job } from './lyric-list-service-types';
 
 export interface SearchResponse {
-    success: boolean;
+  success: boolean;
 }
 
 export interface SearchErrorResponse extends SearchResponse {
-    message: string;
+  message: string;
 }
 
 export interface SearchSuccessResponse extends SearchResponse {
-    statusUrl: string;
-    job: Job;
+  statusUrl: string;
+  job: Job;
 }

@@ -1,9 +1,9 @@
-console.log("1");
+console.log('1');
 import bodyParser from 'body-parser';
 import express from 'express';
-import {checkJob, search} from './routes/search';
+import { checkJob, search } from './routes/search';
 
-console.log("1");
+console.log('1');
 const app = express();
 const port = process.env.PORT || 5500;
 
