@@ -87,7 +87,7 @@ export class LyricListService {
                 }
             }
         }
-        return { primary: Array.from(primaryRhymingWords), secondary: Array.from(secondaryRhymingWords)};
+        return { primary: Array.from(primaryRhymingWords.values()), secondary: Array.from(secondaryRhymingWords.values())};
     }
 
     async findSongs(terms: SearchTerms): Promise<WordMatchedSong[]> {

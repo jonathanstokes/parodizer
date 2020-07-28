@@ -29,7 +29,7 @@
     "split-string": "^6.1.0",
     "string-similarity": "^4.0.1",
     "ts-node-dev": "^1.0.0-pre.56",
-    "typescript": "~3.7.2",
+    "typescript": "^3.9.7",
     "uuidv4": "^6.2.0"
   },
   "scripts": {
@@ -40,7 +40,7 @@
     "populate": "cd server && ts-node --project ../tsconfig.node.json --transpile-only ../script/read-billboard.ts",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test:server": "TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
+    "test:server": "RAPID_API_KEY=fake-rapid-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -64,6 +64,7 @@
     "spec": "server/**/*.test.ts"
   },
   "devDependencies": {
+    "@types/sinon": "^9.0.4",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "mocha": "^8.0.1",

@@ -10,7 +10,7 @@ const port = process.env.PORT || 5500;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/api/search', search);
+app.post('/api/search', search);
 app.get('/api/search/job/:jobId', checkJob);
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

@@ -9,25 +9,27 @@ if (!rapidApiKey) throw new Error(`A RAPID_API_KEY environment variable is requi
 const lyricListService = new LyricListService(rapidApiKey);
 
 export const parseSearchTerms = (inputString: string): SearchTerms => {
-    const tokens: string[] = split(inputString, { quotes: ['"'], separator: ' ' })
-    if (tokens.length > 0) {
-        const primary = tokens.splice(0, 1);
-        if (primary[0].startsWith('"') && primary[0].endsWith('"')) primary[0] = primary[0].substring(1, primary[0].length - 1);
-        const secondary = tokens.filter(t => {
-            if (t.startsWith('"') && t.endsWith('"')) {
-                primary.push(t.substring(1, t.length - 1));
-                return false;
-            }
-            return true;
-        });
-        return {primary, secondary};
+    if (inputString && inputString.trim()) {
+        const tokens: string[] = split(inputString, { quotes: ['"'], separator: ' ' })
+        if (tokens.length > 0) {
+            const primary = tokens.splice(0, 1);
+            if (primary[0].startsWith('"') && primary[0].endsWith('"')) primary[0] = primary[0].substring(1, primary[0].length - 1);
+            const secondary = tokens.filter(t => {
+                if (t.startsWith('"') && t.endsWith('"')) {
+                    primary.push(t.substring(1, t.length - 1));
+                    return false;
+                }
+                return true;
+            });
+            return {primary, secondary};
+        } else throw new Error(`Parsable input text is required.`);
     } else throw new Error(`Input text is required.`);
 };
 
 /** `/search?q=___` route. */
 export const search = async (req: Request, res: Response, next: NextFunction) => {
     try {
-        const searchTerms: string = JSON.stringify(req.query.q || '');
+        const searchTerms: string = JSON.stringify(req.body.q || '');
         const inputTerms = parseSearchTerms(searchTerms);
         try {
             const job = await lyricListService.startJob(inputTerms.primary, inputTerms.secondary);
