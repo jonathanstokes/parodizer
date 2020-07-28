@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.env
+/data/billboard-hot-100.backup.json
+/data/billboard-hot-100.bak.json
+/populate.log

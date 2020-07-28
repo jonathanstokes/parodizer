@@ -4,7 +4,9 @@ import split from 'split-string';
 import {SearchErrorResponse, SearchSuccessResponse} from "../../src/client-and-server/search-types";
 import {Job, SearchTerms} from "../../src/client-and-server/lyric-list-service-types";
 
-const lyricListService = new LyricListService();
+const rapidApiKey = process.env.RAPID_API_KEY;
+if (!rapidApiKey) throw new Error(`A RAPID_API_KEY environment variable is required.`);
+const lyricListService = new LyricListService(rapidApiKey);
 
 export const parseSearchTerms = (inputString: string): SearchTerms => {
     const tokens: string[] = split(inputString, { quotes: ['"'], separator: ' ' })

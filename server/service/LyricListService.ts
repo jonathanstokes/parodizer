@@ -18,9 +18,9 @@ export class LyricListService {
     protected lyricService: LyricService;
     protected top40Service: Top40Service;
 
-    constructor() {
-        this.rhymingService = new RhymingService();
-        this.lyricService = new LyricService();
+    constructor(rapidApiKey: string) {
+        this.rhymingService = new RhymingService(rapidApiKey);
+        this.lyricService = new LyricService(rapidApiKey);
         this.top40Service = new Top40Service();
     }
 

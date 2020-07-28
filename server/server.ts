@@ -13,5 +13,4 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.get('/api/search', search);
 app.get('/api/search/job/:jobId', checkJob);
 
-// tslint:disable-next-line:no-console
 app.listen(port, () => console.log(`Listening on port ${port}`));

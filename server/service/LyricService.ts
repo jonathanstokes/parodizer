@@ -1,13 +1,18 @@
 import axios from 'axios';
 
 export class LyricService {
+    protected rapidApiKey: string;
+
+    constructor(rapidApiKey: string) {
+        this.rapidApiKey = rapidApiKey;
+    }
 
     async findSongs(searchTerm: string): Promise<RaGeniusSongResult[]> {
         const results = await axios.get<RaGeniusLyricResult<RaGeniusSearchResults>>(`https://genius.p.rapidapi.com/search`, {
             "headers":{
                 "content-type":"application/octet-stream",
                 "x-rapidapi-host":"genius.p.rapidapi.com",
-                "x-rapidapi-key":"59cb9c173fmsh8de1aa962db5e76p1f75dfjsn98465ed6ac90",
+                "x-rapidapi-key": this.rapidApiKey,
                 "useQueryString":true
             },
             "params":{
@@ -22,7 +27,7 @@ export class LyricService {
             headers: {
                 "content-type": "application/octet-stream",
                 "x-rapidapi-host": "genius.p.rapidapi.com",
-                "x-rapidapi-key": "59cb9c173fmsh8de1aa962db5e76p1f75dfjsn98465ed6ac90",
+                "x-rapidapi-key": this.rapidApiKey,
                 "useQueryString": true
             }
         });

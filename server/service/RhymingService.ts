@@ -3,12 +3,18 @@ import axios from 'axios';
 
 export class RhymingService {
 
+    protected rapidApiKey: string;
+
+    constructor(rapidApiKey: string) {
+        this.rapidApiKey = rapidApiKey;
+    }
+
     async fetchRhymingWords(word: string): Promise<string[]> {
         const results = await axios.get<RaRhymeResult>(`https://wordsapiv1.p.rapidapi.com/words/${encodeURIComponent(word)}/rhymes`, {
             headers: {
                 'content-type': 'application/octet-stream',
                 'x-rapidapi-host': 'wordsapiv1.p.rapidapi.com',
-                'x-rapidapi-key': '59cb9c173fmsh8de1aa962db5e76p1f75dfjsn98465ed6ac90',
+                'x-rapidapi-key': this.rapidApiKey,
                 'useQueryString': true
             }
         });
