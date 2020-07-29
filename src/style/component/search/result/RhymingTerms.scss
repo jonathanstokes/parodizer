@@ -1,0 +1,29 @@
+@import 'src/style/_imports';
+
+.rhyming-terms {
+  background-color: $light-border-color;
+
+  .header {
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    padding: 0.25rem;
+    white-space: nowrap;
+  }
+
+  .term {
+    font-size: 0.75rem;
+    margin: 0.25rem;
+    padding: 0.125rem 0.25rem;
+    background-color: $term-background-color;
+    border-radius: 0.25rem;
+    border: 0.0625rem solid $term-background-color;
+
+    &.primary-term {
+      font-weight: bold;
+    }
+
+    &.waiting-term {
+      color: $muted;
+    }
+  }
+}

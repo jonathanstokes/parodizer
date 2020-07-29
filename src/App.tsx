@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Button from 'react-bootstrap/Button';
+import Spinner from 'react-bootstrap/Spinner';
 
-import logo from './logo.svg';
-import './App.css';
 import SearchInputField from './component/search/SearchInputField';
 import { Job } from './client-and-server/lyric-list-service-types';
 import { SearchJobStatusResponse, SearchSuccessResponse } from './client-and-server/search-types';
 import SearchResults from './component/search/SearchResults';
+
+import logo from './logo.svg';
+import './style/App.scss';
 
 function App() {
   const [previousSearchTerms, setPreviousSearchTerms] = useState<string>('');
@@ -61,7 +63,7 @@ function App() {
       </header>
       <div className="input-section d-flex flex-column align-items-center">
         <div>Enter a word or words to rhyme in a popular song:</div>
-        <div className="field-container d-flex flex-row">
+        <div className="field-container d-flex flex-wrap justify-content-center">
           <SearchInputField
             onSearch={onSearch}
             value={searchTerms}
@@ -69,12 +71,19 @@ function App() {
             disabled={isSearching}
           />
           <Button
+            className="search-button"
             variant="primary"
             size="sm"
             onClick={() => onSearch(searchTerms)}
             disabled={isSearching || previousSearchTerms === searchTerms}
           >
-            {isSearching ? 'Finding…' : 'Find parody songs'}
+            {isSearching ? (
+              <span>
+                <Spinner animation="border" /> Finding…
+              </span>
+            ) : (
+              'Find parody songs'
+            )}
           </Button>
         </div>
       </div>

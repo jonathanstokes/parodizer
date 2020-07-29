@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../../style/component/search/SearchInputField.scss';
+
 interface SearchInputFieldProps {
   onSearch: (query: string) => void;
 }

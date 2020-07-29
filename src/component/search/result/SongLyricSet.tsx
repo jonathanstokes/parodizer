@@ -1,5 +1,8 @@
 import React from 'react';
+
 import { Job, WordMatchedSong } from '../../../client-and-server/lyric-list-service-types';
+
+import '../../../style/component/search/result/SongLyricSet.scss';
 
 const SongLyricSet = (props: { job: Job; song: WordMatchedSong }) => {
   const { job, song } = props;

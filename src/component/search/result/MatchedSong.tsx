@@ -4,6 +4,8 @@ import Button from 'react-bootstrap/Button';
 import { Job, WordMatchedSong } from '../../../client-and-server/lyric-list-service-types';
 import SongLyricSet from './SongLyricSet';
 
+import '../../../style/component/search/result/MatchedSong.scss';
+
 const MatchedSong = (props: { song: WordMatchedSong; job: Job }) => {
   const { song, job } = props;
   const title = song.title;
@@ -15,14 +17,21 @@ const MatchedSong = (props: { song: WordMatchedSong; job: Job }) => {
 
   return (
     <div className="matched-song">
-      <div className="header d-flex flex-row">
-        <Button className="title" variant="link" size="sm" onClick={openSongLyrics}>
-          {title}
-        </Button>
-        {artist && <div className="artist">{artist}</div>}
-        <div className="year">{song.year}</div>
+      <div className="header d-flex flex-column">
+        <div className="title-row d-flex justify-content-between">
+          <div className="title">{title}</div>
+          <div className="song-links d-flex">
+            <Button className="song-link lyrics-link" variant="outline-secondary" size="sm" onClick={openSongLyrics}>
+              Lyrics ⇗
+            </Button>
+          </div>
+        </div>
+        <div className="credit-row d-flex justify-content-between">
+          {artist && <div className="artist">{artist}</div>}
+          <div className="year">({song.year})</div>
+        </div>
       </div>
-      <div className="contains-words d-flex flex-row">
+      <div className="contains-words d-flex flex-row align-items-center">
         <div className="contains-words-label">Contains words:</div>
         {song.containsWords.map((word) => (
           <div className="contains-word" key={`cw-${word}`}>

@@ -1,0 +1,19 @@
+$primary: #219ce8;
+$secondary: #6c757d;
+$success: #0d5d2f;
+$info: #212121;
+$warning: #8e9110;
+$danger: #772e22;
+$light: #f8f9fa;
+$dark: #343a40;
+
+
+$theme-colors: (
+  'lime': #8bb31a
+);
+
+$light-border-color: lighten($secondary, 50%);
+$muted: lighten($info, 20%);
+
+$term-background-color: lighten($secondary, 40%);
+$contains-word-background-color: $light-border-color;

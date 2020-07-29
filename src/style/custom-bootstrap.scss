@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////////
+// An alternative to importing bootstrap.scss directly--or using
+//    import 'bootstrap/dist/css/bootstrap.min.css';
+// from .tsx code--that lets us override Bootstrap theme variables and maps
+// before the Bootstrap SCSS gets loaded.
+//
+// See https://create-react-app.dev/docs/adding-bootstrap/#using-a-custom-theme
+/////////////////////////////////////////////////////////////////////////////////
+
+// Establish SCSS variables _before_ Bootstrap is loaded.
+@import './_variables';
+
+// Load the main Bootstrap SCSS.  This could also include only the parts that we need.
+// See https://getbootstrap.com/docs/4.0/getting-started/theming/#importing.
+@import '~bootstrap/scss/bootstrap.scss';

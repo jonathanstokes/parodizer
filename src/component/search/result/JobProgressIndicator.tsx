@@ -1,6 +1,9 @@
 import React from 'react';
-import { Job } from '../../../client-and-server/lyric-list-service-types';
 import { Spinner } from 'react-bootstrap';
+
+import { Job } from '../../../client-and-server/lyric-list-service-types';
+
+import '../../../style/component/search/result/JobProgressIndicator.scss';
 
 const JobProgressIndicator = (props: { job: Job }) => {
   const { job } = props;

@@ -21,6 +21,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
     "express": "^4.17.1",
+    "node-sass": "^4.14.1",
     "npm-run-all": "^4.1.5",
     "p-queue": "^6.6.0",
     "react": "^16.13.1",
@@ -41,9 +42,10 @@
     "start:test": "cd server && ts-node-dev --help",
     "populate": "cd server && ts-node --project ../tsconfig.node.json --transpile-only ../script/read-billboard.ts",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false --collectCoverage --ci && yarn run test:server",
+    "test:client": "react-scripts test",
     "test:server": "RAPID_API_KEY=fake-rapid-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
-    "eject": "react-scripts eject"
+    "precommit": "yarn run lint && yarn run test"
   },
   "eslintConfig": {
     "extends": "react-app"
