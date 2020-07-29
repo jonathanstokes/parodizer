@@ -1,8 +1,10 @@
 # Todo
+- Fix bug where more than one word is parsed as one.
 - Create an original logo.
-- Add better loading indicators: shimmering placeholders!
-  - A few in the rhyming terms when we're waiting on those.
-  - 3 search result placeholders.
+- Integrate with a better lyric service.
+- Integrate with a better rhyming service.
+- Get matches within lyrics working server-side.
+- Render matches within lyrics.
 
 # Done
 - Edited week `1976-07-10` so that its previous week was `1976-07-04`. It should be `1976-07-03`, but the data for that week was wrong in Billboard.

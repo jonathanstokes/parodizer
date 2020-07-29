@@ -1,5 +1,7 @@
 @import 'src/style/_imports';
 
+$faux-loading-color: lighten($term-background-color, 7%);
+
 .rhyming-terms {
   background-color: $light-border-color;
 
@@ -25,5 +27,14 @@
     &.waiting-term {
       color: $muted;
     }
+
+    &.faux-loading-term {
+      width: 4rem;
+      border-color: $faux-loading-color;
+    }
+  }
+
+  .shimmer {
+    @include shimmer($faux-loading-color, 6rem, 4rem, 3s);
   }
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Job} from '../../client-and-server/lyric-list-service-types';
+import { Job } from '../../client-and-server/lyric-list-service-types';
 import SearchError from './result/SearchError';
 import RhymingTerms from './result/RhymingTerms';
 import MatchedSongs from './result/MatchedSongs';

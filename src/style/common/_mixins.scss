@@ -1,0 +1,32 @@
+@import "./_variables";
+
+@mixin shimmer($bgColor: $light-secondary, $width: 50rem, $height: 13rem, $duration: 3.5s) {
+  background: $bgColor
+  linear-gradient(
+                  to right,
+                  $bgColor 0%,
+                  darken($bgColor, 3%) 20%,
+                  $bgColor 40%,
+                  $bgColor 100%
+  )
+  no-repeat;
+  background-size: $width $height;
+  display: inline-block;
+  position: relative;
+
+  animation-duration: $duration;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeholderShimmer;
+  animation-timing-function: linear;
+}
+
+@keyframes placeholderShimmer {
+  0% {
+    background-position: 125% 0;
+  }
+
+  100% {
+    background-position: -225% 0;
+  }
+}

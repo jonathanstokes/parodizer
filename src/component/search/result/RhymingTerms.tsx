@@ -7,11 +7,11 @@ import '../../../style/component/search/result/RhymingTerms.scss';
 const RhymingTerms = (props: { job: Job }) => {
   const { job } = props;
   const isRunning = job.status === 'running' || job.status === 'started';
-  const outputTitle = isRunning ? 'Looking for lyrics containing any of:' : 'Lyrics containing any of:';
-  return job.output.rhymingTerms ? (
+  const isLoadingRhymingTerms = isRunning && !job.output.rhymingTerms;
+  return !isLoadingRhymingTerms ? (
     <div className="rhyming-terms d-flex flex-column">
       <div className="terms d-flex flex-wrap">
-        <div className="header">{outputTitle}</div>
+        <div className="header">Lyrics containing any of:</div>
         {job.output.rhymingTerms?.primary.map((term) => (
           <div className="term primary-term" key={`fp-${term}`}>
             {term}
@@ -38,6 +38,9 @@ const RhymingTerms = (props: { job: Job }) => {
             {term}
           </div>
         ))}
+        <div className="faux-loading-term term shimmer" />
+        <div className="faux-loading-term term shimmer" />
+        <div className="faux-loading-term term shimmer" />
       </div>
     </div>
   );

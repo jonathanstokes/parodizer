@@ -7,12 +7,15 @@ $danger: #772e22;
 $light: #f8f9fa;
 $dark: #343a40;
 
+$light-secondary: lighten($secondary, 50%);
 
 $theme-colors: (
   'lime': #8bb31a
 );
 
-$light-border-color: lighten($secondary, 50%);
+$light-border-color: $light-secondary;
+$dark-border-color: $info;
+
 $muted: lighten($info, 20%);
 
 $term-background-color: lighten($secondary, 40%);
