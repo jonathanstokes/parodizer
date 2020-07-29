@@ -12,3 +12,8 @@ export interface SearchSuccessResponse extends SearchResponse {
   statusUrl: string;
   job: Job;
 }
+
+export interface SearchJobStatusResponse {
+  success: boolean;
+  job: Job;
+}

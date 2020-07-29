@@ -1,19 +1,18 @@
-import React, { ChangeEvent } from 'react';
+import React from 'react';
 
 interface SearchInputFieldProps {
-  value: string;
-  onChange: (event: ChangeEvent<HTMLInputElement>) => void;
   onSearch: (query: string) => void;
 }
-const SearchInputField = (props: SearchInputFieldProps) => {
-  const { value, onChange, onSearch } = props;
+const SearchInputField = (props: SearchInputFieldProps & React.InputHTMLAttributes<HTMLInputElement>) => {
+  const { onSearch, ...inputProps } = props;
   const onSubmit = (event: any) => {
     event.preventDefault();
+    const value = inputProps.value as string;
     onSearch(value);
   };
   return (
     <form className="search-input-field" onSubmit={onSubmit}>
-      <input type="text" value={value} onChange={(event) => onChange(event)} />
+      <input type="text" {...inputProps} />
     </form>
   );
 };

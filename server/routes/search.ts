@@ -1,7 +1,11 @@
 import { Request, Response, NextFunction } from 'express';
 import { LyricListService } from '../service/LyricListService';
 import split from 'split-string';
-import { SearchErrorResponse, SearchSuccessResponse } from '../../src/client-and-server/search-types';
+import {
+  SearchErrorResponse,
+  SearchJobStatusResponse,
+  SearchSuccessResponse,
+} from '../../src/client-and-server/search-types';
 import { Job, SearchTerms } from '../../src/client-and-server/lyric-list-service-types';
 
 const rapidApiKey = process.env.RAPID_API_KEY;
@@ -57,6 +61,6 @@ export const search = async (req: Request, res: Response, next: NextFunction) =>
 export const checkJob = async (req: Request, res: Response, next: NextFunction) => {
   const jobId = req.params.jobId;
   const job = await lyricListService.getJob(jobId);
-  if (job) res.send({ success: true, job });
-  else res.status(404).send({ success: false, message: `No search job ${jobId} found.` });
+  if (job) res.send({ success: true, job } as SearchJobStatusResponse);
+  else res.status(404).send({ success: false, message: `No search job ${jobId} found.` } as SearchErrorResponse);
 };
