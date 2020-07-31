@@ -44,7 +44,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --watchAll=false --collectCoverage --ci && yarn run test:server",
     "test:client": "react-scripts test",
-    "test:server": "RAPID_API_KEY=fake-rapid-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
+    "test:server": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
     "precommit": "yarn run lint && yarn run test"
   },
   "eslintConfig": {

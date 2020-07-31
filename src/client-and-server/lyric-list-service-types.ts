@@ -1,16 +1,4 @@
-export interface LyricMatchedSong {
-  id: number;
-  score: number;
-  fullTitle: string;
-  title: string;
-  year?: number;
-  lyricsUrl: string;
-  raw: any;
-}
-
-export interface WordMatchedSong extends LyricMatchedSong {
-  containsWords: string[];
-}
+import { SongResult } from './lyric-types';
 
 export interface SearchTerms {
   primary: string[];
@@ -25,7 +13,7 @@ export interface LyricMatch {
 
 export interface JobOutput {
   rhymingTerms?: SearchTerms;
-  songs?: WordMatchedSong[];
+  songs?: SongResult[];
   lyricsBySongId?: { [songId: string]: LyricMatch };
 }
 

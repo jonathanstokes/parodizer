@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export class LyricService {
+export class GeniusRapidApiLyricServiceImpl {
   protected rapidApiKey: string;
 
   constructor(rapidApiKey: string) {
@@ -142,4 +142,18 @@ interface SongStats {
   concurrents: number;
   hot: boolean;
   pageviews: number;
+}
+
+export interface LyricMatchedSong {
+  id: number;
+  score: number;
+  fullTitle: string;
+  title: string;
+  year?: number;
+  lyricsUrl: string;
+  raw: any;
+}
+
+export interface WordMatchedSong extends LyricMatchedSong {
+  containsWords: string[];
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Job} from '../../../client-and-server/lyric-list-service-types';
+import { Job } from '../../../client-and-server/lyric-list-service-types';
 import MatchedSong from './MatchedSong';
 
 import '../../../style/component/search/result/MatchedSongs.scss';
@@ -10,6 +10,7 @@ const MatchedSongs = (props: { job: Job }) => {
   const songs = job.output.songs;
   const isRunning = job.status === 'running' || job.status === 'started';
   const isLoadingSongs = isRunning && !songs && !!job.output.rhymingTerms;
+  const isErrored = !isRunning && !!job.error;
   return (
     <div className="matched-songs">
       {songs && songs.map((song) => <MatchedSong song={song} job={job} key={song.id} />)}
@@ -20,7 +21,7 @@ const MatchedSongs = (props: { job: Job }) => {
           <div className="faux-matched-song shimmer" />
         </div>
       )}
-      {!isLoadingSongs && (!songs || !songs.length) && <div className="no-results">No songs found.</div>}
+      {!isLoadingSongs && !isErrored && (!songs || !songs.length) && <div className="no-results">No songs found.</div>}
     </div>
   );
 };

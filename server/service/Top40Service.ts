@@ -3,7 +3,8 @@ import * as stringSimilarity from 'string-similarity';
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
-import { getChart, listCharts } from 'billboard-top-100';
+import { getChart } from 'billboard-top-100';
+import * as path from 'path';
 
 export class Top40Service {
   static BILLBOARD_200_CHART = 'billboard-200';
@@ -88,7 +89,9 @@ export class Top40Service {
     return new Promise((resolve, reject) => {
       console.log(`Reading chart cache.`);
       const startTime = Date.now();
-      fs.readFile(Top40Service.HOT_100_CACHE_FILENAME, (err, data) => {
+      let filename = path.join(__dirname, Top40Service.HOT_100_CACHE_FILENAME);
+      if (!fs.existsSync(filename)) filename = path.join(__dirname, `../${Top40Service.HOT_100_CACHE_FILENAME}`);
+      fs.readFile(filename, (err, data) => {
         if (err) reject(err);
         else {
           const json = JSON.parse(data.toString());
@@ -219,6 +222,7 @@ interface ChartSong {
 export interface Song {
   title: string;
   artist: string;
+  year?: number;
   chartHistory: {
     rank: number;
     weekOf: string;

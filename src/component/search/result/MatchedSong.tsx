@@ -1,18 +1,19 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 
-import { Job, WordMatchedSong } from '../../../client-and-server/lyric-list-service-types';
+import { Job } from '../../../client-and-server/lyric-list-service-types';
 import SongLyricSet from './SongLyricSet';
 
 import '../../../style/component/search/result/MatchedSong.scss';
+import { SongResult } from '../../../client-and-server/lyric-types';
 
-const MatchedSong = (props: { song: WordMatchedSong; job: Job }) => {
+const MatchedSong = (props: { song: SongResult; job: Job }) => {
   const { song, job } = props;
   const title = song.title;
-  const artist = song.fullTitle.indexOf(title) === 0 ? song.fullTitle.substring(title.length).trim() : null;
+  const artist = song.artist;
 
   const openSongLyrics = () => {
-    window.open(song.lyricsUrl, `parodizer-${song.fullTitle}`);
+    window.open(song.lyricsUrl, `parodizer-${song.title}-${song.artist}`);
   };
 
   return (
@@ -33,11 +34,12 @@ const MatchedSong = (props: { song: WordMatchedSong; job: Job }) => {
       </div>
       <div className="contains-words d-flex flex-row align-items-center">
         <div className="contains-words-label">Contains words:</div>
-        {song.containsWords.map((word) => (
-          <div className="contains-word" key={`cw-${word}`}>
-            {word}
-          </div>
-        ))}
+        {song.containsWords &&
+          song.containsWords.map((word) => (
+            <div className="contains-word" key={`cw-${word}`}>
+              {word}
+            </div>
+          ))}
       </div>
       <SongLyricSet job={job} song={song} />
     </div>

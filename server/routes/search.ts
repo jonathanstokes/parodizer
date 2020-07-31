@@ -9,8 +9,10 @@ import {
 import { Job, SearchTerms } from '../../src/client-and-server/lyric-list-service-types';
 
 const rapidApiKey = process.env.RAPID_API_KEY;
+const musixMatchApiKey = process.env.MUSIXMATCH_API_KEY;
 if (!rapidApiKey) throw new Error(`A RAPID_API_KEY environment variable is required.`);
-const lyricListService = new LyricListService(rapidApiKey);
+if (!musixMatchApiKey) throw new Error(`A MUSIXMATCH_API_KEY environment variable is required.`);
+const lyricListService = new LyricListService({ rapidApiKey, musixMatchApiKey });
 
 export const parseSearchTerms = (inputString: string): SearchTerms => {
   if (inputString && inputString.trim()) {
@@ -34,7 +36,7 @@ export const parseSearchTerms = (inputString: string): SearchTerms => {
 /** `/search?q=___` route. */
 export const search = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const searchTerms: string = JSON.stringify(req.body.q || '');
+    const searchTerms: string = req.body.q || '';
     const inputTerms = parseSearchTerms(searchTerms);
     try {
       const job = await lyricListService.startJob(inputTerms.primary, inputTerms.secondary);
