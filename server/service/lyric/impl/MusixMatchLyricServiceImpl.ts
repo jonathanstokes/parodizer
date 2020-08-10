@@ -14,15 +14,19 @@ export class MusixMatchLyricServiceImpl implements LyricService {
         quorum_factor: 1,
         apikey: this.apiKey,
         s_track_rating: 'desc',
-        page_size: 50
+        page_size: 50,
       },
     });
     if (response.status === 200) {
       if (!response.data.message.body.track_list) {
         if (response.data.message.header.status_code !== 200) {
-          throw new Error(`For query '${searchTerm}', got '${response.statusText}' (${response.status}) in response header but ${response.data.message.header.status_code} in body: ${JSON.stringify(response.data)}`);
+          throw new Error(
+            `For query '${searchTerm}', got '${response.statusText}' (${response.status}) in response header but ${
+              response.data.message.header.status_code
+            } in body: ${JSON.stringify(response.data)}`
+          );
         }
-        throw new Error(`No 'track_list' found in: ${JSON.stringify(response.data)}`)
+        throw new Error(`No 'track_list' found in: ${JSON.stringify(response.data)}`);
       }
       return response.data.message.body.track_list.map<SongSummary>((trackContainer) => {
         const mmTrack = trackContainer.track;

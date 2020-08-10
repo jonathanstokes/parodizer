@@ -117,12 +117,17 @@ export class LyricListService {
       const filteredSongMatches: SongResult[] = [];
       const songMatches = await this.lyricService.findSongs(rhymingWord);
       for (const songMatch of songMatches) {
-        const songRating = await this.getSongMatchRating(songMatch);
-        if (songRating > 0) {
-          filteredSongMatches.push({
-            ...songMatch,
-            score: songRating,
-          });
+        // If this song hasn't already been found for this rhyming word...
+        if (!filteredSongMatches.find((fsm) => songMatch.id === fsm.id)) {
+          // This `getSongMatchRating()` can alter the `songMatch`!
+          const songRating = await this.getSongMatchRating(songMatch);
+          // If this possibly-altered song still isn't one that's already been picked.
+          if (songRating > 0 && !filteredSongMatches.find((fsm) => songMatch.id === fsm.id)) {
+            filteredSongMatches.push({
+              ...songMatch,
+              score: songRating,
+            });
+          }
         }
       }
       songMatchesByRhymingWord[rhymingWord] = filteredSongMatches;
@@ -169,10 +174,13 @@ export class LyricListService {
         result = await this.top40Service.findSongStats(variation.title, variation.artist);
         if (result) {
           if (songMatch !== variation) {
+            // console.log(
+            //   `Replacing\n\t     ${JSON.stringify(songMatch)}\n\twith ${JSON.stringify(
+            //     variation
+            //   )}\nbecause it was found in billboard.`
+            // );
             console.log(
-              `Replacing\n\t     ${JSON.stringify(songMatch)}\n\twith ${JSON.stringify(
-                variation
-              )}\nbecause it was found in billboard.`
+              `Replacing ${songMatch.title} by ${songMatch.artist} with ${variation.title} by ${variation.artist} because the latter was found in billboard.`
             );
             Object.assign(songMatch, variation);
           }
