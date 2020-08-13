@@ -26,7 +26,7 @@ const MatchedSongs = (props: { job: Job }) => {
           <div className="faux-matched-song shimmer" />
         </div>
       )}
-      {!isLoadingSongs && !isErrored && (!songs || !songs.length) && <div className="no-results">No songs found.</div>}
+      {!isLoadingSongs && !isRunning && !isErrored && (!songs || !songs.length) && <div className="no-results">No songs found.</div>}
     </div>
   );
 };

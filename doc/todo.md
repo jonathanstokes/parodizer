@@ -2,13 +2,15 @@
 - ~Remove duplicate songs from search results.~
 - ~Convert rating/scores into an object that can return its number but display the history of how it got there, for better tweaking of results.~
 - ~Write integration tests to debug rating issues.~
+- Make the rhyming words collapsed when there are too many of them.
 - Investigate performance issues.
-- Create an original logo.
-- Bug: UI flashes 'none found' message before showing loading indicator when searching.
+- ~Create an original logo.~
+- ~Bug: UI flashes 'none found' message before showing loading indicator when searching.~
 - Have the job status include some percentage complete, especially based on the rhyming words being searched through.
 - When opening a lyric page, highlight the matching words. (`#:~:text=`)
 - button to open the top youtube search result. 
 - Integrate with a better rhyming service.
+- Create a real logo.
 - Get matches within lyrics working server-side.
 - Render matches within lyrics.
 - for `save`: `Filtered out 'Addicted to Love' by 'Robert Palmer' because no billboard match could be found.` This is listed as `Addicted To Love`, so with only that case difference it should be found.

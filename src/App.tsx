@@ -8,7 +8,8 @@ import { Job } from './client-and-server/lyric-list-service-types';
 import { SearchJobStatusResponse, SearchSuccessResponse } from './client-and-server/search-types';
 import SearchResults from './component/search/SearchResults';
 
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './logo.png';
 import './style/App.scss';
 
 function App() {
