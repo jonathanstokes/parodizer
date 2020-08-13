@@ -1,0 +1,1700 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.078861951828003,
+      "available": 294
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 200363637,
+            "track_name": "A2Z",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 113839812,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 39279713,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-1/A2Z?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-1/A2Z/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T07:15:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132262206,
+            "track_name": "Curse",
+            "track_name_translation_list": [],
+            "track_rating": 40,
+            "commontrack_id": 73872590,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 33,
+            "album_id": 26509794,
+            "album_name": "Members Only, Vol. 3",
+            "artist_id": 33933489,
+            "artist_name": "Bass Santana feat. XXXTENTACION, Cooliecut & Kin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bass-Santana-feat-Xxxtentacion-Cooliecut-Kin-oul/Curse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bass-Santana-feat-Xxxtentacion-Cooliecut-Kin-oul/Curse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-21T09:02:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199762945,
+            "track_name": "Fetus (feat. Injury Reserve)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 113498471,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39081521,
+            "album_name": "Limbo",
+            "artist_id": 39920895,
+            "artist_name": "Aminé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Amin%C3%A9-2/Track-13-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Amin%C3%A9-2/Track-13-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-11T13:50:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132376270,
+            "track_name": "Curse",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 73928499,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 19,
+            "album_id": 26521452,
+            "album_name": "XXXTENTACION Presents: Members Only, Vol. 3",
+            "artist_id": 33950469,
+            "artist_name": "Bass Santana feat. XXXTENTACION, Coolie Cut & Kin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bass-Santana-feat-XXXTENTACION-Coolie-Cut-Kin-oul/Curse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bass-Santana-feat-XXXTENTACION-Coolie-Cut-Kin-oul/Curse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-06T18:51:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84679309,
+            "track_name": "Therapy",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 10623547,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11344374,
+            "album_name": "Thr33 Ringz",
+            "artist_id": 13874733,
+            "artist_name": "T-Pain feat. Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-Pain-feat-Kanye-West/Therapy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-Pain-feat-Kanye-West/Therapy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:13:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72569463,
+            "track_name": "Break (AOTL)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 39758745,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 55,
+            "album_id": 19580735,
+            "album_name": "Sleeper Hits",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Break-AOTL?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Break-AOTL/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-20T20:43:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84406174,
+            "track_name": "Crystal Ball",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47497929,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20906190,
+            "album_name": "No Ceilings 2",
+            "artist_id": 28897742,
+            "artist_name": "lil wayne feat. Steph",
+            "track_share_url": "https://www.musixmatch.com/lyrics/lil-wayne-feat-Steph/Crystal-Ball?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/lil-wayne-feat-Steph/Crystal-Ball/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-07T22:58:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17840183,
+            "track_name": "R.I.P.",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11510739,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14225465,
+            "album_name": "R O Y A L T Y",
+            "artist_id": 13965026,
+            "artist_name": "Childish Gambino feat. Bun B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-feat-Bun-B/R-I-P?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-feat-Bun-B/R-I-P/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-22T07:39:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31474319,
+            "track_name": "Lay My Organs Down",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12085378,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10963792,
+            "album_name": "Lil Weezyana Mixtape, Volume I",
+            "artist_id": 14373453,
+            "artist_name": "Lil Wayne feat. Mack Maine & Curren",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Mack-Maine-Curren-y/Lay-My-Organs-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Mack-Maine-Curren-y/Lay-My-Organs-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-09T10:25:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32146783,
+            "track_name": "What We're All About",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 1020892,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 82,
+            "album_id": 15340829,
+            "album_name": "Spider-Man (Music from and Inspired By)",
+            "artist_id": 7920,
+            "artist_name": "Sum 41",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:09:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2162744,
+            "track_name": "It's What We're All About",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 1020821,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3,
+            "album_id": 10395755,
+            "album_name": "Bravo Nu Rock",
+            "artist_id": 7920,
+            "artist_name": "Sum 41",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sum-41/It-s-What-We-re-All-About?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sum-41/It-s-What-We-re-All-About/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:09:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32422150,
+            "track_name": "It's What We're All About (live)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 12707250,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15356975,
+            "album_name": "In Too Deep",
+            "artist_id": 7920,
+            "artist_name": "Sum 41",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sum-41/It-s-What-We-re-All-About-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sum-41/It-s-What-We-re-All-About-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-28T18:55:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85659831,
+            "track_name": "What We're All About - The Original Version",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 48219408,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20986943,
+            "album_name": "Spider Man - Music From And Inspired By",
+            "artist_id": 7920,
+            "artist_name": "Sum 41",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About-The-Original-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About-The-Original-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-16T04:51:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32422050,
+            "track_name": "What We're All About (Original Version)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 12707278,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15356968,
+            "album_name": "Spider Man (Music from and Inspired By the Motion Picture)",
+            "artist_id": 7920,
+            "artist_name": "Sum 41",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About-Original-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sum-41/What-We-re-All-About-Original-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-08T09:21:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84669235,
+            "track_name": "10 2 10",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "10 2 10"
+                }
+              }
+            ],
+            "track_rating": 25,
+            "commontrack_id": 12407230,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 225,
+            "album_id": 20921205,
+            "album_name": "Hall of Fame",
+            "artist_id": 33491506,
+            "artist_name": "Big Sean",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-Sean/10-2-10?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-Sean/10-2-10/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:52:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138641658,
+            "track_name": "A Simple Song",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 76915444,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 15,
+            "album_id": 27223321,
+            "album_name": "From A Room: Volume 2",
+            "artist_id": 14016165,
+            "artist_name": "Chris Stapleton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Stapleton/A-Simple-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Stapleton/A-Simple-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-05T20:00:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187794811,
+            "track_name": "Scorched Earth",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 103057602,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 34750828,
+            "album_name": "Beautiful Island",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Scorched-Earth?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Scorched-Earth/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T15:33:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187794812,
+            "track_name": "Scorched Earth",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 103057603,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34750828,
+            "album_name": "Beautiful Island",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Scorched-Earth-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Scorched-Earth-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-17T20:10:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101921834,
+            "track_name": "Ham 'N' Eggs",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 11913916,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22247364,
+            "album_name": "Peoples' Instinctive Travels & the Paths of Rhythm",
+            "artist_id": 38334,
+            "artist_name": "A Tribe Called Quest",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-Tribe-Called-Quest/Ham-%E2%80%99n%E2%80%99-Eggs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-Tribe-Called-Quest/Ham-%E2%80%99n%E2%80%99-Eggs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-14T17:04:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9072660,
+            "track_name": "Paper Chaser (feat. Jay K)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 5571184,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11006434,
+            "album_name": "Finally Famous, Volume 2: UKNOWBIGSEAN",
+            "artist_id": 33491506,
+            "artist_name": "Big Sean",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-Sean/Paper-Chaser-feat-Jay-K?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-Sean/Paper-Chaser-feat-Jay-K/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:52:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1620793,
+            "track_name": "The Day After the Revolution",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 186773,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10352010,
+            "album_name": "This Is Hardcore",
+            "artist_id": 556,
+            "artist_name": "Pulp",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pulp/The-Day-After-the-Revolution?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pulp/The-Day-After-the-Revolution/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:34:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19443523,
+            "track_name": "Blackfire Choked Our Death",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 9126,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10407273,
+            "album_name": "A Western Harvest Field by Moonlight",
+            "artist_id": 34,
+            "artist_name": "Beck",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beck/Blackfire-Choked-Our-Death?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beck/Blackfire-Choked-Our-Death/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T14:48:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54758656,
+            "track_name": "Time Marches On",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1677518,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 130,
+            "album_id": 17228417,
+            "album_name": "Time Marches On",
+            "artist_id": 14988,
+            "artist_name": "Tracy Lawrence",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-06T03:45:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1037,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Contemporary Country",
+                    "music_genre_name_extended": "Country / Contemporary Country",
+                    "music_genre_vanity": "Country-Contemporary-Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1039,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Honky Tonk",
+                    "music_genre_name_extended": "Country / Honky Tonk",
+                    "music_genre_vanity": "Country-Honky-Tonk"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1042,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Traditional Country",
+                    "music_genre_name_extended": "Country / Traditional Country",
+                    "music_genre_vanity": "Country-Traditional-Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91967037,
+            "track_name": "The Day After The Revolution - Cd Version / Long Outro",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 21396678,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21389067,
+            "album_name": "This Is Hardcore",
+            "artist_id": 556,
+            "artist_name": "Pulp",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pulp/The-Day-After-the-Revolution-Cd-Version-Long-Outro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pulp/The-Day-After-the-Revolution-Cd-Version-Long-Outro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-22T16:47:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34267488,
+            "track_name": "Rules (dirty)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 13842645,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15516270,
+            "album_name": "The Essential Wu-Tang Clan",
+            "artist_id": 13882826,
+            "artist_name": "Wu-Tang Clan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wu-Tang-Clan/Rules-dirty?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wu-Tang-Clan/Rules-dirty/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-23T13:05:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80931382,
+            "track_name": "Bearly Legal",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 43925995,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 20517359,
+            "album_name": "Home Street Home: Original Songs from the Shit Musical",
+            "artist_id": 661,
+            "artist_name": "NOFX",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NOFX/Bearly-Legal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NOFX/Bearly-Legal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-25T21:50:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1006,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Punk",
+                    "music_genre_name_extended": "Alternative / Punk",
+                    "music_genre_vanity": "Alternative-Punk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92590062,
+            "track_name": "She's Famous Now",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 107734,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 21432321,
+            "album_name": "Why Do You Rock So Hard",
+            "artist_id": 299,
+            "artist_name": "Reel Big Fish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Reel-Big-Fish/She-s-Famous-Now?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Reel-Big-Fish/She-s-Famous-Now/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-28T17:33:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18278955,
+            "track_name": "Rules",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 11114431,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10463523,
+            "album_name": "Iron Flag",
+            "artist_id": 13882826,
+            "artist_name": "Wu-Tang Clan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/WU-TANG-CLAN-3/Rules-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/WU-TANG-CLAN-3/Rules-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-10T20:50:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137058826,
+            "track_name": "Super Hero",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 62684454,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 27005747,
+            "album_name": "Super Hero",
+            "artist_id": 31993840,
+            "artist_name": "Kool Keith feat. MF Doom",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kool-Keith-feat-MF-Doom/Super-Hero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kool-Keith-feat-MF-Doom/Super-Hero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-16T14:16:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150950598,
+            "track_name": "Fruit Salad",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 83996212,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 29005092,
+            "album_name": "Whack World",
+            "artist_id": 33230103,
+            "artist_name": "Tierra Whack",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tierra-Whack/Fruit-Salad?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tierra-Whack/Fruit-Salad/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-16T08:48:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2026844,
+            "track_name": "Grand Finale",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 1919136,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10384769,
+            "album_name": "Legit Ballin'",
+            "artist_id": 19337,
+            "artist_name": "Twista",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Twista/Grand-Finale?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Twista/Grand-Finale/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-24T08:27:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14489809,
+            "track_name": "Enid",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 174757,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13845597,
+            "album_name": "Gordon",
+            "artist_id": 504,
+            "artist_name": "Barenaked Ladies",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barenaked-Ladies/Enid?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barenaked-Ladies/Enid/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-07T14:02:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 197985166,
+            "track_name": "Arch Enemy",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 110531999,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 38482631,
+            "album_name": "Re-Animator",
+            "artist_id": 451154,
+            "artist_name": "Everything Everything",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Everything-Everything/Arch-Enemy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Everything-Everything/Arch-Enemy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-27T09:07:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130319299,
+            "track_name": "Time Marches On (2007 Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 72601112,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26196614,
+            "album_name": "Country Heat '90s",
+            "artist_id": 14988,
+            "artist_name": "Tracy Lawrence",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On-2007-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On-2007-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-28T02:40:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85934726,
+            "track_name": "Karishika, Pt. 2",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 47229030,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21004180,
+            "album_name": "Stories That Touch",
+            "artist_id": 28791537,
+            "artist_name": "Falz feat. M.I & Show Dem Camp",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Falz-feat-M-I-Show-Dem-Camp/Karishika-Pt-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Falz-feat-M-I-Show-Dem-Camp/Karishika-Pt-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-22T20:22:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89916440,
+            "track_name": "Karishika Part 2",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 47337282,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 21242742,
+            "album_name": "Karishika Part 2",
+            "artist_id": 28791537,
+            "artist_name": "Falz feat. M.I & Show Dem Camp",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Falz-feat-M-I-Show-Dem-Camp/Karishika-Part-2-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Falz-feat-M-I-Show-Dem-Camp/Karishika-Part-2-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-20T14:09:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 860009,
+            "track_name": "What If the Hokey Pokey Is All It Really Is About?",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 317470,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10291721,
+            "album_name": "Far Side of the World",
+            "artist_id": 1131,
+            "artist_name": "Jimmy Buffett",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jimmy-Buffett/What-If-the-Hokey-Pokey-Is-All-It-Really-Is-About?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jimmy-Buffett/What-If-the-Hokey-Pokey-Is-All-It-Really-Is-About/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:02:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174082036,
+            "track_name": "Time Marches On (2007 Remaster)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 96868251,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 33046514,
+            "album_name": "Country Classics",
+            "artist_id": 14988,
+            "artist_name": "Tracy Lawrence",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On-2007-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tracy-Lawrence/Time-Marches-On-2007-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-18T04:42:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19427988,
+            "track_name": "26 Years, 17 Days",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 7145281,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 579,
+            "album_id": 10450014,
+            "album_name": "Lyfe 268-192",
+            "artist_id": 99379,
+            "artist_name": "Lyfe Jennings",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lyfe-Jennings/26-Years-17-Days?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lyfe-Jennings/26-Years-17-Days/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:37:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84294922,
+            "track_name": "Easy Rider",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 40193060,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 20892773,
+            "album_name": "Mr. Wonderful",
+            "artist_id": 14094854,
+            "artist_name": "Action Bronson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Action-Bronson/Easy-Rider?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Action-Bronson/Easy-Rider/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-08-27T00:27:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14094459,
+            "track_name": "Ronnie Coleman",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 9680767,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 14094921,
+            "album_name": "Dr. Lecter",
+            "artist_id": 14094854,
+            "artist_name": "Action Bronson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Action-Bronson/Ronnie-Coleman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Action-Bronson/Ronnie-Coleman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-08-02T07:55:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31372906,
+            "track_name": "Karkagnor's Song: The Hobbit",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 9816982,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13825151,
+            "album_name": "Into Gay Pride Ride",
+            "artist_id": 82790,
+            "artist_name": "NanowaR of Steel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NanowaR-of-Steel/Karkagnor-s-Song-The-Hobbit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NanowaR-of-Steel/Karkagnor-s-Song-The-Hobbit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-02T11:46:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31349116,
+            "track_name": "Age of Greed",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 246993,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13756047,
+            "album_name": "Extremities, Dirt and Various Repressed Emotions",
+            "artist_id": 780,
+            "artist_name": "Killing Joke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Killing-Joke/Age-of-Greed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Killing-Joke/Age-of-Greed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T02:45:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89244829,
+            "track_name": "Rules - Dirty",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 49915454,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21200270,
+            "album_name": "Wu-Tang Iron Flag",
+            "artist_id": 28680987,
+            "artist_name": "Wu-Tang Clan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/WU-TANG-CLAN-3/Rules-Dirty?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/WU-TANG-CLAN-3/Rules-Dirty/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-14T11:19:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60639800,
+            "track_name": "Hate Times 8",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 30759653,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17907463,
+            "album_name": "Space Vampires vs. Zombie Dinosaurs In 3-D",
+            "artist_id": 72595,
+            "artist_name": "Psychostick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Psychostick/Hate-Times-8?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Psychostick/Hate-Times-8/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-20T06:26:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19744915,
+            "track_name": "Egg",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 417414,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13775417,
+            "album_name": "Mr. Bungle",
+            "artist_id": 1484,
+            "artist_name": "Mr. Bungle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Bungle/Egg?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Bungle/Egg/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:07:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 64217753,
+            "track_name": "Journey After (War Fatigues)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 11261683,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18400574,
+            "album_name": "The Circle In the Square",
+            "artist_id": 251074,
+            "artist_name": "Flobots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flobots/Journey-After-War-Fatigues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flobots/Journey-After-War-Fatigues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:24:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83490451,
+            "track_name": "The City",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 46721894,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20808251,
+            "album_name": "Compilation",
+            "artist_id": 26057,
+            "artist_name": "Necro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Necro/The-City?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Necro/The-City/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-08T15:58:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35048152,
+            "track_name": "The City",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 14393702,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15578289,
+            "album_name": "Once Upon a Crime",
+            "artist_id": 24838390,
+            "artist_name": "Necro, Kool G Rap & The Godfathers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Necro-Kool-G-Rap-The-Godfathers/The-City?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Necro-Kool-G-Rap-The-Godfathers/The-City/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-27T11:55:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151616046,
+            "track_name": "Cash on It",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 84463568,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 29116177,
+            "album_name": "Cash on It",
+            "artist_id": 45793812,
+            "artist_name": "O.T. Genasis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/O-T-Genasis/Cash-On-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/O-T-Genasis/Cash-On-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-29T15:27:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.098932027816772,
+      "available": 18
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 35824690,
+            "track_name": "Hiding Under Covers",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 14117391,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15631634,
+            "album_name": "Not. Psych!",
+            "artist_id": 487226,
+            "artist_name": "The Growlers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Growlers/Hiding-Under-Covers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Growlers/Hiding-Under-Covers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-13T04:07:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356180,
+            "track_name": "Take Control of You",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 41057323,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20899630,
+            "album_name": "So Good",
+            "artist_id": 13809366,
+            "artist_name": "Nao",
+            "track_share_url": "https://www.musixmatch.com/lyrics/n%C3%A4o-6/Take-Control-of-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/n%C3%A4o-6/Take-Control-of-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-17T03:18:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100813017,
+            "track_name": "Hades »Pluton«",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 43158033,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22134121,
+            "album_name": "Dead Lovers Sarabande",
+            "artist_id": 30501835,
+            "artist_name": "Sopor Aeternus & The Ensemble Of Shadows",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sopor-Aeternus-feat-The-Ensemble-Of-Shadows/Hades-%C2%BBPluton%C2%AB?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sopor-Aeternus-feat-The-Ensemble-Of-Shadows/Hades-%C2%BBPluton%C2%AB/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-20T03:00:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60608870,
+            "track_name": "Hades ªPluton´",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 30726605,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17903435,
+            "album_name": "Dead Lovers Sarabande",
+            "artist_id": 30501835,
+            "artist_name": "Sopor Aeternus & The Ensemble Of Shadows",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sopor-Aeternus-The-Ensemble-Of-Shadows/Hades-%C2%AAPluton%C2%B4?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sopor-Aeternus-The-Ensemble-Of-Shadows/Hades-%C2%AAPluton%C2%B4/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-20T03:00:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58592936,
+            "track_name": "First and Last",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 29267084,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17648945,
+            "album_name": "Penthouse Flashback Series (Buju Banton Vol. 2)",
+            "artist_id": 1449,
+            "artist_name": "Buju Banton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Buju-Banton/First-and-Last?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Buju-Banton/First-and-Last/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-16T09:52:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 147596384,
+            "track_name": "Entropy",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 81245904,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28467985,
+            "album_name": "Whatever You Wanna Call This",
+            "artist_id": 34982901,
+            "artist_name": "Two:22",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Two-22/Entropy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Two-22/Entropy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-25T20:45:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 184473076,
+            "track_name": "Riot Night",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 100597661,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35019241,
+            "album_name": "Riot Night - Single",
+            "artist_id": 37003976,
+            "artist_name": "LoDo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LoDo-2/Riot-Night?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LoDo-2/Riot-Night/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T12:37:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 172449742,
+            "track_name": "Lost Control",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 96299106,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32793858,
+            "album_name": "Lost Control",
+            "artist_id": 38733285,
+            "artist_name": "Jonas Madsen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jonas-Madsen-2/Lost-Control?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jonas-Madsen-2/Lost-Control/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-25T14:53:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 184270358,
+            "track_name": "No Competition",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 100420498,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34951276,
+            "album_name": "No Competition - Single",
+            "artist_id": 36308850,
+            "artist_name": "Kosher the MC",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kosher-the-MC-2/No-Competition?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kosher-the-MC-2/No-Competition/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-17T03:46:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14179965,
+            "track_name": "Why Must the Show Go On",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 31171642,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10764871,
+            "album_name": "Noël Coward in New York",
+            "artist_id": 7906,
+            "artist_name": "Noël Coward",
+            "track_share_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-15T21:13:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75553097,
+            "track_name": "Hark, the Hour of Ten Is Sounding",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 41669914,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19860301,
+            "album_name": "Trial By Jury",
+            "artist_id": 27892074,
+            "artist_name": "Gilbert & Sullivan Society of Houston",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-Sullivan-Society-of-Houston/Hark-The-Hour-of-Ten-Is-Sounding?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-Sullivan-Society-of-Houston/Hark-The-Hour-of-Ten-Is-Sounding/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-14T23:08:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1028,
+                    "music_genre_parent_id": 5,
+                    "music_genre_name": "Opera",
+                    "music_genre_name_extended": "Classical / Opera",
+                    "music_genre_vanity": "Classical-Opera"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195824110,
+            "track_name": "In Your Ex (feat. Bbm Deion & Lil Flames)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 109917748,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37758663,
+            "album_name": "In Your Ex",
+            "artist_id": 39818068,
+            "artist_name": "Fxrce",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fxrce-2/In-Your-Ex-Bbm-Deion-Lil-Flames?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fxrce-2/In-Your-Ex-Bbm-Deion-Lil-Flames/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-27T00:40:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58592853,
+            "track_name": "How It a Go Go",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 412095,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17648937,
+            "album_name": "Best of the Early Buju Banton",
+            "artist_id": 1449,
+            "artist_name": "Buju Banton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Buju-Banton/How-It-A-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Buju-Banton/How-It-A-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-18T04:21:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 76334792,
+            "track_name": "Why Must the Show Go On (Remastered) (Live from Las Vegas & New York)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42239908,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19972936,
+            "album_name": "Why Must the Show Go On (Remastered) [Live from Las Vegas & New York]",
+            "artist_id": 7906,
+            "artist_name": "Noël Coward",
+            "track_share_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On-Remastered-Live-from-Las-Vegas-New-York?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On-Remastered-Live-from-Las-Vegas-New-York/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-13T07:30:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1174,
+                    "music_genre_parent_id": 23,
+                    "music_genre_name": "Traditional Pop",
+                    "music_genre_name_extended": "Vocal / Traditional Pop",
+                    "music_genre_vanity": "Vocal-Traditional-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6038668,
+            "track_name": "Confluence of Consumers",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3199304,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10728280,
+            "album_name": "Marasmus",
+            "artist_id": 61771,
+            "artist_name": "Leng Tch'e",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leng-Tch-e/Confluence-of-Consumers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leng-Tch-e/Confluence-of-Consumers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-05T18:34:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60968644,
+            "track_name": "Why Must the Show Go On (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 31009879,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17948889,
+            "album_name": "Noël Coward In New York",
+            "artist_id": 7906,
+            "artist_name": "Noël Coward",
+            "track_share_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/No%C3%ABl-Coward/Why-Must-the-Show-Go-On-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-13T07:30:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58592939,
+            "track_name": "How It a Guh Go",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 29267087,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17648945,
+            "album_name": "Penthouse Flashback Series (Buju Banton Vol. 2)",
+            "artist_id": 1449,
+            "artist_name": "Buju Banton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Buju-Banton/How-It-a-Guh-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Buju-Banton/How-It-a-Guh-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-23T22:29:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200859691,
+            "track_name": "Same With It",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 114281400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39459127,
+            "album_name": "Same With It",
+            "artist_id": 27603003,
+            "artist_name": "Jaywin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jaywin/Same-With-It-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jaywin/Same-With-It-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T13:54:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

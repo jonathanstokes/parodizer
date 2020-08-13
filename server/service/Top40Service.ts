@@ -19,6 +19,7 @@ export class Top40Service {
 
   async findSongStats(songTitle: string, artist?: string): Promise<Song | null> {
     const matches: Song[] = [];
+    //const start = Date.now();
     for (const song of await Top40Service.getSongCache()) {
       if (
         songTitle === song.title ||
@@ -43,7 +44,10 @@ export class Top40Service {
     if (matches.length > 1) {
       console.log(`Multiple matches for ${songTitle} by ${artist}:`, matches);
     }
-    return matches[0] || null;
+    const match = matches[0] || null;
+    //const ellapsed = Date.now() - start;
+    //console.debug(`Found Billboard match for ${songTitle} by ${artist} in ${ellapsed}ms.`);
+    return match;
   }
 
   static async getSongCache(): Promise<Song[]> {

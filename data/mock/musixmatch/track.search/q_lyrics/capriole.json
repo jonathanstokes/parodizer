@@ -1,0 +1,1690 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.076492071151733,
+      "available": 72
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 32114833,
+            "track_name": "Estate",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 3294482,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 191,
+            "album_id": 11345165,
+            "album_name": "Mentre tutto scorre (Deluxe Version)",
+            "artist_id": 66398,
+            "artist_name": "Negramaro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Negramaro/Estate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Negramaro/Estate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-13T17:38:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149123211,
+            "track_name": "Paradise Lost",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 82494154,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 28697401,
+            "album_name": "Davide",
+            "artist_id": 14387706,
+            "artist_name": "Gemitaiz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gemitaiz/Paradise-Lost?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gemitaiz/Paradise-Lost/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-20T12:59:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160282626,
+            "track_name": "Rollin'",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 89271568,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 30495500,
+            "album_name": "Rollin'",
+            "artist_id": 37089612,
+            "artist_name": "Gemitaiz feat. Mixer T",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gemitaiz-feat-Mixer-T/Rollin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gemitaiz-feat-Mixer-T/Rollin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-01T16:28:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160282609,
+            "track_name": "Valzer",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 84774026,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 30495496,
+            "album_name": "Ci entro dentro",
+            "artist_id": 34733349,
+            "artist_name": "JUNIOR CALLY",
+            "track_share_url": "https://www.musixmatch.com/lyrics/JUNIOR-CALLY/Valzer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/JUNIOR-CALLY/Valzer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-28T14:34:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85910562,
+            "track_name": "Un Giorno In Più Dell'Eternità (feat. Killacat)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 48339540,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21002209,
+            "album_name": "Qualcosa E' Cambiato",
+            "artist_id": 29177355,
+            "artist_name": "Ghemon feat. Killacat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghemon-feat-Killacat-2/Un-Giorno-In-Pi%C3%B9-Dell-Eternit%C3%A0-feat-Killacat?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghemon-feat-Killacat-2/Un-Giorno-In-Pi%C3%B9-Dell-Eternit%C3%A0-feat-Killacat/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-22T15:02:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84504117,
+            "track_name": "Le Mie Parole - new vrs 2012",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 47533981,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20910738,
+            "album_name": "Psyco - 20 anni di canzoni",
+            "artist_id": 28325,
+            "artist_name": "Samuele Bersani",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani/Le-Mie-Parole-new-vrs-2012?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani/Le-Mie-Parole-new-vrs-2012/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-18T11:47:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 62202448,
+            "track_name": "Un giorno in più dell'eternità",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 32083425,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18105586,
+            "album_name": "Qualcosa E' Cambiato",
+            "artist_id": 27008794,
+            "artist_name": "Ghemon feat. Killacat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghemon-feat-Killacat/Un-giorno-in-pi%C3%B9-dell-eternit%C3%A0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghemon-feat-Killacat/Un-giorno-in-pi%C3%B9-dell-eternit%C3%A0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-29T10:57:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1209530,
+            "track_name": "Le Mie Parole",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2284521,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 10319363,
+            "album_name": "Che Vita! Il Meglio Di Samuele Bersani",
+            "artist_id": 28325,
+            "artist_name": "Samuele Bersani",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani/Le-mie-parole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani/Le-mie-parole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-18T11:47:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101353021,
+            "track_name": "E Poi Di Nuovo La Notte",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 17425493,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22188983,
+            "album_name": "Gli Amori Son Finestre",
+            "artist_id": 21193,
+            "artist_name": "Mângo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/M-ngo-2/E-Poi-Di-Nuovo-La-Notte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/M-ngo-2/E-Poi-Di-Nuovo-La-Notte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-23T11:34:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149028299,
+            "track_name": "Mastro Geppetto",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 82824622,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28680949,
+            "album_name": "Mastro Geppetto",
+            "artist_id": 15444,
+            "artist_name": "Edoardo Bennato",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Edoardo-Bennato/Mastro-Geppetto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Edoardo-Bennato/Mastro-Geppetto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-19T15:37:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 41157900,
+            "track_name": "Estate",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 971801,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15971755,
+            "album_name": "Ho Imparato a Sognare",
+            "artist_id": 7542,
+            "artist_name": "Fiorella Mannoia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia/Estate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia/Estate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:29:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84301516,
+            "track_name": "Lassu' Nel Cielo Volerai",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 47361574,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20893467,
+            "album_name": "30 e Poi...parte Seconda",
+            "artist_id": 22802,
+            "artist_name": "Cristina D'Avena",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cristina-D-Avena/Lassu-Nel-Cielo-Volerai?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cristina-D-Avena/Lassu-Nel-Cielo-Volerai/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-25T15:26:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 112836770,
+            "track_name": "Le mie parole - Live",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 61677563,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 23746254,
+            "album_name": "La fortuna che abbiamo (Live)",
+            "artist_id": 30458387,
+            "artist_name": "Samuele Bersani feat. Pacifico",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani-Pacifico/Le-mie-parole-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Samuele-Bersani-Pacifico/Le-mie-parole-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-27T16:48:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86881753,
+            "track_name": "Estate",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 48899672,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21068479,
+            "album_name": "Fiorella",
+            "artist_id": 14307862,
+            "artist_name": "Fiorella Mannoia & Giuliano Sangiorgi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia-Giuliano-Sangiorgi/Estate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia-Giuliano-Sangiorgi/Estate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-05T18:54:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74441639,
+            "track_name": "Estate (with Giuliano Sangiorgi)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 40891103,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19724135,
+            "album_name": "Fiorella (Special Edition)",
+            "artist_id": 7542,
+            "artist_name": "Fiorella Mannoia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia/Estate-with-Giuliano-Sangiorgi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fiorella-Mannoia/Estate-with-Giuliano-Sangiorgi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-28T16:46:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34898026,
+            "track_name": "Dentro",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 2423230,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15567628,
+            "album_name": "Novo Mesto",
+            "artist_id": 31958,
+            "artist_name": "Niccolò Fabi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Niccolo-Fabi/Dentro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Niccolo-Fabi/Dentro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-03T15:26:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170076316,
+            "track_name": "La vita è un circo",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 95407896,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 32417699,
+            "album_name": "La vita è un circo",
+            "artist_id": 31679739,
+            "artist_name": "Me contro Te",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Me-contro-Te/La-vita-%C3%A8-un-circo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Me-contro-Te/La-vita-%C3%A8-un-circo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-11T09:51:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164532861,
+            "track_name": "MUTOMBO",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 91228474,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31289414,
+            "album_name": "CLASH",
+            "artist_id": 24440451,
+            "artist_name": "Ensi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ensi/MUTOMBO?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ensi/MUTOMBO/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-01T15:19:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59478033,
+            "track_name": "La nostra storia",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 29913420,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17753822,
+            "album_name": "Un salto nell'amore",
+            "artist_id": 14387711,
+            "artist_name": "Franco Ricciardi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Franco-Ricciardi/La-nostra-storia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Franco-Ricciardi/La-nostra-storia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-18T16:44:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15486844,
+            "track_name": "Il Mio Amico Timido",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 10058935,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13884015,
+            "album_name": "Unici al mondo",
+            "artist_id": 10702,
+            "artist_name": "Michele Zarrillo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michele-Zarrillo/Il-mio-amico-timido?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michele-Zarrillo/Il-mio-amico-timido/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-02T14:26:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73011900,
+            "track_name": "Andrà tutto bene",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 39796297,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19618713,
+            "album_name": "L'improbabile",
+            "artist_id": 40466,
+            "artist_name": "Bandabardò",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bandabard%C3%B2/Andr%C3%A0-tutto-bene?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bandabard%C3%B2/Andr%C3%A0-tutto-bene/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-07T18:53:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7564738,
+            "track_name": "Bambine cattive",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 2719414,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10872266,
+            "album_name": "Ottavio",
+            "artist_id": 40466,
+            "artist_name": "Bandabardò",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bandabard%C3%B2/Bambine-cattive?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bandabard%C3%B2/Bambine-cattive/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:22:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14114056,
+            "track_name": "Ballerina straordinaria",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 9687288,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14114231,
+            "album_name": "Live al Vidia Club",
+            "artist_id": 342689,
+            "artist_name": "Nobraino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nobraino/Ballerina-straordinaria?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nobraino/Ballerina-straordinaria/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-05T01:15:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15514914,
+            "track_name": "Sud",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 10071954,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13886208,
+            "album_name": "Conflitto",
+            "artist_id": 123518,
+            "artist_name": "Assalti Frontali",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Assalti-Frontali/Sud?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Assalti-Frontali/Sud/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:26:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175336454,
+            "track_name": "Alright",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 97354984,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 33253406,
+            "album_name": "Alright",
+            "artist_id": 34289032,
+            "artist_name": "Dígame",
+            "track_share_url": "https://www.musixmatch.com/lyrics/D%C3%ADgame/Alright?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/D%C3%ADgame/Alright/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-13T17:09:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8611348,
+            "track_name": "Versi Di Passione",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 3344563,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10966683,
+            "album_name": "Zero Stress",
+            "artist_id": 69001,
+            "artist_name": "DJ Gruff",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Gruff/Versi-Di-Passione?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Gruff/Versi-Di-Passione/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-01T10:24:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 79317399,
+            "track_name": "Next Level",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 44038114,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20254780,
+            "album_name": "Incredibile",
+            "artist_id": 176081,
+            "artist_name": "Moreno",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Moreno/Next-Level?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Moreno/Next-Level/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-07T15:06:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 173480650,
+            "track_name": "Durchsuchungsbefehl",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 32972208,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32952081,
+            "album_name": "Hinterhofjargon",
+            "artist_id": 27092049,
+            "artist_name": "Ćelo & Abdï feat. SSIO",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Celo-Abdi-feat-SSIO/Durchsuchungsbefehl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Celo-Abdi-feat-SSIO/Durchsuchungsbefehl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-02T11:40:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1554296,
+            "track_name": "Seen the Doctor",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 1050895,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10346588,
+            "album_name": "Free-For-All",
+            "artist_id": 8120,
+            "artist_name": "Michael Penn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michael-Penn/Seen-the-Doctor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michael-Penn/Seen-the-Doctor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:40:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78044895,
+            "track_name": "Chicopez",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 42930418,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20202913,
+            "album_name": "Zecchino d'oro 57° edizione (2014)",
+            "artist_id": 24871297,
+            "artist_name": "Piccolo Coro Mariele Ventre dell'Antoniano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Piccolo-Coro-Mariele-Ventre-dell-Antoniano/Chicopez?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Piccolo-Coro-Mariele-Ventre-dell-Antoniano/Chicopez/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-07T20:41:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 131481700,
+            "track_name": "Claro",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 73360129,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 26383750,
+            "album_name": "Zanza EP",
+            "artist_id": 29305553,
+            "artist_name": "Pepito Rella",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pepito-Rella/Claro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pepito-Rella/Claro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-09T10:52:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16503042,
+            "track_name": "Un giorno in più dell'eternità",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 10477029,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13978542,
+            "album_name": "Qualcosa è cambiato",
+            "artist_id": 13879478,
+            "artist_name": "Ghemon Scienz feat. Killacat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghemon-Scienz-feat-Killacat/Un-giorno-in-pi%C3%B9-dell-eternit%C3%A0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghemon-Scienz-feat-Killacat/Un-giorno-in-pi%C3%B9-dell-eternit%C3%A0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:11:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3193856,
+            "track_name": "Le mie parole",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 2353824,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10480261,
+            "album_name": "Pacifico",
+            "artist_id": 30428,
+            "artist_name": "Pacifico",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pacifico/Le-mie-parole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pacifico/Le-mie-parole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:16:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14113768,
+            "track_name": "Indi",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 9687152,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14113855,
+            "album_name": "Senza Niente Addosso",
+            "artist_id": 14113807,
+            "artist_name": "Eva Mon Amour",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eva-Mon-Amour/Indi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eva-Mon-Amour/Indi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:03:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1658611,
+            "track_name": "L'agente al Cairo",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 2987567,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10355035,
+            "album_name": "Gelaterie sconsacrate",
+            "artist_id": 52410,
+            "artist_name": "Virginiana Miller",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Virginiana-Miller/L-agente-al-Cairo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Virginiana-Miller/L-agente-al-Cairo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:52:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127967543,
+            "track_name": "Il segno della croce",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 70395495,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25852516,
+            "album_name": "Il gelato dopo il mare",
+            "artist_id": 14344272,
+            "artist_name": "Renzo Rubino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Renzo-Rubino/Il-segno-della-croce?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Renzo-Rubino/Il-segno-della-croce/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-19T14:02:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8153532,
+            "track_name": "Potere alla poesia!",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 13295875,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10926176,
+            "album_name": "Il segreto della felicità",
+            "artist_id": 123535,
+            "artist_name": "Folkabbestia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Folkabbestia/Potere-Alla-Poesia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Folkabbestia/Potere-Alla-Poesia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-24T04:36:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1065,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Folk-Rock",
+                    "music_genre_name_extended": "Singer/Songwriter / Folk-Rock",
+                    "music_genre_vanity": "Singer-Songwriter-Folk-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101749783,
+            "track_name": "Vittoria",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 55951643,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22229037,
+            "album_name": "Vittoria",
+            "artist_id": 24813795,
+            "artist_name": "Amarcord",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Amarcord/Vittoria?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Amarcord/Vittoria/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-22T22:23:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35419104,
+            "track_name": "Ma Che Aspettate a Batterci Le Mani",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 14649943,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15604086,
+            "album_name": "Fo canta Fo",
+            "artist_id": 24948713,
+            "artist_name": "Dario Fo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dario-Fo-2/Ma-Che-Aspettate-a-Batterci-Le-Mani?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dario-Fo-2/Ma-Che-Aspettate-a-Batterci-Le-Mani/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-04T08:27:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19869298,
+            "track_name": "A meno di te",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 12112691,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14330781,
+            "album_name": "Vivere aiuta a non morire",
+            "artist_id": 14377051,
+            "artist_name": "Dargen D'Amico feat. Michelle Lily",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dargen-D-Amico-feat-Michelle-Lily/A-meno-di-te?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dargen-D-Amico-feat-Michelle-Lily/A-meno-di-te/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T10:05:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190586456,
+            "track_name": "Sono 7 Giorni Che Non Ballo",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 105658101,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36299089,
+            "album_name": "Sono 7 Giorni Che Non Ballo - Single",
+            "artist_id": 39380613,
+            "artist_name": "Jeky Hyde",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jeky-Hyde/Sono-7-Giorni-Che-Non-Ballo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jeky-Hyde/Sono-7-Giorni-Che-Non-Ballo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-17T12:54:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 173358828,
+            "track_name": "Capriole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 96695224,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32927094,
+            "album_name": "La Mia Parte Bianca",
+            "artist_id": 38819413,
+            "artist_name": "Brialu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brialu-2/Capriole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brialu-2/Capriole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-16T20:28:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145969178,
+            "track_name": "S.O.S.",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 81050213,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28194669,
+            "album_name": "S.O.S.",
+            "artist_id": 33922846,
+            "artist_name": "IllDestino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/IllDestino/S-O-S?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/IllDestino/S-O-S/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-08T16:39:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160723193,
+            "track_name": "Tutto Sul Piu Bello",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 89569606,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30577854,
+            "album_name": "No Problem (Mixtape)",
+            "artist_id": 37143573,
+            "artist_name": "Hazi feat. Celtic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hazi-feat-Celtic/Tutto-Sul-Piu-Bello?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hazi-feat-Celtic/Tutto-Sul-Piu-Bello/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T06:45:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192241649,
+            "track_name": "Aria Natalizia (feat. Badp)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 106979148,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36684341,
+            "album_name": "Aria Natalizia",
+            "artist_id": 39783206,
+            "artist_name": "SognoInCamera",
+            "track_share_url": "https://www.musixmatch.com/lyrics/SognoInCamera/Aria-Natalizia-Badp?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/SognoInCamera/Aria-Natalizia-Badp/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-16T18:07:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 148518425,
+            "track_name": "I Figli Dei Figli Degli Altri",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 82559354,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28604099,
+            "album_name": "In Realtà È Solo Paura",
+            "artist_id": 35502569,
+            "artist_name": "Danilo Ruggero",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danilo-Ruggero/I-Figli-Dei-Figli-Degli-Altri?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danilo-Ruggero/I-Figli-Dei-Figli-Degli-Altri/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-11T13:38:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190482409,
+            "track_name": "Giorni migliori (feat. Mek)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 105638774,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36292121,
+            "album_name": "GAMMARANA 2020",
+            "artist_id": 43306626,
+            "artist_name": "Mek feat. Tristan Baab & Vinny",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tristan-Baab-Vinny-meK/Giorni-Migliori?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tristan-Baab-Vinny-meK/Giorni-Migliori/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-01T13:53:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 107699783,
+            "track_name": "Se tutto si fermasse",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 48278289,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22983596,
+            "album_name": "Se tutto si fermasse - Single",
+            "artist_id": 25868085,
+            "artist_name": "Luiz Henrique Belmiro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luiz-Henrique-Belmiro/Se-tutto-si-fermasse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luiz-Henrique-Belmiro/Se-tutto-si-fermasse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-29T12:51:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 167167176,
+            "track_name": "Avrai bisogno della notte",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 93877976,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31820309,
+            "album_name": "Tutto & Niente",
+            "artist_id": 34369280,
+            "artist_name": "Marco Croma",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marco-Croma/Avrai-bisogno-della-notte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marco-Croma/Avrai-bisogno-della-notte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-09T07:24:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81209349,
+            "track_name": "Non sei più quel bambino",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 45154247,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20551109,
+            "album_name": "Adolescenza",
+            "artist_id": 28521603,
+            "artist_name": "Mario Panseri",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mario-Panseri-2/Non-sei-pi%C3%B9-quel-bambino?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mario-Panseri-2/Non-sei-pi%C3%B9-quel-bambino/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-24T15:02:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1708 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.075212955474854,
+      "available": 2704
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 85809304,
+            "track_name": "Yeah!",
+            "track_name_translation_list": [],
+            "track_rating": 72,
+            "commontrack_id": 10570800,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1707,
+            "album_id": 20995509,
+            "album_name": "Confessions",
+            "artist_id": 13782156,
+            "artist_name": "Usher feat. Lil Jon & Ludacris",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Usher/Yeah-feat-Lil-Jon-Ludacris?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Usher/Yeah-feat-Lil-Jon-Ludacris/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-13T13:49:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1069,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Dirty South",
+                    "music_genre_name_extended": "Hip Hop/Rap / Dirty South",
+                    "music_genre_vanity": "Hip-Hop-Rap-Dirty-South"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31332540,
+            "track_name": "Money Trees",
+            "track_name_translation_list": [],
+            "track_rating": 68,
+            "commontrack_id": 11424688,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3358,
+            "album_id": 14267042,
+            "album_name": "good kid, m.A.A.d city",
+            "artist_id": 13880206,
+            "artist_name": "Kendrick Lamar feat. Jay Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Jay-Rock/Money-Trees?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Jay-Rock/Money-Trees/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-12T14:03:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1078,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "West Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / West Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-West-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19574606,
+            "track_name": "Yeah!",
+            "track_name_translation_list": [],
+            "track_rating": 62,
+            "commontrack_id": 907401,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2301,
+            "album_id": 14315067,
+            "album_name": "The Singles Collection",
+            "artist_id": 33492008,
+            "artist_name": "Usher",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Usher/Yeah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Usher/Yeah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-13T21:40:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1069,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Dirty South",
+                    "music_genre_name_extended": "Hip Hop/Rap / Dirty South",
+                    "music_genre_vanity": "Hip-Hop-Rap-Dirty-South"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37011856,
+            "track_name": "99 Problems",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 45612,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 882,
+            "album_id": 15710745,
+            "album_name": "The Black Album",
+            "artist_id": 33851289,
+            "artist_name": "JAY-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Z-6/99-Problems?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Z-6/99-Problems/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-05T16:08:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15297187,
+            "track_name": "Points Of Authority / 99 Problems / One Step Closer",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 10224367,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 254,
+            "album_id": 13856331,
+            "album_name": "Collision Course",
+            "artist_id": 33174059,
+            "artist_name": "JAY Z feat. LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Z-Linkin-Park/Points-of-Authority-99-Problems-One-Step-Closer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Z-Linkin-Park/Points-of-Authority-99-Problems-One-Step-Closer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-06T22:43:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114115538,
+            "track_name": "Say Goodbye",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 62877686,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 482,
+            "album_id": 23900621,
+            "album_name": "Revolution Radio",
+            "artist_id": 290,
+            "artist_name": "Green Day",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Green-Day/Say-Goodbye?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Green-Day/Say-Goodbye/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-28T16:23:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116454131,
+            "track_name": "Room 34",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 9350183,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24124725,
+            "album_name": "Hi! My Name Is B.o.B",
+            "artist_id": 33492031,
+            "artist_name": "B.o.B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B-o-B-2/Room-34?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B-o-B-2/Room-34/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:23:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114487116,
+            "track_name": "RoboCop",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 3118880,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 98,
+            "album_id": 23940783,
+            "album_name": "808s & Heartbreak",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/RoboCop?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/RoboCop/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-02T01:56:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73083804,
+            "track_name": "Points of Authority / 99 Problems / One Step Closer (MTV Ultimate Mash-Ups)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 40017798,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 19623658,
+            "album_name": "Collision Course",
+            "artist_id": 33174059,
+            "artist_name": "JAY Z feat. LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Z-Linkin-Park/Points-of-Authority-99-Problems-One-Step-Closer-MTV-Ultimate-Mash-Ups?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Z-Linkin-Park/Points-of-Authority-99-Problems-One-Step-Closer-MTV-Ultimate-Mash-Ups/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-15T08:37:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72164244,
+            "track_name": "Points of Authority / 99 Problems / One Step Closer",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 11140437,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 72,
+            "album_id": 19533759,
+            "album_name": "Greatest Hits",
+            "artist_id": 13818319,
+            "artist_name": "Linkin Park feat. Jay-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Jay-Z/Points-of-Authority-99-Problems-One-Step-Closer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Jay-Z/Points-of-Authority-99-Problems-One-Step-Closer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-28T16:10:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 166651947,
+            "track_name": "Butterfly Doors",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 91181422,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 167,
+            "album_id": 31714216,
+            "album_name": "Harverd Dropout",
+            "artist_id": 31973389,
+            "artist_name": "Lil Pump",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Pump/Butterfly-Doors?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Pump/Butterfly-Doors/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-15T13:18:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17477847,
+            "track_name": "Dawn Patrol",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 177559,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 190,
+            "album_id": 14216866,
+            "album_name": "Rust In Peace",
+            "artist_id": 521,
+            "artist_name": "Megadeth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Megadeth/Dawn-Patrol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Megadeth/Dawn-Patrol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-03T21:03:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32133160,
+            "track_name": "Dr. Carter",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 2098096,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 106,
+            "album_id": 11346320,
+            "album_name": "Tha Carter III",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dr-Carter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dr-Carter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-03T09:59:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37999853,
+            "track_name": "Money Trees",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12396892,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15774356,
+            "album_name": "Black Hippy",
+            "artist_id": 24416001,
+            "artist_name": "Black Hippy feat. Jay Rock & Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-Hippy-feat-Jay-Rock-Kendrick-Lamar/Money-Trees?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Hippy-feat-Jay-Rock-Kendrick-Lamar/Money-Trees/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-10T23:57:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198096954,
+            "track_name": "AI Nash",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 109397711,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10,
+            "album_id": 38505341,
+            "album_name": "38 Baby 2",
+            "artist_id": 32196719,
+            "artist_name": "YoungBoy Never Broke Again",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Youngboy-Never-Broke-Again/AI-Nash?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Youngboy-Never-Broke-Again/AI-Nash/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-08T12:31:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12925366,
+            "track_name": "Paper Route",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 9130314,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 15,
+            "album_id": 12925626,
+            "album_name": "K.I.D.S.",
+            "artist_id": 33492065,
+            "artist_name": "Mac Miller",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Paper-Route?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Paper-Route/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:26:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85432684,
+            "track_name": "'Tis a Pity She Was a Whore",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 40377039,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 104,
+            "album_id": 20972338,
+            "album_name": "Blackstar",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/%E2%80%99Tis-a-Pity-She-Was-a-Whore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/%E2%80%99Tis-a-Pity-She-Was-a-Whore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-20T01:22:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18893045,
+            "track_name": "Black Jesuz",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 43867,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 10935378,
+            "album_name": "Black Jesuz: The Best Songs",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesuz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesuz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T23:54:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8436202,
+            "track_name": "The Sounder",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 1149384,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 10307146,
+            "album_name": "Gorillaz",
+            "artist_id": 8891,
+            "artist_name": "Gorillaz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gorillaz/The-Sounder?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gorillaz/The-Sounder/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T22:04:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18248694,
+            "track_name": "La vida esta de luto",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 202047,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 55,
+            "album_id": 14247787,
+            "album_name": "5to piso",
+            "artist_id": 614,
+            "artist_name": "Ricardo Arjona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/La-Vida-Est%C3%A1-de-Luto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/La-Vida-Est%C3%A1-de-Luto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:05:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1117,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Pop in Spanish",
+                    "music_genre_name_extended": "Latin / Pop in Spanish",
+                    "music_genre_vanity": "Latin-Pop-in-Spanish"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84283492,
+            "track_name": "Break The Law",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 47016125,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 129,
+            "album_id": 20891660,
+            "album_name": "GO:OD AM",
+            "artist_id": 33492065,
+            "artist_name": "Mac Miller",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Break-the-Law?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Break-the-Law/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:26:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85332460,
+            "track_name": "Money Trees",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48049735,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15774356,
+            "album_name": "Black Hippy",
+            "artist_id": 29082355,
+            "artist_name": "Black Hippy, Kendrick Lamar & Jay Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-Hippy-Kendrick-Lamar-Jay-Rock/Money-Trees?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Hippy-Kendrick-Lamar-Jay-Rock/Money-Trees/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-10T12:47:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5633208,
+            "track_name": "Letter to the President",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 44257,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 51,
+            "album_id": 10691443,
+            "album_name": "Only in America",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Letter-to-the-President?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Letter-to-the-President/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-24T15:54:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2193257,
+            "track_name": "Black Jesus",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 43865,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 58,
+            "album_id": 10398243,
+            "album_name": "Makaveli 2000",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T23:54:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7102688,
+            "track_name": "Black Jesus (original)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 43866,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 10826201,
+            "album_name": "Makaveli 5: Thug Passion",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesus-original?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Black-Jesus-original/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T23:54:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115145248,
+            "track_name": "You Can't Catch Me (Mono)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 63947070,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24008795,
+            "album_name": "The Rolling Stones In Mono (Remastered)",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me-Mono?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me-Mono/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-22T16:46:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83603650,
+            "track_name": "Flex Freestyle",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 46809262,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20211772,
+            "album_name": "Compilation",
+            "artist_id": 33492070,
+            "artist_name": "Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/Flex-Freestyle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/Flex-Freestyle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:27:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7010381,
+            "track_name": "Mr. President",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 44337,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 10817732,
+            "album_name": "Happy Home",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Mr-President?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Mr-President/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-03T00:15:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85355277,
+            "track_name": "Goin Off",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 6401419,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 20966767,
+            "album_name": "The Come Up",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Goin-Off?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Goin-Off/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-18T15:25:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 763951,
+            "track_name": "Letter to the President",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 1320887,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10284137,
+            "album_name": "Still I Rise",
+            "artist_id": 38520939,
+            "artist_name": "2Pac feat. Outlawz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Letter-to-the-President?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Letter-to-the-President/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-22T04:53:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 763956,
+            "track_name": "Black Jesuz",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 1320881,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 56,
+            "album_id": 10284137,
+            "album_name": "Still I Rise",
+            "artist_id": 38520939,
+            "artist_name": "2Pac feat. Outlawz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Black-Jesuz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Black-Jesuz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-22T04:53:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85809013,
+            "track_name": "The Sounder - Edit",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 1149385,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 31,
+            "album_id": 15712463,
+            "album_name": "G-Sides",
+            "artist_id": 8891,
+            "artist_name": "Gorillaz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gorillaz/The-Sounder-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gorillaz/The-Sounder-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T22:04:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99643304,
+            "track_name": "How We Roll - Fast Five Remix",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54979255,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 128,
+            "album_id": 22024269,
+            "album_name": "Fast and Furious 5 - Rio Heist OST",
+            "artist_id": 31056376,
+            "artist_name": "Busta Rhymes, Reek da Villian, Don Omar & J-Doe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Busta-Rhymes-Reek-da-Villian-Don-Omar-J-Doe/How-We-Roll-Fast-Five-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Busta-Rhymes-Reek-da-Villian-Don-Omar-J-Doe/How-We-Roll-Fast-Five-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T06:09:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85861723,
+            "track_name": "You Can't Catch Me",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10797850,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20998392,
+            "album_name": "The Rolling Stones No. 2",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-22T03:05:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84680819,
+            "track_name": "Money Trees",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 47629063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20921853,
+            "album_name": "Black Hippy 2",
+            "artist_id": 28955712,
+            "artist_name": "Kendrick Lamar, Ab-Soul, Jay Rock, Schoolboy Q & Black Hippy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-Ab-Soul-Jay-Rock-Schoolboy-Q-Black-Hippy/Money-Trees?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-Ab-Soul-Jay-Rock-Schoolboy-Q-Black-Hippy/Money-Trees/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-24T16:34:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74172226,
+            "track_name": "Sue (Or In a Season of Crime) [Radio Edit]",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 40728571,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19704353,
+            "album_name": "Sue (Or In a Season of Crime)",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Sue-Or-In-a-Season-of-Crime-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Sue-Or-In-a-Season-of-Crime-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-11T10:08:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30287154,
+            "track_name": "Hell Patrol",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 243518,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 194,
+            "album_id": 13768083,
+            "album_name": "Painkiller",
+            "artist_id": 767,
+            "artist_name": "Judas Priest",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Judas-Priest/Hell-Patrol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Judas-Priest/Hell-Patrol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-30T18:09:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30191873,
+            "track_name": "Hola' Hovito",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12115182,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 48,
+            "album_id": 10767851,
+            "album_name": "The Blueprint",
+            "artist_id": 33091963,
+            "artist_name": "Jay-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/JAY-Z/Hola-Hovito?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/JAY-Z/Hola-Hovito/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:33:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87284058,
+            "track_name": "Still A G Thang",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47727,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 42,
+            "album_id": 21090725,
+            "album_name": "Da Game Is To Be Sold, Not To Be Told",
+            "artist_id": 106,
+            "artist_name": "Snoop Dogg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg/Still-a-G-Thang?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg/Still-a-G-Thang/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T05:20:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3618094,
+            "track_name": "Yeah!",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 44967063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 123,
+            "album_id": 10516211,
+            "album_name": "A Gamer's Day",
+            "artist_id": 28496121,
+            "artist_name": "Usher feat. Lil Jon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Usher-feat-Lil-Jon/Yeah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Usher-feat-Lil-Jon/Yeah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-13T14:01:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115009611,
+            "track_name": "Tired of Running",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12053133,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 23994929,
+            "album_name": "Reincarnated",
+            "artist_id": 14369438,
+            "artist_name": "Snoop Lion feat. Akon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Snoop-Lion-feat-Akon/Tired-of-Running?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Snoop-Lion-feat-Akon/Tired-of-Running/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-14T05:59:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86322612,
+            "track_name": "What More Can I Say",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 46279,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 71,
+            "album_id": 21031597,
+            "album_name": "The Black Album (UK Version)",
+            "artist_id": 33091963,
+            "artist_name": "Jay-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Z-6/What-More-Can-I-Say?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Z-6/What-More-Can-I-Say/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:33:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 102707807,
+            "track_name": "Power Rangers Spd Theme",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47453025,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 22328589,
+            "album_name": "Power Rangers - Songs From The TV Series",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Various-Artists/Power-Rangers-Spd-Theme?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Various-Artists/Power-Rangers-Spd-Theme/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T16:20:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1172,
+                    "music_genre_parent_id": 16,
+                    "music_genre_name": "TV Soundtrack",
+                    "music_genre_name_extended": "Soundtrack / TV Soundtrack",
+                    "music_genre_vanity": "Soundtrack-TV-Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85355279,
+            "track_name": "I Do My Thing",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 6401424,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20966767,
+            "album_name": "The Come Up",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/I-Do-My-Thing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/I-Do-My-Thing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-10-28T18:35:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19033140,
+            "track_name": "West Coast Wu-Tang",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11687488,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 31,
+            "album_id": 14286871,
+            "album_name": "C4",
+            "artist_id": 14326533,
+            "artist_name": "Kendrick Lamar feat. Ab-Soul & Punch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul-Punch/West-Coast-Wu-Tang?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul-Punch/West-Coast-Wu-Tang/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-05T14:47:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17021580,
+            "track_name": "Cali Dro",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47513582,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10687543,
+            "album_name": "Like Father, Like Son",
+            "artist_id": 13913285,
+            "artist_name": "Birdman & Lil Wayne feat. Daz & Kurupt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Birdman-Lil-Wayne-feat-Daz-Kurupt/Cali-Dro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Birdman-Lil-Wayne-feat-Daz-Kurupt/Cali-Dro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T11:19:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18553494,
+            "track_name": "99 Problems (bucaneroestilo remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 45613,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10883680,
+            "album_name": "Remixtape01",
+            "artist_id": 33091963,
+            "artist_name": "Jay-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/JAY-Z/99-Problems-bucaneroestilo-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/JAY-Z/99-Problems-bucaneroestilo-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:33:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115184146,
+            "track_name": "You Can't Catch Me - Mono / Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 63522998,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24013226,
+            "album_name": "The Rolling Stones In Mono (Remastered 2016)",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me-Mono-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/You-Can-t-Catch-Me-Mono-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-09T05:00:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 165346953,
+            "track_name": "Dr. Carter - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 48214858,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31459823,
+            "album_name": "Tha Carter III",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dr-Carter-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dr-Carter-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-05T02:30:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18580797,
+            "track_name": "Dead or Alive, Part 1 (Disses 2pac)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11456257,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14263387,
+            "album_name": "Library of a Legend",
+            "artist_id": 33091963,
+            "artist_name": "Jay-Z",
+            "track_share_url": "https://www.musixmatch.com/lyrics/JAY-Z/Dead-or-Alive-Part-1-Disses-2pac?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/JAY-Z/Dead-or-Alive-Part-1-Disses-2pac/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:33:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

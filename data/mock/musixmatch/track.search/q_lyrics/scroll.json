@@ -1,0 +1,1673 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.15226006507874,
+      "available": 1817
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 201225055,
+            "track_name": "Just About Over You",
+            "track_name_translation_list": [],
+            "track_rating": 97,
+            "commontrack_id": 114589059,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 39574067,
+            "album_name": "Just About Over You",
+            "artist_id": 33775030,
+            "artist_name": "Priscilla Block",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Priscilla-Block/Just-About-Over-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Priscilla-Block/Just-About-Over-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T13:30:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200176702,
+            "track_name": "Never Know (feat. SHIRIN DAVID)",
+            "track_name_translation_list": [],
+            "track_rating": 76,
+            "commontrack_id": 113674152,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39213326,
+            "album_name": "Never Know - Single",
+            "artist_id": 46001730,
+            "artist_name": "Luciano feat. SHIRIN DAVID",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luciano-SHIRIN-DAVID/Never-Know-SHIRIN-DAVID?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luciano-SHIRIN-DAVID/Never-Know-SHIRIN-DAVID/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-17T09:45:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200425930,
+            "track_name": "WHAT YOU GONNA DO??? (feat. Graham Coxon)",
+            "track_name_translation_list": [],
+            "track_rating": 72,
+            "commontrack_id": 113890410,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 39297498,
+            "album_name": "WHAT YOU GONNA DO??? (feat. Graham Coxon) - Single",
+            "artist_id": 46048508,
+            "artist_name": "Bastille feat. Graham Coxon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bastille-Graham-Coxon/WHAT-YOU-GONNA-DO?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bastille-Graham-Coxon/WHAT-YOU-GONNA-DO/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-06T23:15:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186986201,
+            "track_name": "Cyber Sex",
+            "track_name_translation_list": [],
+            "track_rating": 60,
+            "commontrack_id": 102333058,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 114,
+            "album_id": 35619221,
+            "album_name": "Hot Pink",
+            "artist_id": 27684481,
+            "artist_name": "Doja Cat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doja-Cat/Cyber-Sex?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doja-Cat/Cyber-Sex/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-08T10:18:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198469289,
+            "track_name": "VIDA LOCA",
+            "track_name_translation_list": [],
+            "track_rating": 55,
+            "commontrack_id": 112168278,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 38634220,
+            "album_name": "Translation",
+            "artist_id": 45654118,
+            "artist_name": "Black Eyed Peas feat. Nicky Jam & Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-Eyed-Peas-Nicky-Jam-Tyga/VIDA-LOCA?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Eyed-Peas-Nicky-Jam-Tyga/VIDA-LOCA/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-08T17:22:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161596206,
+            "track_name": "Good Form",
+            "track_name_translation_list": [],
+            "track_rating": 42,
+            "commontrack_id": 86335365,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 368,
+            "album_id": 30729265,
+            "album_name": "Queen (Deluxe)",
+            "artist_id": 41864296,
+            "artist_name": "Nicki Minaj",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj/Good-Form?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj/Good-Form/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-01T11:45:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156282471,
+            "track_name": "Normal",
+            "track_name_translation_list": [],
+            "track_rating": 42,
+            "commontrack_id": 86881899,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 259,
+            "album_id": 29809240,
+            "album_name": "Kamikaze",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Normal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Normal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-31T09:57:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129998725,
+            "track_name": "Witness",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 62010258,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 849,
+            "album_id": 26142662,
+            "album_name": "Witness",
+            "artist_id": 190034,
+            "artist_name": "Katy Perry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Katy-Perry/Witness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Katy-Perry/Witness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-09T13:17:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161596214,
+            "track_name": "Good Form (feat. Lil Wayne)",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 90095339,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 407,
+            "album_id": 30729265,
+            "album_name": "Queen (Deluxe)",
+            "artist_id": 41870586,
+            "artist_name": "Nicki Minaj feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Lil-Wayne/Good-Form?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Lil-Wayne/Good-Form/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:22:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 112339136,
+            "track_name": "Daft Punk",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 13810950,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5462,
+            "album_id": 23668430,
+            "album_name": "PTX, Vol. 2",
+            "artist_id": 13841673,
+            "artist_name": "Pentatonix",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pentatonix/Daft-Punk?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pentatonix/Daft-Punk/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-23T13:16:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115328058,
+            "track_name": "Luving U",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 63611840,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 630,
+            "album_id": 24028457,
+            "album_name": "FREE 6LACK",
+            "artist_id": 28877959,
+            "artist_name": "6LACK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/6lack/Luving-U?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/6lack/Luving-U/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-07T13:40:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3199806,
+            "track_name": "Technologic",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "Technologic ~ 先端論理"
+                }
+              }
+            ],
+            "track_rating": 36,
+            "commontrack_id": 103817,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 643,
+            "album_id": 10480755,
+            "album_name": "Human After All",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-30T21:57:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143236638,
+            "track_name": "Motorcycle Patches",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 79496865,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 124,
+            "album_id": 27777747,
+            "album_name": "Huncho Jack, Jack Huncho",
+            "artist_id": 35004566,
+            "artist_name": "Huncho Jack feat. Travis Scott & Quavo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Huncho-Jack-feat-Travis-Scott-Quavo/Motorcycle-Patches?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Huncho-Jack-feat-Travis-Scott-Quavo/Motorcycle-Patches/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-22T09:17:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145734141,
+            "track_name": "Ahora Dice (Real Hasta La Muerte Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 80902269,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 217,
+            "album_id": 28150698,
+            "album_name": "Ahora Dice (Real Hasta La Muerte Remix)",
+            "artist_id": 35338891,
+            "artist_name": "Chris Jeday, J Balvin & Ozuna feat. Cardi B, Offset, Anuel & Arcángel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Jeday-feat-J-Balvin-Ozuna-Cardi-B-Offset-Anuel-Arcangel/Ahora-Dice-Real-Hasta-La-Muerte-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Jeday-feat-J-Balvin-Ozuna-Cardi-B-Offset-Anuel-Arcangel/Ahora-Dice-Real-Hasta-La-Muerte-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-24T18:59:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200122372,
+            "track_name": "VIDA LOCA",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 112169751,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 39193107,
+            "album_name": "VIDA LOCA",
+            "artist_id": 45654118,
+            "artist_name": "Black Eyed Peas feat. Nicky Jam & Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas/VIDA-LOCA?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas/VIDA-LOCA/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-17T08:55:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31388163,
+            "track_name": "When the Tigers Broke Free",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 52918,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 13783004,
+            "album_name": "The Final Cut",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-Part-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-Part-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T19:59:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19123111,
+            "track_name": "Hit Me With Your Best Shot",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 11730193,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14291367,
+            "album_name": "Things Get Worse",
+            "artist_id": 13879011,
+            "artist_name": "Eminem feat. D12",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-D12-2/Hit-Me-With-Your-Best-Shot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-D12-2/Hit-Me-With-Your-Best-Shot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-09T20:02:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168974181,
+            "track_name": "DEAD TO ME",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 92805854,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 50,
+            "album_id": 32198531,
+            "album_name": "ANONYMOUS",
+            "artist_id": 24613538,
+            "artist_name": "Blackbear",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blackbear/DEAD-TO-ME?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blackbear/DEAD-TO-ME/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-12T08:55:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85316488,
+            "track_name": "When The Tigers Broke Free - 2011 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 43913093,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 20964487,
+            "album_name": "The Final Cut (2011 Remastered Version)",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-2011-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-2011-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-15T09:56:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 165293773,
+            "track_name": "Say What's Real",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 6198222,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 16,
+            "album_id": 31450128,
+            "album_name": "So Far Gone",
+            "artist_id": 33491453,
+            "artist_name": "Drake",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake/Say-What-s-Real?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake/Say-What-s-Real/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-24T18:58:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 178784327,
+            "track_name": "Prove It",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 97262499,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 21,
+            "album_id": 33818560,
+            "album_name": "K.R.I.T. IZ HERE",
+            "artist_id": 39011300,
+            "artist_name": "Big K.R.I.T. feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T-feat-J-Cole/Prove-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T-feat-J-Cole/Prove-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-12T10:08:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194989275,
+            "track_name": "Thug Motivation",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 106577646,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 37484461,
+            "album_name": "Pray 4 Love",
+            "artist_id": 34067238,
+            "artist_name": "Rod Wave",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rod-Wave-5/Thug-Motivation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rod-Wave-5/Thug-Motivation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-17T07:53:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99649021,
+            "track_name": "When The Tigers Broke Free - 2004 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 54982540,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 22024747,
+            "album_name": "The Final Cut",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-The-Tigers-Broke-Free-2004-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-The-Tigers-Broke-Free-2004-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-09T13:00:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200384313,
+            "track_name": "Baby Mama (feat. Chance the Rapper)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 110325082,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 8,
+            "album_id": 39286591,
+            "album_name": "B7",
+            "artist_id": 6489,
+            "artist_name": "Brandy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brandy-Chance-the-Rapper/Baby-Mama?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brandy-Chance-the-Rapper/Baby-Mama/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T15:49:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35164701,
+            "track_name": "Touch It / Technologic",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 103853,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 82,
+            "album_id": 15586376,
+            "album_name": "Alive 2007",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Touch-It-Technologic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Touch-It-Technologic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-17T17:28:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126396922,
+            "track_name": "Make Love",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 70069261,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 504,
+            "album_id": 25641477,
+            "album_name": "Make Love",
+            "artist_id": 26612283,
+            "artist_name": "Gucci Mane feat. Nicki Minaj",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Nicki-Minaj/Make-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Nicki-Minaj/Make-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-08-14T21:52:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190590291,
+            "track_name": "Revenge (feat. Ari Lennox, EARTHGANG, Childish Major & REASON)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 105660756,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 33332933,
+            "album_name": "Revenge of the Dreamers III: Director's Cut",
+            "artist_id": 39105558,
+            "artist_name": "Dreamville feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dreamville-Lute-Omen-Ari-Lennox-EARTHGANG-Childish-Major-REASON/Revenge-with-Lute-Omen-Ari-Lennox-EARTHGANG-Childish-Major-REASON?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dreamville-Lute-Omen-Ari-Lennox-EARTHGANG-Childish-Major-REASON/Revenge-with-Lute-Omen-Ari-Lennox-EARTHGANG-Childish-Major-REASON/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-03T21:32:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2202939,
+            "track_name": "When the Tigers Broke Free, Part 2",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 52919,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10399074,
+            "album_name": "The Film",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-Part-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/When-the-Tigers-Broke-Free-Part-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-03T01:24:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116315265,
+            "track_name": "P&P 1.5",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 9432057,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 85,
+            "album_id": 24112684,
+            "album_name": "Overly Dedicated",
+            "artist_id": 13909383,
+            "artist_name": "Kendrick Lamar feat. Ab-Soul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-P-1-5?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-P-1-5/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:27:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85656470,
+            "track_name": "Technologic - Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 103826,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 48,
+            "album_id": 20986743,
+            "album_name": "Musique Vol 1",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19769310,
+            "track_name": "Fuck for the Road",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 12064241,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 859,
+            "album_id": 14325197,
+            "album_name": "Hotel California",
+            "artist_id": 13923807,
+            "artist_name": "Tyga feat. Chris Brown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyga-feat-Chris-Brown/Fuck-for-the-Road?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyga-feat-Chris-Brown/Fuck-for-the-Road/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-24T22:55:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99398998,
+            "track_name": "P&P feat. AB Soul",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 11040775,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22002278,
+            "album_name": "Kendrick Lamar",
+            "artist_id": 33492070,
+            "artist_name": "Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-P?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-P/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:20:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34189756,
+            "track_name": "Street Jesus",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 11360709,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15510096,
+            "album_name": "Music from Another Dimension!",
+            "artist_id": 268,
+            "artist_name": "Aerosmith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aerosmith/Street-Jesus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aerosmith/Street-Jesus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T15:35:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85142917,
+            "track_name": "Pussy and Patron",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 47965844,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20955419,
+            "album_name": "Kendrick Lamaar",
+            "artist_id": 33492070,
+            "artist_name": "Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/Pussy-and-Patron?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/Pussy-and-Patron/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:27:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31406227,
+            "track_name": "P and P",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10742411,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 14192952,
+            "album_name": "Kendrick Lamar",
+            "artist_id": 13909383,
+            "artist_name": "Kendrick Lamar feat. Ab-Soul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-and-P?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-Ab-Soul/P-and-P/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-01T18:04:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 119330162,
+            "track_name": "Wretched (feat. Rozz Dyliams)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 68244325,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 24617322,
+            "album_name": "Plagues",
+            "artist_id": 32545871,
+            "artist_name": "Ghostemane feat. Rozz Dyliams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghostemane-feat-Rozz-Dyliams/Wretched-feat-Rozz-Dyliams?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghostemane-feat-Rozz-Dyliams/Wretched-feat-Rozz-Dyliams/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-17T21:45:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85656477,
+            "track_name": "Technologic - Peaches No Logic Remix",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103825,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20044015,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Peaches-No-Logic-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Peaches-No-Logic-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35164687,
+            "track_name": "Touch It / Technologic (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12533302,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15586375,
+            "album_name": "Alive 2007 (Live)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Touch-It-Technologic-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Touch-It-Technologic-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85656489,
+            "track_name": "Technologic - Knight club remix",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 40182265,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20044015,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Knight-Club-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Knight-Club-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103994791,
+            "track_name": "Rolls Royce Weather Every Day",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 56987054,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 148,
+            "album_id": 22478422,
+            "album_name": "COLLEGROVE",
+            "artist_id": 13972028,
+            "artist_name": "2 Chainz feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2-Chainz-feat-Lil-Wayne/Rolls-Royce-Weather-Every-Day?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2-Chainz-feat-Lil-Wayne/Rolls-Royce-Weather-Every-Day/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-04T16:49:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85656486,
+            "track_name": "Technologic - Basement Jaxx Kontrol Mixx",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103818,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20044015,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Basement-Jaxx-Kontrol-Mixx?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Basement-Jaxx-Kontrol-Mixx/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123690551,
+            "track_name": "Technologic - Vitalic Remix",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103828,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 25244021,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Vitalic-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Vitalic-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32034360,
+            "track_name": "Technologic (Digitalism´s Highway to Paris Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103821,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 11340309,
+            "album_name": "Technologic (Digitalism Remix)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Digitalism-s-Highway-to-Paris-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Digitalism-s-Highway-to-Paris-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18192157,
+            "track_name": "Technological (Digitalism's Highway to Paris remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103830,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10668495,
+            "album_name": "Godskitchen: Global Gathering 2006",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technological-Digitalism-s-Highway-to-Paris-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technological-Digitalism-s-Highway-to-Paris-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 76886546,
+            "track_name": "Technologic (Liquid twins remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12192026,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20044015,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Liquid-Twins-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Liquid-Twins-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123690549,
+            "track_name": "Technologic - Digitalism RMX",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 42534669,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25244021,
+            "album_name": "Human After All (Remixes)",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Digitalism-RMX?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-Digitalism-RMX/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14420941,
+            "track_name": "Megamix 1",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103741,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11064624,
+            "album_name": "DJ Hero Complete Rip",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Megamix-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Megamix-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3667549,
+            "track_name": "Technologic (edit)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 103823,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10520472,
+            "album_name": "Technologic",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92967061,
+            "track_name": "Poor Unfortunate Souls",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 16218206,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21459401,
+            "album_name": "Disney Doubles - Little Mermaid",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Various-Artists/Poor-Unfortunate-Souls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Various-Artists/Poor-Unfortunate-Souls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-26T20:39:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34660919,
+            "track_name": "Technologic (Virtualic remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 14120389,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15551255,
+            "album_name": "Greatest Hits",
+            "artist_id": 33111563,
+            "artist_name": "Daft Punk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-virtualic-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daft-Punk/Technologic-virtualic-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:00:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

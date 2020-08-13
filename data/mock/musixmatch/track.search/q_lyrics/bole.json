@@ -1,0 +1,1580 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.074410915374756,
+      "available": 2597
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 102114063,
+            "track_name": "Comm'si la terre penchait",
+            "track_name_translation_list": [],
+            "track_rating": 62,
+            "commontrack_id": 1700033,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 22267359,
+            "album_name": "Comm'si la terre penchait",
+            "artist_id": 15348,
+            "artist_name": "Christophe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Christophe/Comm-si-la-terre-penchait?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Christophe/Comm-si-la-terre-penchait/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-06T15:58:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115632616,
+            "track_name": "Gallan Goodiyaan",
+            "track_name_translation_list": [],
+            "track_rating": 62,
+            "commontrack_id": 46499160,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 24059418,
+            "album_name": "Dil Dhadakne Do (Original Motion Picture Soundtrack)",
+            "artist_id": 33198293,
+            "artist_name": "Yashita Sharma feat. Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yashita-Sharma-feat-Manish-Kumar-Tipu-Farhan-Akhtar-Shankar-Mahadevan-Sukhwinder-Singh/Gallan-Goodiyaan-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yashita-Sharma-feat-Manish-Kumar-Tipu-Farhan-Akhtar-Shankar-Mahadevan-Sukhwinder-Singh/Gallan-Goodiyaan-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-11T08:39:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 40325600,
+            "track_name": "Mujhe-Haq-Hai",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 2700168,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15916810,
+            "album_name": "Vivah",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Various-Artists/Mujhe-Haq-Hai?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Various-Artists/Mujhe-Haq-Hai/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-25T01:23:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186503089,
+            "track_name": "Scammers (feat. Olamide)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 101981606,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 34,
+            "album_id": 35530747,
+            "album_name": "Akonda",
+            "artist_id": 40925045,
+            "artist_name": "Akon feat. Olamide",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Akon-Olamide/Scammers-Olamide?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Akon-Olamide/Scammers-Olamide/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-03T17:52:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193718243,
+            "track_name": "Corpo sensual",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 108119474,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 37065642,
+            "album_name": "Corpo sensual",
+            "artist_id": 44670237,
+            "artist_name": "MC Kevinho feat. Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MC-Kevinho-Tyga/Corpo-sensual?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MC-Kevinho-Tyga/Corpo-sensual/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-02T13:49:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 144543518,
+            "track_name": "City Vibration",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 80271205,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 79,
+            "album_id": 27976073,
+            "album_name": "Outside",
+            "artist_id": 24653951,
+            "artist_name": "Burna Boy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Burna-Boy/City-Vibration?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Burna-Boy/City-Vibration/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-03T02:34:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 144826566,
+            "track_name": "Ph City Vibration",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 80412040,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 57,
+            "album_id": 28020354,
+            "album_name": "Outside",
+            "artist_id": 24653951,
+            "artist_name": "Burna Boy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Burna-Boy/Ph-City-Vibration?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Burna-Boy/Ph-City-Vibration/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-19T11:19:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 141571083,
+            "track_name": "Africanitta - Deeplick Remix",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 78525489,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27546558,
+            "album_name": "Semelhantes",
+            "artist_id": 34806128,
+            "artist_name": "Carlinhos Brown feat. Anitta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carlinhos-Brown-feat-Anitta/Africanitta-Deeplick-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carlinhos-Brown-feat-Anitta/Africanitta-Deeplick-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-26T09:54:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32759978,
+            "track_name": "Gaddi Moudan Ge",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 12932427,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 110,
+            "album_id": 15402228,
+            "album_name": "Dharti (Original Motion Picture Soundtrack)",
+            "artist_id": 24524084,
+            "artist_name": "Mika & Jassi Gill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mika-Jassi-Gill/Gaddi-Moudan-Ge?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mika-Jassi-Gill/Gaddi-Moudan-Ge/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-22T12:32:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98885130,
+            "track_name": "Le radici ca tieni",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 2002033,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 119,
+            "album_id": 21951993,
+            "album_name": "Lontano",
+            "artist_id": 21106,
+            "artist_name": "Sud Sound System",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sud-Sound-System/Le-radici-ca-tieni?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sud-Sound-System/Le-radici-ca-tieni/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:14:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 147158304,
+            "track_name": "c.Ronaldo",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 81784717,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28396069,
+            "album_name": "c.Ronaldo",
+            "artist_id": 33492028,
+            "artist_name": "Olamide",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Olamide/c-Ronaldo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Olamide/c-Ronaldo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-19T15:15:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88439264,
+            "track_name": "Hood Rap",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 40919290,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21155896,
+            "album_name": "Street OT",
+            "artist_id": 33492028,
+            "artist_name": "Olamide",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Olamide/Hood-Rap?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Olamide/Hood-Rap/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:22:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1177,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Beat",
+                    "music_genre_name_extended": "World / Afro-Beat",
+                    "music_genre_vanity": "World-Afro-Beat"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164688497,
+            "track_name": "Mr Badman",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 92041111,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 103,
+            "album_id": 31324338,
+            "album_name": "Mr Badman",
+            "artist_id": 37652639,
+            "artist_name": "KiDi feat. Kwesi Arthur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kidi-feat-Kwesi-Arthur/Mr-Badman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kidi-feat-Kwesi-Arthur/Mr-Badman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-05T23:38:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 79094053,
+            "track_name": "Asadoma Sadgamayo",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 43899992,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 8,
+            "album_id": 20317907,
+            "album_name": "Khaad (Original Motion Picture Soundtrack)",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Asadoma-Sadgamayo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Asadoma-Sadgamayo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-18T05:06:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110787968,
+            "track_name": "O Que Será (À Flor da Pele)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 60837156,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23425544,
+            "album_name": "Songbook Chico Buarque, Vol. 2",
+            "artist_id": 6965,
+            "artist_name": "Caetano Veloso",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caetano-Veloso/O-Que-Ser%C3%A1-%C3%80-Flor-da-Pele?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caetano-Veloso/O-Que-Ser%C3%A1-%C3%80-Flor-da-Pele/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-10T04:50:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 38036521,
+            "track_name": "Tum Hi Ho (MTV Unplugged Version)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 19122373,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15776956,
+            "album_name": "MTV Unplugged - Arijit Singh",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Tum-Hi-Ho-MTV-Unplugged-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Tum-Hi-Ho-MTV-Unplugged-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-25T16:08:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1185,
+                    "music_genre_parent_id": 1262,
+                    "music_genre_name": "Indian Pop",
+                    "music_genre_name_extended": "Indian / Indian Pop",
+                    "music_genre_vanity": "Indian-Indian-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82587849,
+            "track_name": "Arijit Singh (Live Mashup)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 46024706,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1250,
+            "album_id": 20205058,
+            "album_name": "Compilation",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Arijit-Singh-Live-Mashup?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Arijit-Singh-Live-Mashup/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-08T09:46:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 141571074,
+            "track_name": "Africanitta",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 78525488,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 27546558,
+            "album_name": "Semelhantes",
+            "artist_id": 34806128,
+            "artist_name": "Carlinhos Brown feat. Anitta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carlinhos-Brown-feat-Anitta/Africanitta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carlinhos-Brown-feat-Anitta/Africanitta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-26T10:02:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137544082,
+            "track_name": "Tomar Dyakha Naai",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 76229849,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 27075195,
+            "album_name": "Bolo Dugga Maiki (Original Motion Picture Soundtrack)",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Tomar-Dyakha-Naai?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Tomar-Dyakha-Naai/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-26T05:05:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 180664668,
+            "track_name": "Maula Re",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 75314351,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 34187072,
+            "album_name": "Chaamp",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Maula-Re?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Maula-Re/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-15T20:49:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103325452,
+            "track_name": "Fresh",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 10024015,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 22395871,
+            "album_name": "Kingston Story: Deluxe Edition",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Fresh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Fresh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-11-06T15:10:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 188895948,
+            "track_name": "Paradinha bole bole",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 104189673,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 35944282,
+            "album_name": "Paradinha bole bole - Single",
+            "artist_id": 32067367,
+            "artist_name": "MC WM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MC-WM/Paradinha-bole-bole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MC-WM/Paradinha-bole-bole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-09T15:59:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16528316,
+            "track_name": "Good Die Young",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1022859,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 82,
+            "album_id": 13776399,
+            "album_name": "D12 World",
+            "artist_id": 7939,
+            "artist_name": "D12",
+            "track_share_url": "https://www.musixmatch.com/lyrics/D12/Good-Die-Young?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/D12/Good-Die-Young/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-09T05:22:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59843111,
+            "track_name": "Murder",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 30174984,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 17798461,
+            "album_name": "Mad(e) in Italy",
+            "artist_id": 24691336,
+            "artist_name": "BoomDaBash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BoomDaBash/Murder?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BoomDaBash/Murder/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-19T11:59:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44097762,
+            "track_name": "Dança do Bole, Bole",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 18998703,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16168432,
+            "album_name": "Dança do Bole, Bole",
+            "artist_id": 53019,
+            "artist_name": "Exaltasamba",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Exaltasamba/Dan%C3%A7a-do-Bole-Bole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Exaltasamba/Dan%C3%A7a-do-Bole-Bole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-27T12:56:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1226,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "Pagode",
+                    "music_genre_name_extended": "Brazilian / Pagode",
+                    "music_genre_vanity": "Brazilian-Pagode"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159531281,
+            "track_name": "O Que Será (A Flor Da Pele)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 10754655,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 30348365,
+            "album_name": "Geraes",
+            "artist_id": 13986289,
+            "artist_name": "Milton Nascimento feat. Chico Buarque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Milton-Nascimento/O-que-ser%C3%A1-%C3%80-flor-da-pele-feat-Chico-Buarque?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Milton-Nascimento/O-que-ser%C3%A1-%C3%80-flor-da-pele-feat-Chico-Buarque/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-08T13:53:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174905182,
+            "track_name": "O Que Será (À Flor da Pele) - Ao Vivo",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 97147180,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33188412,
+            "album_name": "Chico Buarque Ao Vivo - Paris, Le Zenith",
+            "artist_id": 1456,
+            "artist_name": "Chico Buarque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chico-Buarque/O-Que-Ser%C3%A1-%C3%80-Flor-da-Pele-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chico-Buarque/O-Que-Ser%C3%A1-%C3%80-Flor-da-Pele-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-20T14:48:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1225,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "MPB",
+                    "music_genre_name_extended": "Brazilian / MPB",
+                    "music_genre_vanity": "Brazilian-MPB"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196611635,
+            "track_name": "É no Pagode / Pimpolho / Fricote / Dança do Bole, Bole",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 110576829,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38027561,
+            "album_name": "Versões do TDP",
+            "artist_id": 422274,
+            "artist_name": "Turma do Pagode",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Turma-do-Pagode/%C3%89-no-Pagode-Pimpolho-Fricote-Dan%C3%A7a-do-Bole-Bole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Turma-do-Pagode/%C3%89-no-Pagode-Pimpolho-Fricote-Dan%C3%A7a-do-Bole-Bole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-05T15:06:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72800759,
+            "track_name": "Que Será (O Que Será) [À Flor da Terra]",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 39879719,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19604080,
+            "album_name": "Chico Buarque en Español",
+            "artist_id": 13945719,
+            "artist_name": "Chico Buarque feat. Milton Nascimento",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chico-Buarque-feat-Milton-Nascimento/Que-Ser%C3%A1-O-Que-Ser%C3%A1-%C3%80-Flor-da-Terra?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chico-Buarque-feat-Milton-Nascimento/Que-Ser%C3%A1-O-Que-Ser%C3%A1-%C3%80-Flor-da-Terra/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-10T08:49:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89394827,
+            "track_name": "Good Die Young - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 49983653,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21210583,
+            "album_name": "D-12 World (Edited Version)",
+            "artist_id": 7939,
+            "artist_name": "D12",
+            "track_share_url": "https://www.musixmatch.com/lyrics/D12/Good-Die-Young-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/D12/Good-Die-Young-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-04T23:33:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12842431,
+            "track_name": "Bole Bole",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 17142403,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12843361,
+            "album_name": "Tempos Modernos",
+            "artist_id": 18964,
+            "artist_name": "Lulu Santos",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lulu-Santos/Bole-Bole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lulu-Santos/Bole-Bole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-19T01:10:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84665534,
+            "track_name": "Mon Bawra",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47625472,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20920934,
+            "album_name": "Kanamachi (Original Motion Picture Soundtrack)",
+            "artist_id": 28953722,
+            "artist_name": "ARIJIT SINGH, Timir Biswas, Annesha & Ujjaini Mukherjee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ARIJIT-SINGH-Timir-Biswas-Annesha-Ujjaini-Mukherjee/Mon-Bawra?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ARIJIT-SINGH-Timir-Biswas-Annesha-Ujjaini-Mukherjee/Mon-Bawra/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-27T19:45:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150421358,
+            "track_name": "Thikana Lekha Nei",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 56508460,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 28933107,
+            "album_name": "Roga Howar Sohoj Upay (Original Motion Picture Soundtrack)",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Thikana-Lekha-Nei?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Thikana-Lekha-Nei/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-16T20:46:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126207546,
+            "track_name": "Festival Bar",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 69950252,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 44,
+            "album_id": 25609958,
+            "album_name": "Festival Bar",
+            "artist_id": 33084352,
+            "artist_name": "Davolee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Davolee/Festival-Bar?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Davolee/Festival-Bar/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-20T09:05:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85762301,
+            "track_name": "Ilariê",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1422627,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 39,
+            "album_id": 20992124,
+            "album_name": "Xou da Xuxa 3",
+            "artist_id": 11551,
+            "artist_name": "Xuxa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xuxa/Ilari%C3%AA?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xuxa/Ilari%C3%AA/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T11:00:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189641952,
+            "track_name": "Vamos Fugir",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 104954919,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36103629,
+            "album_name": "Vamos Fugir - Single",
+            "artist_id": 43054677,
+            "artist_name": "Mariana Nolasco feat. Allman Brown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mariana-Nolasco-Allman-Brown/Vamos-Fugir?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mariana-Nolasco-Allman-Brown/Vamos-Fugir/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-29T20:45:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154665710,
+            "track_name": "Dança do Bole Bole / Eu e Você Sempre (Ao Vivo)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 85958148,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 29550482,
+            "album_name": "Acústico (Ao Vivo)",
+            "artist_id": 24696493,
+            "artist_name": "Péricles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/P%C3%A9ricles/Danca-do-Bole-Bole-Eu-e-Voc%C3%AA-Sempre-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/P%C3%A9ricles/Danca-do-Bole-Bole-Eu-e-Voc%C3%AA-Sempre-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T16:53:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1227,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "Samba",
+                    "music_genre_name_extended": "Brazilian / Samba",
+                    "music_genre_vanity": "Brazilian-Samba"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161606241,
+            "track_name": "Adalgisa / Falsa Baiana - Ao Vivo",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 90102098,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30730971,
+            "album_name": "De Santo Amaro a Xerém (Ao Vivo)",
+            "artist_id": 6795,
+            "artist_name": "Maria Bethânia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Maria-Beth-nia-feat-Zeca-Pagodinho-Edu-Costa/Adalgisa-Falsa-Baiana-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Maria-Beth-nia-feat-Zeca-Pagodinho-Edu-Costa/Adalgisa-Falsa-Baiana-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-05T08:55:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84814272,
+            "track_name": "Ilariê - Live",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 47718028,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20931309,
+            "album_name": "Músicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
+            "artist_id": 58042,
+            "artist_name": "Seu Jorge",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Seu-Jorge/Ilari%C3%AA-Live-At-Quinta-Da-Boa-Vista-Rio-de-Janeiro-RJ-Brazil-2011?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Seu-Jorge/Ilari%C3%AA-Live-At-Quinta-Da-Boa-Vista-Rio-de-Janeiro-RJ-Brazil-2011/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-14T17:39:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 106178078,
+            "track_name": "Swing Louco (Ao Vivo)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 58264920,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22765305,
+            "album_name": "Saia Rodada (Ao Vivo)",
+            "artist_id": 24862040,
+            "artist_name": "Saia Rodada",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Saia-Rodada-2/Swing-Louco-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Saia-Rodada-2/Swing-Louco-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-23T15:09:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1223,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "Forró",
+                    "music_genre_name_extended": "Brazilian / Forró",
+                    "music_genre_vanity": "Brazilian-Forró"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149702214,
+            "track_name": "Bole, bole (Remasterizado)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 83270025,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28804157,
+            "album_name": "Tempos modernos (Remasterizado)",
+            "artist_id": 18964,
+            "artist_name": "Lulu Santos",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lulu-Santos/Bole-bole-Remasterizado?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lulu-Santos/Bole-bole-Remasterizado/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-26T09:12:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8229468,
+            "track_name": "Kahin Aag Lage",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1507419,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 29,
+            "album_id": 10932964,
+            "album_name": "Signature Collection",
+            "artist_id": 12616,
+            "artist_name": "A. R. Rahman",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-R-Rahman/Kahin-Aag-Lage?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-R-Rahman/Kahin-Aag-Lage/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-21T10:13:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 177791452,
+            "track_name": "O Que Será (Flor Da Pele)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 413297,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 33643843,
+            "album_name": "Focus: O Essencial de Chico Buarque",
+            "artist_id": 1456,
+            "artist_name": "Chico Buarque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chico-Buarque/O-que-ser%C3%A1-%C3%80-flor-da-pele?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chico-Buarque/O-que-ser%C3%A1-%C3%80-flor-da-pele/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-06T23:30:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 56296899,
+            "track_name": "A Força Que Vem da Raiz",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 27592458,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17388688,
+            "album_name": "Colheita",
+            "artist_id": 29822669,
+            "artist_name": "Mariene De Castro feat. Maria Bethânia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mariene-de-Castro-Maria-Beth-nia/A-For%C3%A7a-Que-Vem-da-Raiz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mariene-de-Castro-Maria-Beth-nia/A-For%C3%A7a-Que-Vem-da-Raiz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T14:36:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2954198,
+            "track_name": "Paighaam",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1507645,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10460197,
+            "album_name": "Lakeer",
+            "artist_id": 12616,
+            "artist_name": "A. R. Rahman",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-R-Rahman/Paighaam?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-R-Rahman/Paighaam/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-19T07:04:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82728450,
+            "track_name": "Chet",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 502987,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20753763,
+            "album_name": "I Get Chet",
+            "artist_id": 2356,
+            "artist_name": "Chet Baker",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chet-Baker/Chet?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chet-Baker/Chet/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-08T16:58:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37064479,
+            "track_name": "Eva / Ilariê / Tindolele (Ao Vivo)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 15393747,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15715123,
+            "album_name": "Sem Cortes (Ao Vivo)",
+            "artist_id": 33991045,
+            "artist_name": "Jorge & Mateus",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jorge-feat-Mateus/Eva-Ilari%C3%AA-Tindolele-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jorge-feat-Mateus/Eva-Ilari%C3%AA-Tindolele-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T13:38:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1228,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "Sertanejo",
+                    "music_genre_name_extended": "Brazilian / Sertanejo",
+                    "music_genre_vanity": "Brazilian-Sertanejo"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37237111,
+            "track_name": "Mineira",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 15441423,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15727734,
+            "album_name": "Sambabook João Nogueira",
+            "artist_id": 46197,
+            "artist_name": "Grupo Revelação",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grupo-Revela%C3%A7%C3%A3o/Mineira?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grupo-Revela%C3%A7%C3%A3o/Mineira/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-09T00:32:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96821992,
+            "track_name": "Dança do Bole, Bole",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 15179262,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21767477,
+            "album_name": "Dança do Bole, Bole - Single",
+            "artist_id": 24696493,
+            "artist_name": "Péricles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/P%C3%A9ricles/Dan%C3%A7a-do-Bole-Bole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/P%C3%A9ricles/Dan%C3%A7a-do-Bole-Bole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T12:44:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44074924,
+            "track_name": "Forró do Xenhenhem",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2085477,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16166054,
+            "album_name": "Simplesmente Marron",
+            "artist_id": 23317,
+            "artist_name": "Alcione",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alcione/Forr%C3%B3-do-xenhenh%C3%A9m?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alcione/Forr%C3%B3-do-xenhenh%C3%A9m/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-26T04:59:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

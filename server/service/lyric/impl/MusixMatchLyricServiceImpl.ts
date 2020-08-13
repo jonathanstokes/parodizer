@@ -17,6 +17,7 @@ export class MusixMatchLyricServiceImpl implements LyricService {
         page_size: 50,
       },
     });
+    // console.log(`Result from 'https://api.musixmatch.com/ws/1.1/track.search?q_lyrics=${searchTerm}':`, JSON.stringify(response.data));
     if (response.status === 200) {
       if (!response.data.message.body.track_list) {
         if (response.data.message.header.status_code !== 200) {

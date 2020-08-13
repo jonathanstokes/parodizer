@@ -1,0 +1,235 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.025982141494751,
+      "available": 7
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 3855189,
+            "track_name": "Policeman",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 546665,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10536498,
+            "album_name": "Caravan",
+            "artist_id": 2919,
+            "artist_name": "Caravan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-17T02:53:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116553768,
+            "track_name": "Les plaisirs de la chère",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 64185326,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24134577,
+            "album_name": "En attendant l'prochain",
+            "artist_id": 27136747,
+            "artist_name": "Xavier Lacouture",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xavier-Lacouture/Les-plaisirs-de-la-ch%C3%A8re-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xavier-Lacouture/Les-plaisirs-de-la-ch%C3%A8re-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-01T18:15:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2254330,
+            "track_name": "Policeman (Mono)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 546666,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10403429,
+            "album_name": "Caravan",
+            "artist_id": 2919,
+            "artist_name": "Caravan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Mono?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Mono/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-29T23:05:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45861930,
+            "track_name": "Policeman (Mono Version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 19963336,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16311869,
+            "album_name": "Caravan",
+            "artist_id": 2919,
+            "artist_name": "Caravan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Mono-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Mono-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-17T02:55:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8693051,
+            "track_name": "L'atelier moicramé",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3437912,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10974163,
+            "album_name": "Nul si pas découvert",
+            "artist_id": 73609,
+            "artist_name": "Gérald Genty",
+            "track_share_url": "https://www.musixmatch.com/lyrics/G%C3%A9rald-Genty/L-atelier-moicram%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/G%C3%A9rald-Genty/L-atelier-moicram%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-22T01:00:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45861945,
+            "track_name": "Policeman (Stereo Version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 19963337,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16311869,
+            "album_name": "Caravan",
+            "artist_id": 2919,
+            "artist_name": "Caravan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Stereo-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Stereo-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-17T02:55:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2254338,
+            "track_name": "Policeman (Stereo)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 546667,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10403429,
+            "album_name": "Caravan",
+            "artist_id": 2919,
+            "artist_name": "Caravan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Stereo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caravan/Policeman-Stereo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-29T23:05:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

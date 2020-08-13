@@ -1,0 +1,1731 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.12551808357239,
+      "available": 320
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 175367683,
+            "track_name": "Sibérie",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 97357115,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 32,
+            "album_id": 33255930,
+            "album_name": "Deux frères",
+            "artist_id": 26630465,
+            "artist_name": "PNL",
+            "track_share_url": "https://www.musixmatch.com/lyrics/PNL/Sib%C3%A9rie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/PNL/Sib%C3%A9rie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-30T15:35:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174291444,
+            "track_name": "Make-Up",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 94986480,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33079998,
+            "album_name": "Originals",
+            "artist_id": 40381819,
+            "artist_name": "Prince",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Prince/Make-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Prince/Make-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-26T17:20:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185112453,
+            "track_name": "SOLITERRIEN",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 101166478,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 85,
+            "album_id": 35244637,
+            "album_name": "BRUTAL, Vol.2",
+            "artist_id": 40274805,
+            "artist_name": "Ikaz Boi feat. Damso",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ikaz-Boi-Damso/SOLITERRIEN?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ikaz-Boi-Damso/SOLITERRIEN/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-21T07:30:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34853096,
+            "track_name": "Bravo pour le clown !",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 15927431,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15564492,
+            "album_name": "Eternelle",
+            "artist_id": 971,
+            "artist_name": "Edith Piaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-pour-le-clown-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-pour-le-clown-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-24T11:16:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99572634,
+            "track_name": "Dur Dur",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 44758150,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 24,
+            "album_id": 22019140,
+            "album_name": "Je Tourne En Rond",
+            "artist_id": 24879049,
+            "artist_name": "Jul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jul/Dur-Dur?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jul/Dur-Dur/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-26T15:07:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83223306,
+            "track_name": "Ça vient de là",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 46522426,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20784916,
+            "album_name": "Je tourne en rond",
+            "artist_id": 24879049,
+            "artist_name": "Jul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jul/%C3%87a-vient-de-l%C3%A0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jul/%C3%87a-vient-de-l%C3%A0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-08T14:28:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93681750,
+            "track_name": "Don't Fight The Feelin'",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 22930446,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 117,
+            "album_id": 21510414,
+            "album_name": "Life Is...Too ",
+            "artist_id": 4660,
+            "artist_name": "Too ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Too-hort/Don-t-Fight-the-Feelin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Too-hort/Don-t-Fight-the-Feelin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-04T06:39:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6240239,
+            "track_name": "Puisqu'il faut vivre",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 7911442,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 10747501,
+            "album_name": "Puisqu'il faut vivre",
+            "artist_id": 33492026,
+            "artist_name": "Soprano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soprano/Puisqu-il-faut-vivre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soprano/Puisqu-il-faut-vivre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-14T10:14:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87970795,
+            "track_name": "Puisqu'il Faut Vivre - Live Marseille 2007",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12611916,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21129364,
+            "album_name": "Live Au Dôme De Marseille",
+            "artist_id": 33492026,
+            "artist_name": "Soprano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soprano/Puisqu-il-faut-vivre-Live-Marseille-2007?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soprano/Puisqu-il-faut-vivre-Live-Marseille-2007/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:22:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160531367,
+            "track_name": "Le Temps qu'il nous reste (feat. Nassi)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47350532,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 30542451,
+            "album_name": "Cosmopolitanie (Deluxe Edition)",
+            "artist_id": 28818481,
+            "artist_name": "Soprano feat. Nassi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soprano-feat-Nassi/Le-temps-qu-il-nous-reste?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soprano-feat-Nassi/Le-temps-qu-il-nous-reste/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:13:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36632128,
+            "track_name": "Le jour se lève",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 14366099,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15574625,
+            "album_name": "La force du nombre",
+            "artist_id": 24461839,
+            "artist_name": "Fababy feat. La Fouine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fababy-feat-La-Fouine/Le-jour-se-l%C3%A8ve?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fababy-feat-La-Fouine/Le-jour-se-l%C3%A8ve/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-27T15:57:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5154512,
+            "track_name": "Bravo Pur Le Clown",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 286145,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10648565,
+            "album_name": "The Edith Piaf Gold Collection",
+            "artist_id": 971,
+            "artist_name": "Edith Piaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-Pur-Le-Clown?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-Pur-Le-Clown/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-08T21:54:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89749407,
+            "track_name": "Bravo pour le clown - Live à L'Olympia 1955",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 15927439,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21232319,
+            "album_name": "A L'Olympia 1955",
+            "artist_id": 971,
+            "artist_name": "Edith Piaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-pour-le-clown-Live-%C3%A0-l-Olympia-1955?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-971/Bravo-pour-le-clown-Live-%C3%A0-l-Olympia-1955/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-14T00:14:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17093081,
+            "track_name": "Don’t Fight the Feelin’",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 40848890,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 10299289,
+            "album_name": "Life Is… Too ",
+            "artist_id": 27957322,
+            "artist_name": "Too  feat. Danger Zone & Rappin’ 4-Tay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Too-hort-feat-Danger-Zone-Rappin%E2%80%99-4-Tay/Don%E2%80%99t-Fight-the-Feelin%E2%80%99?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Too-hort-feat-Danger-Zone-Rappin%E2%80%99-4-Tay/Don%E2%80%99t-Fight-the-Feelin%E2%80%99/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-12T01:01:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160169446,
+            "track_name": "Rentrez chez vous",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 89193827,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 32,
+            "album_id": 30476209,
+            "album_name": "La vie de rêve",
+            "artist_id": 27442542,
+            "artist_name": "Bigflo & Oli",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bigflo-Oli/Rentrez-chez-vous?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bigflo-Oli/Rentrez-chez-vous/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-06T15:17:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195215760,
+            "track_name": "La teuf",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 109403851,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37558541,
+            "album_name": "High & Fines Herbes",
+            "artist_id": 45008502,
+            "artist_name": "Caballero & JeanJass feat. Di-meh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caballero-JeanJass-Di-meh/La-teuf?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caballero-JeanJass-Di-meh/La-teuf/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-12T16:36:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 144552610,
+            "track_name": "Offshore",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 80276334,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 28,
+            "album_id": 27977580,
+            "album_name": "XEU",
+            "artist_id": 28735148,
+            "artist_name": "Vald feat. Suikon Blaz AD",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vald-feat-Suikon-Blaz-AD/Offshore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vald-feat-Suikon-Blaz-AD/Offshore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T14:24:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30815267,
+            "track_name": "July, July!",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 63583544,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 13816936,
+            "album_name": "Castaways and Cutouts",
+            "artist_id": 21093,
+            "artist_name": "The Decemberists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Decemberists/July-July-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Decemberists/July-July-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-23T13:58:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31521739,
+            "track_name": "Alcohol",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 174652,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14315907,
+            "album_name": "Stunt",
+            "artist_id": 504,
+            "artist_name": "Barenaked Ladies",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barenaked-Ladies/Alcohol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barenaked-Ladies/Alcohol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T21:01:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146167858,
+            "track_name": "Carton rouge",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 80060433,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 28,
+            "album_id": 28227792,
+            "album_name": "Rien à branler",
+            "artist_id": 68896,
+            "artist_name": "Lorenzo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lorenzo/Carton-rouge?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lorenzo/Carton-rouge/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-13T22:06:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 67374262,
+            "track_name": "Luca Brasi",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 15266826,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18859511,
+            "album_name": "Né pour mourir",
+            "artist_id": 14321596,
+            "artist_name": "Lacrim",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lacrim/Luca-Brasi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lacrim/Luca-Brasi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-16T12:35:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15808746,
+            "track_name": "Tire-toi vite",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 10617195,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10603604,
+            "album_name": "113 degrés",
+            "artist_id": 13825295,
+            "artist_name": "113 feat. Buju Banton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/113-feat-Buju-Banton/Tire-toi-vite?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/113-feat-Buju-Banton/Tire-toi-vite/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-16T09:32:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82206353,
+            "track_name": "July, July! (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 2000741,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20698637,
+            "album_name": "Austin City Limits 2005 Music Festival",
+            "artist_id": 21093,
+            "artist_name": "The Decemberists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Decemberists/July-July-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Decemberists/July-July-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-12T11:40:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174713169,
+            "track_name": "DEL",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 97170619,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33154644,
+            "album_name": "DEL",
+            "artist_id": 37105149,
+            "artist_name": "VillaBanks",
+            "track_share_url": "https://www.musixmatch.com/lyrics/VillaBanks/DEL?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/VillaBanks/DEL/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-22T12:33:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6688674,
+            "track_name": "Par les paupières",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1205799,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10787621,
+            "album_name": "Psychédélices",
+            "artist_id": 9407,
+            "artist_name": "Alizee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aliz%C3%A9e/Par-les-paupi%C3%A8res?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aliz%C3%A9e/Par-les-paupi%C3%A8res/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:00:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92506143,
+            "track_name": "Apocalypticodramatic",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2393120,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21427140,
+            "album_name": "Grain de sable",
+            "artist_id": 31103,
+            "artist_name": "Tryö",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Try%C3%B6/Apocalypticodramatic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Try%C3%B6/Apocalypticodramatic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-08T12:21:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143149121,
+            "track_name": "Apocalypticodramatic - Live",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 75595751,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27766531,
+            "album_name": "Tryo fête ses 10 ans - Le spectacle (Live)",
+            "artist_id": 31103,
+            "artist_name": "Tryö",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Try%C3%B6/Apocalypticodramatic-Live-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Try%C3%B6/Apocalypticodramatic-Live-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-15T07:51:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5989921,
+            "track_name": "Hypocondriaque",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2947931,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10723889,
+            "album_name": "Pomme C",
+            "artist_id": 50547,
+            "artist_name": "Calogero",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Calogero/Hypocondriaque?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Calogero/Hypocondriaque/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-30T14:27:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 119950050,
+            "track_name": "Chien enclenché",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 60093962,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24717125,
+            "album_name": "Le grand méchant You",
+            "artist_id": 12648349,
+            "artist_name": "Mister You",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mister-You/Chien-enclench%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mister-You/Chien-enclench%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-27T13:05:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104235205,
+            "track_name": "Normal",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 57108195,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 22509007,
+            "album_name": "Indéfini",
+            "artist_id": 14339327,
+            "artist_name": "The Shin Sekaï",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Shin-Seka%C3%AF-4/Normal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Shin-Seka%C3%AF-4/Normal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-09T10:39:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91433389,
+            "track_name": "Scorpion Remix",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 49089828,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 18525523,
+            "album_name": "Kyoto",
+            "artist_id": 29414428,
+            "artist_name": "Joke, Mac Tyer & Niro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joke-Mac-Tyer-Niro/Scorpion-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joke-Mac-Tyer-Niro/Scorpion-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-04T00:24:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 65124928,
+            "track_name": "Scorpion Remix",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 34321259,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 29,
+            "album_id": 18525523,
+            "album_name": "Kyoto",
+            "artist_id": 27222071,
+            "artist_name": "Joke feat. Mac Tyer & Niro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joke-feat-Mac-Tyer-Niro-2/Scorpion-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joke-feat-Mac-Tyer-Niro-2/Scorpion-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-17T14:25:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 66654278,
+            "track_name": "Rue Chapdelaine",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1807369,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18748935,
+            "album_name": "Motel Capri",
+            "artist_id": 17163,
+            "artist_name": "Les Cowboys Fringants",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Cowboys-Fringants/Rue-Chapdelaine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Cowboys-Fringants/Rue-Chapdelaine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:09:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190351904,
+            "track_name": "Outro",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 105293882,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 36272151,
+            "album_name": "Vie d'artiste",
+            "artist_id": 35257940,
+            "artist_name": "4Keus",
+            "track_share_url": "https://www.musixmatch.com/lyrics/4Keus-2/Outro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/4Keus-2/Outro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-05T10:12:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2902039,
+            "track_name": "Toucher l'horizon",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11204751,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13796270,
+            "album_name": "Le Cactus de Sibérie",
+            "artist_id": 14681,
+            "artist_name": "Oxmo Puccino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/Toucher-l-horizon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/Toucher-l-horizon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-21T15:29:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93525676,
+            "track_name": "Dos à dos",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 51839403,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21499332,
+            "album_name": "Hors contrôle",
+            "artist_id": 28980310,
+            "artist_name": "Dub Inc.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-02T16:11:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84123278,
+            "track_name": "Un corps à prendre",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 47234228,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 20872881,
+            "album_name": "Dolziger Str. 2",
+            "artist_id": 13912822,
+            "artist_name": "Odezenne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Odezenne/Un-corps-%C3%A0-prendre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Odezenne/Un-corps-%C3%A0-prendre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-30T13:58:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160601883,
+            "track_name": "Dos à dos - Live Saint-Étienne 2017",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 89493929,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30557663,
+            "album_name": "So What (Live Saint-Étienne 2017)",
+            "artist_id": 28980310,
+            "artist_name": "Dub Inc.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos-Live-Saint-%C3%89tienne-2017?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos-Live-Saint-%C3%89tienne-2017/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-09T15:20:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85030815,
+            "track_name": "Dos à dos (Live at L'Olympia)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 47881348,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20947769,
+            "album_name": "Paradise Tour (Live at L'Olympia)",
+            "artist_id": 28980310,
+            "artist_name": "Dub Inc.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos-Live-at-L-Olympia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dub-Inc-3/Dos-%C3%A0-dos-Live-at-L-Olympia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-12T06:51:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174319254,
+            "track_name": "Aznavour",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 97064179,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 33084723,
+            "album_name": "Vréalité",
+            "artist_id": 31072927,
+            "artist_name": "Kekra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kekra/Aznavour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kekra/Aznavour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-24T12:53:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145564477,
+            "track_name": "Ninjas et gargouilles - Les marches de l'empereur Saison 3 / épisode 2",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 80826742,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28129939,
+            "album_name": "Ninjas et gargouilles (Les marches de l'empereur Saison 3 / épisode 2)",
+            "artist_id": 35320348,
+            "artist_name": "Alkpote feat. Caballero & JeanJass",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alkpote-feat-Caballero-JeanJass/Ninjas-et-gargouilles-Les-marches-de-l-empereur-Saison-3-%C3%A9pisode-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alkpote-feat-Caballero-JeanJass/Ninjas-et-gargouilles-Les-marches-de-l-empereur-Saison-3-%C3%A9pisode-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T16:36:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6299248,
+            "track_name": "Carte postale",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 7450456,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10752859,
+            "album_name": "En attendant l'album",
+            "artist_id": 122431,
+            "artist_name": "Sinik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sinik/Carte-postale?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sinik/Carte-postale/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-24T13:34:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159300896,
+            "track_name": "Toxicomanes",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 87330576,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30302211,
+            "album_name": "Obispo",
+            "artist_id": 36740589,
+            "artist_name": "Pascal Obispo feat. Benjamin Biolay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pascal-Obispo-feat-Benjamin-Biolay/Toxicomanes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pascal-Obispo-feat-Benjamin-Biolay/Toxicomanes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-23T15:35:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30399006,
+            "track_name": "Guérilla",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 822494,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13778602,
+            "album_name": "Mach 6",
+            "artist_id": 6868,
+            "artist_name": "MC Solaar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MC-Solaar/Gu%C3%A9rilla?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MC-Solaar/Gu%C3%A9rilla/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T10:10:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30782421,
+            "track_name": "The Walk",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2366182,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13813723,
+            "album_name": "What Time Is It?",
+            "artist_id": 30765,
+            "artist_name": "The Time",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Time/The-Walk?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Time/The-Walk/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T23:50:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 125189511,
+            "track_name": "Harvard",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 68912628,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 64,
+            "album_id": 25454824,
+            "album_name": "La propagande (saison 1)",
+            "artist_id": 28858370,
+            "artist_name": "Barack Adama",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barack-Adama/Harvard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barack-Adama/Harvard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-09T16:37:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94466723,
+            "track_name": "Y'A De La Place",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1190109,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13800522,
+            "album_name": "Rebelote",
+            "artist_id": 9241,
+            "artist_name": "Matmatah",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Matmatah/Y-a-de-la-place?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Matmatah/Y-a-de-la-place/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T03:09:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84349749,
+            "track_name": "Eh Connard",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 7392476,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 20898870,
+            "album_name": "Entre Ciment Et Belle Etoile",
+            "artist_id": 117968,
+            "artist_name": "Keny Arkana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Keny-Arkana/Eh-connard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Keny-Arkana/Eh-connard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-12T16:06:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84349745,
+            "track_name": "J'viens D' L'incendie",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11516604,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20898870,
+            "album_name": "Entre Ciment Et Belle Etoile",
+            "artist_id": 117968,
+            "artist_name": "Keny Arkana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Keny-Arkana/J-viens-d-l-incendie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Keny-Arkana/J-viens-d-l-incendie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-12T16:06:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 148799860,
+            "track_name": "Intro",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 82721847,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 28651669,
+            "album_name": "La symphonie des chargeurs, vol. 2",
+            "artist_id": 24434310,
+            "artist_name": "Fababy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fababy/Intro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fababy/Intro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-02T13:14:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

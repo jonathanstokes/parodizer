@@ -1,0 +1,1359 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.11745595932007,
+      "available": 39
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 197231812,
+            "track_name": "Santo Remedio",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 111826942,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38262598,
+            "album_name": "Larimar",
+            "artist_id": 13799301,
+            "artist_name": "Daniel Santacruz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daniel-Santacruz/Santo-Remedio?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daniel-Santacruz/Santo-Remedio/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-03T12:36:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13787816,
+            "track_name": "Obéir",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 9429237,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13787924,
+            "album_name": "Echos du temps",
+            "artist_id": 313422,
+            "artist_name": "Danakil",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danakil/Ob%C3%A9ir?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danakil/Ob%C3%A9ir/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:58:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34702272,
+            "track_name": "Mets toi à l'aise",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 14155804,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 30,
+            "album_id": 15554065,
+            "album_name": "Au rapport (Édition Collector)",
+            "artist_id": 24838117,
+            "artist_name": "Mister You feat. Colonel Reyel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mister-You-feat-Colonel-Reyel/Mets-toi-%C3%A0-l-aise?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mister-You-feat-Colonel-Reyel/Mets-toi-%C3%A0-l-aise/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-14T00:07:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9708175,
+            "track_name": "Oural ouralou",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1438983,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11053328,
+            "album_name": "Ferrat 80",
+            "artist_id": 11724,
+            "artist_name": "Jean Ferrat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jean-Ferrat/Oural-Ouralou?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jean-Ferrat/Oural-Ouralou/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:28:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17523077,
+            "track_name": "Dubéir",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 10978083,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14218561,
+            "album_name": "Echos du Dub",
+            "artist_id": 313422,
+            "artist_name": "Danakil",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danakil/Dub%C3%A9ir?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danakil/Dub%C3%A9ir/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-26T08:16:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48276736,
+            "track_name": "La Philosophie Du Hall",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 21793423,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16561402,
+            "album_name": "Le poisson rouge",
+            "artist_id": 24466759,
+            "artist_name": "Disiz la Peste",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Disiz-la-Peste/La-Philosophie-Du-Hall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Disiz-la-Peste/La-Philosophie-Du-Hall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:53:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15756852,
+            "track_name": "Tant Qu'Il Y Aura Des Chevaux",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 3157985,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13906048,
+            "album_name": "Gold",
+            "artist_id": 59885,
+            "artist_name": "Marie Laforêt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marie-Lafor%C3%AAt/Tant-qu-il-y-aura-des-chevaux?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marie-Lafor%C3%AAt/Tant-qu-il-y-aura-des-chevaux/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:11:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1176,
+                    "music_genre_parent_id": 23,
+                    "music_genre_name": "Vocal Pop",
+                    "music_genre_name_extended": "Vocal / Vocal Pop",
+                    "music_genre_vanity": "Vocal-Vocal-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160709522,
+            "track_name": "Caracole",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 89562765,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30575977,
+            "album_name": "Auguste",
+            "artist_id": 33205470,
+            "artist_name": "Leila Huissoud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leila-Huissoud/Caracole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leila-Huissoud/Caracole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-14T22:52:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192209162,
+            "track_name": "Antojo",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 106956286,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36673771,
+            "album_name": "Mi Derriengue - EP",
+            "artist_id": 33162670,
+            "artist_name": "Riccie Oriach",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Riccie-Oriach/Antojo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Riccie-Oriach/Antojo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-24T18:52:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85331241,
+            "track_name": "Maliantes En La Disco",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 13757797,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 20965088,
+            "album_name": "Los De La Nazza Presentan Carnal",
+            "artist_id": 24757891,
+            "artist_name": "Carnal feat. Gaona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carnal-feat-Gaona/Maliantes-en-la-disco?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carnal-feat-Gaona/Maliantes-en-la-disco/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-14T22:26:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121784286,
+            "track_name": "CDC Remix",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 46786867,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 25005408,
+            "album_name": "CDC Remix",
+            "artist_id": 28729815,
+            "artist_name": "Black Brut feat. S-Pi, R.E.D.K, Ol Kainry & Amy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-Brut-feat-S-Pi-R-E-D-K-Ol-Kainry-Amy/CDC-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Brut-feat-S-Pi-R-E-D-K-Ol-Kainry-Amy/CDC-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-03T15:44:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 107373198,
+            "track_name": "El 38 Mohoso (feat. Nengo Flow)",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 29333953,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22935590,
+            "album_name": "El 38 Mohoso (feat. Nengo Flow)",
+            "artist_id": 29082144,
+            "artist_name": "Gaona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gaona-feat-Nengo-Flow/El-38-Mohoso?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gaona-feat-Nengo-Flow/El-38-Mohoso/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-29T02:47:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 62367400,
+            "track_name": "Dificil Como Yo",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 32238483,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 18128903,
+            "album_name": "Dificil Como Yo",
+            "artist_id": 27020395,
+            "artist_name": "Guelo Star feat. Galante \"El Emperador\"",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Guelo-Star-feat-Galante-El-Emperador-2/Dificil-Como-Yo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Guelo-Star-feat-Galante-El-Emperador-2/Dificil-Como-Yo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-04T03:51:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45852310,
+            "track_name": "La Philosophie Du Hall",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 19957103,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16310976,
+            "album_name": "Le Poisson Rouge",
+            "artist_id": 25957506,
+            "artist_name": "Disiz la Peste featuring Eoquence & Juan Rozoff",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Disiz-la-Peste-featuring-Eoquence-Juan-Rozoff/La-Philosophie-Du-Hall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Disiz-la-Peste-featuring-Eoquence-Juan-Rozoff/La-Philosophie-Du-Hall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:53:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8970109,
+            "track_name": "Tutuguri",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6396533,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10998779,
+            "album_name": "Des deux l'une est l'autre",
+            "artist_id": 485300,
+            "artist_name": "Hypno5e",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hypno5e/Tutuguri?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hypno5e/Tutuguri/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-03T01:23:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7714799,
+            "track_name": "Biscotte",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6876061,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10885937,
+            "album_name": "Une fois qu'on s'est tout dit",
+            "artist_id": 83993,
+            "artist_name": "Michèle Bernard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mich%C3%A8le-Bernard/Biscotte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mich%C3%A8le-Bernard/Biscotte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T18:59:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 38027626,
+            "track_name": "Le Grillon et la Luciole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 16515406,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15776319,
+            "album_name": "Aimer les monstres",
+            "artist_id": 25210362,
+            "artist_name": "Émile Proulx-Cloutier",
+            "track_share_url": "https://www.musixmatch.com/lyrics/%C3%89mile-Proulx-Cloutier/Le-Grillon-et-la-Luciole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/%C3%89mile-Proulx-Cloutier/Le-Grillon-et-la-Luciole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-23T01:52:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6837932,
+            "track_name": "Agostinho",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2267556,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10801340,
+            "album_name": "Ullegarra",
+            "artist_id": 27895,
+            "artist_name": "Dick Annegarn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dick-Annegarn/Agostinho?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dick-Annegarn/Agostinho/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:31:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16646737,
+            "track_name": "Fuck You, Part I",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7128353,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10589541,
+            "album_name": "Les histoires extraordinaires d'un jeune de banlieue",
+            "artist_id": 98295,
+            "artist_name": "Disiz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Disiz/Fuck-You-Part-I?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Disiz/Fuck-You-Part-I/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-06T05:35:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15066914,
+            "track_name": "Monde de sons... (K2R Riddim)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 9910579,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13861929,
+            "album_name": "La pittoresque histoire de Pitt Ocha",
+            "artist_id": 59822,
+            "artist_name": "Les Ogres De Barback",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Ogres-de-Barback/Monde-de-sons-K2R-Riddim?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Ogres-de-Barback/Monde-de-sons-K2R-Riddim/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-15T17:27:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110786255,
+            "track_name": "Miouw / Stabber / Tuconélé",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 60835969,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23425244,
+            "album_name": "Miouw / Stabber / Tuconélé",
+            "artist_id": 31757413,
+            "artist_name": "Enfanterribles E.T.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enfanterribles-E-T/Miouw-Stabber-Tucon%C3%A9l%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enfanterribles-E-T/Miouw-Stabber-Tucon%C3%A9l%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-05T09:16:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1568768,
+            "track_name": "Les soleils couchants",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2894575,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10347780,
+            "album_name": "Chansons Nouvelles",
+            "artist_id": 48162,
+            "artist_name": "Plume Latraverse",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Plume-Latraverse/Les-soleils-couchants?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Plume-Latraverse/Les-soleils-couchants/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-29T16:44:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3722257,
+            "track_name": "La vie s'écoule",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7174065,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10525193,
+            "album_name": "Hymne",
+            "artist_id": 101376,
+            "artist_name": "Chet",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chet/La-vie-s-%C3%A9coule?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chet/La-vie-s-%C3%A9coule/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:53:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15371128,
+            "track_name": "Plus rien n'est pareil",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40190341,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10369541,
+            "album_name": "La force de comprendre",
+            "artist_id": 59343,
+            "artist_name": "Dubmatique",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dubmatique/Plus-rien-n-est-pareil?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dubmatique/Plus-rien-n-est-pareil/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-28T00:59:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2696774,
+            "track_name": "Mis Cuenno",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2081049,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10438975,
+            "album_name": "Las margaritas son flores del campo",
+            "artist_id": 23201,
+            "artist_name": "Mojinos Escozios",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mojinos-Escozios/Mis-cuenno?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mojinos-Escozios/Mis-cuenno/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:10:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 64544888,
+            "track_name": "Obéir (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 33891132,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18444835,
+            "album_name": "On Air (Live à la Cigale)",
+            "artist_id": 313422,
+            "artist_name": "Danakil",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danakil/Ob%C3%A9ir-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danakil/Ob%C3%A9ir-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-14T15:29:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37811540,
+            "track_name": "Let 'em Roll",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 15771550,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15761732,
+            "album_name": "Songer Singwriter",
+            "artist_id": 277894,
+            "artist_name": "Alan Merrill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alan-Merrill/Let-em-Roll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alan-Merrill/Let-em-Roll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-31T14:13:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2771010,
+            "track_name": "Mots vrais (feat. East)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2679069,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10444886,
+            "album_name": "Cut Killer Show",
+            "artist_id": 40132,
+            "artist_name": "Fabe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabe/Mots-vrais-feat-East?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabe/Mots-vrais-feat-East/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:18:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194723051,
+            "track_name": "Soap Sleepy",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 108998615,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37405654,
+            "album_name": "Joy Sold Here",
+            "artist_id": 44916787,
+            "artist_name": "Srt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Srt-1/Soap-Sleepy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Srt-1/Soap-Sleepy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-07T21:40:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14376003,
+            "track_name": "La Philosophie du hall",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8943817,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12404569,
+            "album_name": "Le Poisson rouge",
+            "artist_id": 98295,
+            "artist_name": "Disiz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Disiz/La-Philosophie-du-hall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Disiz/La-Philosophie-du-hall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T00:00:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59805498,
+            "track_name": "Il est un peu mon ami",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 30127461,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17793144,
+            "album_name": "Jo Akepsimas chante pour les enfants, Vol. 1 et 2",
+            "artist_id": 24811392,
+            "artist_name": "Jo Akepsimas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jo-Akepsimas/Il-est-un-peu-mon-ami?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jo-Akepsimas/Il-est-un-peu-mon-ami/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-06T05:20:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 106284267,
+            "track_name": "Lucky Luke",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 23781469,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22780043,
+            "album_name": "Heritage - Les Moulins De Mon C ur - Polydor (1967-1968)",
+            "artist_id": 122988,
+            "artist_name": "Marcel Amont",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marcel-Amont/Lucky-Luke?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marcel-Amont/Lucky-Luke/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-10T15:17:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143409331,
+            "track_name": "Agostinho (Au Cirque d'Hiver) - Live",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 79613065,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27802677,
+            "album_name": "Dick Annegarn au Cirque d'Hiver (Live)",
+            "artist_id": 27895,
+            "artist_name": "Dick Annegarn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dick-Annegarn/Agostinho-Au-Cirque-d-Hiver-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dick-Annegarn/Agostinho-Au-Cirque-d-Hiver-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-24T11:30:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129432486,
+            "track_name": "Entourés Des Mêmes",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 71997444,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26063602,
+            "album_name": "Jeunes après l'heure",
+            "artist_id": 33095212,
+            "artist_name": "Fresh Briscards",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fresh-Briscards/Entour%C3%A9s-Des-M%C3%AAmes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fresh-Briscards/Entour%C3%A9s-Des-M%C3%AAmes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-05T15:22:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15191373,
+            "track_name": "Monde de sons...",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 44913295,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10390511,
+            "album_name": "La pittoresque histoire de Pitt Ocha",
+            "artist_id": 24756645,
+            "artist_name": "Les Ogres de Barback feat. K2R Riddim",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Ogres-de-Barback-feat-K2R-Riddim/Monde-de-sons?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Ogres-de-Barback-feat-K2R-Riddim/Monde-de-sons/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-15T17:27:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81364436,
+            "track_name": "La folie",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 44021208,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20570674,
+            "album_name": "Mathieu Saïkaly",
+            "artist_id": 28365164,
+            "artist_name": "Mathieu Saïkaly & Nicolas Rey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mathieu-Sa%C3%AFkaly-Nicolas-Rey/La-folie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mathieu-Sa%C3%AFkaly-Nicolas-Rey/La-folie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T11:22:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19385851,
+            "track_name": "L'amour est un alcool",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6878968,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10506845,
+            "album_name": "Oui",
+            "artist_id": 84161,
+            "artist_name": "Enzo Enzo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enzo-Enzo/L-amour-est-un-alcool?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enzo-Enzo/L-amour-est-un-alcool/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T18:59:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160873641,
+            "track_name": "Carrousel Volant",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 89669716,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30608984,
+            "album_name": "Sur Le Fil",
+            "artist_id": 32786553,
+            "artist_name": "Doucha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doucha/Carrousel-Volant?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doucha/Carrousel-Volant/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T07:40:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1161680,
+            "track_name": "1928",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 183976,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10315448,
+            "album_name": "La femme trombone",
+            "artist_id": 543,
+            "artist_name": "Les Rita Mitsouko",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Rita-Mitsouko/1928?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Rita-Mitsouko/1928/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:33:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

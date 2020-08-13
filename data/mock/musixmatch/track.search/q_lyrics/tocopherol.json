@@ -1,0 +1,58 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.015186786651611,
+      "available": 1
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 991597,
+            "track_name": "Vitamins Are Good",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1919834,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10301956,
+            "album_name": "Crush Television",
+            "artist_id": 19350,
+            "artist_name": "Kompressor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kompressor/Vitamins-Are-Good?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kompressor/Vitamins-Are-Good/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:22:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

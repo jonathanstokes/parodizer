@@ -1,0 +1,317 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.013207912445068,
+      "available": 9
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 16102712,
+            "track_name": "L'amoureuse",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 10339549,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13933873,
+            "album_name": "Panique celtique II : Le village",
+            "artist_id": 7424,
+            "artist_name": "Manau",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Manau/L-Amoureuse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Manau/L-Amoureuse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-18T16:27:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20017402,
+            "track_name": "Ich hab' den Mut. Ich hab' die Macht.",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 12181027,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14338849,
+            "album_name": "Des Winters finsterer Gesell",
+            "artist_id": 95617,
+            "artist_name": "Angizia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angizia/Ich-hab-den-Mut-Ich-hab-die-Macht?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angizia/Ich-hab-den-Mut-Ich-hab-die-Macht/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-27T13:06:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20017406,
+            "track_name": "Jagd",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 12181029,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14338849,
+            "album_name": "Des Winters finsterer Gesell",
+            "artist_id": 95617,
+            "artist_name": "Angizia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angizia/Jagd?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angizia/Jagd/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-27T13:21:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20017396,
+            "track_name": "Anatol",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 12181019,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14338849,
+            "album_name": "Des Winters finsterer Gesell",
+            "artist_id": 95617,
+            "artist_name": "Angizia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angizia/Anatol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angizia/Anatol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-27T13:12:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20017405,
+            "track_name": "Das leere Grab",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 12181021,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14338849,
+            "album_name": "Des Winters finsterer Gesell",
+            "artist_id": 95617,
+            "artist_name": "Angizia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angizia/Das-leere-Grab?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angizia/Das-leere-Grab/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-27T13:19:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143628777,
+            "track_name": "Marchewkom tak! (z wujkiem Marchewą)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 79724571,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27832789,
+            "album_name": "Na Jedno Kopyto",
+            "artist_id": 31504380,
+            "artist_name": "ZENEK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ZENEK/Marchewkom-tak-z-wujkiem-Marchew%C4%85?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ZENEK/Marchewkom-tak-z-wujkiem-Marchew%C4%85/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-29T17:36:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19181889,
+            "track_name": "Gedenket der großen Hure",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7952367,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10567380,
+            "album_name": "Die Liebeslieder der Erika Pluhar",
+            "artist_id": 171942,
+            "artist_name": "Erika Pluhar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Erika-Pluhar/Gedenket-der-gro%C3%9Fen-Hure?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Erika-Pluhar/Gedenket-der-gro%C3%9Fen-Hure/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-15T12:04:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20017408,
+            "track_name": "Die letzte Lust",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12181022,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14338849,
+            "album_name": "Des Winters finsterer Gesell",
+            "artist_id": 95617,
+            "artist_name": "Angizia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angizia/Die-letzte-Lust?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angizia/Die-letzte-Lust/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-27T13:26:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 109407475,
+            "track_name": "A Batignolles",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7550836,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23225940,
+            "album_name": "Collection disques pathe",
+            "artist_id": 129714,
+            "artist_name": "Aristide Bruant",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aristide-Bruant/A-Batignolles?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aristide-Bruant/A-Batignolles/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:08:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

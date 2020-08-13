@@ -1,0 +1,1506 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.091571092605591,
+      "available": 42
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 83747889,
+            "track_name": "A Boat Lies Waiting",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 46921090,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 82,
+            "album_id": 38396957,
+            "album_name": "Rattle That Lock",
+            "artist_id": 1221,
+            "artist_name": "David Gilmour",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Gilmour/A-Boat-Lies-Waiting?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Gilmour/A-Boat-Lies-Waiting/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-26T13:27:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1155,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Prog-Rock/Art Rock",
+                    "music_genre_name_extended": "Rock / Prog-Rock/Art Rock",
+                    "music_genre_vanity": "Rock-Prog-Rock-Art-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1146,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Arena Rock",
+                    "music_genre_name_extended": "Rock / Arena Rock",
+                    "music_genre_vanity": "Rock-Arena-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73752198,
+            "track_name": "Les amants de venise",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 286467,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19672961,
+            "album_name": "Volume 4",
+            "artist_id": 971,
+            "artist_name": "Edith Piaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-971/Les-Amants-de-Venise?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-971/Les-Amants-de-Venise/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:57:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132576123,
+            "track_name": "A Boat Lies Waiting - Live At Pompeii 2016",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 74062034,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 26558512,
+            "album_name": "Live At Pompeii",
+            "artist_id": 1221,
+            "artist_name": "David Gilmour",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Gilmour/A-Boat-Lies-Waiting-Live-at-Pompeii-2016?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Gilmour/A-Boat-Lies-Waiting-Live-at-Pompeii-2016/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-26T15:17:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1146,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Arena Rock",
+                    "music_genre_name_extended": "Rock / Arena Rock",
+                    "music_genre_vanity": "Rock-Arena-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98770054,
+            "track_name": "Salut les copains",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2349015,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21940977,
+            "album_name": "Eternel",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:50:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13903836,
+            "track_name": "Stone Angels",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 9468828,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13903961,
+            "album_name": "Wars of the Roses",
+            "artist_id": 9766,
+            "artist_name": "Ulver",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ulver/Stone-Angels?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ulver/Stone-Angels/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-13T00:25:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73283331,
+            "track_name": "Berlin",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 40135313,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19637653,
+            "album_name": "Dans la peau",
+            "artist_id": 526287,
+            "artist_name": "Camèlia Jordana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cam%C3%A8lia-Jordana/Berlin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cam%C3%A8lia-Jordana/Berlin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-10T12:25:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72921366,
+            "track_name": "Gare de Lyon",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 1489574,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10791075,
+            "album_name": "Barbara chante Barbara",
+            "artist_id": 12407,
+            "artist_name": "Barbara",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barbara/Gare-de-Lyon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barbara/Gare-de-Lyon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:34:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32395139,
+            "track_name": "La barcarolle (From \"I racconti di Hoffmann\")",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 12688886,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15355302,
+            "album_name": "Il rosso amore",
+            "artist_id": 13799,
+            "artist_name": "Filippa Giordano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Filippa-Giordano/La-barcarolle-From-I-racconti-di-Hoffmann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Filippa-Giordano/La-barcarolle-From-I-racconti-di-Hoffmann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-26T04:31:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42900380,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18462546,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16080955,
+            "album_name": "Dalida",
+            "artist_id": 25741111,
+            "artist_name": "Dalida feat. Raymond Lefévre Y Su Orquesta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida-feat-Raymond-Lef%C3%A9vre-Y-Su-Orquesta/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida-feat-Raymond-Lef%C3%A9vre-Y-Su-Orquesta/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T10:58:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 70830937,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 2533638,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19350947,
+            "album_name": "Gondolier (Mono Version)",
+            "artist_id": 35336,
+            "artist_name": "Les Compagnons De La Chanson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Compagnons-de-la-Chanson/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Compagnons-de-la-Chanson/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:02:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80471171,
+            "track_name": "Gare de Lyon",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 43360638,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20479922,
+            "album_name": "Barbara - Fairouz",
+            "artist_id": 25826241,
+            "artist_name": "Dorsaf Hamdani",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dorsaf-Hamdani/Gare-de-lyon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dorsaf-Hamdani/Gare-de-lyon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-07T16:00:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 124052521,
+            "track_name": "Tant qu'il y aura des hommes",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 40576232,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25296076,
+            "album_name": "Jamais sans la nuit",
+            "artist_id": 27919936,
+            "artist_name": "Blondino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blondino/Tant-qu-il-y-aura-des-hommes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blondino/Tant-qu-il-y-aura-des-hommes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-28T22:10:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113654662,
+            "track_name": "Salut les copains (Live) - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 62598850,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23851480,
+            "album_name": "Best of Gilbert Bécaud (Remastered)",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-12T14:10:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 41461966,
+            "track_name": "Gondolier (With All My Heart)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 16101172,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15991437,
+            "album_name": "Yolanda 1958 - 59",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-With-All-My-Heart?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-With-All-My-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-05T19:41:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 122920823,
+            "track_name": "Mon Amour",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5813262,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25146152,
+            "album_name": "The First Seventy Years",
+            "artist_id": 356458,
+            "artist_name": "Ray Jessel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ray-Jessel/Mon-Amour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ray-Jessel/Mon-Amour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-19T22:31:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94357255,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 52202285,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21560966,
+            "album_name": "Le monde de la chanson, Vol. 1: Dalida – Le jour ou la pluie viendra (Remastered 2015)",
+            "artist_id": 29337349,
+            "artist_name": "Dalida feat. Raymond Lefevre Orchestra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida-feat-Raymond-Lefevre-Orchestra/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida-feat-Raymond-Lefevre-Orchestra/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T10:59:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2731103,
+            "track_name": "A Pretty Girl Is Like a Melody",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 68087,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11007494,
+            "album_name": "Thirty Days: The Ultimate Get Back Sessions Collection",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/A-Pretty-Girl-Is-Like-a-Melody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/A-Pretty-Girl-Is-Like-a-Melody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-25T18:01:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110403276,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42211430,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23366401,
+            "album_name": "Le Prince de Lumière: Intégrale des chansons (1951 à 1959)",
+            "artist_id": 85717,
+            "artist_name": "Luis Mariano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luis-Mariano/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luis-Mariano/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-22T13:07:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 5,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Classical",
+                    "music_genre_name_extended": "Classical",
+                    "music_genre_vanity": "Classical"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18011942,
+            "track_name": "Mélodie à quatorze heures",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11171139,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14237346,
+            "album_name": "Le Régime de l'amour",
+            "artist_id": 302742,
+            "artist_name": "Gérard Morel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/G%C3%A9rard-Morel/M%C3%A9lodie-%C3%A0-quatorze-heures?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/G%C3%A9rard-Morel/M%C3%A9lodie-%C3%A0-quatorze-heures/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-29T17:25:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98770723,
+            "track_name": "Salut les copains - Live, Olympia, 1958",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 54513598,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21941006,
+            "album_name": "Concerts inédits de Gilbert Bécaud 1956-1958",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Olympia-1958?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Olympia-1958/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-13T20:10:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91062263,
+            "track_name": "Gare De Lyon - Live - Olympia 69",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13734024,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21324628,
+            "album_name": "Une Femme Qui Chante",
+            "artist_id": 12407,
+            "artist_name": "Barbara",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barbara/Gare-de-Lyon-Live-Olympia-69?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barbara/Gare-de-Lyon-Live-Olympia-69/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-18T08:00:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187954295,
+            "track_name": "Gare de Lyon",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 103228042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32987288,
+            "album_name": "Gare de lyon",
+            "artist_id": 38866448,
+            "artist_name": "Jounass",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jounass/Gare-de-Lyon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jounass/Gare-de-Lyon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-09T14:56:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 109364727,
+            "track_name": "Sous le pont des soupirs",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 59999896,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23219774,
+            "album_name": "Mes cahiers de chansons, Vol. 1",
+            "artist_id": 13712947,
+            "artist_name": "Anny Flore",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anny-Flore/Sous-le-pont-des-soupirs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anny-Flore/Sous-le-pont-des-soupirs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:30:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100363848,
+            "track_name": "Des Adresses Des Téléphones",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3157778,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22093303,
+            "album_name": "Long Box 3CD",
+            "artist_id": 59885,
+            "artist_name": "Marie Laforêt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marie-Lafor%C3%AAt/Des-adresses-des-t%C3%A9l%C3%A9phones?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marie-Lafor%C3%AAt/Des-adresses-des-t%C3%A9l%C3%A9phones/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-02-20T09:33:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1176,
+                    "music_genre_parent_id": 23,
+                    "music_genre_name": "Vocal Pop",
+                    "music_genre_name_extended": "Vocal / Vocal Pop",
+                    "music_genre_vanity": "Vocal-Vocal-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42241501,
+            "track_name": "Gondolier (Original Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18078059,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16038713,
+            "album_name": "Merry Christmas With Dalida",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Original-Mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Original-Mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-05T19:41:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123616741,
+            "track_name": "Every Song Reminds Me of You",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 68418119,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25235267,
+            "album_name": "A Thousand Lost Allegories",
+            "artist_id": 28302511,
+            "artist_name": "Larry O'Neal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Larry-O-Neal/Every-Song-Reminds-Me-of-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Larry-O-Neal/Every-Song-Reminds-Me-of-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-19T03:24:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60710147,
+            "track_name": "La chanson de Paris",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18056927,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17916499,
+            "album_name": "BD Chanson: Jean Sablon",
+            "artist_id": 55654,
+            "artist_name": "Jean Sablon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jean-Sablon/La-chanson-de-Paris?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jean-Sablon/La-chanson-de-Paris/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:28:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54523918,
+            "track_name": "Salut les copains (Live 1957)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26357729,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17206384,
+            "album_name": "Live in Paris",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-1957?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-1957/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T21:38:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54525423,
+            "track_name": "Salut les copains (Olympia, 1958) [Live]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26357730,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17206453,
+            "album_name": "Concerts 1956-1958 (Live)",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Olympia-1958-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Olympia-1958-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T21:38:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98770385,
+            "track_name": "Salut les copains - Live",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13518326,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21940987,
+            "album_name": "Becolympia",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-17T23:30:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 139222530,
+            "track_name": "Salut les copains - Live Olympia 1957; Remasterisé en 2017",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 77201314,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27299593,
+            "album_name": "Éternel en public, The Best Of (Live)",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Olympia-1957-Remasteris%C3%A9-en-2017?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Live-Olympia-1957-Remasteris%C3%A9-en-2017/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-29T02:10:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90900561,
+            "track_name": "Chanson trop monotone",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13476709,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21310683,
+            "album_name": "Triple Best Of",
+            "artist_id": 33105,
+            "artist_name": "Alain Barrière",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alain-Barri%C3%A8re/Chanson-trop-monotone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alain-Barri%C3%A8re/Chanson-trop-monotone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-21T11:07:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8792172,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2881055,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10983257,
+            "album_name": "Versions Reno",
+            "artist_id": 47639,
+            "artist_name": "Ginette Reno",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ginette-Reno/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ginette-Reno/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-11T12:34:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 41367405,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 17632514,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15985295,
+            "album_name": "Vintage Music No. 84 - LP: Dalida",
+            "artist_id": 25549794,
+            "artist_name": "Dalida & Raymond Lefèvre And His Orchestra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida-Raymond-Lef%C3%A8vre-And-His-Orchestra/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida-Raymond-Lef%C3%A8vre-And-His-Orchestra/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T10:58:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4339007,
+            "track_name": "La chanson de mon amour",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8011078,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10577731,
+            "album_name": "Isabelle Pierre",
+            "artist_id": 178888,
+            "artist_name": "Isabelle Pierre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Isabelle-Pierre/La-chanson-de-mon-amour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Isabelle-Pierre/La-chanson-de-mon-amour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T12:48:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74788415,
+            "track_name": "Le Gondolier (En Francés)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 41123442,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19756782,
+            "album_name": "Lo Mejor de Luis Mariano",
+            "artist_id": 85717,
+            "artist_name": "Luis Mariano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luis-Mariano/Le-Gondolier-En-Franc%C3%A9s?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luis-Mariano/Le-Gondolier-En-Franc%C3%A9s/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-22T13:07:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84444976,
+            "track_name": "A Pretty Girl Is Like A Melody - From Zigfield Follies 1919",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13278709,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20907982,
+            "album_name": "Broadway: The American Musical",
+            "artist_id": 234486,
+            "artist_name": "John Steel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/John-Steel/A-Pretty-Girl-Is-Like-a-Melody-From-Zigfield-Follies-1919?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/John-Steel/A-Pretty-Girl-Is-Like-a-Melody-From-Zigfield-Follies-1919/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-29T22:13:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72328066,
+            "track_name": "Barcarolle",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 992458,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19557828,
+            "album_name": "I Like to Riff",
+            "artist_id": 7697,
+            "artist_name": "Nat King Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nat-King-Cole/Barcarolle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nat-King-Cole/Barcarolle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T23:47:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54522814,
+            "track_name": "Salut les copains (Orginal Remastered Version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26357731,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17206337,
+            "album_name": "Gilbert Bécaud : His Best Songs Ever",
+            "artist_id": 30297,
+            "artist_name": "Gilbert Bécaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Orginal-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gilbert-B%C3%A9caud/Salut-les-copains-Orginal-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T21:38:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103685863,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 14497344,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22443622,
+            "album_name": "Mademoiselle Hortensia (Anthologie 1946-1962)",
+            "artist_id": 97467,
+            "artist_name": "Yvette Giraud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yvette-Giraud/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yvette-Giraud/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-11T09:30:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 38192062,
+            "track_name": "Les amants de Venise (2010 Digital Remastering Edition)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 15928210,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15791998,
+            "album_name": "Edith Piaf : The 20 Most Essential Songs (Greatest hits - 2010 Digital Remastering Edition)",
+            "artist_id": 971,
+            "artist_name": "Edith Piaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-971/Les-amants-de-Venise-2010-Digital-Remastering-Edition?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-971/Les-amants-de-Venise-2010-Digital-Remastering-Edition/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-28T11:18:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42939901,
+            "track_name": "Gondolier (US)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18456318,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16083306,
+            "album_name": "French Anthems, Vol. Two",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-US?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-US/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T10:58:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

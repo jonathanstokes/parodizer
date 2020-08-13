@@ -1,0 +1,1728 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.076694011688232,
+      "available": 266
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 9077708,
+            "track_name": "Turn My Swag On (remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12348137,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 11006872,
+            "album_name": "Weezy Evolution",
+            "artist_id": 24406927,
+            "artist_name": "Soulja Boy Tell 'Em feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soulja-Boy-Tell-Em-feat-Lil-Wayne/Turn-My-Swag-On-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soulja-Boy-Tell-Em-feat-Lil-Wayne/Turn-My-Swag-On-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-26T00:25:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193270289,
+            "track_name": "No privacy / No caption needed (feat. Joan Thiele)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 107993824,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36936974,
+            "album_name": "GarbAge",
+            "artist_id": 53374,
+            "artist_name": "Nitro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nitro/No-privacy-No-caption-needed-Joan-Thiele?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nitro/No-privacy-No-caption-needed-Joan-Thiele/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-30T15:51:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 163671686,
+            "track_name": "Call My Name",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 91357435,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 31099559,
+            "album_name": "I, The Mask",
+            "artist_id": 7039,
+            "artist_name": "In Flames",
+            "track_share_url": "https://www.musixmatch.com/lyrics/In-Flames/Call-My-Name?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/In-Flames/Call-My-Name/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-01T11:37:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 197594506,
+            "track_name": "Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 114610429,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 38395009,
+            "album_name": "Hunter Gatherer",
+            "artist_id": 306158,
+            "artist_name": "Avatar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Avatar-5/Wormhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Avatar-5/Wormhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T21:55:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193270293,
+            "track_name": "Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 107993834,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36936974,
+            "album_name": "GarbAge",
+            "artist_id": 53374,
+            "artist_name": "Nitro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nitro/Wormhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nitro/Wormhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-30T14:53:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5195909,
+            "track_name": "Atoms for Peace",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 2584602,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 37,
+            "album_id": 10652346,
+            "album_name": "The Eraser",
+            "artist_id": 36886,
+            "artist_name": "Thom Yorke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thom-Yorke/Atoms-for-Peace?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thom-Yorke/Atoms-for-Peace/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-08T12:22:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 52131632,
+            "track_name": "Divinations",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1968842,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 39,
+            "album_id": 16966201,
+            "album_name": "Crack the Skye",
+            "artist_id": 20416,
+            "artist_name": "Mastodon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:14:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89728087,
+            "track_name": "Divinations - Score",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12604065,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21230830,
+            "album_name": "Crack The Skye (Deluxe Street Date)",
+            "artist_id": 20416,
+            "artist_name": "Mastodon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Score?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Score/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-04T01:10:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19044471,
+            "track_name": "Techno Fan (Afrojack remix)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 9992697,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13875324,
+            "album_name": "Ministry of Sound: Clubbers Guide to Spring 2011",
+            "artist_id": 40908,
+            "artist_name": "The Wombats",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Wombats/Techno-Fan-Afrojack-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Wombats/Techno-Fan-Afrojack-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T22:25:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42283978,
+            "track_name": "Techno Fan (Afrojack Extended Club Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 10667085,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16041299,
+            "album_name": "The Wombats Proudly Present ... This Modern Glitch",
+            "artist_id": 40908,
+            "artist_name": "The Wombats",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Wombats/Techno-Fan-Afrojack-extended-club-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Wombats/Techno-Fan-Afrojack-extended-club-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T22:25:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59254677,
+            "track_name": "Divinations (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 25119143,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17725891,
+            "album_name": "Live At the Aragon",
+            "artist_id": 20416,
+            "artist_name": "Mastodon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-07T03:50:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59489947,
+            "track_name": "Divinations (Live At the Aragon)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 29921543,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17755281,
+            "album_name": "Live At the Aragon",
+            "artist_id": 20416,
+            "artist_name": "Mastodon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Live-At-the-Aragon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mastodon/Divinations-Live-At-the-Aragon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-07T03:50:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 147708268,
+            "track_name": "Atoms for Peace (Four Tet Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 2584603,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28484990,
+            "album_name": "The Eraser Rmxs",
+            "artist_id": 36886,
+            "artist_name": "Thom Yorke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thom-Yorke/Atoms-for-Peace-Four-Tet-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thom-Yorke/Atoms-for-Peace-Four-Tet-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:17:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146193031,
+            "track_name": "Copernico",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 79781156,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 28230863,
+            "album_name": "Shardana",
+            "artist_id": 24394799,
+            "artist_name": "En?Gma",
+            "track_share_url": "https://www.musixmatch.com/lyrics/En-Gma/Copernico?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/En-Gma/Copernico/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-27T08:18:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72628719,
+            "track_name": "L'uomo che viaggiò nel tempo",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 39788799,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19586183,
+            "album_name": "Gli ammutinati del Bouncin' (Ovvero mirabolanti avventure di uomini e mari)",
+            "artist_id": 27809106,
+            "artist_name": "Murubutu feat. La Kattiveria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Murubutu-feat-La-Kattiveria/L-uomo-che-viaggi%C3%B2-nel-tempo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Murubutu-feat-La-Kattiveria/L-uomo-che-viaggi%C3%B2-nel-tempo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-07T19:46:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17891951,
+            "track_name": "(She Was a) Hotel Detective in the Future",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 854661,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13766027,
+            "album_name": "The Else",
+            "artist_id": 6994,
+            "artist_name": "They Might Be Giants",
+            "track_share_url": "https://www.musixmatch.com/lyrics/They-Might-Be-Giants/She-Was-a-Hotel-Detective-in-the-Future?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/They-Might-Be-Giants/She-Was-a-Hotel-Detective-in-the-Future/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:14:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90468725,
+            "track_name": "I Tamper With The Evidence At The Murder Site of Odin",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 50414653,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21279554,
+            "album_name": "Dethalbum II",
+            "artist_id": 29940251,
+            "artist_name": "Metalocalypse: Dethklok",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metalocalypse-Dethklok-2/I-Tamper-With-The-Evidence-At-The-Murder-Site-of-Odin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metalocalypse-Dethklok-2/I-Tamper-With-The-Evidence-At-The-Murder-Site-of-Odin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-30T19:17:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 71434148,
+            "track_name": "Trinity",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 39090485,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19444342,
+            "album_name": "Esoteric Warfare",
+            "artist_id": 14083,
+            "artist_name": "Mayhem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mayhem/Trinity?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mayhem/Trinity/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-26T02:56:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74551344,
+            "track_name": "Dimension Z",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 40962136,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 19731827,
+            "album_name": "Z²",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project-2/Dimension-Z?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project-2/Dimension-Z/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-28T03:43:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146167895,
+            "track_name": "Copernico",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 93031960,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28227795,
+            "album_name": "Shardana",
+            "artist_id": 29923715,
+            "artist_name": "En?gma feat. Kaizén",
+            "track_share_url": "https://www.musixmatch.com/lyrics/En-Gma-Kaiz%C3%A9n/Copernico?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/En-Gma-Kaiz%C3%A9n/Copernico/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-11T17:18:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84074423,
+            "track_name": "Apocalypse 1992",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47191325,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20867593,
+            "album_name": "Space 1992: Rise of the Chaos Wizards",
+            "artist_id": 14365587,
+            "artist_name": "Gloryhammer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gloryhammer/Apocalypse-1992?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gloryhammer/Apocalypse-1992/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-28T11:30:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168246958,
+            "track_name": "Into the Terrorvortex of Kor-Virliath",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 94594425,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 32070058,
+            "album_name": "Legends from Beyond the Galactic Terrorvortex (Deluxe Version)",
+            "artist_id": 14365587,
+            "artist_name": "Gloryhammer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gloryhammer/Into-the-Terrorvortex-of-Kor-Virliath?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gloryhammer/Into-the-Terrorvortex-of-Kor-Virliath/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-25T12:11:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168246960,
+            "track_name": "The Siege of Dunkeld (In Hoots We Trust)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 94594432,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 32070058,
+            "album_name": "Legends from Beyond the Galactic Terrorvortex (Deluxe Version)",
+            "artist_id": 14365587,
+            "artist_name": "Gloryhammer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gloryhammer/The-Siege-of-Dunkeld-In-Hoots-We-Trust?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gloryhammer/The-Siege-of-Dunkeld-In-Hoots-We-Trust/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-27T11:21:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74551336,
+            "track_name": "Ziltoidian Empire",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 40962155,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19731827,
+            "album_name": "Z²",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Ziltoidian-Empire-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Ziltoidian-Empire-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-13T19:38:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84890798,
+            "track_name": "Through the Wormhole (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47775489,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20937315,
+            "album_name": "Devin Townsend Presents: Ziltoid Live at the Royal Albert Hall",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Through-the-Wormhole-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Through-the-Wormhole-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74551337,
+            "track_name": "War Princess",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 40962151,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19731827,
+            "album_name": "Z²",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/War-Princess-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/War-Princess-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 981579,
+            "track_name": "The Burning Darkness",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 712726,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10301180,
+            "album_name": "With Fear I Kiss the Burning Darkness",
+            "artist_id": 5948,
+            "artist_name": "At the Gates",
+            "track_share_url": "https://www.musixmatch.com/lyrics/At-the-Gates/The-Burning-Darkness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/At-the-Gates/The-Burning-Darkness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T04:05:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84890799,
+            "track_name": "Dimension Z (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47775486,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20937315,
+            "album_name": "Devin Townsend Presents: Ziltoid Live at the Royal Albert Hall",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Dimension-Z-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Dimension-Z-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182555294,
+            "track_name": "Face of the Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 99848369,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 34534189,
+            "album_name": "Gidim",
+            "artist_id": 13787552,
+            "artist_name": "Rings of Saturn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rings-of-Saturn/Face-of-the-Wormhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rings-of-Saturn/Face-of-the-Wormhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-24T16:50:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84890791,
+            "track_name": "Ziltoidian Empire (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47775504,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20937315,
+            "album_name": "Devin Townsend Presents: Ziltoid Live at the Royal Albert Hall",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Ziltoidian-Empire-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Ziltoidian-Empire-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1203261,
+            "track_name": "Through the Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 997868,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10318824,
+            "album_name": "Ayreonauts Only",
+            "artist_id": 7728,
+            "artist_name": "Ayreon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ayreon/Through-the-Wormhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ayreon/Through-the-Wormhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T14:31:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84890792,
+            "track_name": "War Princess (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47775494,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20937315,
+            "album_name": "Devin Townsend Presents: Ziltoid Live at the Royal Albert Hall",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/War-Princess-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/War-Princess-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74551343,
+            "track_name": "Through the Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 40962148,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19731827,
+            "album_name": "Z²",
+            "artist_id": 449254,
+            "artist_name": "Devin Townsend Project",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Through-the-Wormhole-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend-Project/Through-the-Wormhole-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-02T14:33:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30154724,
+            "track_name": "The Burning Darkness (live)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 712727,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13757240,
+            "album_name": "Terminal Spirit Disease",
+            "artist_id": 5948,
+            "artist_name": "At the Gates",
+            "track_share_url": "https://www.musixmatch.com/lyrics/At-the-Gates/The-Burning-Darkness-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/At-the-Gates/The-Burning-Darkness-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:54:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74439510,
+            "track_name": "Omnicron",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 10618923,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19723978,
+            "album_name": "The Psycho-Social, Chemical, Biological, and Electro-Magnetic Manipulation of Human Consciousness",
+            "artist_id": 13842995,
+            "artist_name": "Jedi Mind Tricks feat. Apathy the Alien Tongue & The Sun Pharaoh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jedi-Mind-Tricks-feat-Apathy-the-Alien-Tongue-The-Sun-Pharaoh/Omnicron?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jedi-Mind-Tricks-feat-Apathy-the-Alien-Tongue-The-Sun-Pharaoh/Omnicron/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-30T02:40:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18227549,
+            "track_name": "Guerra psichica",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 11296128,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 14246551,
+            "album_name": "Retox",
+            "artist_id": 522414,
+            "artist_name": "Dsa Commando",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dsa-Commando/Guerra-Psichica?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dsa-Commando/Guerra-Psichica/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-28T22:09:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95907840,
+            "track_name": "Bitrektual (feat. Jason Charles Miller)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 14050008,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21680911,
+            "album_name": "Bitrektual",
+            "artist_id": 24819715,
+            "artist_name": "Aurelio Voltaire",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aurelio-Voltaire-feat-Jason-Charles-Miller/Bitrektual?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aurelio-Voltaire-feat-Jason-Charles-Miller/Bitrektual/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-19T18:42:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8680836,
+            "track_name": "I Tamper With the Evidence at the Murder Site of Odin",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 8499446,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10973115,
+            "album_name": "Dethalbum II",
+            "artist_id": 247370,
+            "artist_name": "Dethklok",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dethklok/I-Tamper-With-the-Evidence-at-the-Murder-Site-of-Odin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dethklok/I-Tamper-With-the-Evidence-at-the-Murder-Site-of-Odin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T21:46:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126369961,
+            "track_name": "Trust Issues",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 70055355,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25638368,
+            "album_name": "Finally",
+            "artist_id": 33017553,
+            "artist_name": "Rizha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rizha/Trust-Issues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rizha/Trust-Issues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T19:44:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48953658,
+            "track_name": "Liberal Arts",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10618933,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16630567,
+            "album_name": "Miclub - The Curriculum",
+            "artist_id": 13843014,
+            "artist_name": "Canibus feat. Jedi Mind Tricks",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Canibus-feat-Jedi-Mind-Tricks/Liberal-Arts?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Canibus-feat-Jedi-Mind-Tricks/Liberal-Arts/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-02T13:26:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30309675,
+            "track_name": "Slip Like Space",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2427735,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13770408,
+            "album_name": "Dream to Make Believe",
+            "artist_id": 32078,
+            "artist_name": "Armor for Sleep",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Armor-for-Sleep/Slip-Like-Space?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Armor-for-Sleep/Slip-Like-Space/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T06:02:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6427478,
+            "track_name": "Dark Heart News",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1335477,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10764356,
+            "album_name": "None Shall Pass",
+            "artist_id": 10787,
+            "artist_name": "Aesop Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Dark-Heart-News?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Dark-Heart-News/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:10:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74199783,
+            "track_name": "War Princess",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 40749236,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19706394,
+            "album_name": "Z²",
+            "artist_id": 11635,
+            "artist_name": "Devin Townsend",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-Townsend/War-Princess?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-Townsend/War-Princess/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-10T16:25:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45187207,
+            "track_name": "The Wormhole",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 19531397,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 16249436,
+            "album_name": "Gravitas",
+            "artist_id": 15626,
+            "artist_name": "Talib Kweli",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Talib-Kweli/The-Wormhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Talib-Kweli/The-Wormhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-11T14:29:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15764586,
+            "track_name": "Crushing Limbs",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 10191119,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13906733,
+            "album_name": "Cut + Paste",
+            "artist_id": 13822875,
+            "artist_name": "Dumbfoundead & DJ Zo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dumbfoundead-DJ-Zo/Crushing-Limbs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dumbfoundead-DJ-Zo/Crushing-Limbs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:08:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18979962,
+            "track_name": "Miss by a Mile",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11662383,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10379241,
+            "album_name": "We Came From Beyond, Volume 2",
+            "artist_id": 14322802,
+            "artist_name": "Aesop Rock feat. Eyedea and Slug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock-feat-Eyedea-and-Slug/Miss-by-a-Mile?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock-feat-Eyedea-and-Slug/Miss-by-a-Mile/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T10:08:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95907843,
+            "track_name": "The Sexy Data Tango (Bitrektual Version)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 14010088,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21680911,
+            "album_name": "Bitrektual",
+            "artist_id": 24819715,
+            "artist_name": "Aurelio Voltaire",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aurelio-Voltaire/The-Sexy-Data-Tango-Bitrektual-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aurelio-Voltaire/The-Sexy-Data-Tango-Bitrektual-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-22T01:21:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 50455660,
+            "track_name": "The Yes & The Y'all",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 23457173,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16789376,
+            "album_name": "Labor Days",
+            "artist_id": 10787,
+            "artist_name": "Aesop Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/The-Yes-The-Y-all?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/The-Yes-The-Y-all/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-18T20:20:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93194595,
+            "track_name": "Dark Heart News",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 50577898,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21474229,
+            "album_name": "None Shall Pass",
+            "artist_id": 13960253,
+            "artist_name": "Aesop Rock feat. Rob Sonic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock-feat-Rob-Sonic/Dark-Heart-News?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock-feat-Rob-Sonic/Dark-Heart-News/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-15T07:18:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 112649417,
+            "track_name": "How To Build A Time Machine",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1701466,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 23717014,
+            "album_name": "This Delicate Thing We've Made",
+            "artist_id": 15383,
+            "artist_name": "Darren Hayes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Darren-Hayes/How-to-Build-a-Time-Machine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Darren-Hayes/How-to-Build-a-Time-Machine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T15:09:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

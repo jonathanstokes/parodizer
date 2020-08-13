@@ -1,0 +1,531 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.038332223892212,
+      "available": 15
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 153436716,
+            "track_name": "Potty Mouth",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10578315,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 80,
+            "album_id": 29366087,
+            "album_name": "Careless World: Rise Of The Last King",
+            "artist_id": 13892699,
+            "artist_name": "Tyga feat. Busta Rhymes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyga-feat-Busta-Rhymes/Potty-Mouth?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyga-feat-Busta-Rhymes/Potty-Mouth/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-04T18:24:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123662940,
+            "track_name": "Loosie",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 10181384,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25241406,
+            "album_name": "Black And Brown",
+            "artist_id": 13821547,
+            "artist_name": "Black Milk feat. Danny Brown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-Milk-feat-Danny-Brown-3/Loosie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Milk-feat-Danny-Brown-3/Loosie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-05T18:16:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30098020,
+            "track_name": "Boy or Girl?",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2243534,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 13753617,
+            "album_name": "Señor Smoke",
+            "artist_id": 27276,
+            "artist_name": "Electric Six",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Electric-Six/Boy-or-Girl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Electric-Six/Boy-or-Girl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:15:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31558766,
+            "track_name": "Organs",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 12263615,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11303884,
+            "album_name": "Hokey Fright",
+            "artist_id": 24390437,
+            "artist_name": "The Uncluded",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Uncluded/Organs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Uncluded/Organs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-08-22T02:17:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19495860,
+            "track_name": "グローリア",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 11924649,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 14310428,
+            "album_name": "ポラリス",
+            "artist_id": 13983343,
+            "artist_name": "三澤紗千香",
+            "track_share_url": "https://www.musixmatch.com/lyrics/%E4%B8%89%E6%BE%A4%E7%B4%97%E5%8D%83%E9%A6%99/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/%E4%B8%89%E6%BE%A4%E7%B4%97%E5%8D%83%E9%A6%99/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-18T16:37:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 29,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Anime",
+                    "music_genre_name_extended": "Anime",
+                    "music_genre_vanity": "Anime"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 153564386,
+            "track_name": "Hippie Grinder",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 85459839,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29388745,
+            "album_name": "Vivisektor",
+            "artist_id": 36341394,
+            "artist_name": "Vivisektor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vivisektor/Hippie-Grinder?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vivisektor/Hippie-Grinder/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T06:40:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6649707,
+            "track_name": "Sole Dead Brothers",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7234848,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10784075,
+            "album_name": "The Death of Tragedy",
+            "artist_id": 105714,
+            "artist_name": "Tragedy Khadafi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tragedy-Khadafi/Sole-Dead-Brothers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tragedy-Khadafi/Sole-Dead-Brothers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-01T02:35:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1070,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "East Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / East Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-East-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2859741,
+            "track_name": "Flouride the Lightning",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7161876,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10452251,
+            "album_name": "The Whole Tooth, and Nothing but the Tooth…",
+            "artist_id": 100574,
+            "artist_name": "Holy Molar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Holy-Molar/Flouride-the-Lightning?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Holy-Molar/Flouride-the-Lightning/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:28:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 167830197,
+            "track_name": "Okay Damn",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 94300732,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31970211,
+            "album_name": "Different Beasts",
+            "artist_id": 38122181,
+            "artist_name": "Wilmo feat. TMac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wilmo-feat-TMac/Okay-Damn?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wilmo-feat-TMac/Okay-Damn/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-30T04:52:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 69304171,
+            "track_name": "Smirk the Godblender",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 554397,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19129587,
+            "album_name": "Mods Carve the Pig: Assassins, Toads, And God's Flesh",
+            "artist_id": 3020,
+            "artist_name": "Thought Industry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thought-Industry/Smirk-the-Godblender?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thought-Industry/Smirk-the-Godblender/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:35:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1353050,
+            "track_name": "Suzanne",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2472738,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10330709,
+            "album_name": "Corky and the Juice Pigs",
+            "artist_id": 33506,
+            "artist_name": "Corky and the Juice Pigs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Corky-and-the-Juice-Pigs/Suzanne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Corky-and-the-Juice-Pigs/Suzanne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T15:18:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 133659846,
+            "track_name": "Moister Than an Oyster",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 74545785,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26706932,
+            "album_name": "Swag Money",
+            "artist_id": 34107091,
+            "artist_name": "Justin Abisror feat. Hailey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Abisror-feat-Hailey/Moister-Than-an-Oyster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Abisror-feat-Hailey/Moister-Than-an-Oyster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-29T01:54:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53346319,
+            "track_name": "I Don't Want to Miss You",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 25626505,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17096403,
+            "album_name": "Coming Out",
+            "artist_id": 26434942,
+            "artist_name": "Cass Hazel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cass-Hazel/I-Don-t-Want-to-Miss-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cass-Hazel/I-Don-t-Want-to-Miss-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-23T17:13:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8491356,
+            "track_name": "Belly of the Beast",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7394584,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10956453,
+            "album_name": "White Flag",
+            "artist_id": 118093,
+            "artist_name": "Madeline",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Madeline/Belly-of-the-Beast?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Madeline/Belly-of-the-Beast/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-08-20T02:50:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 63899541,
+            "track_name": "Inuitses",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13254950,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18349774,
+            "album_name": "Inuit",
+            "artist_id": 13939263,
+            "artist_name": "Quadrilles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Quadrilles/Inuitses?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Quadrilles/Inuitses/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-19T17:31:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.029573917388916,
+      "available": 3
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 155551227,
+            "track_name": "Che notte!",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 86545122,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 29721994,
+            "album_name": "Beats From The Lido",
+            "artist_id": 36578153,
+            "artist_name": "Willie Peyote feat. Selton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Willie-Peyote-feat-Selton/Che-notte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Willie-Peyote-feat-Selton/Che-notte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-01T17:39:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7494143,
+            "track_name": "Sabrina",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5988366,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10865998,
+            "album_name": "Doze Fotogramas",
+            "artist_id": 393535,
+            "artist_name": "Manu Lafer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Manu-Lafer/Sabrina?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Manu-Lafer/Sabrina/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T13:34:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59699558,
+            "track_name": "Profiterole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 30078696,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17782267,
+            "album_name": "Rehearsals for the End",
+            "artist_id": 26832403,
+            "artist_name": "Some Sad Clowns",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Some-Sad-Clowns/Profiterole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Some-Sad-Clowns/Profiterole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-12T14:17:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

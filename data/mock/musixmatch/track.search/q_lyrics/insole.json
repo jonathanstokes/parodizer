@@ -1,0 +1,844 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.056615114212036,
+      "available": 23
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 100989114,
+            "track_name": "All My Life",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 30773729,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22152368,
+            "album_name": "Follow Me Home",
+            "artist_id": 13798857,
+            "artist_name": "Jay Rock feat. Lil Wayne & will.i.am",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-05T17:34:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84217554,
+            "track_name": "All My Life (In the Ghetto)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 9995511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 17,
+            "album_id": 20883875,
+            "album_name": "Follow Me Home",
+            "artist_id": 13798857,
+            "artist_name": "Jay Rock feat. Lil Wayne & will.i.am",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life-In-the-Ghetto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life-In-the-Ghetto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:06:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84681163,
+            "track_name": "All My Life (In the Ghetto) [feat. Lil Wayne & Will.I.Am]",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47629200,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20921870,
+            "album_name": "Follow Me Home",
+            "artist_id": 28955855,
+            "artist_name": "Jay Rock, Lil Wayne & William",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-Lil-Wayne-William/All-My-Life-In-the-Ghetto-feat-Lil-Wayne-Will-I-Am?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-Lil-Wayne-William/All-My-Life-In-the-Ghetto-feat-Lil-Wayne-Will-I-Am/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-17T10:45:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 139538329,
+            "track_name": "Suave",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 77464808,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 37,
+            "album_id": 27347049,
+            "album_name": "Suavé",
+            "artist_id": 24596367,
+            "artist_name": "Alkaline",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alkaline-2/Suave?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alkaline-2/Suave/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-03T11:42:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99665348,
+            "track_name": "Sell My Gun",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 54991597,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 22026087,
+            "album_name": "Sell My Gun",
+            "artist_id": 24561256,
+            "artist_name": "Chronixx",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chronixx/Sell-My-Gun?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chronixx/Sell-My-Gun/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-18T11:02:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85229211,
+            "track_name": "Mus Come a Road",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 9858766,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20961479,
+            "album_name": "Miss Lilys Family Style Vol. 1",
+            "artist_id": 13802,
+            "artist_name": "Mr. Vegas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Vegas/Mus-Come-a-Road?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Vegas/Mus-Come-a-Road/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-12T12:49:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81981642,
+            "track_name": "Satellites",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 41142859,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 20672301,
+            "album_name": "Searching for Zero",
+            "artist_id": 265702,
+            "artist_name": "Cancer Bats",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cancer-Bats/Satellites?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cancer-Bats/Satellites/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-11T23:25:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16692000,
+            "track_name": "Six Royal Vipers",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 5634594,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11066823,
+            "album_name": "Maniac Meat",
+            "artist_id": 317986,
+            "artist_name": "TOBACCO",
+            "track_share_url": "https://www.musixmatch.com/lyrics/TOBACCO-2/Six-Royal-Vipers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/TOBACCO-2/Six-Royal-Vipers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-18T10:31:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195853015,
+            "track_name": "All the Night Without Love",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 8678427,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 37765781,
+            "album_name": "Ash Wednesday",
+            "artist_id": 277927,
+            "artist_name": "Elvis Perkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Perkins/All-The-Night-Without-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Perkins/All-The-Night-Without-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-26T13:15:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82348250,
+            "track_name": "Soul Searching",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 44283280,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 20715422,
+            "album_name": "Past Present Future...",
+            "artist_id": 28397120,
+            "artist_name": "Dafuniks feat. Particle Man",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dafuniks-feat-Particle-Man/Soul-Searching?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dafuniks-feat-Particle-Man/Soul-Searching/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-11T10:19:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93591744,
+            "track_name": "El Pozo",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 51859544,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 21504017,
+            "album_name": "Viento y Sombra",
+            "artist_id": 29445765,
+            "artist_name": "Rosario Ortega",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rosario-Ortega/El-Pozo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rosario-Ortega/El-Pozo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-24T17:08:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 177972571,
+            "track_name": "Insolação",
+            "track_name_translation_list": [],
+            "track_rating": 3,
+            "commontrack_id": 98172651,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33677309,
+            "album_name": "Insolação",
+            "artist_id": 39336680,
+            "artist_name": "Vinicius Viana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vin%C3%ADcius-Viana/Insola%C3%A7%C3%A3o?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vin%C3%ADcius-Viana/Insola%C3%A7%C3%A3o/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-14T11:55:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 181709709,
+            "track_name": "C4",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 99582576,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34377905,
+            "album_name": "Im Ok",
+            "artist_id": 39665106,
+            "artist_name": "wilson hunter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/wilson-hunter/C4?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/wilson-hunter/C4/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-18T12:44:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17837880,
+            "track_name": "Crystal Diamond Women Flow",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11093893,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14230046,
+            "album_name": "Back 2 Back Palz",
+            "artist_id": 362203,
+            "artist_name": "Leslie Hall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leslie-Hall/Crystal-Diamond-Women-Flow?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leslie-Hall/Crystal-Diamond-Women-Flow/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-11T15:56:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54648019,
+            "track_name": "Sobb Story",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26417772,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17219783,
+            "album_name": "Premortem",
+            "artist_id": 53163,
+            "artist_name": "MonsteR",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Monster/Sobb-Story?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Monster/Sobb-Story/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-28T21:59:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185550881,
+            "track_name": "Tougher",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 90616150,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35350572,
+            "album_name": "Iceman Maverick (Deluxe Edition)",
+            "artist_id": 29414682,
+            "artist_name": "Kudoz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kudoz/Tougher?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kudoz/Tougher/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-07T00:54:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189393714,
+            "track_name": "Phhhoto",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 104684830,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36039651,
+            "album_name": "Who Would've Thought?",
+            "artist_id": 38395939,
+            "artist_name": "Trent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trent-15/Phhhoto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trent-15/Phhhoto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-07T23:25:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 777492,
+            "track_name": "Babylon Drifter",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1168374,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10285218,
+            "album_name": "Hit & Run Holiday",
+            "artist_id": 9072,
+            "artist_name": "My Life With the Thrill Kill Kult",
+            "track_share_url": "https://www.musixmatch.com/lyrics/My-Life-With-the-Thrill-Kill-Kult/Babylon-Drifter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/My-Life-With-the-Thrill-Kill-Kult/Babylon-Drifter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-07-27T19:17:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1002,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Goth Rock",
+                    "music_genre_name_extended": "Alternative / Goth Rock",
+                    "music_genre_vanity": "Alternative-Goth-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11172618,
+            "track_name": "Mus Come a Road (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1601636,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11228682,
+            "album_name": "Mus Come a Road",
+            "artist_id": 13802,
+            "artist_name": "Mr. Vegas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Vegas/Mus-Come-A-Road-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Vegas/Mus-Come-A-Road-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-23T07:10:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164320398,
+            "track_name": "Walk On By",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 91799022,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 31241075,
+            "album_name": "The High Content",
+            "artist_id": 37291130,
+            "artist_name": "Dankton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dankton/Walk-On-By?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dankton/Walk-On-By/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-03T10:51:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129021260,
+            "track_name": "Have to Go",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 71715516,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25998768,
+            "album_name": "Have to Go",
+            "artist_id": 33128278,
+            "artist_name": "RaneRaps",
+            "track_share_url": "https://www.musixmatch.com/lyrics/RaneRaps/Have-to-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/RaneRaps/Have-to-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-07T20:49:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185781093,
+            "track_name": "Spaniard",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 101624223,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35410286,
+            "album_name": "Spaniard - Single",
+            "artist_id": 40529926,
+            "artist_name": "Landolyrical",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Landolyrical-1/Spaniard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Landolyrical-1/Spaniard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-29T12:40:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157432865,
+            "track_name": "Bankroll",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 87550638,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29994796,
+            "album_name": "TheCoolAintScaredOfTomorrow",
+            "artist_id": 35421700,
+            "artist_name": "Kenny Duke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kenny-Duke/Bankroll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kenny-Duke/Bankroll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T22:26:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

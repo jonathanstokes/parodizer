@@ -1,0 +1,1657 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.079467058181763,
+      "available": 3714
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 200357565,
+            "track_name": "The Climb Back",
+            "track_name_translation_list": [],
+            "track_rating": 91,
+            "commontrack_id": 113835591,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 45,
+            "album_id": 39278073,
+            "album_name": "Lewis Street - Single",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-23T14:02:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200363633,
+            "track_name": "man i is",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 113839808,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 39279713,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-1/man-i-is?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-1/man-i-is/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T07:29:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198422021,
+            "track_name": "THROW UP SESSION #1",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 112137020,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38618219,
+            "album_name": "THROW UP SESSION #1 - Single",
+            "artist_id": 33085510,
+            "artist_name": "Acru",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Acru-3/THROW-UP-SESSION-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Acru-3/THROW-UP-SESSION-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-12T20:32:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198460032,
+            "track_name": "Snow On Tha Bluff",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 112161944,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 75,
+            "album_id": 38630673,
+            "album_name": "Snow on tha Bluff - Single",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Snow-On-Tha-Bluff?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Snow-On-Tha-Bluff/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-22T14:22:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162000084,
+            "track_name": "Wake Up in the Sky",
+            "track_name_translation_list": [],
+            "track_rating": 72,
+            "commontrack_id": 87444972,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1153,
+            "album_id": 30808919,
+            "album_name": "Evil Genius",
+            "artist_id": 41870659,
+            "artist_name": "Gucci Mane feat. Bruno Mars & Kodak Black",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Bruno-Mars-Kodak-Black/Wake-Up-in-the-Sky?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Bruno-Mars-Kodak-Black/Wake-Up-in-the-Sky/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:24:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356129,
+            "track_name": "G.O.M.D.",
+            "track_name_translation_list": [],
+            "track_rating": 71,
+            "commontrack_id": 43308169,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1749,
+            "album_id": 20899620,
+            "album_name": "2014 Forest Hills Drive",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/G-O-M-D-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/G-O-M-D-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-07T14:54:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91390546,
+            "track_name": "Classic Man",
+            "track_name_translation_list": [],
+            "track_rating": 67,
+            "commontrack_id": 44227870,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 7198,
+            "album_id": 21164563,
+            "album_name": "The Roger Goode Show Presents: The Happy Hour",
+            "artist_id": 28389982,
+            "artist_name": "Jidenna feat. Roman GianArthur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jidenna-feat-Roman-GianArthur/Classic-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jidenna-feat-Roman-GianArthur/Classic-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-24T23:26:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156282458,
+            "track_name": "The Ringer",
+            "track_name_translation_list": [],
+            "track_rating": 57,
+            "commontrack_id": 86881925,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 731,
+            "album_id": 29809240,
+            "album_name": "Kamikaze",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/The-Ringer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/The-Ringer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-14T09:36:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162742861,
+            "track_name": "a lot",
+            "track_name_translation_list": [],
+            "track_rating": 56,
+            "commontrack_id": 90841511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 829,
+            "album_id": 30936486,
+            "album_name": "i am > i was",
+            "artist_id": 40684897,
+            "artist_name": "21 Savage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/21-Savage/a-lot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/21-Savage/a-lot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:25:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34211282,
+            "track_name": "Work Out",
+            "track_name_translation_list": [],
+            "track_rating": 53,
+            "commontrack_id": 9867343,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1508,
+            "album_id": 15511899,
+            "album_name": "Cole World: The Sideline Story",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Work-Out?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Work-Out/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-11T10:05:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356124,
+            "track_name": "Wet Dreamz",
+            "track_name_translation_list": [],
+            "track_rating": 51,
+            "commontrack_id": 43308173,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4801,
+            "album_id": 20899620,
+            "album_name": "2014 Forest Hills Drive",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Wet-Dreamz-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Wet-Dreamz-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-07T09:30:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200379159,
+            "track_name": "man i is",
+            "track_name_translation_list": [],
+            "track_rating": 49,
+            "commontrack_id": 113853405,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 39285303,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-7/man-i-is?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-7/man-i-is/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-27T19:16:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356132,
+            "track_name": "Apparently",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 43306574,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5096,
+            "album_id": 20899620,
+            "album_name": "2014 Forest Hills Drive",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Apparently-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Apparently-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-26T08:22:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200363630,
+            "track_name": "Open Mic\"Aquarius III\"",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 113839805,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 39279713,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-1/Open-Mic-Aquarius-III?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-1/Open-Mic-Aquarius-III/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T06:42:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169944909,
+            "track_name": "Cuaderno",
+            "track_name_translation_list": [],
+            "track_rating": 47,
+            "commontrack_id": 95188094,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 687,
+            "album_id": 32394521,
+            "album_name": "Climaxxx",
+            "artist_id": 38420418,
+            "artist_name": "Dalex feat. Nicky Jam, Justin Quiles, Sech, Lenny Tavárez, Feid & Rafa Pabön",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalex-feat-Nicky-Jam-Justin-Quiles-Sech-Lenny-Tav%C3%A1rez-Feid-Rafa-Pab%C3%B6n/Cuaderno?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalex-feat-Nicky-Jam-Justin-Quiles-Sech-Lenny-Tav%C3%A1rez-Feid-Rafa-Pab%C3%B6n/Cuaderno/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-12T08:32:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158503283,
+            "track_name": "Potato Salad",
+            "track_name_translation_list": [],
+            "track_rating": 44,
+            "commontrack_id": 88127061,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 41,
+            "album_id": 30164726,
+            "album_name": "Potato Salad",
+            "artist_id": 34072811,
+            "artist_name": "Tyler, The Creator feat. A Rocky",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator-feat-A-AP-Rocky/Potato-Salad?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator-feat-A-AP-Rocky/Potato-Salad/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-28T20:33:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84397675,
+            "track_name": "Planez",
+            "track_name_translation_list": [],
+            "track_rating": 43,
+            "commontrack_id": 47333584,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 936,
+            "album_id": 20905169,
+            "album_name": "Late Nights: The Album",
+            "artist_id": 28293013,
+            "artist_name": "Jeremih feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jeremih-feat-J-Cole/Planez?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jeremih-feat-J-Cole/Planez/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-03T09:41:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149154975,
+            "track_name": "ATM",
+            "track_name_translation_list": [],
+            "track_rating": 43,
+            "commontrack_id": 82902069,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 729,
+            "album_id": 28702666,
+            "album_name": "KOD",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/ATM?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/ATM/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-10T07:13:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 176683397,
+            "track_name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+            "track_name_translation_list": [],
+            "track_rating": 41,
+            "commontrack_id": 97804179,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 23,
+            "album_id": 33472628,
+            "album_name": "Revenge of the Dreamers III: Director's Cut",
+            "artist_id": 39105558,
+            "artist_name": "Dreamville feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-JID-Bas-J-Cole-EARTHGANG-Young-Nudy/Down-Bad-with-JID-Bas-feat-J-Cole-EARTHGANG-Young-Nudy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-JID-Bas-J-Cole-EARTHGANG-Young-Nudy/Down-Bad-with-JID-Bas-feat-J-Cole-EARTHGANG-Young-Nudy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-29T23:46:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132990174,
+            "track_name": "Reminder (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 40,
+            "commontrack_id": 74232071,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 146,
+            "album_id": 26612854,
+            "album_name": "Reminder (Remix)",
+            "artist_id": 34025899,
+            "artist_name": "The Weeknd feat. A Rocky & Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Weeknd-feat-A-AP-Rocky-Young-Thug/Reminder-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Weeknd-feat-A-AP-Rocky-Young-Thug/Reminder-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-30T15:39:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 155733164,
+            "track_name": "Tribe (with J. Cole)",
+            "track_name_translation_list": [],
+            "track_rating": 39,
+            "commontrack_id": 86643382,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 94,
+            "album_id": 29750018,
+            "album_name": "Tribe (with J. Cole)",
+            "artist_id": 27796331,
+            "artist_name": "Bas feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole/Tribe-with-J-Cole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole/Tribe-with-J-Cole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-27T05:17:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189258307,
+            "track_name": "Moonwalkin (feat. Lil Durk)",
+            "track_name_translation_list": [],
+            "track_rating": 39,
+            "commontrack_id": 104563077,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 82,
+            "album_id": 36020333,
+            "album_name": "Please Excuse Me For Being Antisocial",
+            "artist_id": 33380448,
+            "artist_name": "Roddy Ricch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roddy-Ricch-Lil-Durk/Moonwalkin-Lil-Durk?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roddy-Ricch-Lil-Durk/Moonwalkin-Lil-Durk/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-16T11:14:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356127,
+            "track_name": "Fire Squad",
+            "track_name_translation_list": [],
+            "track_rating": 39,
+            "commontrack_id": 44489374,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 370,
+            "album_id": 20899620,
+            "album_name": "2014 Forest Hills Drive",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Fire-Squad?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Fire-Squad/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-05T15:49:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84356123,
+            "track_name": "January 28th",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 44489367,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 576,
+            "album_id": 20899620,
+            "album_name": "2014 Forest Hills Drive",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/January-28th?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/January-28th/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-19T07:36:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159058075,
+            "track_name": "Can't Get Enough (Mixed)",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 88429406,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 47,
+            "album_id": 30251066,
+            "album_name": "Hustle Music 6 (DJ Mix)",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Can-t-Get-Enough-Mixed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Can-t-Get-Enough-Mixed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-23T07:19:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 134271367,
+            "track_name": "Hip Hop Phile",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "KO",
+                  "translation": "힙합성애자"
+                }
+              }
+            ],
+            "track_rating": 38,
+            "commontrack_id": 74821131,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 108,
+            "album_id": 26800687,
+            "album_name": "DARK & WILD",
+            "artist_id": 24410130,
+            "artist_name": "BTS",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BTS/Hip-Hop-Phile?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BTS/Hip-Hop-Phile/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-16T09:46:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1686,
+                    "music_genre_parent_id": 1614,
+                    "music_genre_name": "K-Pop",
+                    "music_genre_name_extended": "Pop / K-Pop",
+                    "music_genre_vanity": "Pop-K-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169932306,
+            "track_name": "Confessions of a Dangerous Mind",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 93821973,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 197,
+            "album_id": 32393205,
+            "album_name": "Confessions of a Dangerous Mind",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-7/Confessions-of-a-Dangerous-Mind?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-7/Confessions-of-a-Dangerous-Mind/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T18:40:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200379156,
+            "track_name": "Open Mic\"Aquarius III\"",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 113853402,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 39285303,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-7/Open-Mic-Aquarius-III?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-7/Open-Mic-Aquarius-III/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T19:06:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123499387,
+            "track_name": "4 Your Eyez Only",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 68339063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1046,
+            "album_id": 25211090,
+            "album_name": "4 Your Eyez Only",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/4-Your-Eyez-Only?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/4-Your-Eyez-Only/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-16T10:05:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161462272,
+            "track_name": "Off Deez (with J. Cole)",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 90019446,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 35,
+            "album_id": 30706350,
+            "album_name": "DiCaprio 2",
+            "artist_id": 37104777,
+            "artist_name": "JID feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/JID-feat-J-Cole/Off-Deez-with-J-Cole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/JID-feat-J-Cole/Off-Deez-with-J-Cole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-28T10:53:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123721648,
+            "track_name": "everybody dies",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 68483461,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 205,
+            "album_id": 25246882,
+            "album_name": "everybody dies",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/everybody-dies?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/everybody-dies/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-21T14:35:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84145738,
+            "track_name": "30 for 30 Freestyle",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 47254263,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 801,
+            "album_id": 20874970,
+            "album_name": "What a Time To Be Alive",
+            "artist_id": 33491453,
+            "artist_name": "Drake",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake/30-for-30-Freestyle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake/30-for-30-Freestyle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-05T08:50:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196414980,
+            "track_name": "Murder Most Foul",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 108620595,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10,
+            "album_id": 38969471,
+            "album_name": "Rough and Rowdy Ways",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Murder-Most-Foul?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Murder-Most-Foul/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T14:00:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85332419,
+            "track_name": "Land of the Snakes",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 12234998,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 162,
+            "album_id": 20965192,
+            "album_name": "Born Sinner",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Land-of-the-Snakes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Land-of-the-Snakes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-02T10:52:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175784924,
+            "track_name": "1993 (feat. Smino & Buddy)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 97513993,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 77,
+            "album_id": 33332933,
+            "album_name": "Revenge of the Dreamers III: Director's Cut",
+            "artist_id": 39105558,
+            "artist_name": "Dreamville feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-J-Cole-JID-Cozz-EARTHGANG-Smino-Buddy/1993?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-J-Cole-JID-Cozz-EARTHGANG-Smino-Buddy/1993/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-29T23:47:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175784920,
+            "track_name": "Sleep Deprived (feat. Mez & DaVionne)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 97513989,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 49,
+            "album_id": 33332933,
+            "album_name": "Revenge of the Dreamers III: Director's Cut",
+            "artist_id": 39105558,
+            "artist_name": "Dreamville feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-Lute-Omen-Mez-DaVionne-2/Sleep-Deprived?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dreamville-feat-Lute-Omen-Mez-DaVionne-2/Sleep-Deprived/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-29T23:46:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159958199,
+            "track_name": "BACK 2 HIPHOP",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 88872959,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 23,
+            "album_id": 30429378,
+            "album_name": "MASTERS OF THE SUN VOL. 1",
+            "artist_id": 37018139,
+            "artist_name": "The Black Eyed Peas feat. Nas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-Nas/BACK-2-HIPHOP?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-Nas/BACK-2-HIPHOP/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-29T09:30:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 179113501,
+            "track_name": "Jodeci Freestyle",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 98609309,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 34,
+            "album_id": 33871299,
+            "album_name": "Care Package",
+            "artist_id": 28989248,
+            "artist_name": "Drake feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake-feat-J-Cole/Jodeci-Freestyle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake-feat-J-Cole/Jodeci-Freestyle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-30T20:38:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80697561,
+            "track_name": "Hip Hop Lover",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 44635018,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1427,
+            "album_id": 20205759,
+            "album_name": "Compilation",
+            "artist_id": 24410130,
+            "artist_name": "BTS",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BTS/Hip-Hop-Lover?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BTS/Hip-Hop-Lover/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-08-14T11:57:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73475630,
+            "track_name": "힙합성애자",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 40259630,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1324,
+            "album_id": 19651768,
+            "album_name": "DARK&WILD",
+            "artist_id": 24410130,
+            "artist_name": "BTS",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BTS/%ED%9E%99%ED%95%A9%EC%84%B1%EC%95%A0%EC%9E%90?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BTS/%ED%9E%99%ED%95%A9%EC%84%B1%EC%95%A0%EC%9E%90/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-14T12:54:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2350199,
+            "track_name": "Doe Rae Me 2003",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 137132,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10411096,
+            "album_name": "Straight From the Lab EP",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Doe-Rae-Me-2003?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Doe-Rae-Me-2003/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:25:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16465885,
+            "track_name": "Right Above It",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 10391374,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1313,
+            "album_id": 11389999,
+            "album_name": "Right Above It",
+            "artist_id": 13827869,
+            "artist_name": "Lil Wayne feat. Drake",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Drake/Right-Above-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Drake/Right-Above-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-20T12:55:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169932310,
+            "track_name": "Mama / Show Love (feat. YBN Cordae)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 95360388,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 59,
+            "album_id": 32393205,
+            "album_name": "Confessions of a Dangerous Mind",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-feat-YBN-Cordae/Mama-Show-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-feat-YBN-Cordae/Mama-Show-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T18:40:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84609081,
+            "track_name": "Bandz A Make Her Dance",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 11448996,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 649,
+            "album_id": 15426015,
+            "album_name": "Stay Trippy",
+            "artist_id": 24447122,
+            "artist_name": "Juicy J feat. 2 Chainz & Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Juicy-J-feat-Lil-Wayne-2-Chainz/Bandz-a-Make-Her-Dance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Juicy-J-feat-Lil-Wayne-2-Chainz/Bandz-a-Make-Her-Dance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-03T22:28:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127957990,
+            "track_name": "AfricAryaN",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 71422394,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 102,
+            "album_id": 25851380,
+            "album_name": "Everybody",
+            "artist_id": 33442504,
+            "artist_name": "Logic feat. Neil deGrasse Tyson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-feat-Neil-deGrasse-Tyson/AfricAryaN?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-feat-Neil-deGrasse-Tyson/AfricAryaN/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-05T01:11:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80973808,
+            "track_name": "Forbidden Fruit",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 45005099,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 197,
+            "album_id": 20522898,
+            "album_name": "Kendrication",
+            "artist_id": 28502358,
+            "artist_name": "Kendrick Lamar feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-J-Cole/Forbidden-Fruit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-J-Cole/Forbidden-Fruit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-16T17:59:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115891345,
+            "track_name": "Classic Man (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 46795878,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3768,
+            "album_id": 24079707,
+            "album_name": "Classic Man (Remix)",
+            "artist_id": 35734858,
+            "artist_name": "Jidenna feat. Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jidenna-feat-Kendrick-Lamar/Classic-Man-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jidenna-feat-Kendrick-Lamar/Classic-Man-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-09T07:06:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34211274,
+            "track_name": "Cole World",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 10064213,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 264,
+            "album_id": 15511899,
+            "album_name": "Cole World: The Sideline Story",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/Cole-World?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/Cole-World/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T12:51:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99940731,
+            "track_name": "Night Job",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 47663499,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 186,
+            "album_id": 22055207,
+            "album_name": "Too High To Riot",
+            "artist_id": 27796331,
+            "artist_name": "Bas feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole/Night-Job?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole/Night-Job/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-11T08:23:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186859674,
+            "track_name": "Cozy Little Christmas",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 102256496,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 40,
+            "album_id": 35608704,
+            "album_name": "Cozy Little Christmas - Single",
+            "artist_id": 190034,
+            "artist_name": "Katy Perry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Katy-Perry-6/Cozy-Little-Christmas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Katy-Perry-6/Cozy-Little-Christmas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-26T14:30:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

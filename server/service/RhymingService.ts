@@ -19,6 +19,7 @@ export class RhymingService {
         },
       }
     );
+    // console.log(`Response from 'https://wordsapiv1.p.rapidapi.com/words/${encodeURIComponent(word)}/rhymes':`, JSON.stringify(results.data));
     const output: string[] = [];
     if (results.data.rhymes && results.data.rhymes.all) {
       const wordSet = new Set<string>();

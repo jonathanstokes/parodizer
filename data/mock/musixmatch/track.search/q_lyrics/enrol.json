@@ -1,0 +1,834 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.04737401008606,
+      "available": 24
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 145095200,
+            "track_name": "Uncontrollable (feat. Big Zuu)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 80558138,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 28058435,
+            "album_name": "Uncontrollable (feat. Big Zuu)",
+            "artist_id": 45793128,
+            "artist_name": "KSI feat. Big Zuu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/KSI-feat-Big-Zuu/Uncontrollable?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/KSI-feat-Big-Zuu/Uncontrollable/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-29T14:31:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 20041192,
+            "track_name": "Assassin",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 10831530,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14339907,
+            "album_name": "Generation Gaming",
+            "artist_id": 13834187,
+            "artist_name": "Dan Bull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Assassin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Assassin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-16T00:30:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91377328,
+            "track_name": "British Assassin (Acapella)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 47292606,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21348304,
+            "album_name": "British Assassin",
+            "artist_id": 13834187,
+            "artist_name": "Dan Bull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Bull/British-Assassin-Acapella?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Bull/British-Assassin-Acapella/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-13T09:18:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86053521,
+            "track_name": "British Assassin",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 48442763,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21013297,
+            "album_name": "Generation Gaming IX",
+            "artist_id": 13834187,
+            "artist_name": "Dan Bull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Bull/British-Assassin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Bull/British-Assassin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-21T01:38:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1012546,
+            "track_name": "Kun Fe Ko",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1956852,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10303655,
+            "album_name": "Worotan",
+            "artist_id": 20153,
+            "artist_name": "Oumou Sangare",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Oumou-Sangar%C3%A9/Kun-F%C3%A8-Ko?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Oumou-Sangar%C3%A9/Kun-F%C3%A8-Ko/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:25:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 107822986,
+            "track_name": "Now Or Never",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 57874114,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 319,
+            "album_id": 23000292,
+            "album_name": "Now Or Never",
+            "artist_id": 31440136,
+            "artist_name": "DJ Switch feat. Shane Eagle, ProVerb, Reason & Kwesta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Switch-feat-Shane-Eagle-ProVerb-Reason-Kwesta/Now-Or-Never?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Switch-feat-Shane-Eagle-ProVerb-Reason-Kwesta/Now-Or-Never/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-13T14:29:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 117925222,
+            "track_name": "Metalyzed",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 64556216,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24377753,
+            "album_name": "Red Raw and Bleeding",
+            "artist_id": 459370,
+            "artist_name": "Blood Money",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blood-Money/Metalyzed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blood-Money/Metalyzed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-02T18:46:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104332432,
+            "track_name": "Charmschool",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 3286254,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22521283,
+            "album_name": "Safe As Fuck",
+            "artist_id": 66064,
+            "artist_name": "Goldie Lookin Chain",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Goldie-Lookin-Chain/Charmschool?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Goldie-Lookin-Chain/Charmschool/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-22T19:45:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75959603,
+            "track_name": "The Final Procession",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 41978811,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19922598,
+            "album_name": "Purple Hill Witch",
+            "artist_id": 24398944,
+            "artist_name": "Purple Hill Witch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Purple-Hill-Witch/The-Final-Procession?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Purple-Hill-Witch/The-Final-Procession/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-05T14:20:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110122689,
+            "track_name": "Pedestrian Support League",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 52295752,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23327129,
+            "album_name": "Hauora",
+            "artist_id": 539773,
+            "artist_name": "Street Chant",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Street-Chant/Pedestrian-Support-League?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Street-Chant/Pedestrian-Support-League/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-04T07:11:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5468391,
+            "track_name": "Black Crusade",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6776540,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10676953,
+            "album_name": "Holocaust of the God Believers",
+            "artist_id": 78259,
+            "artist_name": "Countess",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Countess/Black-Crusade?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Countess/Black-Crusade/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-12T19:28:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78947404,
+            "track_name": "A Dog Starved",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40705632,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20295337,
+            "album_name": "Havens Dumb",
+            "artist_id": 19288,
+            "artist_name": "Augie March",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Augie-March/A-Dog-Starved?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Augie-March/A-Dog-Starved/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-18T10:51:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1928401,
+            "track_name": "White Tree",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3216752,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10376734,
+            "album_name": "The Firescroll",
+            "artist_id": 62621,
+            "artist_name": "Primitive Reason",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Primitive-Reason/White-Tree?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Primitive-Reason/White-Tree/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:17:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1144,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Adult Alternative",
+                    "music_genre_name_extended": "Rock / Adult Alternative",
+                    "music_genre_vanity": "Rock-Adult-Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4465093,
+            "track_name": "Desaparecida",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8066890,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10588515,
+            "album_name": "No me tires de la lengua",
+            "artist_id": 185680,
+            "artist_name": "Matari",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Matari/Desaparecida?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Matari/Desaparecida/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T21:02:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5521668,
+            "track_name": "Paaralan",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8534988,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10681706,
+            "album_name": "Tatlong Kahig Isang Tuka",
+            "artist_id": 253332,
+            "artist_name": "Banyuhay Ni Heber Bartolome",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Banyuhay-Ni-Heber-Bartolome/Paaralan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Banyuhay-Ni-Heber-Bartolome/Paaralan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-08T09:21:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194261141,
+            "track_name": "Push and Pull Me (Censored)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 90085560,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37236359,
+            "album_name": "Art of Destruction (Censored)",
+            "artist_id": 38269045,
+            "artist_name": "Toshay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Toshay-2/Push-and-Pull-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Toshay-2/Push-and-Pull-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T10:24:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30749858,
+            "track_name": "Killers",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11787466,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13810557,
+            "album_name": "The Classic Collection",
+            "artist_id": 13868252,
+            "artist_name": "Ice‐T",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T06:46:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 52507327,
+            "track_name": "King of Glory, King of Peace",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 24989159,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17004930,
+            "album_name": "Complete New English Hymnal Vol. 3",
+            "artist_id": 93408,
+            "artist_name": "Ely Cathedral Choir",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ely-Cathedral-Choir/King-of-Glory-King-of-Peace?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ely-Cathedral-Choir/King-of-Glory-King-of-Peace/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-30T12:02:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16908640,
+            "track_name": "Armageddon À L'elysée",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2905257,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10348564,
+            "album_name": "Sadistic Sex Daemon",
+            "artist_id": 48688,
+            "artist_name": "Misanthrope",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Misanthrope/Armageddon-%C3%A0-l-Elys%C3%A9e?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Misanthrope/Armageddon-%C3%A0-l-Elys%C3%A9e/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-05T18:23:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5468395,
+            "track_name": "Black Metal Storm",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6776543,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10676953,
+            "album_name": "Holocaust of the God Believers",
+            "artist_id": 78259,
+            "artist_name": "Countess",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Countess/Black-Metal-Storm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Countess/Black-Metal-Storm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-12T19:16:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200218033,
+            "track_name": "High Performance",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 113710227,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39227554,
+            "album_name": "Too Long; Didn't Listen",
+            "artist_id": 28480241,
+            "artist_name": "Ifall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ifall/High-Performance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ifall/High-Performance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-27T13:45:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8302497,
+            "track_name": "Killers (vocal mix)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11787468,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10939489,
+            "album_name": "Killers / Body Rock",
+            "artist_id": 13868252,
+            "artist_name": "Ice‐T",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers-vocal-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers-vocal-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T06:46:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8302498,
+            "track_name": "Killers (dub)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11787467,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10939489,
+            "album_name": "Killers / Body Rock",
+            "artist_id": 13868252,
+            "artist_name": "Ice‐T",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers-dub?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ice%E2%80%90T/Killers-dub/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T06:46:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30378480,
+            "track_name": "Play the Prey",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5779230,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13776811,
+            "album_name": "Hanging by a Name",
+            "artist_id": 349013,
+            "artist_name": "Hanging By A Name",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hanging-by-a-Name/Play-the-Prey?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hanging-by-a-Name/Play-the-Prey/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T13:17:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

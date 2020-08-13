@@ -1,0 +1,1021 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.076704978942871,
+      "available": 29
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 18266907,
+            "track_name": "Ti Sorrido Mentre Affogo",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 9412593,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 47,
+            "album_id": 13739136,
+            "album_name": "Il Sogno Eretico",
+            "artist_id": 54043,
+            "artist_name": "Caparezza",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caparezza/Ti-sorrido-mentre-affogo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caparezza/Ti-sorrido-mentre-affogo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-03T22:39:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35145811,
+            "track_name": "Ti Sorrido Mentre Affogo (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 14464444,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15585210,
+            "album_name": "Esecuzione Pubblica (Live)",
+            "artist_id": 54043,
+            "artist_name": "Caparezza",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caparezza/Ti-Sorrido-Mentre-Affogo-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caparezza/Ti-Sorrido-Mentre-Affogo-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-13T22:10:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186607072,
+            "track_name": "Via Paolo Fabbri 43 - Remastered 2007",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1567736,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35538148,
+            "album_name": "Se Io Avessi Previsto Tutto Questo... La Strada, Gli Amici, Le Canzoni",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-26T07:52:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1361063,
+            "track_name": "La Piana dei Cavalli Bradi",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1838755,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10331321,
+            "album_name": "Oltre",
+            "artist_id": 17679,
+            "artist_name": "Claudio Baglioni",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Claudio-Baglioni/La-piana-dei-cavalli-bradi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Claudio-Baglioni/La-piana-dei-cavalli-bradi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T19:45:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93595458,
+            "track_name": "La Piana Dei Cavalli Bradi - Sogno Live Version",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12528804,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21504274,
+            "album_name": "Sogno Di Una Notte Di Note",
+            "artist_id": 17679,
+            "artist_name": "Claudio Baglioni",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Claudio-Baglioni/La-Piana-Dei-Cavalli-Bradi-Sogno-Live-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Claudio-Baglioni/La-Piana-Dei-Cavalli-Bradi-Sogno-Live-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-12T17:04:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68953038,
+            "track_name": "Via Paolo Fabbri 43 - Remaster 1996",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 37147081,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19082985,
+            "album_name": "The Platinum Collection",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-1996-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-1996-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-17T22:34:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84996265,
+            "track_name": "Via Paolo Fabbri 43 - Live Edit",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47855835,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20945170,
+            "album_name": "Guccini Live Collection",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Live-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Live-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-06T08:40:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94263930,
+            "track_name": "Via Paolo Fabbri 43 - 2007 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 52167339,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21554119,
+            "album_name": "Via Paolo Fabbri 43",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-2007-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-2007-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-06T08:31:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86486022,
+            "track_name": "Via Paolo Fabbri 43 - Remastered 2007",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 47391941,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21043208,
+            "album_name": "Se Io Avessi Previsto Tutto Questo... La Strada, Gli Amici, Le Canzoni",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Remastered-2007?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Remastered-2007/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-17T22:34:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6305295,
+            "track_name": "La grande storia",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 910387,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10753450,
+            "album_name": "Made in Italy",
+            "artist_id": 7246,
+            "artist_name": "Gigi D'Alessio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gigi-D-Alessio/La-grande-storia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gigi-D-Alessio/La-grande-storia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:21:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96376219,
+            "track_name": "Il Corvo Torvo",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 1440644,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21722892,
+            "album_name": "Il Ballo Di San Vito",
+            "artist_id": 11739,
+            "artist_name": "VINICIO CAPOSSELA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Il-corvo-torvo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Il-corvo-torvo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T09:16:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96376135,
+            "track_name": "Il Corvo Torvo (live)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 53262190,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21722887,
+            "album_name": "Nel niente sotto il sole - grand tour 06",
+            "artist_id": 11739,
+            "artist_name": "VINICIO CAPOSSELA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Il-Corvo-Torvo-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Il-Corvo-Torvo-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-24T15:10:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5761525,
+            "track_name": "Closer (feat. Elits JD)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 11084729,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10702544,
+            "album_name": "Heavy Metal",
+            "artist_id": 13962185,
+            "artist_name": "Cor Veleno",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cor-Veleno/Closer-feat-Elits-JD?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cor-Veleno/Closer-feat-Elits-JD/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-11T16:30:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103004312,
+            "track_name": "Closer",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 27124707,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22361246,
+            "album_name": "Heavy Metal",
+            "artist_id": 13962185,
+            "artist_name": "Cor Veleno",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cor-Veleno/Closer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cor-Veleno/Closer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-11T16:29:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143045978,
+            "track_name": "Universo",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 41741645,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27750780,
+            "album_name": "Vado forte muoio giovane",
+            "artist_id": 95896,
+            "artist_name": "Dari",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dari/Universo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dari/Universo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-10T18:41:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 142427537,
+            "track_name": "Solo Punk Rock - Faster Mix",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 39784839,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27668229,
+            "album_name": "Vado Forte Muoio Giovane",
+            "artist_id": 95896,
+            "artist_name": "Dari",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dari/Solo-Punk-Rock-Faster-Mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dari/Solo-Punk-Rock-Faster-Mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-17T14:38:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33199312,
+            "track_name": "Due",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 13224184,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15434809,
+            "album_name": "Venga il regno",
+            "artist_id": 52410,
+            "artist_name": "Virginiana Miller",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Virginiana-Miller/Due?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Virginiana-Miller/Due/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-11T10:11:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193117881,
+            "track_name": "Formiche",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 107594104,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36884247,
+            "album_name": "Formiche - Single",
+            "artist_id": 44354864,
+            "artist_name": "SUPERFLUUUO",
+            "track_share_url": "https://www.musixmatch.com/lyrics/SUPERFLUUUO/Formiche?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/SUPERFLUUUO/Formiche/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-20T18:04:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48716941,
+            "track_name": "Domenica Siciliana",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 22124484,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16604917,
+            "album_name": "Il mutevole abitante del mio solito involucro",
+            "artist_id": 102900,
+            "artist_name": "Silvia Salemi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Silvia-Salemi/Domenica-Siciliana?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Silvia-Salemi/Domenica-Siciliana/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-07T09:54:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193712656,
+            "track_name": "Diploma",
+            "track_name_translation_list": [],
+            "track_rating": 3,
+            "commontrack_id": 108129078,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37062749,
+            "album_name": "Diploma",
+            "artist_id": 44668854,
+            "artist_name": "Lorenzo Pucci",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lorenzo-Pucci-2/Diploma?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lorenzo-Pucci-2/Diploma/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-11T00:32:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169337443,
+            "track_name": "Sala d'aspetto",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 95123087,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32278329,
+            "album_name": "Fin qui",
+            "artist_id": 38335265,
+            "artist_name": "Dario Coriale",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dario-Coriale-2/Sala-d-aspetto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dario-Coriale-2/Sala-d-aspetto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-23T18:00:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72387107,
+            "track_name": "Il banchetto dei ricordi",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 39664763,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19563128,
+            "album_name": "Se esiste una terra",
+            "artist_id": 27789626,
+            "artist_name": "Estuario",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Estuario/Il-banchetto-dei-ricordi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Estuario/Il-banchetto-dei-ricordi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-15T22:51:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1190,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Worldbeat",
+                    "music_genre_name_extended": "World / Worldbeat",
+                    "music_genre_vanity": "World-Worldbeat"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73163781,
+            "track_name": "Ti sorprenderò",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40060577,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19629394,
+            "album_name": "Senza rumore",
+            "artist_id": 552417,
+            "artist_name": "Moda",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Moda-3/Ti-sorprender%C3%B2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Moda-3/Ti-sorprender%C3%B2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-21T17:44:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114973052,
+            "track_name": "Fantasisti del metrò",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 21968842,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23990696,
+            "album_name": "Semplicemente vita",
+            "artist_id": 118591,
+            "artist_name": "Roberto Durkovic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roberto-Durkovic/Fantasisti-del-metr%C3%B2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roberto-Durkovic/Fantasisti-del-metr%C3%B2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-26T05:01:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3321130,
+            "track_name": "Prima realtà / Frammentaria rivolta",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 9738867,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10491097,
+            "album_name": "Apoteosi",
+            "artist_id": 122008,
+            "artist_name": "Apoteosi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Apoteosi/Prima-realt%C3%A0-Frammentaria-rivolta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Apoteosi/Prima-realt%C3%A0-Frammentaria-rivolta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-22T05:19:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114973046,
+            "track_name": "Io e te",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 21968858,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23990696,
+            "album_name": "Semplicemente vita",
+            "artist_id": 118591,
+            "artist_name": "Roberto Durkovic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roberto-Durkovic/Io-e-te?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roberto-Durkovic/Io-e-te/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-26T04:58:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198100335,
+            "track_name": "Formiche",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 111874485,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38506410,
+            "album_name": "Super-ep",
+            "artist_id": 44354864,
+            "artist_name": "SUPERFLUUUO",
+            "track_share_url": "https://www.musixmatch.com/lyrics/SUPERFLUUUO-1/Formiche?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/SUPERFLUUUO-1/Formiche/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-20T18:17:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17192508,
+            "track_name": "Corvo torvo",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1440627,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10731031,
+            "album_name": "Nel niente sotto il sole",
+            "artist_id": 11739,
+            "artist_name": "VINICIO CAPOSSELA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Corvo-torvo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/VINICIO-CAPOSSELA/Corvo-torvo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-08-22T20:20:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68965995,
+            "track_name": "Via Paolo Fabbri 43 (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 37166059,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19083988,
+            "album_name": "Storia di altre storie (70° Anniversario)",
+            "artist_id": 13366,
+            "artist_name": "Francesco Guccini",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francesco-Guccini/Via-Paolo-Fabbri-43-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-17T21:40:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

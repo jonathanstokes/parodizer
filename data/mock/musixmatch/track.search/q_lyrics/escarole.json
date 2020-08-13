@@ -1,0 +1,179 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.01764702796936,
+      "available": 6
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 34377981,
+            "track_name": "U Make a Ninja Wanna Fuck",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 10491790,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15525044,
+            "album_name": "Ten",
+            "artist_id": 439203,
+            "artist_name": "Die Antwoord",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Die-Antwoord/U-Make-a-Ninja-Wanna-Fuck?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Die-Antwoord/U-Make-a-Ninja-Wanna-Fuck/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-27T13:07:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5211803,
+            "track_name": "Potholderz",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 729418,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10653779,
+            "album_name": "Ugly Mac Beer Invasion: The Unofficial MF Doom Mixtape",
+            "artist_id": 6205,
+            "artist_name": "MF DOOM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-Doom/Potholderz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-Doom/Potholderz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T06:39:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2999448,
+            "track_name": "Potholderz",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 11637809,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 10463949,
+            "album_name": "MM..FOOD",
+            "artist_id": 13888041,
+            "artist_name": "MF DOOM feat. Count Bass D",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-17T12:55:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4006323,
+            "track_name": "Potholderz (Exclusive)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12295325,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10549460,
+            "album_name": "Best of MF",
+            "artist_id": 13888041,
+            "artist_name": "MF DOOM feat. Count Bass D",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz-Exclusive?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz-Exclusive/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-24T10:51:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15994949,
+            "track_name": "Potholderz",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10294376,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11081109,
+            "album_name": "Doom!",
+            "artist_id": 13837281,
+            "artist_name": "DOOM feat. Count Bass D",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DOOM-feat-Count-Bass-D/Potholderz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DOOM-feat-Count-Bass-D/Potholderz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-03T11:19:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16607059,
+            "track_name": "Potholderz (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10543384,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14173807,
+            "album_name": "Hoe Cakes / Potholders",
+            "artist_id": 13888041,
+            "artist_name": "MF DOOM feat. Count Bass D",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-DOOM-feat-Count-Bass-D/Potholderz-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-03T20:05:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

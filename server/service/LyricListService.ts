@@ -5,7 +5,7 @@ import PQueue from 'p-queue';
 import { Job, SearchTerms } from '../../src/client-and-server/lyric-list-service-types';
 import { LyricService } from './lyric/LyricService';
 import { MusixMatchLyricServiceImpl } from './lyric/impl/MusixMatchLyricServiceImpl';
-import { SongResult, SongSummary } from '../../src/client-and-server/lyric-types';
+import { Score, SongResult, SongSummary } from '../../src/client-and-server/lyric-types';
 
 export class LyricListService {
   static queue = new PQueue({ concurrency: 1 });
@@ -98,7 +98,7 @@ export class LyricListService {
     for (const ss of secondarySongs) {
       const matchedPrimary = mergedSongs.find((ps) => ps.id === ss.id);
       if (matchedPrimary) {
-        matchedPrimary.score = matchedPrimary.score + 0.2;
+        matchedPrimary.score.accumulateSecondaryWordMatch();
         (ss.containsWords || []).forEach((w) => {
           if (matchedPrimary.containsWords && matchedPrimary.containsWords.indexOf(w) < 0) {
             matchedPrimary.containsWords.push(w);
@@ -119,13 +119,13 @@ export class LyricListService {
       for (const songMatch of songMatches) {
         // If this song hasn't already been found for this rhyming word...
         if (!filteredSongMatches.find((fsm) => songMatch.id === fsm.id)) {
-          // This `getSongMatchRating()` can alter the `songMatch`!
-          const songRating = await this.getSongMatchRating(songMatch);
+          const songRating = await this.getSongMatchRating(songMatch, filteredSongMatches);
+          const ratedSongMatch = (songRating && songRating.alternativeSong) || songMatch;
           // If this possibly-altered song still isn't one that's already been picked.
-          if (songRating > 0 && !filteredSongMatches.find((fsm) => songMatch.id === fsm.id)) {
+          if (songRating && !filteredSongMatches.find((fsm) => ratedSongMatch.id === fsm.id)) {
             filteredSongMatches.push({
-              ...songMatch,
-              score: songRating,
+              ...ratedSongMatch,
+              score: songRating.score,
             });
           }
         }
@@ -141,7 +141,8 @@ export class LyricListService {
     const wordMatchedSongsById: { [id: string]: SongResult } = {};
     for (const word of Object.keys(songMatchesByRhymingWord)) {
       for (const match of songMatchesByRhymingWord[word]) {
-        if (match.score > 0.6) {
+        match.score.accumulateWordMatch(word);
+        if (match.score.isMinimumScoreMet()) {
           let outputSong = wordMatchedSongsById[match.id];
           if (!outputSong) {
             outputSong = {
@@ -155,34 +156,42 @@ export class LyricListService {
       }
     }
     const output: SongResult[] = Object.values(wordMatchedSongsById);
-    output.sort((a, b) => b.score - a.score);
+    output.sort((a, b) => b.score.compare(a.score));
     console.log(
       `Song results for ${JSON.stringify(rhymingWords)}:${output
         .map((wms) => {
-          return '\n' + wms.score.toFixed(3) + '\t' + wms.year + '\t' + wms.title + '\tby ' + wms.artist;
+          return '\n' + wms.score.ratingToString() + '\t' + wms.year + '\t' + wms.title + '\tby ' + wms.artist;
         })
         .join('')}`
     );
     return output;
   }
 
-  protected async getSongMatchRating(songMatch: SongSummary): Promise<number> {
+  protected async getSongMatchRating(
+    songMatch: SongSummary,
+    existingSongMatches: SongResult[]
+  ): Promise<{ score: Score; alternativeSong?: SongSummary } | null> {
     try {
+      let alternativeSong: SongSummary | undefined = undefined;
       const variations = this.createSongVariations(songMatch);
       let result: Song | null = null;
       for (const variation of variations.reverse()) {
+        // If we already have this song in our found list, treat the second one like an ignored duplicate by returning no score.
+        if (existingSongMatches.find(esm => esm.title === variation.title && esm.artist === variation.artist)) {
+          return null;
+        }
         result = await this.top40Service.findSongStats(variation.title, variation.artist);
         if (result) {
           if (songMatch !== variation) {
-            // console.log(
-            //   `Replacing\n\t     ${JSON.stringify(songMatch)}\n\twith ${JSON.stringify(
-            //     variation
-            //   )}\nbecause it was found in billboard.`
-            // );
             console.log(
               `Replacing ${songMatch.title} by ${songMatch.artist} with ${variation.title} by ${variation.artist} because the latter was found in billboard.`
             );
-            Object.assign(songMatch, variation);
+            if (songMatch.artist === 'Annie Lennox' || variation.artist === 'Annie Lennox') {
+              console.log(
+                `*** Assigning value\n${JSON.stringify(variation)}\n    on top of\n${JSON.stringify(songMatch)}`
+              );
+            }
+            alternativeSong = variation;
           }
           break;
         }
@@ -190,14 +199,14 @@ export class LyricListService {
       if (result) {
         const rating = this.rateSong(result);
         songMatch.year = songMatch.year || result.year;
-        return rating;
+        return { score: rating, alternativeSong };
       } else {
         // console.log(
         //   `Filtered out '${songMatch.title}' ${
         //     songMatch.artist ? "by '" + songMatch.artist + "' " : ''
         //   }because no billboard match could be found.`
         // );
-        return 0;
+        return null;
       }
     } catch (err) {
       console.error(`Error filtering song match ${JSON.stringify(songMatch)}.`, err);
@@ -233,7 +242,7 @@ export class LyricListService {
     return variations;
   }
 
-  protected rateSong(song: Song): number {
+  protected rateSong(song: Song): Score {
     const weekCount = song.chartHistory.length;
     const year = this.getSongYear(song);
     song.year = song.year || year;
@@ -248,7 +257,7 @@ export class LyricListService {
     else if ((year >= 1968 && year <= 1977) || (year >= 2001 && year <= 2010)) rating = this.scaleRating(35, weekCount);
     else if (year < 1968) rating = this.scaleRating(45, weekCount);
     else rating = this.scaleRating(55, weekCount); // >=2011
-    return rating;
+    return new Score(rating);
   }
 
   protected getSongYear(song: Song): number {

@@ -1,0 +1,622 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.044413805007935,
+      "available": 16
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 34929272,
+            "track_name": "Bailemos",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 14311202,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15569625,
+            "album_name": "Dando Candela",
+            "artist_id": 3951,
+            "artist_name": "BIG BOY",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-Boy/Bailemos?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-Boy/Bailemos/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-25T23:06:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1119,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Latin Urban",
+                    "music_genre_name_extended": "Latin / Latin Urban",
+                    "music_genre_vanity": "Latin-Latin-Urban"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30824896,
+            "track_name": "Funkentelechy",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1011251,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13817848,
+            "album_name": "Funkentelechy vs. the Placebo Syndrome",
+            "artist_id": 7873,
+            "artist_name": "Parliament",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Parliament/Funkentelechy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Parliament/Funkentelechy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T04:11:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95445032,
+            "track_name": "Police Beat",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 148335,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21646241,
+            "album_name": "Ska-Core, the Devil and More",
+            "artist_id": 459,
+            "artist_name": "The Mighty Mighty Bosstones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mighty-Mighty-Bosstones/Police-Beat?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mighty-Mighty-Bosstones/Police-Beat/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T06:26:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 111726560,
+            "track_name": "Funkentelechy",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 234124,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 23571921,
+            "album_name": "The Best Of George Clinton Live",
+            "artist_id": 736,
+            "artist_name": "George Clinton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/George-Clinton/Funkentelechy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/George-Clinton/Funkentelechy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-14T03:45:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17138887,
+            "track_name": "Decontrol",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 1413358,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10333558,
+            "album_name": "Why",
+            "artist_id": 11481,
+            "artist_name": "Discharge",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Discharge/Decontrol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Discharge/Decontrol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-15T19:40:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7037807,
+            "track_name": "Eye",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 8220012,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10820203,
+            "album_name": "Paralyzed",
+            "artist_id": 204199,
+            "artist_name": "Witch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Witch/Eye?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Witch/Eye/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:47:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15791632,
+            "track_name": "Rhesus Artificial",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 10204688,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13908463,
+            "album_name": "Edge of the Obscure",
+            "artist_id": 13824239,
+            "artist_name": "The Interbeing",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Interbeing/Rhesus-Artificial?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Interbeing/Rhesus-Artificial/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-03T08:21:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11302906,
+            "track_name": "Genetic Encryption",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8846442,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11389095,
+            "album_name": "Exiled to Earth",
+            "artist_id": 390841,
+            "artist_name": "Bonded By Blood",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bonded-By-Blood/Genetic-Encryption?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bonded-By-Blood/Genetic-Encryption/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-15T06:25:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3402739,
+            "track_name": "Anarchy 999",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 89067,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10497966,
+            "album_name": "60 Second Wipe Out",
+            "artist_id": 221,
+            "artist_name": "Atari Teenage Riot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Atari-Teenage-Riot/Anarchy-999?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Atari-Teenage-Riot/Anarchy-999/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T17:59:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34920196,
+            "track_name": "Funkentelechy (Where Did You Get That Funk From)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 14303670,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15569081,
+            "album_name": "The Best of George Clinton Live",
+            "artist_id": 736,
+            "artist_name": "George Clinton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/George-Clinton/Funkentelechy-Where-Did-You-Get-That-Funk-From?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/George-Clinton/Funkentelechy-Where-Did-You-Get-That-Funk-From/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-14T03:45:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 188820500,
+            "track_name": "Breaking Bones",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 104167858,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35518763,
+            "album_name": "Maybe We're Alone - Single",
+            "artist_id": 38428763,
+            "artist_name": "Jasper Henry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jasper-Henry-2/Breaking-Bones?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jasper-Henry-2/Breaking-Bones/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-07T19:38:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 50871191,
+            "track_name": "激声 (EDIT VERSION)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 23774628,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16834268,
+            "album_name": "激声 (EDIT VERSION)",
+            "artist_id": 26138737,
+            "artist_name": "Merry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/%E3%83%A1%E3%83%AA%E3%83%BC/%E6%BF%80%E5%A3%B0-EDIT-VERSION?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/%E3%83%A1%E3%83%AA%E3%83%BC/%E6%BF%80%E5%A3%B0-EDIT-VERSION/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-23T17:08:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 51929324,
+            "track_name": "激声",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ゲキセイ"
+                }
+              }
+            ],
+            "track_rating": 1,
+            "commontrack_id": 24561212,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16944674,
+            "album_name": "アンダーワールド",
+            "artist_id": 26138737,
+            "artist_name": "Merry",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MERRY/%E6%BF%80%E5%A3%B0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MERRY/%E6%BF%80%E5%A3%B0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-23T17:08:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5620284,
+            "track_name": "Sexy With My Record Collection",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 731632,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10690307,
+            "album_name": "Rust in Pieces",
+            "artist_id": 6233,
+            "artist_name": "Terrorgruppe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Terrorgruppe/Sexy-With-My-Record-Collection?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Terrorgruppe/Sexy-With-My-Record-Collection/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:10:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 133545685,
+            "track_name": "Decontrol",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 74497540,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26689759,
+            "album_name": "Cage Tropical",
+            "artist_id": 414608,
+            "artist_name": "Frankie Rose",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frankie-Rose/Decontrol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frankie-Rose/Decontrol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-08-17T13:02:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84612592,
+            "track_name": "Sex With My Record Collection",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 21399147,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20917196,
+            "album_name": "Rust In Pieces",
+            "artist_id": 6233,
+            "artist_name": "Terrorgruppe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Terrorgruppe/Sex-With-My-Record-Collection?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Terrorgruppe/Sex-With-My-Record-Collection/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-10T08:41:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

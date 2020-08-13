@@ -1,0 +1,1766 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.13108110427856,
+      "available": 257
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 33286974,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 66,
+            "commontrack_id": 14682717,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 15440445,
+            "album_name": "Pavarotti & Friends Together for the Children of Bosnia",
+            "artist_id": 35154010,
+            "artist_name": "Brian Eno feat. Bono, The Edge, Luciano Pavarotti, L'Orchestra Filarmonica Di Torino & Michael Kamen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brian-Eno-Bono-The-Edge-Luciano-Pavarotti-L-Orchestra-Filarmonica-Di-Torino-Michael-Kamen/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brian-Eno-Bono-The-Edge-Luciano-Pavarotti-L-Orchestra-Filarmonica-Di-Torino-Michael-Kamen/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-07T19:37:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31533744,
+            "track_name": "Miss Sarajevo (single radio edit)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 54943,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13815301,
+            "album_name": "The Best of 1990–2000 & B-Sides",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-single-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-single-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:02:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17290394,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10885434,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10458705,
+            "album_name": "Duets",
+            "artist_id": 13928907,
+            "artist_name": "U2 feat. Brian Eno & Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2-feat-Brian-Eno-Luciano-Pavarotti/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2-feat-Brian-Eno-Luciano-Pavarotti/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-17T06:05:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14472676,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 6752255,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11085473,
+            "album_name": "Coffee: Duets: U2 Duets for Spicelegs (Not for Propoganda)",
+            "artist_id": 13767899,
+            "artist_name": "U2 & Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2-Pavarotti/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2-Pavarotti/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:34:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85661397,
+            "track_name": "Miss Sarajevo - Live From Milan",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54942,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20987070,
+            "album_name": "All Because Of You",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-live-from-Milan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-live-from-Milan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-19T14:24:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1433858,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54937,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 10337045,
+            "album_name": "More Discotheque",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-26T20:49:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170590269,
+            "track_name": "Miss Sarajevo (2005 Live from Milan)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54938,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32537292,
+            "album_name": "U218 Singles (Deluxe Version)",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-2005-live-from-Milan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-2005-live-from-Milan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-11T01:05:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18298661,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54940,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 14249746,
+            "album_name": "The Saints Are Coming: Greatest Hits",
+            "artist_id": 13996917,
+            "artist_name": "U2 feat. Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2-feat-Luciano-Pavarotti/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2-feat-Luciano-Pavarotti/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:02:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32254534,
+            "track_name": "Miss Sarajevo (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12607913,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 15347843,
+            "album_name": "U218 Singles",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Miss-Sarajevo-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-21T10:33:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88248326,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 40200,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 66,
+            "album_id": 21144625,
+            "album_name": "Songs From The Last Century",
+            "artist_id": 88,
+            "artist_name": "George Michael",
+            "track_share_url": "https://www.musixmatch.com/lyrics/George-Michael/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/George-Michael/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-27T18:44:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1590617,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 44686374,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 10349530,
+            "album_name": "Pavarotti & Friends: Best",
+            "artist_id": 13768075,
+            "artist_name": "Luciano Pavarotti & Bryan Adams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-Bryan-Adams/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-Bryan-Adams/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-09T18:36:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89972076,
+            "track_name": "Wagner: \"Notung! Notung! Niedliches Schwert\" From The Ring - Live in Miskolc",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 13328344,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21246071,
+            "album_name": "The Miskolc Experience",
+            "artist_id": 2756,
+            "artist_name": "Therion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-Notung-Notung-Niedliches-Schwert-from-the-Ring-Live-In-Miskolc?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-Notung-Notung-Niedliches-Schwert-from-the-Ring-Live-In-Miskolc/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-19T03:25:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116071709,
+            "track_name": "Wagner: \"notung! Notung! Niedliches Schwert!\" from the Ring (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 63960306,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24092040,
+            "album_name": "The Miskolc Experience",
+            "artist_id": 2756,
+            "artist_name": "Therion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-notung-Notung-Niedliches-Schwert-from-the-Ring-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-notung-Notung-Niedliches-Schwert-from-the-Ring-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-06T09:13:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16291859,
+            "track_name": "Wagner: ‘Notung! Notung! Neidliches Schwert!’ from The Ring",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 9523962,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10960804,
+            "album_name": "The Miskolc Experience",
+            "artist_id": 2756,
+            "artist_name": "Therion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-Notung-Notung-Neidliches-Schwert-from-The-Ring?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Therion/Wagner-Notung-Notung-Neidliches-Schwert-from-The-Ring/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-25T07:13:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35062178,
+            "track_name": "Mein Block (Unplugged Version)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 14401783,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15579375,
+            "album_name": "MTV Unplugged Live aus'm MV",
+            "artist_id": 74707,
+            "artist_name": "Sido",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sido/Mein-Block-Unplugged-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sido/Mein-Block-Unplugged-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-16T11:55:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84277537,
+            "track_name": "Miss Sarajevo (feat. Luciano Pavarotti)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 47371939,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20891017,
+            "album_name": "The 50 Greatest Vocal Hits",
+            "artist_id": 41845630,
+            "artist_name": "Adam Clayton feat. Bono, Brian Eno, Larry Mullen, The Edge, Passengers & Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Adam-Clayton-Bono-Brian-Eno-Larry-Mullen-The-Edge-Passengers-Luciano-Pavarotti/Miss-Sarajevo-feat-Luciano-Pavarotti?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Adam-Clayton-Bono-Brian-Eno-Larry-Mullen-The-Edge-Passengers-Luciano-Pavarotti/Miss-Sarajevo-feat-Luciano-Pavarotti/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-14T20:21:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 172643149,
+            "track_name": "Miss Sarajevo - Live",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 96372047,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32826389,
+            "album_name": "Pavarotti (Music from the Motion Picture)",
+            "artist_id": 38755172,
+            "artist_name": "Brian Eno feat. Paul Hewson, Adam Clayton, Dave Evans, Larry Mullen, Bono, The Edge, Luciano Pavarotti, Orchestra filarmonica di Torino & Michael Kamen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brian-Eno-feat-Paul-Hewson-Adam-Clayton-Dave-Evans-Larry-Mullen-Bono-The-Edge-Luciano-Pavarotti-Orchestra-filarmonica-di-Torino-Michael-Kamen/Miss-Sarajevo-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brian-Eno-feat-Paul-Hewson-Adam-Clayton-Dave-Evans-Larry-Mullen-Bono-The-Edge-Luciano-Pavarotti-Orchestra-filarmonica-di-Torino-Michael-Kamen/Miss-Sarajevo-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-19T12:41:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15548318,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 10088723,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 11236724,
+            "album_name": "The Very Best of Pavarotti & Friends",
+            "artist_id": 13808390,
+            "artist_name": "Pavarotti, Brian Eno, Bono & The Edge",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pavarotti-Brian-Eno-Bono-The-Edge/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pavarotti-Brian-Eno-Bono-The-Edge/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-15T12:58:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17539922,
+            "track_name": "Helmut K.",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 815042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13950070,
+            "album_name": "Ab 18",
+            "artist_id": 6833,
+            "artist_name": "Die Ärzte",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Die-%C3%84rzte/Helmut-K?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Die-%C3%84rzte/Helmut-K/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T02:29:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45458020,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 44931338,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10,
+            "album_id": 16276277,
+            "album_name": "Pavarotti: The 50 Greatest Tracks",
+            "artist_id": 28424050,
+            "artist_name": "Luciano Pavarotti with Brian Eno, Bono & The Edge",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-with-Brian-Eno-Bono-The-Edge/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-with-Brian-Eno-Bono-The-Edge/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-09T19:07:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19459471,
+            "track_name": "Tart",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 221534,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14308502,
+            "album_name": "When I Was Cruel",
+            "artist_id": 695,
+            "artist_name": "Elvis Costello",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Costello/Tart?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Costello/Tart/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:40:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160707304,
+            "track_name": "Helmut K. (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 19162549,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30575509,
+            "album_name": "Nach uns die Sintflut (Live)",
+            "artist_id": 6833,
+            "artist_name": "Die Ärzte",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Die-%C3%84rzte/Helmut-K-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Die-%C3%84rzte/Helmut-K-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-11T21:35:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84777214,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 47689725,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20928239,
+            "album_name": "Pavarotti & Friends Together For The Children Of Bosnia",
+            "artist_id": 28974737,
+            "artist_name": "Brian Eno, Evans, Dave, Bono, The Edge, Luciano Pavarotti, L'Orchestra Filarmonica Di Torino & Michael Kamen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brian-Eno-Evans-Dave-Bono-The-Edge-Luciano-Pavarotti-L-Orchestra-Filarmonica-Di-Torino-Michael-Kamen/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brian-Eno-Evans-Dave-Bono-The-Edge-Luciano-Pavarotti-L-Orchestra-Filarmonica-Di-Torino-Michael-Kamen/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-06T17:39:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18486990,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 11416874,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10931022,
+            "album_name": "Pavarotti: The Duets",
+            "artist_id": 33386541,
+            "artist_name": "Luciano Pavarotti feat. Passengers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-feat-Passengers/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-feat-Passengers/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-15T07:44:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85338917,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 48051113,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20965693,
+            "album_name": "Best Of Pavarotti & Friends - The Duets",
+            "artist_id": 41845531,
+            "artist_name": "Bono feat. The Edge, Adam Clayton, Larry Mullen, Brian Eno, Passengers & Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bono-The-Edge-Adam-Clayton-Larry-Mullen-Brian-Eno-Passengers-Luciano-Pavarotti/Miss-Sarajevo-Single-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bono-The-Edge-Adam-Clayton-Larry-Mullen-Brian-Eno-Passengers-Luciano-Pavarotti/Miss-Sarajevo-Single-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-05T06:20:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37120327,
+            "track_name": "Miss Sarajevo (Remastered 2013)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 12595093,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 15718659,
+            "album_name": "Pavarotti Les 50 Triomphes",
+            "artist_id": 33386541,
+            "artist_name": "Luciano Pavarotti feat. Passengers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-feat-Passengers/Miss-Sarajevo-Remastered-2013-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luciano-Pavarotti-feat-Passengers/Miss-Sarajevo-Remastered-2013-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-15T07:44:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16695741,
+            "track_name": "99 Bierkanister",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10531467,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14172795,
+            "album_name": "Befehl von ganz unten",
+            "artist_id": 7203,
+            "artist_name": "Deichkind",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deichkind/99-Bierkanister?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deichkind/99-Bierkanister/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:12:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19051983,
+            "track_name": "Wir sahnen ab!",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 8639680,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10884658,
+            "album_name": "Juice, Volume 75",
+            "artist_id": 270640,
+            "artist_name": "K.I.Z.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/K-I-Z/Wir-sahnen-ab?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/K-I-Z/Wir-sahnen-ab/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-09T08:34:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171491187,
+            "track_name": "Miss Sarajevo (feat. Luciano Pavarotti) [Single Radio Edit]",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 12530401,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 32682020,
+            "album_name": "Pavarotti - The Duets",
+            "artist_id": 1517,
+            "artist_name": "Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Passengers-feat-Luciano-Pavarotti-2/Miss-Sarajevo-Single-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Passengers-feat-Luciano-Pavarotti-2/Miss-Sarajevo-Single-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-14T20:22:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 5,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Classical",
+                    "music_genre_name_extended": "Classical",
+                    "music_genre_vanity": "Classical"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 9,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Opera",
+                    "music_genre_name_extended": "Opera",
+                    "music_genre_vanity": "Opera"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19694206,
+            "track_name": "Rohmilchkäse (skit)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 8639645,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10968840,
+            "album_name": "Sexismus gegen Rechts",
+            "artist_id": 270640,
+            "artist_name": "K.I.Z.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/K-I-Z/Rohmilchk%C3%A4se-skit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/K-I-Z/Rohmilchk%C3%A4se-skit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T01:27:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85338802,
+            "track_name": "Miss Sarajevo - Single Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 48051083,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15341027,
+            "album_name": "Pavarotti - The Duets",
+            "artist_id": 13811987,
+            "artist_name": "Passengers and Luciano Pavarotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Passengers-and-Luciano-Pavarotti-2/Miss-Sarajevo-Single-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Passengers-and-Luciano-Pavarotti-2/Miss-Sarajevo-Single-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-20T20:00:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91535312,
+            "track_name": "Dicker Bauch",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 903852,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21359537,
+            "album_name": "Arbeit nervt",
+            "artist_id": 7203,
+            "artist_name": "Deichkind",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deichkind/Dicker-Bauch?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deichkind/Dicker-Bauch/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T22:59:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186113882,
+            "track_name": "Raus aus dem Reichstag",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 981221,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 35460087,
+            "album_name": "Alles kann besser werden",
+            "artist_id": 7622,
+            "artist_name": "Xavier Naidoo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xavier-Naidoo/Raus-aus-dem-Reichstag?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xavier-Naidoo/Raus-aus-dem-Reichstag/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:31:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30120754,
+            "track_name": "Cyborg",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 6101109,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10587515,
+            "album_name": "Geschriebene Geschichte",
+            "artist_id": 160174,
+            "artist_name": "Prinz Pi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Prinz-Pi/Cyborg?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Prinz-Pi/Cyborg/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-22T01:10:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186113884,
+            "track_name": "Goldwaagen/ Goldwagen",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 981169,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 35460087,
+            "album_name": "Alles kann besser werden",
+            "artist_id": 7622,
+            "artist_name": "Xavier Naidoo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xavier-Naidoo/Goldwaagen-Goldwagen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xavier-Naidoo/Goldwaagen-Goldwagen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-19T01:10:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32723368,
+            "track_name": "Aankhon Mein Neende",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 40526520,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 15399274,
+            "album_name": "Kabhi Bebasi Kabhi Intezar (Original Motion Picture Soundtrack)",
+            "artist_id": 38729437,
+            "artist_name": "Kumar Sanu feat. Alka Yagnik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kumar-Sanu-feat-Alka-Yagnik-5/Aankhon-Mein-Neende?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kumar-Sanu-feat-Alka-Yagnik-5/Aankhon-Mein-Neende/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-05T01:42:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 143094270,
+            "track_name": "Leveled Up",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 79414649,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27757790,
+            "album_name": "Ain't No Mixtape Bih 3",
+            "artist_id": 290410,
+            "artist_name": "Plies",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Plies/Leveled-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Plies/Leveled-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-30T13:27:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14024503,
+            "track_name": "Miss Sarajevo",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1188847,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 79,
+            "album_id": 10548164,
+            "album_name": "Original Soundtracks 1",
+            "artist_id": 9228,
+            "artist_name": "Passengers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Passengers/Miss-Sarajevo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Passengers/Miss-Sarajevo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T16:53:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 61441878,
+            "track_name": "Dann bist du Häuptling",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11877030,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 18007960,
+            "album_name": "Invictus",
+            "artist_id": 407576,
+            "artist_name": "Fard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fard/Dann-bist-du-H%C3%A4uptling?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fard/Dann-bist-du-H%C3%A4uptling/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-02-20T09:33:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 751943,
+            "track_name": "Bring mich nach Haus",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 395862,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10283191,
+            "album_name": "Demotape",
+            "artist_id": 1371,
+            "artist_name": "Fettes Brot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fettes-Brot/Bring-mich-nach-Haus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fettes-Brot/Bring-mich-nach-Haus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:13:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151357325,
+            "track_name": "Helmut Lang",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 84303508,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29074597,
+            "album_name": "Helmut",
+            "artist_id": 36124953,
+            "artist_name": "Yung Kafa & Kücük Efendi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yung-Kafa-K%C3%BCc%C3%BCk-Efendi/Helmut-Lang?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yung-Kafa-K%C3%BCc%C3%BCk-Efendi/Helmut-Lang/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-20T18:19:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7838566,
+            "track_name": "Backen für den Weihnachtsmann",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1709999,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10897506,
+            "album_name": "Frohe Weihnachten mit Tabaluga, Peter Maffay & seinen Freunden",
+            "artist_id": 15523,
+            "artist_name": "Peter Maffay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Peter-Maffay/Backen-f%C3%BCr-den-Weihnachtsmann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Peter-Maffay/Backen-f%C3%BCr-den-Weihnachtsmann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-11T19:10:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 13,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "New Age",
+                    "music_genre_name_extended": "New Age",
+                    "music_genre_vanity": "New-Age"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1081,
+                    "music_genre_parent_id": 8,
+                    "music_genre_name": "Christmas: Children's",
+                    "music_genre_name_extended": "Holiday / Christmas: Children's",
+                    "music_genre_vanity": "Holiday-Christmas:-Children's"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1126435,
+            "track_name": "Wem nutzt das schon",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 839886,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10312590,
+            "album_name": "Rosa Armee Fraktion",
+            "artist_id": 6919,
+            "artist_name": "J.B.O.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-B-O/Wem-nutzt-das-schon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-B-O/Wem-nutzt-das-schon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T08:01:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000066,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Pop",
+                    "music_genre_name_extended": "German Pop",
+                    "music_genre_vanity": "German-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3245461,
+            "track_name": "Unspektakulär",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1330598,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10484539,
+            "album_name": "HardChor",
+            "artist_id": 10736,
+            "artist_name": "Die Prinzen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Die-Prinzen/Unspektakul%C3%A4r?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Die-Prinzen/Unspektakul%C3%A4r/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-09-18T05:45:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000066,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Pop",
+                    "music_genre_name_extended": "German Pop",
+                    "music_genre_vanity": "German-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95547186,
+            "track_name": "Er gehörte mal mir",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 7191379,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21654299,
+            "album_name": "Unausgesprochen-2 Bonustracks",
+            "artist_id": 102627,
+            "artist_name": "Annett Louisan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Annett-Louisan/Er-geh%C3%B6rte-mal-mir?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Annett-Louisan/Er-geh%C3%B6rte-mal-mir/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:30:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74500427,
+            "track_name": "Bitte Bitte",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 26527656,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19728294,
+            "album_name": "Neue Deutsche Welle",
+            "artist_id": 128899,
+            "artist_name": "Fler",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fler/Bitte-Bitte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fler/Bitte-Bitte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-13T02:01:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8601138,
+            "track_name": "Schmutzig! Schmutzig!",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 5796094,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 10965724,
+            "album_name": "Du willst mir an die Wäsche",
+            "artist_id": 352521,
+            "artist_name": "Jennifer Rostock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jennifer-Rostock/Schmutzig-Schmutzig?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jennifer-Rostock/Schmutzig-Schmutzig/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T18:51:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54600798,
+            "track_name": "Ich bin ein ganz besond'rer Mensch",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 26394485,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17214392,
+            "album_name": "Hasenchartbreaker",
+            "artist_id": 7018,
+            "artist_name": "Knorkator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Knorkator/Ich-bin-ein-ganz-besond-rer-Mensch?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Knorkator/Ich-bin-ein-ganz-besond-rer-Mensch/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-07T19:02:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100939457,
+            "track_name": "Hasengebet",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 935552,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 22146920,
+            "album_name": "Immer Weiter",
+            "artist_id": 7411,
+            "artist_name": "Reinhard Mey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Reinhard-Mey/Hasengebet?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Reinhard-Mey/Hasengebet/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-14T03:36:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1022,
+                    "music_genre_parent_id": 5,
+                    "music_genre_name": "Classical Crossover",
+                    "music_genre_name_extended": "Classical / Classical Crossover",
+                    "music_genre_vanity": "Classical-Classical-Crossover"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75968501,
+            "track_name": "Sugar Daddy",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 39898584,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 19924117,
+            "album_name": "Hedwig and the Angry Inch (Original Broadway Cast Recording)",
+            "artist_id": 27828403,
+            "artist_name": "Hedwig and the Angry Inch - Original Broadway Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hedwig-and-the-Angry-Inch-Original-Broadway-Cast/Sugar-Daddy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hedwig-and-the-Angry-Inch-Original-Broadway-Cast/Sugar-Daddy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-27T13:25:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

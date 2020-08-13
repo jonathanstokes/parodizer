@@ -1,0 +1,1685 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.08398699760437,
+      "available": 1806
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 155969573,
+            "track_name": "La Noche De Los Dos - feat. Natalia Jimenez",
+            "track_name_translation_list": [],
+            "track_rating": 67,
+            "commontrack_id": 47641200,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 29782379,
+            "album_name": "Prestige",
+            "artist_id": 13995902,
+            "artist_name": "Daddy Yankee feat. Natalia Jiménez",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee-feat-Natalia-Jim%C3%A9nez/La-Noche-de-los-Dos-feat-Natalia-Jimenez?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee-feat-Natalia-Jim%C3%A9nez/La-Noche-de-los-Dos-feat-Natalia-Jimenez/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-21T14:38:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200209776,
+            "track_name": "Hera",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 113703931,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 39224669,
+            "album_name": "Hera - Single",
+            "artist_id": 37070613,
+            "artist_name": "Destripando la Historia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Destripando-la-Historia/Hera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Destripando-la-Historia/Hera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-03T09:06:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30312002,
+            "track_name": "I'm Eminem",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 137286,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10479667,
+            "album_name": "Freestyles 2",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/I-m-Eminem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/I-m-Eminem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-27T15:43:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113525773,
+            "track_name": "Saint Pablo",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 62520457,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 179,
+            "album_id": 23838102,
+            "album_name": "The Life of Pablo",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/Saint-Pablo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/Saint-Pablo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-05T14:06:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84685858,
+            "track_name": "Deck The Hall - Remastered 1999",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 47630189,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20922126,
+            "album_name": "Ultimate Christmas Collection",
+            "artist_id": 7697,
+            "artist_name": "Nat King Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nat-King-Cole/Deck-The-Hall-Remastered-1999?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nat-King-Cole/Deck-The-Hall-Remastered-1999/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T12:59:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36997676,
+            "track_name": "Deck the Halls",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 956866,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15709139,
+            "album_name": "Out In L.A.",
+            "artist_id": 7521,
+            "artist_name": "Red Hot Chili Peppers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Deck-the-Halls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Deck-the-Halls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T17:09:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84700872,
+            "track_name": "Deck The Rooftop (Glee Cast Version)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 13688960,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 26,
+            "album_id": 20922522,
+            "album_name": "Glee: The Music, The Christmas Album",
+            "artist_id": 483091,
+            "artist_name": "Glee Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glee-Cast/Deck-the-Rooftop-Glee-Cast-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glee-Cast/Deck-the-Rooftop-Glee-Cast-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-22T22:10:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1080,
+                    "music_genre_parent_id": 8,
+                    "music_genre_name": "Christmas",
+                    "music_genre_name_extended": "Holiday / Christmas",
+                    "music_genre_vanity": "Holiday-Christmas"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18384323,
+            "track_name": "Deck the Rooftop",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 9106622,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 51,
+            "album_id": 14254520,
+            "album_name": "Glee: The Music, The Complete Season Two",
+            "artist_id": 483091,
+            "artist_name": "Glee Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glee-Cast/Deck-the-Rooftop?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glee-Cast/Deck-the-Rooftop/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:55:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 861954,
+            "track_name": "Lastonesleft",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 44233,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 83,
+            "album_id": 10365933,
+            "album_name": "Until the End of Time",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Lastonesleft?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Lastonesleft/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-28T22:31:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84191151,
+            "track_name": "Why U Turn On Me",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 44815,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 20880696,
+            "album_name": "Until the End of Time",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Why-U-Turn-On-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Why-U-Turn-On-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-21T02:55:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9223931,
+            "track_name": "Destiny's Child Medley",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 1901752,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 11013771,
+            "album_name": "I Am... Yours: An Intimate Performance at Wynn Las Vegas",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Destiny-s-Child-Medley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Destiny-s-Child-Medley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-07T18:20:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 102652863,
+            "track_name": "Saint Pablo (Closest Thing to Einstein)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 56367061,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 258,
+            "album_id": 22322971,
+            "album_name": "Saint Pablo (Closest Thing to Einstein)",
+            "artist_id": 31235289,
+            "artist_name": "Kanye West feat. Sampha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Sampha/Saint-Pablo-Closest-Thing-to-Einstein?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Sampha/Saint-Pablo-Closest-Thing-to-Einstein/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-15T08:55:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114862269,
+            "track_name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 63248579,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 192,
+            "album_id": 23979933,
+            "album_name": "TROLLS (Original Motion Picture Soundtrack)",
+            "artist_id": 41720006,
+            "artist_name": "Anna Kendrick feat. Gwen Stefani, James Corden, Ron Funches, Walt Dohrn, Caroline Hjelt, Aino Jawo & Kunal Nayyar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anna-Kendrick-feat-Gwen-Stefani-James-Corden-Ron-Funches-Walt-Dohrn-Caroline-Hjelt-Aino-Jawo-Kunal-Nayyar/Move-Your-Feet-D-A-N-C-E-It-s-a-Sunshine-Day-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anna-Kendrick-feat-Gwen-Stefani-James-Corden-Ron-Funches-Walt-Dohrn-Caroline-Hjelt-Aino-Jawo-Kunal-Nayyar/Move-Your-Feet-D-A-N-C-E-It-s-a-Sunshine-Day-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-23T07:28:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161606814,
+            "track_name": "On Me (feat. Cardi B)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 90102554,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 139,
+            "album_id": 30731106,
+            "album_name": "Championships",
+            "artist_id": 40851725,
+            "artist_name": "Meek Mill feat. Cardi B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Meek-Mill-feat-Cardi-B/On-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Meek-Mill-feat-Cardi-B/On-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T18:14:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84283498,
+            "track_name": "Jump",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 47016130,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 145,
+            "album_id": 20891660,
+            "album_name": "GO:OD AM",
+            "artist_id": 33492065,
+            "artist_name": "Mac Miller",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Jump?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mac-Miller/Jump/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:26:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2220240,
+            "track_name": "Why You Turn On Me",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 44816,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 10400553,
+            "album_name": "Makaveli 2: The Lost Album",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Why-You-Turn-On-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Why-You-Turn-On-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T00:05:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85745440,
+            "track_name": "Why U Turn On Me - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48242902,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20990802,
+            "album_name": "Until The End Of Time (Edited Version)",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Why-U-Turn-On-Me-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Why-U-Turn-On-Me-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-04T23:33:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194495328,
+            "track_name": "Second Chances. (feat. 6LACK)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 109156514,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 17,
+            "album_id": 37146118,
+            "album_name": "KIKI",
+            "artist_id": 31779857,
+            "artist_name": "Kiana Ledé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kiana-Led%C3%A9/Second-Chances-6LACK-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kiana-Led%C3%A9/Second-Chances-6LACK-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-02T21:16:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36305867,
+            "track_name": "III. Life: The Biggest Troll (Andrew Auernheimer)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 14478362,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 76,
+            "album_id": 15663265,
+            "album_name": "Because the Internet",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/III-Life-The-Biggest-Troll-Andrew-Auernheimer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/III-Life-The-Biggest-Troll-Andrew-Auernheimer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-12T05:18:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86763825,
+            "track_name": "IDGAF",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11884042,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 288,
+            "album_id": 21059987,
+            "album_name": "Luca Brasi Story",
+            "artist_id": 426726,
+            "artist_name": "kevin gates",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kevin-Gates/IDGAF?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kevin-Gates/IDGAF/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-10T01:14:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159991295,
+            "track_name": "My Kind",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 89072751,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 47,
+            "album_id": 30433364,
+            "album_name": "The Pains of Growing",
+            "artist_id": 28689912,
+            "artist_name": "Alessia Cara",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alessia-Cara/My-Kind?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alessia-Cara/My-Kind/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T18:40:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19073666,
+            "track_name": "Lastonesleft",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11706207,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14288852,
+            "album_name": "Until the End of Time",
+            "artist_id": 38520939,
+            "artist_name": "2Pac feat. Outlawz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Lastonesleft?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Outlawz/Lastonesleft/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-22T04:53:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 105217553,
+            "track_name": "III. life: the biggest troll [andrew auernheimer] ft. Donald Glover",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 57601012,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22636991,
+            "album_name": "because the internet",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/III-life-the-biggest-troll-andrew-auernheimer-ft-Donald-Glover?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/III-life-the-biggest-troll-andrew-auernheimer-ft-Donald-Glover/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-20T12:23:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82681484,
+            "track_name": "Life: The Biggest Troll (Andrew Auernheimer)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 46089291,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20750535,
+            "album_name": "Because the Internet",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Life-The-Biggest-Troll-Andrew-Auernheimer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Life-The-Biggest-Troll-Andrew-Auernheimer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-27T20:36:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85745442,
+            "track_name": "LastOnesLeft - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 48242828,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20990802,
+            "album_name": "Until The End Of Time (Edited Version)",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/LastOnesLeft-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/LastOnesLeft-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-04T23:33:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14348200,
+            "track_name": "Someone's Missing",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 7954231,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 25,
+            "album_id": 11056631,
+            "album_name": "Congratulations",
+            "artist_id": 172157,
+            "artist_name": "MGMT",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MGMT/Someone-s-Missing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MGMT/Someone-s-Missing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:45:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160263315,
+            "track_name": "Chanel Junkie",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 89255912,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 30488810,
+            "album_name": "RESET",
+            "artist_id": 36829982,
+            "artist_name": "Moneybagg Yo feat. Future",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Moneybagg-Yo-feat-Future/Chanel-Junkie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Moneybagg-Yo-feat-Future/Chanel-Junkie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-05T13:55:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33965324,
+            "track_name": "Deck the Halls / Silent Night",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 13882392,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15493337,
+            "album_name": "One Wish - The Holiday Album",
+            "artist_id": 444,
+            "artist_name": "Whitney Houston",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Whitney-Houston/Deck-the-Halls-Silent-Night?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Whitney-Houston/Deck-the-Halls-Silent-Night/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-10T13:05:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37043036,
+            "track_name": "Ghost River",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 10052084,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 231,
+            "album_id": 15713451,
+            "album_name": "Imaginaerum (Deluxe Bonus Version)",
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-29T12:53:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 139175981,
+            "track_name": "Double-Down Speed Round",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 77178078,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 27294136,
+            "album_name": "TROLLS Holiday",
+            "artist_id": 34584873,
+            "artist_name": "Anna Kendrick feat. Justin Timberlake, James Corden, Ron Funches, Caroline Hjelt, Aino Jawo & Kunal Nayyar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anna-Kendrick-feat-Justin-Timberlake-James-Corden-Ron-Funches-Caroline-Hjelt-Aino-Jawo-Kunal-Nayyar/Double-Down-Speed-Round?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anna-Kendrick-feat-Justin-Timberlake-James-Corden-Ron-Funches-Caroline-Hjelt-Aino-Jawo-Kunal-Nayyar/Double-Down-Speed-Round/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-23T14:07:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129987601,
+            "track_name": "Ten Wife Commandments",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 70838390,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 26141242,
+            "album_name": "The King & I",
+            "artist_id": 33086389,
+            "artist_name": "Faith Evans feat. The Notorious B.I.G.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Faith-Evans-feat-The-Notorious-B-I-G/Ten-Wife-Commandments?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Faith-Evans-feat-The-Notorious-B-I-G/Ten-Wife-Commandments/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-10T10:17:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72569457,
+            "track_name": "Tim Westwood Freestyle",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 39758757,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 19580735,
+            "album_name": "Sleeper Hits",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Tim-Westwood-Freestyle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino/Tim-Westwood-Freestyle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-19T15:11:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8113797,
+            "track_name": "Deck the Halls",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 2315653,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10922383,
+            "album_name": "A Merry Christmas with Frank & Bing",
+            "artist_id": 14009845,
+            "artist_name": "Bing Crosby & Frank Sinatra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bing-Crosby-Frank-Sinatra/Deck-the-Halls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bing-Crosby-Frank-Sinatra/Deck-the-Halls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-15T19:02:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44241965,
+            "track_name": "III. Life: The Biggest Troll (Andrew Auernheimer)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 19076206,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 16179421,
+            "album_name": "Because the Internet",
+            "artist_id": 25850911,
+            "artist_name": "Childish Gambino feat. Donald Glover",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-feat-Donald-Glover/III-Life-The-Biggest-Troll-Andrew-Auernheimer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-feat-Donald-Glover/III-Life-The-Biggest-Troll-Andrew-Auernheimer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-18T02:49:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19237252,
+            "track_name": "A “DC” Christmas Medley",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 12575066,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10472162,
+            "album_name": "8 Days of Christmas",
+            "artist_id": 14333325,
+            "artist_name": "Destiny's Child",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Destiny%E2%80%99s-Child/A-DC-Christmas-Medley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Destiny%E2%80%99s-Child/A-DC-Christmas-Medley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-02T09:06:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187052576,
+            "track_name": "Up The Smoke (with Offset)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 102354111,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 22,
+            "album_id": 35626101,
+            "album_name": "Up The Smoke (with Offset)",
+            "artist_id": 38419034,
+            "artist_name": "Stunna 4 Vegas feat. Offset",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stunna-4-Vegas-feat-Offset/Up-The-Smoke-with-Offset?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stunna-4-Vegas-feat-Offset/Up-The-Smoke-with-Offset/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-15T20:08:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80754624,
+            "track_name": "Ribelle e basta",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 43343037,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 139,
+            "album_id": 20506404,
+            "album_name": "Il bello d'esser brutti",
+            "artist_id": 261397,
+            "artist_name": "J-Ax",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-AX/Ribelle-e-basta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-AX/Ribelle-e-basta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-02T17:30:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138793854,
+            "track_name": "Deck the Halls",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 76932803,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 49,
+            "album_id": 27237932,
+            "album_name": "A Pentatonix Christmas Deluxe",
+            "artist_id": 13841673,
+            "artist_name": "Pentatonix",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pentatonix/Deck-The-Halls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pentatonix/Deck-The-Halls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-26T02:44:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37043049,
+            "track_name": "Ghost River (Instrumental)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 10286737,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15713451,
+            "album_name": "Imaginaerum (Deluxe Bonus Version)",
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-instrumental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-instrumental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-29T12:53:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86318888,
+            "track_name": "Ghost River - orchestral version",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 15008671,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15713461,
+            "album_name": "Imaginaerum (Tour Edition)",
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Orchestral-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Orchestral-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-12T19:56:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86318933,
+            "track_name": "Ghost River - Live @ Wacken 2013",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14438080,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 19,
+            "album_id": 15606544,
+            "album_name": "Showtime, Storytime",
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live-Wacken-2013?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live-Wacken-2013/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-29T10:16:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168023241,
+            "track_name": "Ghost River (Live, at Wacken, 2013)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 15006950,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 8,
+            "album_id": 32017660,
+            "album_name": "Showtime, Storytime (Live, at Wacken, 2013)",
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live-at-Wacken-2013?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live-at-Wacken-2013/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-16T05:11:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113855432,
+            "track_name": "Herr Mannelig",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 2455017,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 276,
+            "album_id": 23871543,
+            "album_name": "Eppur Si Muove",
+            "artist_id": 32899,
+            "artist_name": "Haggard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Haggard/Herr-Mannelig?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Haggard/Herr-Mannelig/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-04T13:31:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30145007,
+            "track_name": "Love Is the Drug",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 842443,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 82,
+            "album_id": 13756628,
+            "album_name": "Live",
+            "artist_id": 6941,
+            "artist_name": "Roxy Music",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roxy-Music/Love-Is-the-Drug?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roxy-Music/Love-Is-the-Drug/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-27T18:43:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193252406,
+            "track_name": "THE RETURN.",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 107701989,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 36932844,
+            "album_name": "SCARHXURS",
+            "artist_id": 31944374,
+            "artist_name": "Scarlxrd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Scarlxrd/THE-RETURN?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Scarlxrd/THE-RETURN/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-29T12:15:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101922599,
+            "track_name": "Mr. Fucker",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 56041815,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 22247447,
+            "album_name": "La Freschezza Del Marcio",
+            "artist_id": 31188953,
+            "artist_name": "Mondo Marcio feat. J-AX",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio-feat-J-AX/Mr-Fucker?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio-feat-J-AX/Mr-Fucker/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-25T18:14:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17258065,
+            "track_name": "Tras Tus Gafas de Sol",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 10869295,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 159,
+            "album_id": 14206575,
+            "album_name": "Reset",
+            "artist_id": 261345,
+            "artist_name": "Porta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Porta/Tras-tus-gafas-de-sol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Porta/Tras-tus-gafas-de-sol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-05T23:57:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1119,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Latin Urban",
+                    "music_genre_name_extended": "Latin / Latin Urban",
+                    "music_genre_vanity": "Latin-Latin-Urban"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115920786,
+            "track_name": "Ghost River (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 18937894,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 24081645,
+            "album_name": null,
+            "artist_id": 994,
+            "artist_name": "Nightwish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightwish/Ghost-River-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-15T00:50:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12895480,
+            "track_name": "Up",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 9642681,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12895722,
+            "album_name": "Radical",
+            "artist_id": 13751410,
+            "artist_name": "Tyler, the Creator, Domo Genesis & Hodgy Beats",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyler-the-Creator-Domo-Genesis-Hodgy-Beats/Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyler-the-Creator-Domo-Genesis-Hodgy-Beats/Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:01:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161641036,
+            "track_name": "Jump Up",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 48224251,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30734777,
+            "album_name": "Guns Don't Kill People...Lazers Do (Deluxe Edition)",
+            "artist_id": 29141871,
+            "artist_name": "Major Lazer, Leftside & Supa Hype",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Major-Lazer-Leftside-Supa-Hype/Jump-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Major-Lazer-Leftside-Supa-Hype/Jump-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-23T14:01:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

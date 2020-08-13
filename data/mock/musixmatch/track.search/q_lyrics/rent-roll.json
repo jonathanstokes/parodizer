@@ -1,0 +1,1662 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.090178966522217,
+      "available": 1605
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 90329456,
+            "track_name": "Untitled/Fantastic",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 771445,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21269570,
+            "album_name": "Fantastic Vol. 2",
+            "artist_id": 6578,
+            "artist_name": "Slum Village",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Slum-Village/Untitled-Fantastic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Slum-Village/Untitled-Fantastic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T12:21:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18108722,
+            "track_name": "Dear Mama",
+            "track_name_translation_list": [],
+            "track_rating": 71,
+            "commontrack_id": 43960,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4943,
+            "album_id": 10286793,
+            "album_name": "Me Against the World",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Dear-Mama?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Dear-Mama/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-13T08:13:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116513510,
+            "track_name": "Time of Our Lives",
+            "track_name_translation_list": [],
+            "track_rating": 56,
+            "commontrack_id": 41333311,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7836,
+            "album_id": 24130684,
+            "album_name": "Perfect! R&B Best of 2015",
+            "artist_id": 28432107,
+            "artist_name": "Pitbull feat. Ne-Yo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pitbullfeat-Ne-Yo/Time-of-Our-Lives?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pitbullfeat-Ne-Yo/Time-of-Our-Lives/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-13T10:56:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34131079,
+            "track_name": "Yoü And I",
+            "track_name_translation_list": [],
+            "track_rating": 47,
+            "commontrack_id": 9701454,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2807,
+            "album_id": 15505456,
+            "album_name": "Born This Way (Japan Standard Version)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-25T12:48:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1037,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Contemporary Country",
+                    "music_genre_name_extended": "Country / Contemporary Country",
+                    "music_genre_vanity": "Country-Contemporary-Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1133,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Pop/Rock",
+                    "music_genre_name_extended": "Pop / Pop/Rock",
+                    "music_genre_vanity": "Pop-Pop-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1157,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Rock & Roll",
+                    "music_genre_name_extended": "Rock / Rock & Roll",
+                    "music_genre_vanity": "Rock-Rock-Roll"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84492824,
+            "track_name": "Liquor Store Blues - feat. Damian Marley",
+            "track_name_translation_list": [],
+            "track_rating": 47,
+            "commontrack_id": 40521805,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3337,
+            "album_id": 20910009,
+            "album_name": "Doo-Wops & Hooligans",
+            "artist_id": 33492237,
+            "artist_name": "Bruno Mars",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bruno-Mars/Liquor-Store-Blues-feat-Damian-Marley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bruno-Mars/Liquor-Store-Blues-feat-Damian-Marley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-04T08:59:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113718956,
+            "track_name": "X",
+            "track_name_translation_list": [],
+            "track_rating": 43,
+            "commontrack_id": 62637083,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1378,
+            "album_id": 23858245,
+            "album_name": "Savage Mode",
+            "artist_id": 33175906,
+            "artist_name": "21 Savage feat. Metro Boomin & Future",
+            "track_share_url": "https://www.musixmatch.com/lyrics/21-Savage-feat-Metro-Boomin-Future/X-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/21-Savage-feat-Metro-Boomin-Future/X-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-07T16:56:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128564161,
+            "track_name": "LUST.",
+            "track_name_translation_list": [],
+            "track_rating": 39,
+            "commontrack_id": 71398947,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 559,
+            "album_id": 25933396,
+            "album_name": "DAMN.",
+            "artist_id": 33492070,
+            "artist_name": "Kendrick Lamar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/LUST?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar/LUST/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:27:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90782529,
+            "track_name": "Truffle Butter",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 47324367,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 44,
+            "album_id": 21300748,
+            "album_name": "Bonnie & Clyde",
+            "artist_id": 28258173,
+            "artist_name": "Nicki Minaj feat. Meek Mill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Meek-Mill/Truffle-Butter-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Meek-Mill/Truffle-Butter-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-16T09:07:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194286141,
+            "track_name": "10 Bands (feat. Timbaland)",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 97686906,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 84,
+            "album_id": 37245325,
+            "album_name": "ADHD",
+            "artist_id": 44817859,
+            "artist_name": "Joyner Lucas feat. Timbaland",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joyner-Lucas-feat-Timbaland/10-Bands?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joyner-Lucas-feat-Timbaland/10-Bands/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T18:14:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 131759936,
+            "track_name": "Where This Flower Blooms",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 73535833,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 71,
+            "album_id": 26424226,
+            "album_name": "Flower Boy",
+            "artist_id": 35336186,
+            "artist_name": "Tyler, The Creator feat. Frank Ocean",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator/Where-This-Flower-Blooms?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator/Where-This-Flower-Blooms/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-04T11:05:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128922535,
+            "track_name": "Girls Like (feat. Zara Larsson)",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 56540452,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 608,
+            "album_id": 25985231,
+            "album_name": "YOUTH",
+            "artist_id": 31261704,
+            "artist_name": "Tinie Tempah feat. Zara Larsson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tinie-Tempah-feat-Zara-Larsson-2/Girls-Like-feat-Zara-Larsson-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tinie-Tempah-feat-Zara-Larsson-2/Girls-Like-feat-Zara-Larsson-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-06T17:38:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175712392,
+            "track_name": "Hollywood Whore",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 95542345,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 123,
+            "album_id": 33324821,
+            "album_name": "Hotel Diablo",
+            "artist_id": 33491440,
+            "artist_name": "Machine Gun Kelly",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Machine-Gun-Kelly/Hollywood-Whore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Machine-Gun-Kelly/Hollywood-Whore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-20T18:47:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137929623,
+            "track_name": "Truffle Butter",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 43281077,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5213,
+            "album_id": 27131156,
+            "album_name": "The Pinkprint (Deluxe Edition)",
+            "artist_id": 38533848,
+            "artist_name": "Nicki Minaj feat. Drake & Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-Drake-Lil-Wayne/Truffle-Butter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-Drake-Lil-Wayne/Truffle-Butter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-23T12:04:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1048,
+                    "music_genre_parent_id": 17,
+                    "music_genre_name": "House",
+                    "music_genre_name_extended": "Dance / House",
+                    "music_genre_vanity": "Dance-House"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32133158,
+            "track_name": "Got Money",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 2098164,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 245,
+            "album_id": 11346320,
+            "album_name": "Tha Carter III",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Got-Money?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Got-Money/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-17T10:56:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 79402335,
+            "track_name": "Detroit Vs Everybody",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 44085327,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 781,
+            "album_id": 20311570,
+            "album_name": "Dangerous Tracks",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Detroit-Vs-Everybody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Detroit-Vs-Everybody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-18T16:50:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74548541,
+            "track_name": "Detroit Vs. Everybody",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 40959891,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1440,
+            "album_id": 19731557,
+            "album_name": "SHADYXV",
+            "artist_id": 33473018,
+            "artist_name": "Eminem feat. Royce Da 5'9\", Big Sean, Danny Brown, DeJ Loaf & Trick Trick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf-Trick-Trick/Detroit-vs-Everybody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf-Trick-Trick/Detroit-vs-Everybody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-27T01:11:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80717671,
+            "track_name": "Detroit vs. Everbody",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 44821614,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 20504156,
+            "album_name": "SHADYXV",
+            "artist_id": 28037595,
+            "artist_name": "Eminem, Royce da 5′9″, Big Sean, Danny Brown, DeJ Loaf & Trick-Trick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf-Trick-Trick/Detroit-Vs-Everbody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf-Trick-Trick/Detroit-Vs-Everbody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-13T08:33:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81491353,
+            "track_name": "Detroit vs. Everybody",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 45147618,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20586081,
+            "album_name": "Shady Classics: Mixtape",
+            "artist_id": 28520635,
+            "artist_name": "Eminem feat. Royce da 5′9″, Big Sean, Danny Brown & DeJ Loaf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf/Detroit-vs-Everybody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Royce-da-5%E2%80%B29%E2%80%B3-Big-Sean-Danny-Brown-DeJ-Loaf/Detroit-vs-Everybody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-27T13:04:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130855770,
+            "track_name": "Switch",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 72403413,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 380,
+            "album_id": 26269523,
+            "album_name": "Shape Of Pop",
+            "artist_id": 33619830,
+            "artist_name": "Iggy Azalea feat. Anitta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Iggy-Azalea-feat-Anitta/Switch?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Iggy-Azalea-feat-Anitta/Switch/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-21T23:57:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1262,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Indian",
+                    "music_genre_name_extended": "Indian",
+                    "music_genre_vanity": "Indian"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145097783,
+            "track_name": "Oh Okay (feat. Young Thug & Lil Baby)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 80505926,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 103,
+            "album_id": 28058950,
+            "album_name": "Drip Season 3",
+            "artist_id": 35262095,
+            "artist_name": "Gunna feat. Lil Baby & Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gunna-feat-Young-Thug-Lil-Baby/Oh-Okay?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gunna-feat-Young-Thug-Lil-Baby/Oh-Okay/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-05T05:08:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115166510,
+            "track_name": "Warm Up",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 63511311,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 90,
+            "album_id": 24011335,
+            "album_name": "Warm Up",
+            "artist_id": 27876856,
+            "artist_name": "NF",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NF-7/Warm-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NF-7/Warm-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-10T09:38:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94441847,
+            "track_name": "Hell Of A Life",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 9055871,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 107,
+            "album_id": 21566212,
+            "album_name": "My Beautiful Dark Twisted Fantasy (Explicit Version)",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/Hell-of-a-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/Hell-of-a-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-31T17:37:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171641319,
+            "track_name": "Broke Leg (with Quavo & Tyga)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 96004841,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 40,
+            "album_id": 32700484,
+            "album_name": "LoVE me NOw (ReLoAdeD)",
+            "artist_id": 41898510,
+            "artist_name": "Tory Lanez feat. Quavo & Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tory-Lanez-feat-Quavo-Tyga/Broke-Leg-with-Quavo-Tyga?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tory-Lanez-feat-Quavo-Tyga/Broke-Leg-with-Quavo-Tyga/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T15:08:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114337024,
+            "track_name": "Floyd Mayweather",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 63016580,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 246,
+            "album_id": 23924840,
+            "album_name": "JEFFERY",
+            "artist_id": 32051821,
+            "artist_name": "Young Thug feat. Travis Scott, Gucci Mane & Gunna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Travis-Scott-Gucci-Mane-Gunna/Floyd-Mayweather?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Travis-Scott-Gucci-Mane-Gunna/Floyd-Mayweather/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-08T12:38:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11146053,
+            "track_name": "Never Let Me Down",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 3118834,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 122,
+            "album_id": 11231121,
+            "album_name": "Luv! - Vol. 2",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/Never-Let-Me-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/Never-Let-Me-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T12:07:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213962,
+            "track_name": "Yoü And I - Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10094483,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 13889831,
+            "album_name": "Yoü And I",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-20T23:23:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213903,
+            "track_name": "Yoü And I - Mark Taylor Remix",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10094480,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15513739,
+            "album_name": "Yoü and I (The Remixes)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Mark-Taylor-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Mark-Taylor-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158225140,
+            "track_name": "Yoü And I - Metronomy Remix",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10884222,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30117248,
+            "album_name": "Born This Way - The Remix",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Metronomy-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Metronomy-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-05-13T02:05:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15560513,
+            "track_name": "Yoü and I (Danny Verde dub remix)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10094478,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 13889832,
+            "album_name": "Yoü and I: The Remixes",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Danny-Verde-dub-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Danny-Verde-dub-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85214802,
+            "track_name": "Yoü And I - 10 Kings Remix Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10660259,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 34,
+            "album_id": 11330983,
+            "album_name": "Tanecni Liga 136",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/You-and-I-10-Kings-remix-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/You-and-I-10-Kings-remix-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-02T11:38:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158225131,
+            "track_name": "Yoü And I - Wild Beasts Remix",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 10884223,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 30117248,
+            "album_name": "Born This Way - The Remix",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Wild-Beasts-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Wild-Beasts-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-05-13T02:05:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 153421737,
+            "track_name": "Kung Fu",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 85370022,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 45,
+            "album_id": 29363993,
+            "album_name": "Kung Fu",
+            "artist_id": 35955828,
+            "artist_name": "YBN Cordae",
+            "track_share_url": "https://www.musixmatch.com/lyrics/YBN-Cordae/Kung-Fu?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/YBN-Cordae/Kung-Fu/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-21T07:42:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82721517,
+            "track_name": "Till It's Gone",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ティル・イッツ・ゴーン"
+                }
+              }
+            ],
+            "track_rating": 31,
+            "commontrack_id": 40443306,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1725,
+            "album_id": 20753216,
+            "album_name": "Love Story",
+            "artist_id": 532285,
+            "artist_name": "Yelawolf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yelawolf/Till-It-s-Gone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yelawolf/Till-It-s-Gone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-16T03:07:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158127866,
+            "track_name": "Sin",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 87919294,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 101,
+            "album_id": 30099310,
+            "album_name": "On The Rvn",
+            "artist_id": 36842273,
+            "artist_name": "Young Thug feat. Jaden",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Jaden/Sin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Jaden/Sin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-17T10:18:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114315026,
+            "track_name": "Floyd Mayweather (feat. Travis Scott, Gucci Mane and Gunna)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 63248025,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 217,
+            "album_id": 23921950,
+            "album_name": "JEFFERY",
+            "artist_id": 32093893,
+            "artist_name": "Young Thug feat. Gucci Mane, Gunna & Travis Scott",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Gucci-Mane-Gunna-Travis-Scott/Floyd-Mayweather-feat-Travis-Scott-Gucci-Mane-and-Gunna?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Thug-feat-Gucci-Mane-Gunna-Travis-Scott/Floyd-Mayweather-feat-Travis-Scott-Gucci-Mane-and-Gunna/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-16T09:05:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34232256,
+            "track_name": "Yoü and I (Mark Taylor Remix Radio Edit)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10094481,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15513741,
+            "album_name": "Born This Way - The Remix",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Mark-Taylor-remix-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Mark-Taylor-remix-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34232226,
+            "track_name": "Yoü and I (Hector Fonseca Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10094479,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15513739,
+            "album_name": "Yoü and I (The Remixes)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Hector-Fonseca-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Hector-Fonseca-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213907,
+            "track_name": "Yoü And I - Danny Verde Remix",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10776570,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 15513739,
+            "album_name": "Yoü and I (The Remixes)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Danny-Verde-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-Danny-Verde-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-09-09T01:30:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34232223,
+            "track_name": "Yoü and I (ATB Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10094477,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15513739,
+            "album_name": "Yoü and I (The Remixes)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-ATB-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-ATB-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34232222,
+            "track_name": "Yoü and I (10 Kings Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10094476,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15513739,
+            "album_name": "Yoü and I (The Remixes)",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-10-Kings-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Yo%C3%BC-and-I-10-Kings-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-27T11:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85577841,
+            "track_name": "Truffle Butter",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 48172708,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20981131,
+            "album_name": "Almighty",
+            "artist_id": 33491453,
+            "artist_name": "Drake",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake/Truffle-Butter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake/Truffle-Butter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:52:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164760659,
+            "track_name": "Ali Bomaye",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 11611204,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 709,
+            "album_id": 31336986,
+            "album_name": "Jesus Piece",
+            "artist_id": 14314595,
+            "artist_name": "The Game feat. 2 Chainz & Rick Ross",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Game-feat-2-Chainz-Rick-Ross/Ali-Bomaye?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Game-feat-2-Chainz-Rick-Ross/Ali-Bomaye/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-06T10:25:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 140848371,
+            "track_name": "Still Think I'm Nothing",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 78117609,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 80,
+            "album_id": 27462696,
+            "album_name": "Still Think I'm Nothing (feat. Jeremih)",
+            "artist_id": 13933518,
+            "artist_name": "50 Cent feat. Jeremih",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent-feat-Jeremih/Still-Think-I-m-Nothing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent-feat-Jeremih/Still-Think-I-m-Nothing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-15T10:54:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190590283,
+            "track_name": "Outta Pocket (feat. Girl Talk)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 105660749,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 33332933,
+            "album_name": "Revenge of the Dreamers III: Director's Cut",
+            "artist_id": 39105558,
+            "artist_name": "Dreamville feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dreamville-Bas-Cozz/Outta-Pocket-with-Bas-Cozz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dreamville-Bas-Cozz/Outta-Pocket-with-Bas-Cozz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-29T23:47:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85341292,
+            "track_name": "Never Let Me Down",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 9968261,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 70,
+            "album_id": 20965865,
+            "album_name": "The College Dropout [UK Version - (Art changes)]",
+            "artist_id": 13795667,
+            "artist_name": "Kanye West feat. JAY Z & J. Ivy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Jay-Z-J-Ivy/Never-Let-Me-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Jay-Z-J-Ivy/Never-Let-Me-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T19:10:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84670075,
+            "track_name": "Hell Of A Life - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 47626643,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20921269,
+            "album_name": "My Beautiful Dark Twisted Fantasy (Edited Version)",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/Hell-Of-A-Life-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/Hell-Of-A-Life-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T12:07:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864807,
+            "track_name": "Dear Mama - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 48305424,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 20998576,
+            "album_name": "2Pac Greatest Hits (Edited Version)",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Dear-Mama-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Dear-Mama-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-25T02:00:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196408648,
+            "track_name": "Good Morning (Remix) feat. Lil Yachty, NLE Choppa",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 110411836,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 37960685,
+            "album_name": "Good Morning (Remix) [feat. Lil Yachty & NLE Choppa] - Single",
+            "artist_id": 45256286,
+            "artist_name": "Mak Sauce feat. Lil Yachty & NLE Choppa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mak-Sauce-Lil-Yachty-NLE-Choppa/Good-Morning-Remix-Lil-Yachty-NLE-Choppa?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mak-Sauce-Lil-Yachty-NLE-Choppa/Good-Morning-Remix-Lil-Yachty-NLE-Choppa/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-20T06:48:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78167023,
+            "track_name": "Time of Our Lives",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 43342005,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3222,
+            "album_id": 20211432,
+            "album_name": "Non-Fiction",
+            "artist_id": 34570413,
+            "artist_name": "Ne-Yo & Pitbull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ne-Yo-feat-Pitbull/Time-of-Our-Lives-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ne-Yo-feat-Pitbull/Time-of-Our-Lives-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-23T09:29:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15415385,
+            "track_name": "Got Money",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10015837,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 490,
+            "album_id": 13871431,
+            "album_name": "Got Money",
+            "artist_id": 28459645,
+            "artist_name": "Lil Wayne feat. T-Pain",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-T-Pain-4/Got-Money-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-T-Pain-4/Got-Money-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T11:27:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

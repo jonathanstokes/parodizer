@@ -29,7 +29,9 @@ const MatchedSong = (props: { song: SongResult; job: Job }) => {
         </div>
         <div className="credit-row d-flex justify-content-between">
           {artist && <div className="artist">{artist}</div>}
-          <div className="year">({song.year})</div>
+          <div className="year" title={JSON.stringify(song.score)}>
+            ({song.year})
+          </div>
         </div>
       </div>
       <div className="contains-words d-flex flex-row align-items-center">

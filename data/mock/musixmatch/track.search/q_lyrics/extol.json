@@ -1,0 +1,1828 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.068372011184692,
+      "available": 320
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 14685515,
+            "track_name": "Requiem",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "Requiem"
+                }
+              }
+            ],
+            "track_rating": 25,
+            "commontrack_id": 3477237,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 50,
+            "album_id": 10591525,
+            "album_name": "Ember to Inferno",
+            "artist_id": 75836,
+            "artist_name": "Trivium",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-16T19:59:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80204871,
+            "track_name": "Blue Bucket of Gold",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 43465786,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 35,
+            "album_id": 20452029,
+            "album_name": "Carrie & Lowell",
+            "artist_id": 54946,
+            "artist_name": "Sufjan Stevens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-07T06:23:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87380348,
+            "track_name": "Drowning In Slow Motion",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 9907062,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21096237,
+            "album_name": "In Waves (Special Edition)",
+            "artist_id": 75836,
+            "artist_name": "Trivium",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trivium/Drowning-in-Slow-Motion?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trivium/Drowning-in-Slow-Motion/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-16T12:33:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84215442,
+            "track_name": "Blue Bucket of Gold (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 47307473,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 20883653,
+            "album_name": "Blue Bucket of Gold (Remix)",
+            "artist_id": 54946,
+            "artist_name": "Sufjan Stevens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-27T22:13:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35984400,
+            "track_name": "Drowning In Slow Motion (Bonus Track)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 14853767,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15642062,
+            "album_name": "In Waves (Special Edition)",
+            "artist_id": 75836,
+            "artist_name": "Trivium",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trivium/Drowning-In-Slow-Motion-Bonus-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trivium/Drowning-In-Slow-Motion-Bonus-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-18T18:09:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91129157,
+            "track_name": "Blue Bucket Of Gold",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 50813508,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 21330398,
+            "album_name": "In The Room",
+            "artist_id": 30033196,
+            "artist_name": "Sufjan Stevens feat. Gallant",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens-feat-Gallant/Blue-Bucket-Of-Gold?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens-feat-Gallant/Blue-Bucket-Of-Gold/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-07T01:22:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123641773,
+            "track_name": "Requiem - Caeruleus",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 70648473,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 25239760,
+            "album_name": "Ember To Inferno: Ab Initio",
+            "artist_id": 75836,
+            "artist_name": "Trivium",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem-Caeruleus-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem-Caeruleus-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-15T21:32:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123724745,
+            "track_name": "Requiem - Demo",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 63947873,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25247077,
+            "album_name": "Ember To Inferno: Ab Initio (Deluxe)",
+            "artist_id": 75836,
+            "artist_name": "Trivium",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem-Caeruleus-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trivium/Requiem-Caeruleus-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-16T05:37:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128917796,
+            "track_name": "Blue Bucket of Gold (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 71653929,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25984528,
+            "album_name": "Carrie & Lowell Live",
+            "artist_id": 54946,
+            "artist_name": "Sufjan Stevens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Blue-Bucket-of-Gold-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-07T03:26:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198471179,
+            "track_name": "What a Shame",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 112169604,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38634890,
+            "album_name": "A Wonderful Life",
+            "artist_id": 11110,
+            "artist_name": "Mushroomhead",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mushroomhead/What-a-Shame?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mushroomhead/What-a-Shame/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-20T04:53:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114199803,
+            "track_name": "Enth",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 62597489,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 23910190,
+            "album_name": "Amnesty (I)",
+            "artist_id": 256100,
+            "artist_name": "Crystal Castles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Crystal-Castles/Enth?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Crystal-Castles/Enth/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-27T12:13:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84383361,
+            "track_name": "Misericord (Bonus Track)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 46754878,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20903005,
+            "album_name": "Hammer of the Witches",
+            "artist_id": 5873,
+            "artist_name": "Cradle of Filth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Misericord-Bonus-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Misericord-Bonus-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-15T18:05:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132035629,
+            "track_name": "Wester Vespertine",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 73709307,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26469937,
+            "album_name": "Cryptoriana - The Seductiveness of Decay",
+            "artist_id": 5873,
+            "artist_name": "Cradle of Filth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Wester-Vespertine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Wester-Vespertine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-01T16:41:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44261482,
+            "track_name": "Holy, Holy (Split Track)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 19078268,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 16180640,
+            "album_name": "Venga Tu Reino Split Tracks",
+            "artist_id": 86146,
+            "artist_name": "Marco Barrientos",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marco-Barrientos/Holy-Holy-Split-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marco-Barrientos/Holy-Holy-Split-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-10T23:57:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127079639,
+            "track_name": "Death Becomes My Light",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 68210596,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 25732960,
+            "album_name": "Gods of Violence",
+            "artist_id": 3393,
+            "artist_name": "Kreator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kreator/Death-Becomes-My-Light?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kreator/Death-Becomes-My-Light/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-29T09:16:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170663678,
+            "track_name": "Seven Ways Of Going",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 284203,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32548587,
+            "album_name": "Wave",
+            "artist_id": 962,
+            "artist_name": "Patti Smith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Seven-Ways-of-Going?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Seven-Ways-of-Going/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T12:10:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132035631,
+            "track_name": "Vengeful Spirit",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 73709310,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26469937,
+            "album_name": "Cryptoriana - The Seductiveness of Decay",
+            "artist_id": 5873,
+            "artist_name": "Cradle of Filth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Vengeful-Spirit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Vengeful-Spirit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-09-25T21:52:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2731367,
+            "track_name": "Prayer of Thanksgiving",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 856121,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 10441728,
+            "album_name": "The Lord's Prayer",
+            "artist_id": 6995,
+            "artist_name": "Perry Como",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Perry-Como/Prayer-of-Thanksgiving?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Perry-Como/Prayer-of-Thanksgiving/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:14:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1080,
+                    "music_genre_parent_id": 8,
+                    "music_genre_name": "Christmas",
+                    "music_genre_name_extended": "Holiday / Christmas",
+                    "music_genre_vanity": "Holiday-Christmas"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83030780,
+            "track_name": "Oh Jah",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 43400624,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20770814,
+            "album_name": "Heal Our Land",
+            "artist_id": 28279806,
+            "artist_name": "Don Moen & Paul Wilbur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Don-Moen-Paul-Wilbur/Oh-Jah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Moen-Paul-Wilbur/Oh-Jah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-31T10:06:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146196672,
+            "track_name": "Awesome God",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 63602090,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 38,
+            "album_id": 28231479,
+            "album_name": "Nations Will Rise and Sing",
+            "artist_id": 28790472,
+            "artist_name": "Steve Crown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Crown/Awesome-God?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Crown/Awesome-God/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-21T05:39:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14586753,
+            "track_name": "Fireproof",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1800188,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10343431,
+            "album_name": "Fireproof",
+            "artist_id": 17030,
+            "artist_name": "Pillar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:12:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92319260,
+            "track_name": "Seven Ways Of Going - Digitally Remastered 1996",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 17277361,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21415034,
+            "album_name": "Wave",
+            "artist_id": 962,
+            "artist_name": "Patti Smith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Seven-Ways-of-Going-Digitally-Remastered-1996?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Seven-Ways-of-Going-Digitally-Remastered-1996/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-06T23:20:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84040535,
+            "track_name": "Phoenix",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47014078,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20864675,
+            "album_name": "Polaris",
+            "artist_id": 362884,
+            "artist_name": "Tesseract",
+            "track_share_url": "https://www.musixmatch.com/lyrics/TesseracT-2/Phoenix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/TesseracT-2/Phoenix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-12T07:28:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1155,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Prog-Rock/Art Rock",
+                    "music_genre_name_extended": "Rock / Prog-Rock/Art Rock",
+                    "music_genre_vanity": "Rock-Prog-Rock-Art-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93948099,
+            "track_name": "Fireproof - Live",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1800190,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21529595,
+            "album_name": "Live At Blue Cats - EP",
+            "artist_id": 17030,
+            "artist_name": "Pillar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-04T07:30:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 811308,
+            "track_name": "The Return To the Beautiful",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 991877,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10287855,
+            "album_name": "The Dreadful Hours",
+            "artist_id": 7693,
+            "artist_name": "My Dying Bride",
+            "track_share_url": "https://www.musixmatch.com/lyrics/My-Dying-Bride/The-Return-to-the-Beautiful?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/My-Dying-Bride/The-Return-to-the-Beautiful/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:32:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33529109,
+            "track_name": "A Flood Strong Enough to Consume the House",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 13416082,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15457862,
+            "album_name": "Come Wind, Come Weather",
+            "artist_id": 24673410,
+            "artist_name": "Silent Planet",
+            "track_share_url": "https://www.musixmatch.com/lyrics/SILENT-PLANET-2/A-Flood-Strong-Enough-to-Consume-the-House?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/SILENT-PLANET-2/A-Flood-Strong-Enough-to-Consume-the-House/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-01T00:42:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1475846,
+            "track_name": "Sing Hallelujah",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2093046,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 26,
+            "album_id": 10340400,
+            "album_name": "Shalom Jerusalem",
+            "artist_id": 23503,
+            "artist_name": "Paul Wilbur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Paul-Wilbur/Sing-Hallelujah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Paul-Wilbur/Sing-Hallelujah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:11:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30517564,
+            "track_name": "Art Snob Solutions",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 694039,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10891376,
+            "album_name": "The Sunlandic Twins",
+            "artist_id": 5522,
+            "artist_name": "of Montreal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/of-Montreal/Art-Snob-Solutions?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/of-Montreal/Art-Snob-Solutions/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T17:03:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90064000,
+            "track_name": "All I Want Is You (Spoken Word) [feat. Selasi Mensah]",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 50238742,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21251106,
+            "album_name": "The Encounter",
+            "artist_id": 29873877,
+            "artist_name": "Joe Mettle feat. Selasi Mensah",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Selasi-Mensah-2/All-I-Want-Is-You-Spoken-Word-feat-Selasi-Mensah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Selasi-Mensah-2/All-I-Want-Is-You-Spoken-Word-feat-Selasi-Mensah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-05T21:49:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44149102,
+            "track_name": "Praise Your Holy Name",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 474925,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 16171979,
+            "album_name": "Live In Washington",
+            "artist_id": 1884,
+            "artist_name": "Yolanda Adams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yolanda-Adams/Praise-Your-Holy-Name?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yolanda-Adams/Praise-Your-Holy-Name/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:24:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53711976,
+            "track_name": "Yahweh Reprise",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 25901577,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 17125100,
+            "album_name": "The 2econd Coming",
+            "artist_id": 26482,
+            "artist_name": "Mali Music",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mali-Music/Yahweh-Reprise?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mali-Music/Yahweh-Reprise/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-13T11:21:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9253080,
+            "track_name": "God's Wondrous Works",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 8738383,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11015535,
+            "album_name": "Sing to Jehovah - Vocal Renditions",
+            "artist_id": 287142,
+            "artist_name": "Watch Tower Bible and Tract Society of Pennsylvania",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Watch-Tower-Bible-and-Tract-Society-of-Pennsylvania/God-s-Wondrous-Works?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Watch-Tower-Bible-and-Tract-Society-of-Pennsylvania/God-s-Wondrous-Works/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-15T10:15:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2215738,
+            "track_name": "Fireproof (live acoustic)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1800189,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10400193,
+            "album_name": "Broken Down: The EP",
+            "artist_id": 17030,
+            "artist_name": "Pillar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-live-acoustic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-live-acoustic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-15T04:40:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93948096,
+            "track_name": "Fireproof - Mudrock Version",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 14539579,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15593986,
+            "album_name": "Fireproof",
+            "artist_id": 17030,
+            "artist_name": "Pillar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-Mudrock-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-Mudrock-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-06T17:51:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1514763,
+            "track_name": "Fireproof (radio mix)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1800191,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10343431,
+            "album_name": "Fireproof",
+            "artist_id": 17030,
+            "artist_name": "Pillar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-radio-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pillar/Fireproof-radio-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T14:12:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90063999,
+            "track_name": "All I Want Is You (feat. Naa Mercy)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 47317834,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 168,
+            "album_id": 21251106,
+            "album_name": "The Encounter",
+            "artist_id": 29873876,
+            "artist_name": "Joe Mettle feat. Naa Mercy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Naa-Mercy-2/All-I-Want-Is-You-feat-Naa-Mercy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Naa-Mercy-2/All-I-Want-Is-You-feat-Naa-Mercy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-30T14:57:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129852232,
+            "track_name": "Till Death",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 72325518,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 26124797,
+            "album_name": "Soft Sounds from Another Planet",
+            "artist_id": 31135563,
+            "artist_name": "Japanese Breakfast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Japanese-Breakfast/Till-Death?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Japanese-Breakfast/Till-Death/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-11T03:12:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94792707,
+            "track_name": "Cypher",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 12197405,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21596944,
+            "album_name": "Darkest White",
+            "artist_id": 7646,
+            "artist_name": "Tristania",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tristania/Cypher?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tristania/Cypher/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-15T04:49:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1399026,
+            "track_name": "Whether They Like It or Not",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 2579799,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10334291,
+            "album_name": "By God",
+            "artist_id": 36717,
+            "artist_name": "Disciple",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Disciple/Whether-They-Like-It-or-Not?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Disciple/Whether-They-Like-It-or-Not/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-30T14:38:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73162816,
+            "track_name": "Land of Hope and Glory",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1347863,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 19614120,
+            "album_name": "The Elgar Edition: The Complete Electrical Recordings of Sir Edward Elgar",
+            "artist_id": 10859,
+            "artist_name": "Sir Edward Elgar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Edward-Elgar-3/Land-of-Hope-and-Glory?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Edward-Elgar-3/Land-of-Hope-and-Glory/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-16T06:27:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 63531137,
+            "track_name": "Praise Medley",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 33111538,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 18295653,
+            "album_name": "My Gratitude",
+            "artist_id": 27105140,
+            "artist_name": "Joe Mettle feat. Francis Osei",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Francis-Osei/Praise-Medley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joe-Mettle-feat-Francis-Osei/Praise-Medley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-05T21:37:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33663449,
+            "track_name": "A New Day",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 13477769,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 43,
+            "album_id": 15467446,
+            "album_name": "Higher",
+            "artist_id": 24654082,
+            "artist_name": "Lara George",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lara-George/A-New-Day?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lara-George/A-New-Day/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-23T08:30:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115208764,
+            "track_name": "Mighty God",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 63538361,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 281,
+            "album_id": 24015785,
+            "album_name": "My Praise",
+            "artist_id": 32146540,
+            "artist_name": "Joe Praize",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joepraize/Mighty-God?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joepraize/Mighty-God/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-05T17:48:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103794828,
+            "track_name": "Bianule",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 17525127,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 280,
+            "album_id": 22457978,
+            "album_name": "Church Boy Reloaded",
+            "artist_id": 25152865,
+            "artist_name": "Samsong",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Samsong/Bianule?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Samsong/Bianule/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-25T12:17:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98133967,
+            "track_name": "Land Of Hope And Glory (Adapted From 'Pomp & Circumstance' No 1)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 36934143,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21878095,
+            "album_name": "Vera Lynn Remembers - The Songs That Won World War 2",
+            "artist_id": 37219,
+            "artist_name": "Vera Lynn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vera-Lynn/Land-of-Hope-and-Glory-Adapted-From-Pomp-Circumstance-No-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vera-Lynn/Land-of-Hope-and-Glory-Adapted-From-Pomp-Circumstance-No-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-07T16:09:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 107974073,
+            "track_name": "Praise to the Man (a cappella)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 24601420,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23020478,
+            "album_name": "Nonstop",
+            "artist_id": 25338996,
+            "artist_name": "BYU Vocal Point",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BYU-Vocal-Point/Praise-to-the-Man-A-Cappella?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BYU-Vocal-Point/Praise-to-the-Man-A-Cappella/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-21T17:25:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1141402,
+            "track_name": "Talk to Jah",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1567395,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 10313779,
+            "album_name": "We Have Seen His Glory",
+            "artist_id": 13364,
+            "artist_name": "Acappella",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Acappella/Talk-to-Jah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Acappella/Talk-to-Jah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:43:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8918550,
+            "track_name": "Pomp and Circumstance March",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1348004,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10994287,
+            "album_name": "The Classic 100 Volume II",
+            "artist_id": 10859,
+            "artist_name": "Sir Edward Elgar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sir-Edward-Elgar/Pomp-and-Circumstance-March?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sir-Edward-Elgar/Pomp-and-Circumstance-March/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-02T03:59:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1745241,
+            "track_name": "The Return of the Beautiful",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 991876,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10362087,
+            "album_name": "As the Flower Withers",
+            "artist_id": 7693,
+            "artist_name": "My Dying Bride",
+            "track_share_url": "https://www.musixmatch.com/lyrics/My-Dying-Bride/The-Return-of-the-Beautiful?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/My-Dying-Bride/The-Return-of-the-Beautiful/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:32:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 129963402,
+            "track_name": "Land of Hope and Glory",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2594343,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26139309,
+            "album_name": "Her Greatest From Abbey Road",
+            "artist_id": 37219,
+            "artist_name": "Vera Lynn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vera-Lynn/Land-of-Hope-and-Glory?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vera-Lynn/Land-of-Hope-and-Glory/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T21:00:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

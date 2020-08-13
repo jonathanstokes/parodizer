@@ -1,0 +1,1557 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.078321933746338,
+      "available": 3255
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 14852607,
+            "track_name": "O Amor É Mágico",
+            "track_name_translation_list": [],
+            "track_rating": 63,
+            "commontrack_id": 10033069,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 13853395,
+            "album_name": "Utopia",
+            "artist_id": 146972,
+            "artist_name": "Expensive Soul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Expensive-Soul/O-Amor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Expensive-Soul/O-Amor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-28T16:01:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157739274,
+            "track_name": "Killshot",
+            "track_name_translation_list": [],
+            "track_rating": 60,
+            "commontrack_id": 87759340,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 985,
+            "album_id": 30064407,
+            "album_name": "Killshot",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Killshot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Killshot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-26T09:01:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189641181,
+            "track_name": "Tesumole",
+            "track_name_translation_list": [],
+            "track_rating": 49,
+            "commontrack_id": 104972854,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 299,
+            "album_id": 36103460,
+            "album_name": "Lol (Lord of Lamba)",
+            "artist_id": 27976373,
+            "artist_name": "Naira Marley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Naira-Marley/Tesumole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Naira-Marley/Tesumole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-24T18:37:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182219074,
+            "track_name": "Cracovia, Pt. 3",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 99746668,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 31,
+            "album_id": 34469161,
+            "album_name": "Cracovia, Pt. 3 - Single",
+            "artist_id": 31229516,
+            "artist_name": "Il Tre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Il-Tre/Cracovia-Pt-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Il-Tre/Cracovia-Pt-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-11T14:15:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85660953,
+            "track_name": "Elevation",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 54455,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 708,
+            "album_id": 20987024,
+            "album_name": "All That You Can't Leave Behind",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-19T10:02:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 142895507,
+            "track_name": "Remind Me",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 79521281,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 200,
+            "album_id": 27731149,
+            "album_name": "Revival",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Remind-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Remind-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-02T13:26:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193993177,
+            "track_name": "(não) era amor",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 108371711,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 23,
+            "album_id": 37153968,
+            "album_name": "(não) era amor - Single",
+            "artist_id": 36830130,
+            "artist_name": "Giulia Be",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Giulia-Be/n%C3%A3o-era-amor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Giulia-Be/n%C3%A3o-era-amor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-02T11:09:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190276454,
+            "track_name": "Medicine Man",
+            "track_name_translation_list": [],
+            "track_rating": 36,
+            "commontrack_id": 47016392,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 836,
+            "album_id": 36263503,
+            "album_name": "Compton",
+            "artist_id": 43108087,
+            "artist_name": "Dr. Dre feat. Eminem, Candice Pillay & Anderson .Paak",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem-Candice-Pillay-Anderson-Paak/Medicine-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem-Candice-Pillay-Anderson-Paak/Medicine-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-18T12:47:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132262199,
+            "track_name": "4Peat",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 73872599,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 26509794,
+            "album_name": "Members Only, Vol. 3",
+            "artist_id": 33633644,
+            "artist_name": "XXXTENTACION feat. Ski Mask The Slump God",
+            "track_share_url": "https://www.musixmatch.com/lyrics/XXXTENTACION-feat-Ski-Mask-the-Slump-God-2/4Peat?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/XXXTENTACION-feat-Ski-Mask-the-Slump-God-2/4Peat/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-30T01:37:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198346685,
+            "track_name": "Money Dey Go",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 112084211,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38594980,
+            "album_name": "Money Dey Go (feat. Cedar & Slayer) - Single",
+            "artist_id": 45629648,
+            "artist_name": "Leanball feat. Cedar & Slayer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leanball-Cedar-Slayer/Money-Dey-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leanball-Cedar-Slayer/Money-Dey-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-07T17:42:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 178720933,
+            "track_name": "Soldiers",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 98460809,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6,
+            "album_id": 33810623,
+            "album_name": "Real Talk",
+            "artist_id": 31229516,
+            "artist_name": "Il Tre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Il-Tre/Soldiers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Il-Tre/Soldiers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-21T08:03:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114092313,
+            "track_name": "Un Bellakeo",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 62863771,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 31,
+            "album_id": 23898299,
+            "album_name": "Un Bellakeo",
+            "artist_id": 32025799,
+            "artist_name": "Ozuna feat. Alexio, Pusho & Juanka El Problematik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ozuna-feat-Alexio-Pusho-Juanka-El-Problematik/Un-Bellakeo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ozuna-feat-Alexio-Pusho-Juanka-El-Problematik/Un-Bellakeo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-24T00:19:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30697121,
+            "track_name": "Free Four",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 52195,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 67,
+            "album_id": 13805789,
+            "album_name": "Obscured by Clouds",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-02T09:59:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170741474,
+            "track_name": "Snow In The Stadium (feat. Erick The Architect, Joey Bada24831, Meechy Darko, Kirk Knight, CJ Fly & Issa Gold)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 95652752,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 32555373,
+            "album_name": "Escape From New York",
+            "artist_id": 38526760,
+            "artist_name": "Beast Coast feat. Joey Bada24831, Flatbush Zombies, Erick the Architect, Meechy Darko, Kirk Knight, CJ Fly & Issa Gold",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beast-Coast-feat-Joey-Bada-Flatbush-Zombies-Erick-the-Architect-Meechy-Darko-Kirk-Knight-CJ-Fly-Issa-Gold/Snow-In-The-Stadium-feat-Erick-The-Architect-Joey-Bada-Meechy-Darko-Kirk-Knight-CJ-Fly-Issa-Gold?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beast-Coast-feat-Joey-Bada-Flatbush-Zombies-Erick-the-Architect-Meechy-Darko-Kirk-Knight-CJ-Fly-Issa-Gold/Snow-In-The-Stadium-feat-Erick-The-Architect-Joey-Bada-Meechy-Darko-Kirk-Knight-CJ-Fly-Issa-Gold/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-24T10:30:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175471767,
+            "track_name": "Un Bellaqueo",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 97422006,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 33282643,
+            "album_name": "Un Bellaqueo",
+            "artist_id": 39074416,
+            "artist_name": "Ozuna feat. Pusho, Alexio & Juanka",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ozuna-Pusho-Alexio-Juanka/Un-Bellaqueo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ozuna-Pusho-Alexio-Juanka/Un-Bellaqueo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-28T14:04:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85316512,
+            "track_name": "Free Four - 2011 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 43913075,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20320691,
+            "album_name": "Obscured By Clouds (2011 Remastered Version)",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2011-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2011-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-19T19:39:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115885971,
+            "track_name": "Free Four (2016 Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 63953182,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 24079479,
+            "album_name": "The Early Years, 1967-1972, Cre/ation",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2016-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2016-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-19T16:08:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18711083,
+            "track_name": "The Set Up (interlude)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 2709346,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10502137,
+            "album_name": "Music Inspired by Scarface",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Various-Artists/The-Set-Up-interlude?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Various-Artists/The-Set-Up-interlude/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-19T11:04:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34626457,
+            "track_name": "Free Four (2011 - Remaster)",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "EN",
+                  "translation": "Free Four"
+                }
+              }
+            ],
+            "track_rating": 31,
+            "commontrack_id": 14096620,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15548895,
+            "album_name": "The Best of Pink Floyd: A Foot In the Door (Remastered)",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2011-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Free-Four-2011-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-12T13:45:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199872817,
+            "track_name": "Afrobeat To The World",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 113405528,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 39122149,
+            "album_name": "Afrobeat To the World - Single",
+            "artist_id": 45946661,
+            "artist_name": "Energy gAD feat. Olamide & Pepenazi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Energy-gAD-Olamide-Pepenazi/Afrobeat-To-The-World?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Energy-gAD-Olamide-Pepenazi/Afrobeat-To-The-World/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T22:07:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198350692,
+            "track_name": "Psicose",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 112086598,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 38595999,
+            "album_name": "Psicose (feat. Alok) - Single",
+            "artist_id": 45630410,
+            "artist_name": "Hungria Hip Hop feat. Alok",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hungria-Hip-Hop-Alok/Psicose?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hungria-Hip-Hop-Alok/Psicose/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-25T12:47:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81815689,
+            "track_name": "K@#*%!",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 15378922,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 47,
+            "album_id": 20639116,
+            "album_name": "Life Is Peachy",
+            "artist_id": 197,
+            "artist_name": "Korn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Korn/K?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Korn/K/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-22T06:02:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85457145,
+            "track_name": "Sacala",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 48121254,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 20974120,
+            "album_name": "Sangre Nueva Special Edition",
+            "artist_id": 29104101,
+            "artist_name": "Don Omar, Naldo, Daddy Yankee, Héctor \"El Father\" & Wisin & Yandel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Don-Omar-Naldo-Daddy-Yankee-H%C3%A9ctor-El-Father-Wisin-Yandel/Sacala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Omar-Naldo-Daddy-Yankee-H%C3%A9ctor-El-Father-Wisin-Yandel/Sacala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-18T18:08:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170590264,
+            "track_name": "Elevation (2005 Live from Milan)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 54456,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32537292,
+            "album_name": "U218 Singles (Deluxe Version)",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation-2005-live-from-Milan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation-2005-live-from-Milan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-13T09:26:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85325313,
+            "track_name": "Touch Of My Hand - Bill Hamel Club Mix",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12575187,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20964824,
+            "album_name": "B in the Mix, The Remixes [Deluxe Version]",
+            "artist_id": 33491420,
+            "artist_name": "Britney Spears",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Britney-Spears/Touch-of-My-Hand-Bill-Hamel-Club-Mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Britney-Spears/Touch-of-My-Hand-Bill-Hamel-Club-Mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:40:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32032173,
+            "track_name": "Sacala",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12534352,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11340186,
+            "album_name": "Sangre Nueva",
+            "artist_id": 24443441,
+            "artist_name": "Daddy Yankee, Don Omar, Hector El Father, Naldo & Wisin & Yandel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee-Don-Omar-Hector-El-Father-Naldo-Wisin-Yandel/Sacala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee-Don-Omar-Hector-El-Father-Naldo-Wisin-Yandel/Sacala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-12T22:29:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32254529,
+            "track_name": "Elevation (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12607910,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15347843,
+            "album_name": "U218 Singles",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-19T16:42:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19802471,
+            "track_name": "Smooth Sailing",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 12078896,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 203,
+            "album_id": 14326893,
+            "album_name": "…Like Clockwork",
+            "artist_id": 7321,
+            "artist_name": "Queens of the Stone Age",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Queens-of-the-Stone-Age/Smooth-Sailing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Queens-of-the-Stone-Age/Smooth-Sailing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-27T00:14:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 183414814,
+            "track_name": "Sacala",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 100165360,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34700999,
+            "album_name": "Sangre Nueva",
+            "artist_id": 40028746,
+            "artist_name": "Héctor \"El Father\" feat. Don Omar, Wisin & Yandel, Daddy Yankee, Tego, Voltio & Zion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-feat-Don-Omar-Wisin-Yandel-Daddy-Yankee-Tego-Voltio-Zion/Sacala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-feat-Don-Omar-Wisin-Yandel-Daddy-Yankee-Tego-Voltio-Zion/Sacala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-13T06:22:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113433565,
+            "track_name": "Un Bellakeo (feat. Alexio, Pusho & Juanka El Problematik)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 62463205,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 858,
+            "album_id": 23828711,
+            "album_name": "Un Bellaqueo",
+            "artist_id": 31953938,
+            "artist_name": "Ozuna, Alexio, Juanka El Problematik & Pusho",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ozuna-Alexio-Juanka-El-Problematik-Pusho/Un-Bellakeo-feat-Alexio-Pusho-Juanka-El-Problematik?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ozuna-Alexio-Juanka-El-Problematik-Pusho/Un-Bellakeo-feat-Alexio-Pusho-Juanka-El-Problematik/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-28T15:42:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187792686,
+            "track_name": "Sacala",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 103055166,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 35775649,
+            "album_name": "Sacala",
+            "artist_id": 41869918,
+            "artist_name": "Héctor \"El Father\" feat. Don Omar, Wisin & Yandel, Daddy Yankee, Tego, Voltio & Zion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-Don-Omar-Wisin-Yandel-Daddy-Yankee-Tego-Voltio-Zion/Sacala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-Don-Omar-Wisin-Yandel-Daddy-Yankee-Tego-Voltio-Zion/Sacala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-30T21:30:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18917876,
+            "track_name": "Let the Beat Rock (Boys Noize megamix)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 11633353,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11062897,
+            "album_name": "Invasion of Boom Boom Pow: Megamix EP",
+            "artist_id": 14318602,
+            "artist_name": "The Black Eyed Peas feat. Gucci Mane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-Gucci-Mane/Let-the-Beat-Rock-Boys-Noize-megamix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-Gucci-Mane/Let-the-Beat-Rock-Boys-Noize-megamix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T10:08:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6817088,
+            "track_name": "Elevation (Influx mix)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 54462,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10799375,
+            "album_name": "The Other Side of Elevation",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Influx-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Influx-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T09:18:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36343260,
+            "track_name": "Let the Beat Rock (Boys Noize Megamix)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 11633352,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15665659,
+            "album_name": "The E.N.D. (The Energy Never Dies)",
+            "artist_id": 14318601,
+            "artist_name": "The Black Eyed Peas feat. 50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-50-Cent/Let-the-Beat-Rock-Boys-Noize-megamix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas-feat-50-Cent/Let-the-Beat-Rock-Boys-Noize-megamix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T20:15:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113459926,
+            "track_name": "Un Bellaqueo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 62480705,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1108,
+            "album_id": 23831397,
+            "album_name": "Un Bellaqueo",
+            "artist_id": 31956362,
+            "artist_name": "Ozuna, Pusho, Juanka El Problematik & Alexio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ozuna-Pusho-Juanka-El-Problematik-Alexio/Un-Bellaqueo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ozuna-Pusho-Juanka-El-Problematik-Alexio/Un-Bellaqueo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-28T15:58:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 700534,
+            "track_name": "K@#ø%!",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 83069,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10278778,
+            "album_name": "Life Is Peachy",
+            "artist_id": 197,
+            "artist_name": "Korn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Korn/K-%C3%B8?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Korn/K-%C3%B8/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-27T10:54:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18917910,
+            "track_name": "Let the Beat Rock (Boys Noize megamix)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 857781,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10955086,
+            "album_name": "Invasion of Boom Boom Pow Megamix EP",
+            "artist_id": 7014,
+            "artist_name": "black eyed peas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas/Let-the-Beat-Rock-Boys-Noize-megamix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Black-Eyed-Peas/Let-the-Beat-Rock-Boys-Noize-megamix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:08:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18976339,
+            "track_name": "Stinker",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 62604,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 13761025,
+            "album_name": "Caribou",
+            "artist_id": 136,
+            "artist_name": "Elton John",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elton-John/Stinker?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elton-John/Stinker/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:04:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196568111,
+            "track_name": "Bateria Externa (Ao Vivo)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 110325563,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 38011657,
+            "album_name": "Ao Vivo no Ibirapuera",
+            "artist_id": 34092665,
+            "artist_name": "Henrique & Juliano",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Henrique-Juliano/Bateria-Externa-Ao-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Henrique-Juliano/Bateria-Externa-Ao-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-08T23:48:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84359830,
+            "track_name": "Black Mambo",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 13295612,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 378,
+            "album_id": 20900123,
+            "album_name": "Zaba",
+            "artist_id": 24444227,
+            "artist_name": "Glass Animals",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glass-Animals/Black-Mambo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glass-Animals/Black-Mambo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-27T03:02:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13859341,
+            "track_name": "Elevation (Influx remix)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 54463,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10367329,
+            "album_name": "Elevation",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Influx-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation-Influx-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T07:03:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85456917,
+            "track_name": "Sacala - Version Corta",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 48121201,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20974110,
+            "album_name": "Pa'l Mundo First Class Delivery (Exclu - US Version)",
+            "artist_id": 29104070,
+            "artist_name": "Héctor \"El Father\", Don Omar & Wisin & Yandel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-Don-Omar-Wisin-Yandel/Sacala-Version-Corta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H%C3%A9ctor-El-Father-Don-Omar-Wisin-Yandel/Sacala-Version-Corta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-14T14:48:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6530676,
+            "track_name": "Elevation (live, 2000-10-23: Maida Vale Studio, London, UK)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 54469,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10773369,
+            "album_name": "Live Radio 2000",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/Elevation-live-2000-10-23-Maida-Vale-Studio-London-UK?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/Elevation-live-2000-10-23-Maida-Vale-Studio-London-UK/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T09:18:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1112170,
+            "track_name": "Ghetto Qu'ran (Forgive Me, Part 1)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 1081910,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10311448,
+            "album_name": "Power of the Dollar",
+            "artist_id": 33491930,
+            "artist_name": "50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Qu-ran-Forgive-Me-Part-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Qu-ran-Forgive-Me-Part-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:07:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85467805,
+            "track_name": "Did You Do It?",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 25014,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20974743,
+            "album_name": "Erotica (PA Version)",
+            "artist_id": 61,
+            "artist_name": "Madonna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Madonna/Did-You-Do-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Madonna/Did-You-Do-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T14:52:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15139275,
+            "track_name": "Sácala",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 7963156,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10621978,
+            "album_name": "Gold Star Music: Reggaeton Hits",
+            "artist_id": 13752291,
+            "artist_name": "Wisin y Yandel, Héctor el Bambino & Don Omar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wisin-y-Yandel-H%C3%A9ctor-el-Bambino-Don-Omar/Sacala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wisin-y-Yandel-H%C3%A9ctor-el-Bambino-Don-Omar/Sacala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:52:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35014065,
+            "track_name": "Ghetto Qua'ran",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 1081912,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 30,
+            "album_id": 15575359,
+            "album_name": "Guess Who's Back?",
+            "artist_id": 33491930,
+            "artist_name": "50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Quaran?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Quaran/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:07:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6192965,
+            "track_name": "Sácala",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 39211223,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10742990,
+            "album_name": "Pa'l mundo",
+            "artist_id": 27722367,
+            "artist_name": "Wisin & Yandel feat. Héctor 'El Father' & Don Omar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wisin-Yandel-feat-H%C3%A9ctor-El-Father-Don-Omar/S%C3%A1cala?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wisin-Yandel-feat-H%C3%A9ctor-El-Father-Don-Omar/S%C3%A1cala/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-25T19:59:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3034207,
+            "track_name": "Ghetto Quran",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 1081913,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 10466833,
+            "album_name": "Power of the Dollar",
+            "artist_id": 33491930,
+            "artist_name": "50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Quran?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent/Ghetto-Quran/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:07:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37017190,
+            "track_name": "Sacala (Version Corta)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 15383794,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15711320,
+            "album_name": "Machete Music Chart Toppin' Hits - 2006",
+            "artist_id": 25080825,
+            "artist_name": "Don Omar, Hector El Bambino & Wisin & Yandel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Don-Omar-Hector-El-Bambino-Wisin-Yandel/Sacala-Version-Corta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Omar-Hector-El-Bambino-Wisin-Yandel/Sacala-Version-Corta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-19T17:17:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

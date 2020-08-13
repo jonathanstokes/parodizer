@@ -1,0 +1,39 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.017391204833984,
+      "available": 1
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 190134219,
+            "track_name": "Spaceship",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 105388777,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36220534,
+            "album_name": "Life of the Party",
+            "artist_id": 43053079,
+            "artist_name": "Greg Davis II",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Greg-Davis-II-1/Spaceship?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Greg-Davis-II-1/Spaceship/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T17:12:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

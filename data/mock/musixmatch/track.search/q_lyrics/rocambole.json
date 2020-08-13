@@ -1,0 +1,771 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.047303915023804,
+      "available": 22
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 147594546,
+            "track_name": "Ginga (Participação Especial de Rincon Sapiência)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 84142920,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 33,
+            "album_id": 28467600,
+            "album_name": "Ginga (Participação Especial De Rincon Sapiência)",
+            "artist_id": 24796969,
+            "artist_name": "IZA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/IZA-2/Ginga-Participa%C3%A7%C3%A3o-Especial-de-Rincon-Sapi%C3%AAncia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/IZA-2/Ginga-Participa%C3%A7%C3%A3o-Especial-de-Rincon-Sapi%C3%AAncia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-19T16:50:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110952650,
+            "track_name": "Tô pra Ver",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 60934476,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 26,
+            "album_id": 23451730,
+            "album_name": "Ainda Há Tempo",
+            "artist_id": 31768512,
+            "artist_name": "Criolo feat. Rael",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Criolo-feat-Rael/T%C3%B4-pra-Ver?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Criolo-feat-Rael/T%C3%B4-pra-Ver/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-06T16:50:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149467162,
+            "track_name": "Ginga",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 83094051,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 28756434,
+            "album_name": "Dona De Mim",
+            "artist_id": 35616310,
+            "artist_name": "IZA feat. Rincon Sapiência",
+            "track_share_url": "https://www.musixmatch.com/lyrics/IZA-feat-Rincon-Sapi%C3%AAncia/Ginga?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/IZA-feat-Rincon-Sapi%C3%AAncia/Ginga/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-14T13:51:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149459199,
+            "track_name": "Ginga (Participação especial de Rincon Sapiência)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 82044091,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 28,
+            "album_id": 28755285,
+            "album_name": "Dona de mim",
+            "artist_id": 35616310,
+            "artist_name": "IZA feat. Rincon Sapiência",
+            "track_share_url": "https://www.musixmatch.com/lyrics/IZA-feat-Rincon-Sapi%C3%AAncia/Ginga-Participa%C3%A7%C3%A3o-especial-de-Rincon-Sapi%C3%AAncia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/IZA-feat-Rincon-Sapi%C3%AAncia/Ginga-Participa%C3%A7%C3%A3o-especial-de-Rincon-Sapi%C3%AAncia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-27T10:24:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94264108,
+            "track_name": "Maria Mole",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1546858,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21554134,
+            "album_name": "Rita Lee",
+            "artist_id": 13094,
+            "artist_name": "Rita Lee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rita-Lee/Maria-mole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rita-Lee/Maria-mole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-28T17:55:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1225,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "MPB",
+                    "music_genre_name_extended": "Brazilian / MPB",
+                    "music_genre_vanity": "Brazilian-MPB"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 172535281,
+            "track_name": "Tô Pra Ver (Acústico)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 83750864,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32811907,
+            "album_name": "Rael Convida: Criolo (Acústico)",
+            "artist_id": 36001013,
+            "artist_name": "Rael feat. Criolo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rael-feat-Criolo/T%C3%B4-pra-Ver-Ac%C3%BAstico?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rael-feat-Criolo/T%C3%B4-pra-Ver-Ac%C3%BAstico/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-06T20:54:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16932838,
+            "track_name": "Tô pra vê",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 10729132,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14191418,
+            "album_name": "Ainda há tempo",
+            "artist_id": 13907219,
+            "artist_name": "Criolo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Criolo/T%C3%B4-Pra-V%C3%AA?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Criolo/T%C3%B4-Pra-V%C3%AA/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-08T22:34:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98736108,
+            "track_name": "É de Chocolate",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1422604,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 21938657,
+            "album_name": "Sexto Sentido",
+            "artist_id": 11551,
+            "artist_name": "Xuxa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xuxa/%C3%89-De-Chocolate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xuxa/%C3%89-De-Chocolate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T14:03:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18346397,
+            "track_name": "Coitadinho do jacaré",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 10773025,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13930442,
+            "album_name": "Tô ligado em você",
+            "artist_id": 33681777,
+            "artist_name": "Sandy & Junior",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sandy-e-Junior/Coitadinho-do-jacar%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sandy-e-Junior/Coitadinho-do-jacar%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T13:56:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18346382,
+            "track_name": "Maria mole",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 10773109,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10442018,
+            "album_name": "Pra dançar com você",
+            "artist_id": 33681777,
+            "artist_name": "Sandy & Junior",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sandy-e-Junior/Maria-mole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sandy-e-Junior/Maria-mole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-30T09:21:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1122,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Brazilian",
+                    "music_genre_name_extended": "Brazilian",
+                    "music_genre_vanity": "Brazilian"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78036799,
+            "track_name": "Massinha",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 43258309,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20202109,
+            "album_name": "Bita e as Brincadeiras",
+            "artist_id": 28253819,
+            "artist_name": "Mundo Bita",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mundo-Bita/Massinha?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mundo-Bita/Massinha/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-09T19:56:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82695778,
+            "track_name": "É de Chocolate",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 7303141,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20751429,
+            "album_name": "Trem da Alegria do Clube da Criança",
+            "artist_id": 111028,
+            "artist_name": "Trem Da Alegria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trem-da-Alegria/%C3%89-de-Chocolate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trem-da-Alegria/%C3%89-de-Chocolate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-11-24T17:05:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123493489,
+            "track_name": "Os Melhores",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 68336861,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 25210435,
+            "album_name": "Os Melhores",
+            "artist_id": 32858483,
+            "artist_name": "Diego Thug feat. De Leve",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Diego-Thug-feat-De-Leve/Os-Melhores?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Diego-Thug-feat-De-Leve/Os-Melhores/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-19T01:24:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187845288,
+            "track_name": "Mandrake",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 103114709,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 35780946,
+            "album_name": "Mandrake - Single",
+            "artist_id": 40569798,
+            "artist_name": "Kyan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kyan-8/Mandrake?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kyan-8/Mandrake/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-18T12:44:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 49234417,
+            "track_name": "Cabelo duro",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 22511195,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16658430,
+            "album_name": "Isso Vai Dar Repercussão",
+            "artist_id": 25126360,
+            "artist_name": "Naná Vasconcelos e Itamar Assumpção",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nan%C3%A1-Vasconcelos-e-Itamar-Assump%C3%A7%C3%A3o/Cabelo-duro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nan%C3%A1-Vasconcelos-e-Itamar-Assump%C3%A7%C3%A3o/Cabelo-duro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-12T13:30:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1225,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "MPB",
+                    "music_genre_name_extended": "Brazilian / MPB",
+                    "music_genre_vanity": "Brazilian-MPB"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2160261,
+            "track_name": "Trans Am",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 1548026,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10395550,
+            "album_name": "Trans Am",
+            "artist_id": 13105,
+            "artist_name": "Trans AM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trans-AM/Trans-Am?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trans-AM/Trans-Am/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-29T00:53:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82583881,
+            "track_name": "Tiralo",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 46022300,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20741045,
+            "album_name": "Tiralo",
+            "artist_id": 28639401,
+            "artist_name": "Akilys feat. El Alfa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Akilys-feat-El-Alfa/Tiralo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Akilys-feat-El-Alfa/Tiralo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-22T03:36:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7494143,
+            "track_name": "Sabrina",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5988366,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10865998,
+            "album_name": "Doze Fotogramas",
+            "artist_id": 393535,
+            "artist_name": "Manu Lafer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Manu-Lafer/Sabrina?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Manu-Lafer/Sabrina/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T13:34:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94970576,
+            "track_name": "Rocambole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10610720,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21609425,
+            "album_name": "Heritage - La Rose Et La Guerre - Fontana (1965)",
+            "artist_id": 69654,
+            "artist_name": "Francis Lemarque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francis-Lemarque/Rocambole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francis-Lemarque/Rocambole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-21T02:49:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42117367,
+            "track_name": "Vai Que É Mole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18103188,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16031516,
+            "album_name": "Na Magia dos Antigos Carnavais",
+            "artist_id": 338024,
+            "artist_name": "Linda Batista",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linda-Batista/Vai-Que-%C3%89-Mole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linda-Batista/Vai-Que-%C3%89-Mole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-29T03:10:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81605410,
+            "track_name": "Superbonder",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 45515701,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20599727,
+            "album_name": "Pelos Pátios Partidos em Festa",
+            "artist_id": 27626390,
+            "artist_name": "Validuaté",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Validuat%C3%A9/Superbonder?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Validuat%C3%A9/Superbonder/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-31T22:15:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182031529,
+            "track_name": "Céu da Boca",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 99716400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34438981,
+            "album_name": "Nome Bendito",
+            "artist_id": 28299616,
+            "artist_name": "Silvestre Kuhlmann",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Silvestre-Kuhlmann-2/C%C3%A9u-da-Boca?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Silvestre-Kuhlmann-2/C%C3%A9u-da-Boca/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-02T21:44:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 100000,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Inspirational",
+                    "music_genre_name_extended": "Inspirational",
+                    "music_genre_vanity": "Inspirational"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

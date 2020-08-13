@@ -1,0 +1,49 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.014400959014893,
+      "available": 1
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 7100209,
+            "track_name": "Treeology",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 5856669,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10825971,
+            "album_name": "Treeology",
+            "artist_id": 365213,
+            "artist_name": "Shady Bard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shady-Bard/Treeology?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shady-Bard/Treeology/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T13:24:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

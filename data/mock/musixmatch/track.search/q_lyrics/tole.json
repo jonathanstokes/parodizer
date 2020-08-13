@@ -1,0 +1,1754 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.08800196647644,
+      "available": 480
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 18081546,
+            "track_name": "Say What You Say",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 137595,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 346,
+            "album_id": 14239779,
+            "album_name": "The Eminem Show",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Say-What-You-Say?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Say-What-You-Say/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-31T00:01:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86362303,
+            "track_name": "Lucy Can't Dance - 2003 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 48610671,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21034106,
+            "album_name": "Black Tie White Noise Extras",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Lucy-Can-t-Dance-2003-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Lucy-Can-t-Dance-2003-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-12T04:21:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149852100,
+            "track_name": "Baba",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 83095075,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 496,
+            "album_id": 28832444,
+            "album_name": "Baba",
+            "artist_id": 35874079,
+            "artist_name": "DJ Spinall feat. Kiss Daniel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Spinall-feat-Kiss-D%C3%A1niel/Baba?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Spinall-feat-Kiss-D%C3%A1niel/Baba/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-26T15:50:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132298432,
+            "track_name": "Rubber Band Man",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 1748460,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 95,
+            "album_id": 26513771,
+            "album_name": "Trap Muzik",
+            "artist_id": 16204,
+            "artist_name": "T.I.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-11T18:54:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 39672000,
+            "track_name": "St. Louis Blues (Live in Rome - 1958)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 39297517,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15878175,
+            "album_name": "These Are The Blues",
+            "artist_id": 831,
+            "artist_name": "Ella Fitzgerald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues-Live-In-Rome-1958?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues-Live-In-Rome-1958/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:53:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 2,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Blues",
+                    "music_genre_name_extended": "Blues",
+                    "music_genre_vanity": "Blues"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98121746,
+            "track_name": "St. Louis Blues",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 8482845,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21876906,
+            "album_name": "The Collection",
+            "artist_id": 13760908,
+            "artist_name": "Bessie Smith / Louis Armstrong",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bessie-Smith-Louis-Armstrong/St-Louis-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bessie-Smith-Louis-Armstrong/St-Louis-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:30:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 2,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Blues",
+                    "music_genre_name_extended": "Blues",
+                    "music_genre_vanity": "Blues"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87403429,
+            "track_name": "Soul On Ice",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 8941484,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 34,
+            "album_id": 21097682,
+            "album_name": "I Am The West",
+            "artist_id": 101,
+            "artist_name": "Ice Cube",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ice-Cube/Soul-on-Ice?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ice-Cube/Soul-on-Ice/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-07T07:16:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182576647,
+            "track_name": "Agu",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 93682161,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 34537829,
+            "album_name": "Deal with It",
+            "artist_id": 27956712,
+            "artist_name": "Phyno",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phyno-2/Agu?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phyno-2/Agu/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-18T13:34:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1178,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Pop",
+                    "music_genre_name_extended": "World / Afro-Pop",
+                    "music_genre_vanity": "World-Afro-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75521613,
+            "track_name": "Hi",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 13682762,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 18,
+            "album_id": 19855875,
+            "album_name": "Coloring Book Tun Up",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-06T17:25:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1866,
+                    "music_genre_parent_id": 8053,
+                    "music_genre_name": "Modern Dancehall",
+                    "music_genre_name_extended": "Reggae / Modern Dancehall",
+                    "music_genre_vanity": "Reggae-Modern-Dancehall"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89751920,
+            "track_name": "Saint Louis Blues",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 15762608,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21232398,
+            "album_name": "Blueberry Hill",
+            "artist_id": 807,
+            "artist_name": "Louis Armstrong",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/Saint-Louis-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/Saint-Louis-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:46:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150588617,
+            "track_name": "Bon Pou Mwen",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 83813151,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 29,
+            "album_id": 28949027,
+            "album_name": "Echec Et Mat",
+            "artist_id": 45254269,
+            "artist_name": "Baky feat. Niska & Michael Guirand",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Baky-feat-Niska-Michael-Guirand/Bon-Pou-Mwen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Baky-feat-Niska-Michael-Guirand/Bon-Pou-Mwen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-07T14:35:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17643863,
+            "track_name": "Humse Pyar Kar Le Tu",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 11024614,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 14223013,
+            "album_name": "Teri Meri Kahaani",
+            "artist_id": 13951922,
+            "artist_name": "Wajid Ali Shah, Mika, Hashim Sabri, Shabab Sabri & Shreya Ghoshal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wajid-Ali-Shah-Mika-Hashim-Sabri-Shabab-Sabri-Shreya-Ghoshal/Humse-Pyar-Kar-Le-Tu?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wajid-Ali-Shah-Mika-Hashim-Sabri-Shabab-Sabri-Shreya-Ghoshal/Humse-Pyar-Kar-Le-Tu/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:20:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4029789,
+            "track_name": "Better Do It Right",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 86160,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10551425,
+            "album_name": "All Star Smash Hits",
+            "artist_id": 207,
+            "artist_name": "Smash Mouth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Smash-Mouth/Better-Do-It-Right?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Smash-Mouth/Better-Do-It-Right/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:03:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1144,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Adult Alternative",
+                    "music_genre_name_extended": "Rock / Adult Alternative",
+                    "music_genre_vanity": "Rock-Adult-Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89754492,
+            "track_name": "St. Louis Blues - 1996 Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 13214060,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21232515,
+            "album_name": "Sugar: The Best of the RCA Victor Recordings",
+            "artist_id": 807,
+            "artist_name": "Louis Armstrong",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/St-Louis-Blues-1996-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/St-Louis-Blues-1996-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-01T11:38:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88439263,
+            "track_name": "Ya Wa",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 40919294,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 82,
+            "album_id": 21155896,
+            "album_name": "Street OT",
+            "artist_id": 33492028,
+            "artist_name": "Olamide",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Olamide/Ya-Wa?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Olamide/Ya-Wa/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:22:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1177,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Beat",
+                    "music_genre_name_extended": "World / Afro-Beat",
+                    "music_genre_vanity": "World-Afro-Beat"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32821713,
+            "track_name": "Rubberband Man (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 12983818,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 15406668,
+            "album_name": "Diplomats Present – Sippin' On Sizzurp Volume 1: Getting Drunk On Music",
+            "artist_id": 24540799,
+            "artist_name": "T.I. feat. Mack 10 & Trick Daddy & Twista",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I-feat-Mack-10-Trick-Daddy-Twista/Rubberband-Man-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I-feat-Mack-10-Trick-Daddy-Twista/Rubberband-Man-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-26T07:04:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156530731,
+            "track_name": "Tony Story",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 10342301,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 29847073,
+            "album_name": "Dreamchasers",
+            "artist_id": 13846264,
+            "artist_name": "Meek Mill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Meek-Mill/Tony-Story?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Meek-Mill/Tony-Story/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-30T16:53:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154929586,
+            "track_name": "St. Louis Blues",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 259471,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29599495,
+            "album_name": "Get Happy! (Bonus Tracks)",
+            "artist_id": 831,
+            "artist_name": "Ella Fitzgerald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:48:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37100280,
+            "track_name": "Rubber Band Man (Buster Skit)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 15401835,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15717260,
+            "album_name": "Trap Muzik (Deluxe Edition)",
+            "artist_id": 16204,
+            "artist_name": "T.I.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man-Buster-Skit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man-Buster-Skit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-10T20:08:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87821980,
+            "track_name": "Rubber Band Man - Clean Edit",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 49279400,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21120277,
+            "album_name": "Rubber Band Man",
+            "artist_id": 16204,
+            "artist_name": "T.I.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man-Clean-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I/Rubber-Band-Man-Clean-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-13T09:50:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4038833,
+            "track_name": "St. Louis Blues",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 1332271,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10552164,
+            "album_name": "A Fine Romance",
+            "artist_id": 33178378,
+            "artist_name": "Louis Armstrong feat. Ella Fitzgerald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald-feat-Louis-Armstrong-9/St-Louis-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald-feat-Louis-Armstrong-9/St-Louis-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-09T13:01:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 141051417,
+            "track_name": "Hi-Profile",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 3090867,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 27493985,
+            "album_name": "Blue Steel Riddim",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi-Profile?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi-Profile/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-16T20:55:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77074088,
+            "track_name": "Saint Louis Blues (Live) [Remastered]",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 42435905,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20070215,
+            "album_name": "50 Unforgettable Jazz Hits (Remastered)",
+            "artist_id": 807,
+            "artist_name": "Louis Armstrong",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/Saint-Louis-Blues-Live-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Louis-Armstrong/Saint-Louis-Blues-Live-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-16T10:36:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88525391,
+            "track_name": "Hi (Explicit)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 49593576,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 21162127,
+            "album_name": "The Hit List Vol. 5",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi-Explicit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/Hi-Explicit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-17T04:53:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86888148,
+            "track_name": "Say No More",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 48259604,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18763007,
+            "album_name": "The Life and Times of Jonny Valiant",
+            "artist_id": 29153270,
+            "artist_name": "Rittz feat. Tech N9ne & Krizz Kaliko, Tech N9ne & Krizz Kaliko",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rittz-feat-Tech-N9ne-Krizz-Kaliko-Tech-N9ne-Krizz-Kaliko/Say-No-More?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rittz-feat-Tech-N9ne-Krizz-Kaliko-Tech-N9ne-Krizz-Kaliko/Say-No-More/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-28T04:34:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 136357993,
+            "track_name": "Sugar Baby",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 46996464,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1149,
+            "album_id": 26892411,
+            "album_name": "Reekado Banks",
+            "artist_id": 28196535,
+            "artist_name": "Reekado Banks",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Reekado-Banks/Sugar-Baby?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Reekado-Banks/Sugar-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-22T11:25:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1177,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Beat",
+                    "music_genre_name_extended": "World / Afro-Beat",
+                    "music_genre_vanity": "World-Afro-Beat"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 173763437,
+            "track_name": "Osef",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 84307722,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 297,
+            "album_id": 32996007,
+            "album_name": "Bledard Is The New Fresh",
+            "artist_id": 36119694,
+            "artist_name": "Kiff No Beat feat. Kaaris",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kiff-No-Beat-feat-Kaaris/Osef?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kiff-No-Beat-feat-Kaaris/Osef/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-10T07:38:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92010975,
+            "track_name": "Popcaan Says - Raw",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 18324181,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21392678,
+            "album_name": "Popcaan Says - Single",
+            "artist_id": 33091644,
+            "artist_name": "Popcaan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Popcaan/Popcaan-Says-Raw?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Popcaan/Popcaan-Says-Raw/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:14:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1866,
+                    "music_genre_parent_id": 8053,
+                    "music_genre_name": "Modern Dancehall",
+                    "music_genre_name_extended": "Reggae / Modern Dancehall",
+                    "music_genre_vanity": "Reggae-Modern-Dancehall"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115900766,
+            "track_name": "Sab Dhan Maati (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 57234754,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 82,
+            "album_id": 24080387,
+            "album_name": "Jai Gangaajal (Original Motion Picture Soundtrack)",
+            "artist_id": 14325807,
+            "artist_name": "Arijit Singh",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Sab-Dhan-Maati-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Arijit-Singh/Sab-Dhan-Maati-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-07T19:35:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90316381,
+            "track_name": "St. Louis Blues - Live (1958/Chicago)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 50946532,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21268786,
+            "album_name": "Live At Mister Kelly's",
+            "artist_id": 831,
+            "artist_name": "Ella Fitzgerald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues-Live-1958-Chicago?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ella-Fitzgerald/St-Louis-Blues-Live-1958-Chicago/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T10:50:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91455936,
+            "track_name": "Road Haffi Tek On",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 13197078,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 21354319,
+            "album_name": "Double Overtime Riddim - Starting Line Up",
+            "artist_id": 33091644,
+            "artist_name": "Popcaan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Popcaan/Road-Haffi-Tek-On?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Popcaan/Road-Haffi-Tek-On/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-31T10:30:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174454138,
+            "track_name": "Amnesia",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 97118544,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 33110329,
+            "album_name": "amnesia",
+            "artist_id": 34293748,
+            "artist_name": "guccihighwaters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/guccihighwaters/amnesia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/guccihighwaters/amnesia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-15T23:17:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85057953,
+            "track_name": "Baby Mama (feat. La Chat)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1350644,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 20949190,
+            "album_name": "Choices: The Album",
+            "artist_id": 14306109,
+            "artist_name": "Three 6 Mafia feat. La Chat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Three-6-Mafia-feat-La-Chat/Baby-Mama?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Three-6-Mafia-feat-La-Chat/Baby-Mama/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-09T01:39:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1148668,
+            "track_name": "The Massive Improve’lence",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 9522681,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10306303,
+            "album_name": "Thing-Fish",
+            "artist_id": 1017,
+            "artist_name": "Frank Zappa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frank-Zappa/The-Massive-Improve-lence?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frank-Zappa/The-Massive-Improve-lence/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-17T22:21:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 47505839,
+            "track_name": "Baby Mama",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 21232165,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16483689,
+            "album_name": "Most Known Hits",
+            "artist_id": 10866,
+            "artist_name": "Three 6 Mafia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Three-6-Mafia/Baby-Mama?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Three-6-Mafia/Baby-Mama/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-04T00:49:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85424902,
+            "track_name": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 39290567,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 86,
+            "album_id": 20971915,
+            "album_name": "Generation Gaming VI",
+            "artist_id": 13834187,
+            "artist_name": "Dan Bull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom-Boom/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-06T19:48:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 166289301,
+            "track_name": "Isq Risk",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 12427045,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 24,
+            "album_id": 31637659,
+            "album_name": "Mere Brother Ki Dulhan (Original)",
+            "artist_id": 228125,
+            "artist_name": "Rahat Fateh Ali Khan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rahat-Fateh-Ali-Khan/Isq-Risk?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rahat-Fateh-Ali-Khan/Isq-Risk/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-31T16:15:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 131792212,
+            "track_name": "Just Exist",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 44504922,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 26428047,
+            "album_name": "Back to Beautiful",
+            "artist_id": 272243,
+            "artist_name": "Picturesque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Picturesque/Just-Exist?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Picturesque/Just-Exist/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-16T02:29:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92093304,
+            "track_name": "The Worst Part...",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 2524499,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21399185,
+            "album_name": "Even If It Kills Me",
+            "artist_id": 35108,
+            "artist_name": "Motion City Soundtrack",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Motion-City-Soundtrack/The-Worst-Part?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Motion-City-Soundtrack/The-Worst-Part/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T16:28:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 55665113,
+            "track_name": "Energy",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 27114408,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 17322808,
+            "album_name": "Tradition",
+            "artist_id": 11225642,
+            "artist_name": "9ice",
+            "track_share_url": "https://www.musixmatch.com/lyrics/9ice/Energy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/9ice/Energy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-27T18:26:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95708910,
+            "track_name": "Little Money",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 46870463,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 15,
+            "album_id": 21667633,
+            "album_name": "Certificate (Reloaded)",
+            "artist_id": 11225642,
+            "artist_name": "9ice",
+            "track_share_url": "https://www.musixmatch.com/lyrics/9ice/Little-Money?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/9ice/Little-Money/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-03T13:21:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73420046,
+            "track_name": "Jagaao Mere Des Ko (From \"Coke Studio @ MTV Season 3: Episode 1\")",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 40223074,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 28,
+            "album_id": 19647561,
+            "album_name": "A. R. Rahman - Voice of a Nation",
+            "artist_id": 33253933,
+            "artist_name": "A. R. Rahman feat. Suchi & Blaaze",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-R-Rahman-Suchi-Blaaze/Jagaao-Mere-Des-Ko-From-Coke-Studio-MTV-Season-3-Episode-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-R-Rahman-Suchi-Blaaze/Jagaao-Mere-Des-Ko-From-Coke-Studio-MTV-Season-3-Episode-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-04T16:06:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19934900,
+            "track_name": "Never Lettin Go",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 12145936,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14334455,
+            "album_name": "The Life and Times of Jonny Valiant",
+            "artist_id": 14165439,
+            "artist_name": "Rittz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rittz/Never-Lettin-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rittz/Never-Lettin-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-25T01:40:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84062589,
+            "track_name": "Isq Risk (From \"Mere Brother Ki Dulhan\")",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 44350156,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 20866354,
+            "album_name": "Best of Katrina Kaif",
+            "artist_id": 228125,
+            "artist_name": "Rahat Fateh Ali Khan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rahat-Fateh-Ali-Khan/Isq-Risk-From-Mere-Brother-Ki-Dulhan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rahat-Fateh-Ali-Khan/Isq-Risk-From-Mere-Brother-Ki-Dulhan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-08T18:55:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101133436,
+            "track_name": "Just Exist (Acoustic)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 55685417,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 22166989,
+            "album_name": "Broken Home Sessions (Acoustic EP)",
+            "artist_id": 272243,
+            "artist_name": "Picturesque",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Picturesque/Just-Exist-Acoustic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Picturesque/Just-Exist-Acoustic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-25T07:57:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 173763436,
+            "track_name": "Blédard Is The New Fresh",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 87881527,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 131,
+            "album_id": 32996007,
+            "album_name": "Bledard Is The New Fresh",
+            "artist_id": 36830170,
+            "artist_name": "Kiff No Beat feat. Sofiane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kiff-No-Beat-feat-Sofiane/Bl%C3%A9dard-Is-The-New-Fresh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kiff-No-Beat-feat-Sofiane/Bl%C3%A9dard-Is-The-New-Fresh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-21T08:16:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19128557,
+            "track_name": "Humse Pyaar Kare Le Tu (remix)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 11681226,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 14221027,
+            "album_name": "Teri Meri Kahaani",
+            "artist_id": 34122526,
+            "artist_name": "Mika Singh & Shreya Ghoshal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mika-Singh-feat-Shreya-Ghoshal/Humse-Pyaar-Kare-Le-Tu-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mika-Singh-feat-Shreya-Ghoshal/Humse-Pyaar-Kare-Le-Tu-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-31T07:21:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 66748622,
+            "track_name": "Never Lettin Go (Bonus Track)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 35536931,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18762249,
+            "album_name": "The Life and Times of Jonny Valiant (Deluxe Edition)",
+            "artist_id": 14165439,
+            "artist_name": "Rittz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rittz/Never-Lettin-Go-Bonus-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rittz/Never-Lettin-Go-Bonus-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-25T01:40:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94696050,
+            "track_name": "Cocky Rebel",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 23458598,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21589354,
+            "album_name": "Cocky Rebel - Single",
+            "artist_id": 197408,
+            "artist_name": "Aidonia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aidonia/Cocky-Rebel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aidonia/Cocky-Rebel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-18T22:14:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1866,
+                    "music_genre_parent_id": 8053,
+                    "music_genre_name": "Modern Dancehall",
+                    "music_genre_name_extended": "Reggae / Modern Dancehall",
+                    "music_genre_vanity": "Reggae-Modern-Dancehall"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8542368,
+            "track_name": "Truth",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 7388811,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 10960882,
+            "album_name": "Supply and Demand",
+            "artist_id": 117699,
+            "artist_name": "Amos Lee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Amos-Lee/Truth?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Amos-Lee/Truth/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T13:11:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1143,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Soul",
+                    "music_genre_name_extended": "R&B/Soul / Soul",
+                    "music_genre_vanity": "R-B-Soul-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

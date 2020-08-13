@@ -9,7 +9,12 @@ const MatchedSongs = (props: { job: Job }) => {
   const { job } = props;
   const songs = job.output.songs;
   const isRunning = job.status === 'running' || job.status === 'started';
-  const isLoadingSongs = isRunning && !songs && !!job.output.rhymingTerms;
+  const isLoadingSongs =
+    isRunning &&
+    !songs &&
+    !!job.output.rhymingTerms &&
+    !!job.output.rhymingTerms.primary &&
+    !!job.output.rhymingTerms.primary.length;
   const isErrored = !isRunning && !!job.error;
   return (
     <div className="matched-songs">

@@ -1,0 +1,1846 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.078940153121948,
+      "available": 104
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 93700006,
+            "track_name": "Nobody Home",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 57258444,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 21511582,
+            "album_name": "The Wall",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-09T13:00:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145737802,
+            "track_name": "Nobody Home - 2011 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 14096792,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 28151302,
+            "album_name": "The Wall (Remastered)",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-28T17:33:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99623605,
+            "track_name": "Nobody Home - 1994 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 54968630,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 22022806,
+            "album_name": "The Wall",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-1994-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Nobody-Home-1994-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-09T13:00:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110658445,
+            "track_name": "Daphne Descends",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 913964,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 23406077,
+            "album_name": "Adore (Super Deluxe)",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T04:41:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87399916,
+            "track_name": "Phantom Limb",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 12031044,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 49,
+            "album_id": 21097542,
+            "album_name": "The Devil Put Dinosaurs Here",
+            "artist_id": 269,
+            "artist_name": "Alice In Chains",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alice-In-Chains/Phantom-Limb?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alice-In-Chains/Phantom-Limb/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-23T15:50:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34235674,
+            "track_name": "Daphne Descends (Kerry B. Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 9797125,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15513997,
+            "album_name": "Rarities and B-Sides",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Kerry-B-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Kerry-B-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-13T06:32:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158985296,
+            "track_name": "Daphne Descends - Live/San Paulo Session",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 40623746,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30238644,
+            "album_name": "Adore (Super Deluxe)",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Live-San-Paulo-Session?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Live-San-Paulo-Session/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-16T12:38:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3903663,
+            "track_name": "Marching Bands of Manhattan",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 1130615,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 99,
+            "album_id": 10540591,
+            "album_name": "Plans",
+            "artist_id": 8696,
+            "artist_name": "Death Cab for Cutie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Death-Cab-for-Cutie/Marching-Bands-of-Manhattan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Death-Cab-for-Cutie/Marching-Bands-of-Manhattan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-18T12:20:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37136186,
+            "track_name": "King Me",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 10303591,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 178,
+            "album_id": 15719628,
+            "album_name": "Resolution",
+            "artist_id": 13752,
+            "artist_name": "Lamb of God",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/King-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/King-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-20T19:44:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126628548,
+            "track_name": "Screen door",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 11927914,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 25663404,
+            "album_name": "stuff i used to do",
+            "artist_id": 316760,
+            "artist_name": "deadmau5",
+            "track_share_url": "https://www.musixmatch.com/lyrics/deadmau5/Screen-Door?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/deadmau5/Screen-Door/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-09T14:39:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115123545,
+            "track_name": "Six Years on Dope",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 62683250,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12,
+            "album_id": 24006583,
+            "album_name": "First Ditch Effort",
+            "artist_id": 661,
+            "artist_name": "NOFX",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NOFX/Six-Years-on-Dope?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NOFX/Six-Years-on-Dope/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-22T04:29:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1006,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Punk",
+                    "music_genre_name_extended": "Alternative / Punk",
+                    "music_genre_vanity": "Alternative-Punk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82688947,
+            "track_name": "Black Dice",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 11372693,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 20750964,
+            "album_name": "No Love Deep Web",
+            "artist_id": 13771021,
+            "artist_name": "Death Grips",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Death-Grips/Black-Dice?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Death-Grips/Black-Dice/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-02T03:35:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14559052,
+            "track_name": "Tiny Voices",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 116870,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 10292681,
+            "album_name": "Stranger Than Fiction",
+            "artist_id": 355,
+            "artist_name": "Bad Religion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bad-Religion/Tiny-Voices?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bad-Religion/Tiny-Voices/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T01:44:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162903645,
+            "track_name": "Nobody Home - Live Version",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 13123656,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30969253,
+            "album_name": "The Wall: Live In Berlin",
+            "artist_id": 1228,
+            "artist_name": "Roger Waters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home-Live-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home-Live-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-13T08:30:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15389622,
+            "track_name": "Nobody Home",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 3082780,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10957253,
+            "album_name": "Fantasies",
+            "artist_id": 56548,
+            "artist_name": "Metric",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metric/Nobody-Home?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metric/Nobody-Home/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T01:16:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31647351,
+            "track_name": "Nobody Home",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 372716,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 8,
+            "album_id": 11318005,
+            "album_name": "The Meadowlands",
+            "artist_id": 1228,
+            "artist_name": "Roger Waters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T13:36:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99914481,
+            "track_name": "Look on Up",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 55136553,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 22052991,
+            "album_name": "Look on Up",
+            "artist_id": 10730,
+            "artist_name": "Relient K",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Relient-K/Look-on-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Relient-K/Look-on-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-14T05:55:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5235929,
+            "track_name": "They Call It",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 688884,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10655991,
+            "album_name": "Say Hey There",
+            "artist_id": 5401,
+            "artist_name": "Atmosphere",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Atmosphere/They-Call-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Atmosphere/They-Call-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:51:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88311740,
+            "track_name": "A Thread Of Light",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2233293,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21148817,
+            "album_name": "Storm The Gates Of Hell",
+            "artist_id": 26966,
+            "artist_name": "Demon Hunter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Demon-Hunter/A-Thread-of-Light?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Demon-Hunter/A-Thread-of-Light/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:15:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4687909,
+            "track_name": "Kick",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 369092,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10607227,
+            "album_name": "Psycho-Head Blowout",
+            "artist_id": 1212,
+            "artist_name": "White Zombie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/White-Zombie/Kick?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/White-Zombie/Kick/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:08:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84221747,
+            "track_name": "Nobody Home (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 14827195,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 20884479,
+            "album_name": "Roger Waters The Wall",
+            "artist_id": 1228,
+            "artist_name": "Roger Waters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Nobody-Home-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-13T22:20:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170579832,
+            "track_name": "Pinhole",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ピンホール"
+                }
+              }
+            ],
+            "track_rating": 19,
+            "commontrack_id": 95631364,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32534541,
+            "album_name": "Brotherhood",
+            "artist_id": 28697077,
+            "artist_name": "N.Flying",
+            "track_share_url": "https://www.musixmatch.com/lyrics/N-Flying/Pinhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/N-Flying/Pinhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-22T04:26:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 27,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "J-Pop",
+                    "music_genre_name_extended": "J-Pop",
+                    "music_genre_vanity": "J-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2844038,
+            "track_name": "Nobody Home (live)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 2944925,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10450963,
+            "album_name": "Unreleased 1998-2003",
+            "artist_id": 50387,
+            "artist_name": "Antimatter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Antimatter/Nobody-Home-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Antimatter/Nobody-Home-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:48:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113109364,
+            "track_name": "Ora",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 62254583,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 23787947,
+            "album_name": "At Swim",
+            "artist_id": 92070,
+            "artist_name": "Lisa Hannigan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lisa-Hannigan/Ora?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lisa-Hannigan/Ora/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-25T07:17:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171808415,
+            "track_name": "Ora - Live In Dublin",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 96065955,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32711242,
+            "album_name": "Live in Dublin",
+            "artist_id": 37589784,
+            "artist_name": "Lisa Hannigan feat. s t a r g a z e",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lisa-Hannigan-feat-s-t-a-r-g-a-z-e/Ora-Live-In-Dublin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lisa-Hannigan-feat-s-t-a-r-g-a-z-e/Ora-Live-In-Dublin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-27T11:11:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159024476,
+            "track_name": "Nobody Home",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 87717685,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 30244337,
+            "album_name": "Nobody Home",
+            "artist_id": 7301,
+            "artist_name": "Mark Lanegan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mark-Lanegan/Nobody-Home?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mark-Lanegan/Nobody-Home/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-02T22:22:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54512710,
+            "track_name": "Heavy Heart",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 26352296,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17205528,
+            "album_name": "Utah",
+            "artist_id": 13768523,
+            "artist_name": "Jamestown Revival",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jamestown-Revival/Heavy-Heart?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jamestown-Revival/Heavy-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-09T16:41:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30289810,
+            "track_name": "Sender",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1371855,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13768358,
+            "album_name": "Summer in Abaddon",
+            "artist_id": 11082,
+            "artist_name": "Pinback",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pinback/Sender?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pinback/Sender/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:20:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30095457,
+            "track_name": "Put Back the Stars",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1412648,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13753440,
+            "album_name": "The Great Depression",
+            "artist_id": 11474,
+            "artist_name": "BLINDSIDE",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blindside/Put-Back-the-Stars?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blindside/Put-Back-the-Stars/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T04:22:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113684592,
+            "track_name": "Two Deliverances",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 60306042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23854769,
+            "album_name": "Goodness",
+            "artist_id": 26733133,
+            "artist_name": "The Hotelier",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Hotelier/Two-Deliverances?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Hotelier/Two-Deliverances/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-27T15:37:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84342259,
+            "track_name": "UFOS",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 47404418,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20898091,
+            "album_name": "That Low and Lonesome Sound",
+            "artist_id": 24812959,
+            "artist_name": "Garrett Kato",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Garrett-Kato/UFOS?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Garrett-Kato/UFOS/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-07T20:33:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 179777196,
+            "track_name": "Take Control",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 98781165,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33983933,
+            "album_name": "Take Control",
+            "artist_id": 36942582,
+            "artist_name": "The Mysterines",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mysterines/Take-Control?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mysterines/Take-Control/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-05T04:01:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17706552,
+            "track_name": "The Scientists",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 744236,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10292713,
+            "album_name": "Downward Is Heavenward",
+            "artist_id": 6392,
+            "artist_name": "Hum",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hum/The-Scientists?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hum/The-Scientists/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:58:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168103034,
+            "track_name": "All Time Low",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 94495819,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32033391,
+            "album_name": "STONECHILD",
+            "artist_id": 113237,
+            "artist_name": "Jesca Hoop",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jesca-Hoop/All-Time-Low?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jesca-Hoop/All-Time-Low/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-11T21:21:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6425397,
+            "track_name": "Warm",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 1787429,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10764141,
+            "album_name": "North Star Deserter",
+            "artist_id": 16814,
+            "artist_name": "Vic Chesnutt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vic-Chesnutt/Warm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vic-Chesnutt/Warm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-07T12:45:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7376107,
+            "track_name": "A Missed Chance for a Meaningful Abortion",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 5948371,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10854316,
+            "album_name": "Anger",
+            "artist_id": 384942,
+            "artist_name": "Dangers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dangers/A-Missed-Chance-for-a-Meaningful-Abortion?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dangers/A-Missed-Chance-for-a-Meaningful-Abortion/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-02-21T07:25:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114188727,
+            "track_name": "Details",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 62923914,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23908758,
+            "album_name": "Pressure",
+            "artist_id": 28730819,
+            "artist_name": "NYVES",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NYVES/Details?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NYVES/Details/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-05T21:15:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1940073,
+            "track_name": "Christine Bonilla",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 2182596,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10377660,
+            "album_name": "Joy Zipper",
+            "artist_id": 25723,
+            "artist_name": "Joy Zipper",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joy-Zipper/Christine-Bonilla?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joy-Zipper/Christine-Bonilla/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:15:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1026582,
+            "track_name": "Too Many Ways To Fall",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 763509,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10304778,
+            "album_name": "Arc Angels",
+            "artist_id": 6522,
+            "artist_name": "ARC Angels",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ARC-Angels/Too-Many-Ways-to-Fall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ARC-Angels/Too-Many-Ways-to-Fall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:01:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132393243,
+            "track_name": "Ocular Wavelengths' Floral Obstructions",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 73936506,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26523246,
+            "album_name": "Undulating Waves of Rainbiotic Iridescence",
+            "artist_id": 368399,
+            "artist_name": "Gigan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gigan/Ocular-Wavelengths-Floral-Obstructions?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gigan/Ocular-Wavelengths-Floral-Obstructions/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-04T14:37:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19445074,
+            "track_name": "Chinatown",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 10292826,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13924655,
+            "album_name": "Fear and the Nervous System",
+            "artist_id": 13837067,
+            "artist_name": "Fear and The Nervous System",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fear-and-The-Nervous-System/Chinatown?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fear-and-The-Nervous-System/Chinatown/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T20:24:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81259617,
+            "track_name": "I FORGIVE YOU",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 45186260,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20557079,
+            "album_name": "Acute Feast",
+            "artist_id": 27225556,
+            "artist_name": "OOFJ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/OOFJ/I-Forgive-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/OOFJ/I-Forgive-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-18T21:41:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31693971,
+            "track_name": "What About Me",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12382052,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11321353,
+            "album_name": "Y.O.U",
+            "artist_id": 13954169,
+            "artist_name": "Tito Lopez",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tito-Lopez/What-About-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tito-Lopez/What-About-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-08-09T11:11:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74109027,
+            "track_name": "Daphne Descends (live/Sao Paulo session)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40681547,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19699928,
+            "album_name": "Adore",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-live-Sao-Paulo-session?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-live-Sao-Paulo-session/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-16T12:38:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4090556,
+            "track_name": "Daphne Descends (Kerry B. mix) [Perfect 1998]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 913967,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10556427,
+            "album_name": "Ultimate Rarities Box Set",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Kerry-B-mix-Perfect-1998?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Daphne-Descends-Kerry-B-mix-Perfect-1998/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T04:41:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16925725,
+            "track_name": "Map of the Past",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10725758,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14191037,
+            "album_name": "Map of the Past",
+            "artist_id": 17968,
+            "artist_name": "It Bites",
+            "track_share_url": "https://www.musixmatch.com/lyrics/It-Bites/Map-of-the-Past?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/It-Bites/Map-of-the-Past/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-22T03:58:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3130406,
+            "track_name": "The Night Kramer Met Ann",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7334110,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10474941,
+            "album_name": "Downtown",
+            "artist_id": 113367,
+            "artist_name": "Don Lennon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Don-Lennon/The-Night-Kramer-Met-Ann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Lennon/The-Night-Kramer-Met-Ann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T17:53:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154035709,
+            "track_name": "Goodbye My Dear",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 85683050,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29463159,
+            "album_name": "Looking for the Answers",
+            "artist_id": 36396221,
+            "artist_name": "Supergroup of Nobody",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Supergroup-of-Nobody/Goodbye-My-Dear?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Supergroup-of-Nobody/Goodbye-My-Dear/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T06:17:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88931692,
+            "track_name": "Glass Elevators",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 47153564,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21183465,
+            "album_name": "Metal Chocolates",
+            "artist_id": 37078711,
+            "artist_name": "Metal Chocolates feat. OCnotes & Rik Rude",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metal-Chocolates-OCnotes-Rik-Rude/Glass-Elevators?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metal-Chocolates-OCnotes-Rik-Rude/Glass-Elevators/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-11T10:52:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4854492,
+            "track_name": "The Beginning of Something New",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7408845,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10621392,
+            "album_name": "The Destruction of Everything Is the Beginning of Something New",
+            "artist_id": 119129,
+            "artist_name": "Adair",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Adair/The-Beginning-of-Something-New?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Adair/The-Beginning-of-Something-New/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:23:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

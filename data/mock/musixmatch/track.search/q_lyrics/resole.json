@@ -1,0 +1,484 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.031543016433716,
+      "available": 14
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 90386981,
+            "track_name": "How Could You Want Him (When You Know You Can Have Me)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 264730,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15518188,
+            "album_name": "Pocket Full of Kryptonite",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Can-Have-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Can-Have-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-22T01:14:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14870878,
+            "track_name": "How Could You Want Him",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 264727,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13850141,
+            "album_name": "Live in Canada 1993",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:52:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 688974,
+            "track_name": "How Could You Want Him (When You Know You Could Have Me?)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 264732,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10277698,
+            "album_name": "Pocket Full of Kryptonite",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Could-Have-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Could-Have-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-12T23:17:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30145727,
+            "track_name": "Henry the Octopus",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1285784,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10363698,
+            "album_name": "Wiggle Time!",
+            "artist_id": 10327,
+            "artist_name": "The Wiggles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Wiggles/Henry-The-Octopus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Wiggles/Henry-The-Octopus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-14T04:00:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 944477,
+            "track_name": "Haunted by Horror",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 1205416,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10298287,
+            "album_name": "Nightwork",
+            "artist_id": 9402,
+            "artist_name": "Diabolical Masquerade",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Diabolical-Masquerade/Haunted-by-Horror?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Diabolical-Masquerade/Haunted-by-Horror/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:00:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32506245,
+            "track_name": "How Could You Want Him (When You Know You Could Have Me?) [In the Style of Spin Doctors] {Performance Track with Demonstration Vocals}",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12755088,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15382490,
+            "album_name": "How Could You Want Him (When You Know You Could Have Me?) [In the Style of Spin Doctors] {Performance Track with Demonstration Vocals}",
+            "artist_id": 24498488,
+            "artist_name": "Done Again",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Done-Again/How-Could-You-Want-Him-When-You-Know-You-Could-Have-Me-In-the-Style-of-Spin-Doctors-%7BPerformance-Track-with-Demonstration-Vocals%7D?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Done-Again/How-Could-You-Want-Him-When-You-Know-You-Could-Have-Me-In-the-Style-of-Spin-Doctors-%7BPerformance-Track-with-Demonstration-Vocals%7D/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-17T17:59:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3426949,
+            "track_name": "Exaggeration",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7511969,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10500086,
+            "album_name": "Divorce at High Noon",
+            "artist_id": 126674,
+            "artist_name": "The Karelia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Karelia/Exaggeration?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Karelia/Exaggeration/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:04:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90386903,
+            "track_name": "How Could You Want Him (When You Know You Can Have Me) - (from Piece Of Glass demo, 1990)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18034754,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21273855,
+            "album_name": "Pocket Full Of Kryptonite (Anniversary Edition)",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Can-Have-Me-From-Piece-of-Glass-Demo-1990?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Know-You-Can-Have-Me-From-Piece-of-Glass-Demo-1990/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-04T21:10:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170318541,
+            "track_name": "Greed",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 95543857,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32474395,
+            "album_name": "'But What Do I Know?'",
+            "artist_id": 37443757,
+            "artist_name": "Bazes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bazes-2/Greed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bazes-2/Greed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-23T22:48:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157472410,
+            "track_name": "Nx Nx Nxw",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 87578463,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30005497,
+            "album_name": "Nx Nx",
+            "artist_id": 36775710,
+            "artist_name": "Danger Illustrated",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danger-Illustrated/Nx-Nx-Nxw?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danger-Illustrated/Nx-Nx-Nxw/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-14T05:40:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8474387,
+            "track_name": "How Could You Want Him (When You Can Have Me)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 264728,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10954939,
+            "album_name": "Just Go Ahead Now",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Can-Have-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Can-Have-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T14:30:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151528402,
+            "track_name": "Some Girls",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 84399125,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29101905,
+            "album_name": "Why Trains Crash",
+            "artist_id": 28643282,
+            "artist_name": "The Pretty Flowers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Pretty-Flowers/Some-Girls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Pretty-Flowers/Some-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T02:21:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192913182,
+            "track_name": "Propain",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 107426358,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36826124,
+            "album_name": "Sunshine Kills",
+            "artist_id": 44262045,
+            "artist_name": "Peter Vartan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Peter-Vartan-1/Propain?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Peter-Vartan-1/Propain/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-21T18:03:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9652404,
+            "track_name": "How Could You Want Him (When You Could Have Me) (edit)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 264729,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11048463,
+            "album_name": "Top Hits U.S.A. T181",
+            "artist_id": 852,
+            "artist_name": "Spin Doctors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Could-Have-Me-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spin-Doctors/How-Could-You-Want-Him-When-You-Could-Have-Me-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-04T21:08:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

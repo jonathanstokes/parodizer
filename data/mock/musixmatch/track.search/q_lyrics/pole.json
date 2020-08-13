@@ -1,0 +1,1706 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.11215591430664,
+      "available": 10000
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 200357565,
+            "track_name": "The Climb Back",
+            "track_name_translation_list": [],
+            "track_rating": 91,
+            "commontrack_id": 113835591,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 45,
+            "album_id": 39278073,
+            "album_name": "Lewis Street - Single",
+            "artist_id": 486280,
+            "artist_name": "J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-23T14:02:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199412736,
+            "track_name": "Desce Pro Play (PA PA PA)",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 112997126,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 40,
+            "album_id": 38953211,
+            "album_name": "Desce pro Play (PA PA PA) - Single",
+            "artist_id": 45824414,
+            "artist_name": "Mc Zaac feat. Anitta & Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mc-Zaac-Anitta-Tyga/Desce-Pro-Play-PA-PA-PA?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mc-Zaac-Anitta-Tyga/Desce-Pro-Play-PA-PA-PA/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-03T14:35:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114889152,
+            "track_name": "Sucker For Pain (with Logic, Ty Dolla  & X Ambassadors)",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 62391906,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 14522,
+            "album_id": 23982882,
+            "album_name": "Suicide Squad: The Album (Collector's Edition)",
+            "artist_id": 33192128,
+            "artist_name": "Lil Wayne feat. Wiz Khalifa & Imagine Dragons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-05T08:40:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18655047,
+            "track_name": "Pour It Up",
+            "track_name_translation_list": [],
+            "track_rating": 81,
+            "commontrack_id": 11497204,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6983,
+            "album_id": 14267790,
+            "album_name": "Unapologetic",
+            "artist_id": 33491890,
+            "artist_name": "Rihanna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rhianna/Pour-It-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rhianna/Pour-It-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-26T08:33:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192324218,
+            "track_name": "Build Me A Daddy",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 107705636,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 36710192,
+            "album_name": "Born Here Live Here Die Here",
+            "artist_id": 360257,
+            "artist_name": "Luke Bryan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luke-Bryan/Build-Me-a-Daddy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luke-Bryan/Build-Me-a-Daddy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T08:55:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201234774,
+            "track_name": "Shotta Flow 4 (feat. Chief Keef)",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 114594136,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 39576605,
+            "album_name": "Top Shotta",
+            "artist_id": 46195235,
+            "artist_name": "NLE Choppa feat. Chief Keef",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NLE-Choppa-Chief-Keef/Shotta-Flow-4-Chief-Keef?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NLE-Choppa-Chief-Keef/Shotta-Flow-4-Chief-Keef/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T17:30:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96101205,
+            "track_name": "Low - feat T-Pain",
+            "track_name_translation_list": [],
+            "track_rating": 77,
+            "commontrack_id": 10132800,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3301,
+            "album_id": 21698773,
+            "album_name": "100 R&B Classics - The Anthems",
+            "artist_id": 33091402,
+            "artist_name": "Flo Rida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Low-T-Pain?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Low-T-Pain/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-24T01:04:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201234586,
+            "track_name": "FRESH POLO (feat. Stylo G & Dane Ray)",
+            "track_name_translation_list": [],
+            "track_rating": 77,
+            "commontrack_id": 114611270,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39576550,
+            "album_name": "FIXTAPE",
+            "artist_id": 46196222,
+            "artist_name": "Popcaan feat. Stylo G & Dane Ray",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Popcaan-Stylo-G-Dane-Ray/FRESH-POLO-Stylo-G-Dane-Ray?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Popcaan-Stylo-G-Dane-Ray/FRESH-POLO-Stylo-G-Dane-Ray/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-09T15:11:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85449016,
+            "track_name": "Right Round - feat. Ke",
+            "track_name_translation_list": [],
+            "track_rating": 76,
+            "commontrack_id": 86127606,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 13,
+            "album_id": 20973488,
+            "album_name": "R.O.O.T.S. (Route Of Overcoming The Struggle)",
+            "artist_id": 33091402,
+            "artist_name": "Flo Rida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round-feat-Ke-ha-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round-feat-Ke-ha-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-14T13:38:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200358129,
+            "track_name": "Home and Away",
+            "track_name_translation_list": [],
+            "track_rating": 75,
+            "commontrack_id": 113835940,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 39278240,
+            "album_name": "Home and Away - Single",
+            "artist_id": 38803201,
+            "artist_name": "ONEFOUR",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ONEFOUR/Home-and-Away?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ONEFOUR/Home-and-Away/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-24T07:27:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126212092,
+            "track_name": "Onnurangi",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 69919686,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25610962,
+            "album_name": "Aby (Original Motion Picture Soundtrack)",
+            "artist_id": 33147177,
+            "artist_name": "Vineeth Sreenivasan feat. Saritha Ram",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vineeth-Sreenivasan-feat-Saritha-Ram/Onnurangi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vineeth-Sreenivasan-feat-Saritha-Ram/Onnurangi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-04T09:32:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 109120194,
+            "track_name": "All I Want for Christmas Is You",
+            "track_name_translation_list": [],
+            "track_rating": 74,
+            "commontrack_id": 11799451,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6543,
+            "album_id": 23181399,
+            "album_name": "Merry Christmas",
+            "artist_id": 72,
+            "artist_name": "Mariah Carey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mariah-Carey/All-I-Want-for-Christmas-Is-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mariah-Carey/All-I-Want-for-Christmas-Is-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-03T14:50:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1080,
+                    "music_genre_parent_id": 8,
+                    "music_genre_name": "Christmas",
+                    "music_genre_name_extended": "Holiday / Christmas",
+                    "music_genre_vanity": "Holiday-Christmas"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195243125,
+            "track_name": "Croissantid",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 109420783,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37566710,
+            "album_name": "Croissantid - Single",
+            "artist_id": 243959,
+            "artist_name": "Nublu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nublu/Croissantid?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nublu/Croissantid/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-14T18:37:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53409553,
+            "track_name": "Für Elise",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 25670738,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 17103477,
+            "album_name": "Für Elise",
+            "artist_id": 499432,
+            "artist_name": "TRAFFIC",
+            "track_share_url": "https://www.musixmatch.com/lyrics/TRAFFIC-2/F%C3%BCr-Elise?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/TRAFFIC-2/F%C3%BCr-Elise/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-11T15:53:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 163228052,
+            "track_name": "Finish Line (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 91101334,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 31025775,
+            "album_name": "Finish Line [Remix]",
+            "artist_id": 37438323,
+            "artist_name": "Jay Park feat. pH-1, Woodie Gochild, HAON, Avatar Darko & Sik-K",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Park-feat-pH-1-Woodie-Gochild-HAON-Avatar-Darko-Sik-K/Finish-Line-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Park-feat-pH-1-Woodie-Gochild-HAON-Avatar-Darko-Sik-K/Finish-Line-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-15T16:20:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1242,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Korean Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Korean Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Korean-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 155209366,
+            "track_name": "öölaps!",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 86335084,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 29657940,
+            "album_name": "Mind on Mitu",
+            "artist_id": 243959,
+            "artist_name": "Nublu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nublu/%C3%B6%C3%B6laps?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nublu/%C3%B6%C3%B6laps/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-10T18:14:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85650301,
+            "track_name": "All The Time",
+            "track_name_translation_list": [],
+            "track_rating": 72,
+            "commontrack_id": 12104967,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1211,
+            "album_id": 20986307,
+            "album_name": "All The Time",
+            "artist_id": 29065570,
+            "artist_name": "Jeremih, Lil Wayne & Natasha Mosley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jeremih-feat-Lil-Wayne-Natasha-Mosley-2/All-the-Time-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jeremih-feat-Lil-Wayne-Natasha-Mosley-2/All-the-Time-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-12T08:38:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72967181,
+            "track_name": "Kauges Külas",
+            "track_name_translation_list": [],
+            "track_rating": 72,
+            "commontrack_id": 39964633,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 19615988,
+            "album_name": "Üle Ilma",
+            "artist_id": 27842751,
+            "artist_name": "Curly Strings",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Curly-Strings/Kauges-K%C3%BClas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Curly-Strings/Kauges-K%C3%BClas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-19T20:07:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193961515,
+            "track_name": "Got the Guap (feat. Young Thug)",
+            "track_name_translation_list": [],
+            "track_rating": 70,
+            "commontrack_id": 108344336,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 37147937,
+            "album_name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+            "artist_id": 44739017,
+            "artist_name": "Lil Uzi Vert feat. Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert-Young-Thug/Got-The-Guap-Young-Thug?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert-Young-Thug/Got-The-Guap-Young-Thug/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-22T07:17:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198355470,
+            "track_name": "Peo lõpp",
+            "track_name_translation_list": [],
+            "track_rating": 70,
+            "commontrack_id": 112089290,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38597480,
+            "album_name": "Peo lõpp - Single",
+            "artist_id": 32035574,
+            "artist_name": "5MIINUST",
+            "track_share_url": "https://www.musixmatch.com/lyrics/5MIINUST/Peo-l%C3%B5pp?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/5MIINUST/Peo-l%C3%B5pp/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-01T10:42:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194993683,
+            "track_name": "What's Up Cuz",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 109224304,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37485405,
+            "album_name": "What's Up Cuz - Single",
+            "artist_id": 8189,
+            "artist_name": "Toby Keith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Toby-Keith/What-s-up-Cuz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Toby-Keith/What-s-up-Cuz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-17T07:06:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160713188,
+            "track_name": "Tmt",
+            "track_name_translation_list": [],
+            "track_rating": 69,
+            "commontrack_id": 89564964,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 30576586,
+            "album_name": "Tmt",
+            "artist_id": 243959,
+            "artist_name": "Nublu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nublu/tmt?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nublu/tmt/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-20T09:29:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151680834,
+            "track_name": "Mina Ka",
+            "track_name_translation_list": [],
+            "track_rating": 69,
+            "commontrack_id": 84509072,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 29125663,
+            "album_name": "Mina Ka",
+            "artist_id": 36153636,
+            "artist_name": "Nublu feat. Reket",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nublu-feat-Reket/Mina-Ka?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nublu-feat-Reket/Mina-Ka/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-18T15:06:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73040014,
+            "track_name": "Nelgid / Carnations",
+            "track_name_translation_list": [],
+            "track_rating": 69,
+            "commontrack_id": 39992001,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19620650,
+            "album_name": "Nelgid",
+            "artist_id": 282386,
+            "artist_name": "Vaiko Eplik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vaiko-Eplik/Nelgid-Carnations?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vaiko-Eplik/Nelgid-Carnations/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-29T18:50:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1131,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Adult Contemporary",
+                    "music_genre_name_extended": "Pop / Adult Contemporary",
+                    "music_genre_vanity": "Pop-Adult-Contemporary"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198425788,
+            "track_name": "Eazy",
+            "track_name_translation_list": [],
+            "track_rating": 68,
+            "commontrack_id": 112140191,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 108,
+            "album_id": 38619718,
+            "album_name": "Eazy",
+            "artist_id": 33156084,
+            "artist_name": "Nasty C",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nasty-C/Eazy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nasty-C/Eazy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-19T13:41:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33594592,
+            "track_name": "Low",
+            "track_name_translation_list": [],
+            "track_rating": 67,
+            "commontrack_id": 5607861,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1694,
+            "album_id": 15462761,
+            "album_name": "Low",
+            "artist_id": 33091402,
+            "artist_name": "Flo Rida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Low?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Low/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-02T00:24:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185220915,
+            "track_name": "BOP",
+            "track_name_translation_list": [],
+            "track_rating": 66,
+            "commontrack_id": 101257509,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 393,
+            "album_id": 35275476,
+            "album_name": "KIRK",
+            "artist_id": 32769092,
+            "artist_name": "DaBaby",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DaBaby/BOP?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DaBaby/BOP/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-16T17:49:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200187478,
+            "track_name": "Stuntin' On You (feat. DaBaby)",
+            "track_name_translation_list": [],
+            "track_rating": 65,
+            "commontrack_id": 113675232,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 39216834,
+            "album_name": "Stuntin' On You (feat. DaBaby) - Single",
+            "artist_id": 46001839,
+            "artist_name": "Tyla Yaweh feat. DaBaby",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyla-Yaweh-DaBaby/Stuntin-On-You-DaBaby?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyla-Yaweh-DaBaby/Stuntin-On-You-DaBaby/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-21T10:52:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196403721,
+            "track_name": "Turks (with Gunna & ft. Travis Scott)",
+            "track_name_translation_list": [],
+            "track_rating": 64,
+            "commontrack_id": 108620506,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 64,
+            "album_id": 37959210,
+            "album_name": "Good Intentions",
+            "artist_id": 44818539,
+            "artist_name": "NAV feat. Gunna & Travis Scott",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NAV-Gunna-Travis-Scott/Turks-Travis-Scott?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NAV-Gunna-Travis-Scott/Turks-Travis-Scott/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-11T05:04:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198098224,
+            "track_name": "Roses Remix (feat. Future)",
+            "track_name_translation_list": [],
+            "track_rating": 63,
+            "commontrack_id": 111872849,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 21,
+            "album_id": 38505792,
+            "album_name": "Roses Remix [feat. Future] - Single",
+            "artist_id": 45582163,
+            "artist_name": "SAINt JHN feat. Future",
+            "track_share_url": "https://www.musixmatch.com/lyrics/SAINt-JHN-Future/Roses-Remix-Future?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/SAINt-JHN-Future/Roses-Remix-Future/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-29T18:25:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19009709,
+            "track_name": "Lähen ja tulen (Studio Version)",
+            "track_name_translation_list": [],
+            "track_rating": 63,
+            "commontrack_id": 11676352,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 14285623,
+            "album_name": "Per aspera ad astra",
+            "artist_id": 13903482,
+            "artist_name": "Põhja-Tallinn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/P%C3%B5hja-Tallinn/L%C3%A4hen-ja-tulen-studio-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/P%C3%B5hja-Tallinn/L%C3%A4hen-ja-tulen-studio-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-22T09:56:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123201901,
+            "track_name": "Lähedal",
+            "track_name_translation_list": [],
+            "track_rating": 61,
+            "commontrack_id": 68182959,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25176610,
+            "album_name": "Kaks",
+            "artist_id": 24772360,
+            "artist_name": "Karl-Erik Taukar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karl-Erik-Taukar/L%C3%A4hedal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karl-Erik-Taukar/L%C3%A4hedal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-26T21:49:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80485687,
+            "track_name": "Kõik",
+            "track_name_translation_list": [],
+            "track_rating": 60,
+            "commontrack_id": 44776165,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 20481270,
+            "album_name": "Genka / Paul Oja",
+            "artist_id": 28446733,
+            "artist_name": "Genka / Paul Oja feat. Suur Papa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Genka-Paul-Oja-feat-Suur-Papa-2/K%C3%B5ik?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Genka-Paul-Oja-feat-Suur-Papa-2/K%C3%B5ik/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-17T10:59:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199456121,
+            "track_name": "Yea Yea",
+            "track_name_translation_list": [],
+            "track_rating": 59,
+            "commontrack_id": 113030756,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 19,
+            "album_id": 38964659,
+            "album_name": "Shoot for the Stars Aim for the Moon",
+            "artist_id": 37618763,
+            "artist_name": "Pop Smoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Yea-Yea?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Yea-Yea/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-03T15:43:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151112841,
+            "track_name": "Jagatud Saladus",
+            "track_name_translation_list": [],
+            "track_rating": 59,
+            "commontrack_id": 84093365,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 29030766,
+            "album_name": "Jagatud Saladus",
+            "artist_id": 36089039,
+            "artist_name": "Elina Born feat. Jüri Pootsmann",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elina-Born-feat-J%C3%BCri-Pootsmann/Jagatud-Saladus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elina-Born-feat-J%C3%BCri-Pootsmann/Jagatud-Saladus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-04T14:03:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185220917,
+            "track_name": "VIBEZ",
+            "track_name_translation_list": [],
+            "track_rating": 58,
+            "commontrack_id": 101257511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 203,
+            "album_id": 35275476,
+            "album_name": "KIRK",
+            "artist_id": 32769092,
+            "artist_name": "DaBaby",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DaBaby/VIBEZ?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DaBaby/VIBEZ/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-14T07:39:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114087609,
+            "track_name": "Beautiful",
+            "track_name_translation_list": [],
+            "track_rating": 58,
+            "commontrack_id": 137028,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 13764,
+            "album_id": 23897815,
+            "album_name": "Relapse",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Beautiful?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Beautiful/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-11T23:00:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 155677151,
+            "track_name": "Jibebe",
+            "track_name_translation_list": [],
+            "track_rating": 58,
+            "commontrack_id": 86610050,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 73,
+            "album_id": 29741574,
+            "album_name": "Jibebe",
+            "artist_id": 36590834,
+            "artist_name": "Diamond Platnumz feat. Lava Lava & Mbosso",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Diamond-Platnumz-feat-Lava-Lava-Mbosso/Jibebe?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Diamond-Platnumz-feat-Lava-Lava-Mbosso/Jibebe/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-11T06:58:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114837358,
+            "track_name": "Party Monster",
+            "track_name_translation_list": [],
+            "track_rating": 57,
+            "commontrack_id": 63311381,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3668,
+            "album_id": 23977356,
+            "album_name": "Starboy",
+            "artist_id": 13937035,
+            "artist_name": "The Weeknd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Weeknd/Party-Monster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Weeknd/Party-Monster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T16:43:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 174989191,
+            "track_name": "Aluspükse",
+            "track_name_translation_list": [],
+            "track_rating": 57,
+            "commontrack_id": 97282297,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33203382,
+            "album_name": "Aluspükse",
+            "artist_id": 39016362,
+            "artist_name": "5MIINUST & Nublu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/5MIINUST-Nublu/Alusp%C3%BCkse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/5MIINUST-Nublu/Alusp%C3%BCkse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-05T08:28:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84296365,
+            "track_name": "Trap Queen",
+            "track_name_translation_list": [],
+            "track_rating": 56,
+            "commontrack_id": 40811917,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 37039,
+            "album_id": 20892860,
+            "album_name": "Fetty Wap",
+            "artist_id": 33492076,
+            "artist_name": "Fetty Wap",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fetty-Wap/Trap-Queen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fetty-Wap/Trap-Queen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-25T21:26:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32058883,
+            "track_name": "Right Round",
+            "track_name_translation_list": [],
+            "track_rating": 56,
+            "commontrack_id": 5607879,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3067,
+            "album_id": 13796749,
+            "album_name": "R.O.O.T.S.",
+            "artist_id": 33091402,
+            "artist_name": "Flo Rida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T12:12:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31332571,
+            "track_name": "m.A.A.d city",
+            "track_name_translation_list": [],
+            "track_rating": 56,
+            "commontrack_id": 11424690,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3023,
+            "album_id": 14267042,
+            "album_name": "good kid, m.A.A.d city",
+            "artist_id": 14011816,
+            "artist_name": "Kendrick Lamar feat. MC Eiht",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-MC-Eiht/m-A-A-d-city?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-MC-Eiht/m-A-A-d-city/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-10T13:16:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1078,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "West Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / West Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-West-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169472768,
+            "track_name": "Arms Around You (Mixed)",
+            "track_name_translation_list": [],
+            "track_rating": 55,
+            "commontrack_id": 95198441,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 271,
+            "album_id": 32306514,
+            "album_name": "Werkin' Mix, Vol. 1 (DJ Mix)",
+            "artist_id": 38355421,
+            "artist_name": "XXXTENTACION feat. Lil Pump, Maluma & Swae Lee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/XXXTENTACION-feat-Lil-Pump-Maluma-Swae-Lee/Arms-Around-You-Mixed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/XXXTENTACION-feat-Lil-Pump-Maluma-Swae-Lee/Arms-Around-You-Mixed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-18T23:50:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37007259,
+            "track_name": "I Wanna Love You",
+            "track_name_translation_list": [],
+            "track_rating": 54,
+            "commontrack_id": 6837406,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1665,
+            "album_id": 15399406,
+            "album_name": "Konvicted",
+            "artist_id": 81804,
+            "artist_name": "Akon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Akon/I-Wanna-Love-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Akon/I-Wanna-Love-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-04T17:19:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84363994,
+            "track_name": "Feeling Myself",
+            "track_name_translation_list": [],
+            "track_rating": 54,
+            "commontrack_id": 43278967,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 11722,
+            "album_id": 20900435,
+            "album_name": "The Pinkprint (Deluxe)",
+            "artist_id": 28258171,
+            "artist_name": "Nicki Minaj feat. Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Beyonc%C3%A9-2/Feeling-Myself?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Beyonc%C3%A9-2/Feeling-Myself/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-26T10:17:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199462820,
+            "track_name": "Make It Rain (feat. Rowdy Rebel)",
+            "track_name_translation_list": [],
+            "track_rating": 51,
+            "commontrack_id": 112140430,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 38967222,
+            "album_name": "Make It Rain",
+            "artist_id": 37618763,
+            "artist_name": "Pop Smoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Make-It-Rain-Rowdy-Rebel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Make-It-Rain-Rowdy-Rebel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-04T00:49:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88413755,
+            "track_name": "Loser",
+            "track_name_translation_list": [],
+            "track_rating": 50,
+            "commontrack_id": 9460,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1323,
+            "album_id": 21154400,
+            "album_name": "Mellow Gold (Edited Version)",
+            "artist_id": 34,
+            "artist_name": "Beck",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beck/Loser?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beck/Loser/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-09T09:34:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200122357,
+            "track_name": "Make It Rain",
+            "track_name_translation_list": [],
+            "track_rating": 50,
+            "commontrack_id": 112139169,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 39193102,
+            "album_name": "Make It Rain",
+            "artist_id": 45644593,
+            "artist_name": "Pop Smoke feat. Rowdy Rebel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pop-Smoke-Rowdy-Rebel/Make-It-Rain?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pop-Smoke-Rowdy-Rebel/Make-It-Rain/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-17T09:03:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15524296,
+            "track_name": "Right Round (Mark Brown Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 10076954,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 13887092,
+            "album_name": "Right Round Remixes",
+            "artist_id": 33091402,
+            "artist_name": "Flo Rida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round-Mark-Brown-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flo-Rida/Right-Round-Mark-Brown-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T12:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

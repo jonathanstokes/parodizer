@@ -1,0 +1,1722 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.15020704269409,
+      "available": 175
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 19107934,
+            "track_name": "The Saints Are Coming",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 11724835,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 101,
+            "album_id": 14290613,
+            "album_name": "Some of the Best (so far)",
+            "artist_id": 14303289,
+            "artist_name": "Green Day & U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Green-Day-U2/The-Saints-Are-Coming?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Green-Day-U2/The-Saints-Are-Coming/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-20T07:52:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12359499,
+            "track_name": "The Saints Are Coming",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 55521,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 91,
+            "album_id": 12359769,
+            "album_name": "2006-12-25: BBC Radio 1, London, UK",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/The-Saints-Are-Coming?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/The-Saints-Are-Coming/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-04T23:45:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84590221,
+            "track_name": "The Saints Are Coming - Live from New Orleans",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12608102,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 20915463,
+            "album_name": "The Saints Are Coming",
+            "artist_id": 13996915,
+            "artist_name": "U2 feat. Green Day",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2-feat-Green-Day/The-Saints-Are-Coming-Live-from-New-Orleans?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2-feat-Green-Day/The-Saints-Are-Coming-Live-from-New-Orleans/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-28T19:05:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5589495,
+            "track_name": "The Saints Are Coming",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 8563107,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 121,
+            "album_id": 10687603,
+            "album_name": "The Saints Are Coming",
+            "artist_id": 13996915,
+            "artist_name": "U2 feat. Green Day",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2-feat-Green-Day/The-Saints-Are-Coming-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2-feat-Green-Day/The-Saints-Are-Coming-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-04T09:50:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12200329,
+            "track_name": "The Saints are Coming - Green Day and U2",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 8865212,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 64,
+            "album_id": 12209216,
+            "album_name": "Greatest Hits",
+            "artist_id": 290,
+            "artist_name": "Green Day",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Green-Day/The-Saints-are-Coming-Green-Day-and-U2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Green-Day/The-Saints-are-Coming-Green-Day-and-U2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:53:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72463123,
+            "track_name": "The Saints Are Coming feat. Green Day (live from New Orleans, September 25, 2006)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 39708160,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19573131,
+            "album_name": "How to Dismantle an Atom Bomb: Collection",
+            "artist_id": 121,
+            "artist_name": "U2",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U2/The-Saints-Are-Coming-feat-Green-Day-live-from-New-Orleans-September-25-2006?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U2/The-Saints-Are-Coming-feat-Green-Day-live-from-New-Orleans-September-25-2006/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-13T02:04:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86789941,
+            "track_name": "I Fought Piranhas",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 1141882,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 21061625,
+            "album_name": "The White Stripes",
+            "artist_id": 8832,
+            "artist_name": "The White Stripes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-White-Stripes/I-Fought-Piranhas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-White-Stripes/I-Fought-Piranhas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-23T22:37:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9850859,
+            "track_name": "Gangster Glam",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 3068005,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11063748,
+            "album_name": "Cream",
+            "artist_id": 36575377,
+            "artist_name": "Prince & The New Power Generation",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Prince-The-New-Power-Generation/Gangster-Glam?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Prince-The-New-Power-Generation/Gangster-Glam/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-14T03:41:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9994109,
+            "track_name": "Gangster Glam",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 41821,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11072180,
+            "album_name": "Cream",
+            "artist_id": 92,
+            "artist_name": "Prince",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Prince/Gangster-Glam?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Prince/Gangster-Glam/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T14:57:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88355459,
+            "track_name": "Come Back To Me",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 12421209,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 64,
+            "album_id": 21151550,
+            "album_name": "Fuse",
+            "artist_id": 10902,
+            "artist_name": "Keith Urban",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Keith-Urban/Come-Back-To-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Keith-Urban/Come-Back-To-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-02T13:47:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82294856,
+            "track_name": "Hoover Street",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 26748298,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 117,
+            "album_id": 20709385,
+            "album_name": "Oxymoron",
+            "artist_id": 13553346,
+            "artist_name": "ScHoolboy Q",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ScHoolboy-Q/Hoover-Street?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ScHoolboy-Q/Hoover-Street/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-24T20:21:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30357862,
+            "track_name": "Coffin Fodder",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 709565,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13774895,
+            "album_name": "Nymphetamine",
+            "artist_id": 5873,
+            "artist_name": "Cradle of Filth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Coffin-Fodder?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cradle-of-Filth/Coffin-Fodder/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-28T22:50:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31047489,
+            "track_name": "Much More",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 12178889,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11307722,
+            "album_name": "It Was Written...",
+            "artist_id": 14386508,
+            "artist_name": "Lupe Fiasco feat. Yummy Bingham",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco-feat-Yummy-Bingham/Much-More?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco-feat-Yummy-Bingham/Much-More/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-19T05:08:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14710928,
+            "track_name": "Much More",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 8061859,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10674799,
+            "album_name": "Trials and Tribulations: Mixtape, Volume 1",
+            "artist_id": 185100,
+            "artist_name": "Lupe Fiasco",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco/Much-More?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco/Much-More/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T21:01:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31393370,
+            "track_name": "Kingdom of Gold",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 11267393,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 14282890,
+            "album_name": "Privateering",
+            "artist_id": 7121,
+            "artist_name": "Mark Knopfler",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mark-Knopfler/Kingdom-Of-Gold?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mark-Knopfler/Kingdom-Of-Gold/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:24:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113412954,
+            "track_name": "Candy",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 62449036,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 354,
+            "album_id": 23826479,
+            "album_name": "Candy",
+            "artist_id": 31952030,
+            "artist_name": "Dillon Francis feat. Snappy Jit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dillon-Francis-feat-Snappy-Jit/Candy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dillon-Francis-feat-Snappy-Jit/Candy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-27T10:43:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171126278,
+            "track_name": "Candy",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 68210154,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32643074,
+            "album_name": "Ministry of Sound: Running Trax Summer 2017",
+            "artist_id": 13777655,
+            "artist_name": "Dillon Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dillon-Francis/Candy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dillon-Francis/Candy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-02T04:20:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115283488,
+            "track_name": "Darkest Souls",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 60107155,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24023553,
+            "album_name": "Generation Gaming XI",
+            "artist_id": 13834187,
+            "artist_name": "Dan Bull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Darkest-Souls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Bull/Darkest-Souls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-16T19:31:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6429341,
+            "track_name": "Flag of Convenience",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 380510,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10764546,
+            "album_name": "Fuel for the Fire",
+            "artist_id": 1277,
+            "artist_name": "Naked Eyes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Naked-Eyes/Flag-of-Convenience?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Naked-Eyes/Flag-of-Convenience/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T23:07:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73195341,
+            "track_name": "Skinz",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1849098,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17191165,
+            "album_name": "Mecca and the Soul Brother",
+            "artist_id": 39125016,
+            "artist_name": "Pete Rock & C.L. Smooth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pete-Rock-feat-C-L-Smooth/Skinz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pete-Rock-feat-C-L-Smooth/Skinz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-07T02:21:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4967508,
+            "track_name": "When You Wasn't Famous",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "EN",
+                  "translation": "When You Wasn't Famous [Album Version]"
+                }
+              }
+            ],
+            "track_rating": 17,
+            "commontrack_id": 1630824,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10631851,
+            "album_name": "The Hardest Way to Make an Easy Living",
+            "artist_id": 14206,
+            "artist_name": "The Streets",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Streets/When-You-Wasn-t-Famous?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Streets/When-You-Wasn-t-Famous/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:11:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16531264,
+            "track_name": "Turning",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10234805,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 13914101,
+            "album_name": "Something",
+            "artist_id": 391389,
+            "artist_name": "Chairlift",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chairlift/Turning?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chairlift/Turning/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-05T16:24:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60869435,
+            "track_name": "Hello from Eau Claire",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2822387,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17936336,
+            "album_name": "The Air Force",
+            "artist_id": 44900,
+            "artist_name": "Xiu Xiu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xiu-Xiu/Hello-From-Eau-Claire?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xiu-Xiu/Hello-From-Eau-Claire/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:35:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86890560,
+            "track_name": "Only Say It Cause It's True (feat. Raekwon & Kuniva)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 14629178,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21069183,
+            "album_name": "Classified",
+            "artist_id": 35244543,
+            "artist_name": "Classified feat. Raekwon & Kuniva",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Classified-feat-Raekwon-Kuniva/Only-Say-It-Cause-It-s-True-feat-Raekwon-Kuniva?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Classified-feat-Raekwon-Kuniva/Only-Say-It-Cause-It-s-True-feat-Raekwon-Kuniva/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-28T08:06:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156907754,
+            "track_name": "Another Dream",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 87225819,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29934696,
+            "album_name": "Aviary",
+            "artist_id": 311629,
+            "artist_name": "Julia Holter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Julia-Holter/Another-Dream?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Julia-Holter/Another-Dream/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-30T10:04:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19982068,
+            "track_name": "Truck-N-Roll",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 12165930,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14336888,
+            "album_name": "Never Regret",
+            "artist_id": 248882,
+            "artist_name": "Craig Campbell",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Craig-Campbell/Truck-N-Roll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Craig-Campbell/Truck-N-Roll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-16T15:45:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32496710,
+            "track_name": "The Saints Are Coming (In the Style of U2 & Green Day) [Performance Track with Demonstration Vocals]",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 12765111,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15376592,
+            "album_name": "The Saints Are Coming (In the Style of U2 & Green Day) [Performance Track with Demonstration Vocals]",
+            "artist_id": 24498488,
+            "artist_name": "Done Again",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Done-Again/The-Saints-Are-Coming-In-the-Style-of-U2-Green-Day-Performance-Track-with-Demonstration-Vocals?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Done-Again/The-Saints-Are-Coming-In-the-Style-of-U2-Green-Day-Performance-Track-with-Demonstration-Vocals/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-21T00:24:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19315354,
+            "track_name": "Lambs",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11824409,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14301193,
+            "album_name": "Ashes",
+            "artist_id": 13774798,
+            "artist_name": "Kyla La Grange",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kyla-La-Grange/Lambs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kyla-La-Grange/Lambs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:34:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17199407,
+            "track_name": "Elves Beam Out",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 10169091,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 14204180,
+            "album_name": "Carbon-Based Anatomy",
+            "artist_id": 14393,
+            "artist_name": "Cynic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cynic/Elves-Beam-Out?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cynic/Elves-Beam-Out/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-16T21:20:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1564331,
+            "track_name": "Hell No, I Ain't Happy",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 10807539,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10347426,
+            "album_name": "Decoration Day",
+            "artist_id": 8579,
+            "artist_name": "Drive-By Truckers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drive-By-Truckers/Hell-No-I-Ain-t-Happy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drive-By-Truckers/Hell-No-I-Ain-t-Happy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-16T15:09:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45255555,
+            "track_name": "City Girl (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 19571705,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16254924,
+            "album_name": "Live At the Hordern",
+            "artist_id": 469532,
+            "artist_name": "The Jezabels",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Jezabels/City-Girl-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Jezabels/City-Girl-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-24T11:25:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18170772,
+            "track_name": "City Girl",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 10026171,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 14244152,
+            "album_name": "Prisoner",
+            "artist_id": 469532,
+            "artist_name": "The Jezabels",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Jezabels/City-Girl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Jezabels/City-Girl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:06:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156256042,
+            "track_name": "Ride to War",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 73128971,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29795287,
+            "album_name": "Scores of War",
+            "artist_id": 202270,
+            "artist_name": "Orion's Reign",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Orion-s-Reign/Ride-to-War?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Orion-s-Reign/Ride-to-War/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-10T15:38:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7424181,
+            "track_name": "Into the Valley",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 7279862,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10859170,
+            "album_name": "State of Grace",
+            "artist_id": 109022,
+            "artist_name": "Street Dogs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Street-Dogs/Into-the-Valley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Street-Dogs/Into-the-Valley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T17:40:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8721343,
+            "track_name": "Unbalanced Pieces",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 3266877,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10976672,
+            "album_name": "Broken",
+            "artist_id": 65087,
+            "artist_name": "Soulsavers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soulsavers/Unbalanced-Pieces?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soulsavers/Unbalanced-Pieces/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-09T10:32:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7409583,
+            "track_name": "I Said I'm Sorry",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 40372856,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10857625,
+            "album_name": "Thieves",
+            "artist_id": 188751,
+            "artist_name": "British India",
+            "track_share_url": "https://www.musixmatch.com/lyrics/British-India/I-Said-I-m-Sorry?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/British-India/I-Said-I-m-Sorry/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-27T11:27:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101165649,
+            "track_name": "Into the Valley",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 82403380,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 22170212,
+            "album_name": "Sweet Suburbia - The Best Of The Skids",
+            "artist_id": 24639840,
+            "artist_name": "Skids",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Skids/Into-the-Valley-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Skids/Into-the-Valley-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-07T23:08:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1005,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "New Wave",
+                    "music_genre_name_extended": "Alternative / New Wave",
+                    "music_genre_vanity": "Alternative-New-Wave"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14820529,
+            "track_name": "Shirt",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 3024729,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13851930,
+            "album_name": "I Am the Fun Blame Monster!",
+            "artist_id": 54068,
+            "artist_name": "Menomena",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Menomena/Shirt?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Menomena/Shirt/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T18:54:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114802948,
+            "track_name": "The Saints Are Coming - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 63290692,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23973524,
+            "album_name": "Classic Punk",
+            "artist_id": 24639840,
+            "artist_name": "Skids",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Skids/The-Saints-Are-Coming-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Skids/The-Saints-Are-Coming-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-19T23:00:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9441858,
+            "track_name": "The Cocksucker Club",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 1209002,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13810888,
+            "album_name": "Undressed",
+            "artist_id": 9443,
+            "artist_name": "Pansy Division",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pansy-Division/The-Cocksucker-Club?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pansy-Division/The-Cocksucker-Club/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:00:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 176520382,
+            "track_name": "The Group",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 97776505,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 33452348,
+            "album_name": "The Group",
+            "artist_id": 36358947,
+            "artist_name": "Jayden Bartels",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jayden-Bartels/The-Group?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jayden-Bartels/The-Group/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-12T15:15:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88219735,
+            "track_name": "The Saints Are Coming - 2007 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 49464367,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21142803,
+            "album_name": "The Saints Are Coming - The Best Of The Skids",
+            "artist_id": 24639840,
+            "artist_name": "Skids",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Skids/The-Saints-Are-Coming-2007-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Skids/The-Saints-Are-Coming-2007-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-11T10:49:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73648727,
+            "track_name": "Dominic Decoco",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 40377878,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19664601,
+            "album_name": "Human Starlings - EP",
+            "artist_id": 27904252,
+            "artist_name": "Dolphant",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dolphant/Dominic-Decoco?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dolphant/Dominic-Decoco/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-14T15:08:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114802928,
+            "track_name": "Into The Valley - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 63290691,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23973524,
+            "album_name": "Classic Punk",
+            "artist_id": 24639840,
+            "artist_name": "Skids",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Skids/Into-The-Valley-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Skids/Into-The-Valley-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-19T23:00:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6785774,
+            "track_name": "Wicker Plane",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 3273164,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10796478,
+            "album_name": "Year of the Crow",
+            "artist_id": 65421,
+            "artist_name": "State Radio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/State-Radio/Wicker-Plane?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/State-Radio/Wicker-Plane/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T20:12:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9270782,
+            "track_name": "Sat'd'y Barfly",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 1450012,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11016764,
+            "album_name": "Fearless",
+            "artist_id": 11845,
+            "artist_name": "Family",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Family/Sat-d-y-Barfly?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Family/Sat-d-y-Barfly/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-16T16:57:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87712219,
+            "track_name": "Unbalanced Pieces",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 49236114,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10976672,
+            "album_name": "Broken",
+            "artist_id": 29473938,
+            "artist_name": "Soulsavers feat. Mark Lanegan and Mike Patton, Soulsavers, Mark Lanegan & Mike Patton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Soulsavers-feat-Mark-Lanegan-and-Mike-Patton/Unbalanced-Pieces?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Soulsavers-feat-Mark-Lanegan-and-Mike-Patton/Unbalanced-Pieces/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-08T00:17:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84624897,
+            "track_name": "The Last Glass of Wine",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 47597016,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20918061,
+            "album_name": "Delusion Rain",
+            "artist_id": 28944171,
+            "artist_name": "Mystery",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mystery-10/The-Last-Glass-of-Wine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mystery-10/The-Last-Glass-of-Wine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-25T16:49:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95406313,
+            "track_name": "When You Wasn't Famous - Doctor And Bearman Version",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 52768565,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21642884,
+            "album_name": "The Hardest Way to Make An Easy Living (US Version)",
+            "artist_id": 28903532,
+            "artist_name": "The Streets",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Streets-4/When-You-Wasn-t-Famous-Doctor-And-Bearman-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Streets-4/When-You-Wasn-t-Famous-Doctor-And-Bearman-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T14:01:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16916800,
+            "track_name": "Covered in Flies",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 10720916,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14190430,
+            "album_name": "I'd Rather Die Than Live Forever",
+            "artist_id": 13906061,
+            "artist_name": "Brendan Kelly and the Wandering Birds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brendan-Kelly-and-the-Wandering-Birds/Covered-in-Flies?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brendan-Kelly-and-the-Wandering-Birds/Covered-in-Flies/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-01-03T10:10:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

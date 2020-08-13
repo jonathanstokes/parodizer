@@ -1,0 +1,1762 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.080948114395142,
+      "available": 187
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 199728247,
+            "track_name": "Can't Die",
+            "track_name_translation_list": [],
+            "track_rating": 64,
+            "commontrack_id": 113274373,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 23,
+            "album_id": 39068722,
+            "album_name": "Legends Never Die",
+            "artist_id": 35682127,
+            "artist_name": "Juice WRLD",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Juice-Wrld/Can-t-Die?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Juice-Wrld/Can-t-Die/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-16T15:25:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32160553,
+            "track_name": "See Me Now",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 12575157,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 23,
+            "album_id": 15341757,
+            "album_name": "My Beautiful Dark Twisted Fantasy",
+            "artist_id": 33205279,
+            "artist_name": "Kanye West feat. Big Sean, Beyoncé & Charlie Wilson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Big-Sean-Beyonc%C3%A9-Charlie-Wilson/See-Me-Now-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West-feat-Big-Sean-Beyonc%C3%A9-Charlie-Wilson/See-Me-Now-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-21T07:19:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150231767,
+            "track_name": "Spending Addiction",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 80505974,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 13,
+            "album_id": 28897793,
+            "album_name": "Drip Season 3",
+            "artist_id": 28918178,
+            "artist_name": "Gunna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gunna-3/Spending-Addiction?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gunna-3/Spending-Addiction/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-05T11:28:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86518907,
+            "track_name": "Broadcast Live",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 47207254,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 247,
+            "album_id": 21045774,
+            "album_name": "Da' Nic",
+            "artist_id": 16204,
+            "artist_name": "T.I.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I/Broadcast-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I/Broadcast-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-16T13:23:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30615090,
+            "track_name": "Forgotten (Lost Angels)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 1597964,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 115,
+            "album_id": 13798292,
+            "album_name": "Sacrament",
+            "artist_id": 13752,
+            "artist_name": "Lamb of God",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/Forgotten-Lost-Angels?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/Forgotten-Lost-Angels/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-24T13:13:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18924322,
+            "track_name": "You Dont Know Bout It",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 11636251,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14281219,
+            "album_name": "There Is No Competition 3: Death Comes in 3's",
+            "artist_id": 14319132,
+            "artist_name": "Fabolous feat. Meek Mill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabolous-feat-Meek-Mill/You-Dont-Know-Bout-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabolous-feat-Meek-Mill/You-Dont-Know-Bout-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-05T01:03:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89980604,
+            "track_name": "Trade In Your Guns For A Coffin",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 12082741,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 21246611,
+            "album_name": "Venomous Rat Regeneration Vendor (Edited Version)",
+            "artist_id": 300,
+            "artist_name": "Rob Zombie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rob-Zombie/Trade-In-Your-Guns-For-a-Coffin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rob-Zombie/Trade-In-Your-Guns-For-a-Coffin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-29T03:51:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92101210,
+            "track_name": "Blind In Texas",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1499809,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 21399843,
+            "album_name": "The Last Command",
+            "artist_id": 12508,
+            "artist_name": "W.A.S.P.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T16:19:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182338216,
+            "track_name": "Free Drakeo, Free Greedo (feat. Band Gang Paid Will)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 99775629,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 34490050,
+            "album_name": "Party Pack, Vol. 2",
+            "artist_id": 33964597,
+            "artist_name": "Shoreline Mafia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shoreline-Mafia-OHGEESY-Band-Gang-Paid-Will/Free-Drakeo-Free-Greedo-Band-Gang-Paid-Will?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shoreline-Mafia-OHGEESY-Band-Gang-Paid-Will/Free-Drakeo-Free-Greedo-Band-Gang-Paid-Will/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-11T00:05:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198471190,
+            "track_name": "Another Ghost",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 112169614,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38634890,
+            "album_name": "A Wonderful Life",
+            "artist_id": 11110,
+            "artist_name": "Mushroomhead",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mushroomhead/Another-Ghost?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mushroomhead/Another-Ghost/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-20T05:09:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192032779,
+            "track_name": "Crossroads",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 81356728,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12,
+            "album_id": 36644858,
+            "album_name": "Just Cause Yall Waited",
+            "artist_id": 14349223,
+            "artist_name": "Lil Durk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Durk/Crossroads?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Durk/Crossroads/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-30T10:11:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30210266,
+            "track_name": "Blind in Texas (live)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1499810,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13760854,
+            "album_name": "The Headless Children",
+            "artist_id": 12508,
+            "artist_name": "W.A.S.P.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T16:19:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88867640,
+            "track_name": "Blind in Texas - Live Hammersmith 1989",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 19167433,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16197560,
+            "album_name": "The Headless Children",
+            "artist_id": 12508,
+            "artist_name": "W.A.S.P.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-In-Texas-Live-Hammersmith-1989?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-In-Texas-Live-Hammersmith-1989/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-13T17:02:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159991165,
+            "track_name": "Margiela Problems",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 88629772,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 7,
+            "album_id": 30433342,
+            "album_name": "Sincerely, Tokyo",
+            "artist_id": 36974333,
+            "artist_name": "MadeinTYO feat. Blood Orange",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MadeinTYO-feat-Blood-Orange/Margiela-Problems?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MadeinTYO-feat-Blood-Orange/Margiela-Problems/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-29T15:26:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15033383,
+            "track_name": "Acid Flesh",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 369009,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10305618,
+            "album_name": "Make Them Die Slowly",
+            "artist_id": 1212,
+            "artist_name": "White Zombie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/White-Zombie/Acid-Flesh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/White-Zombie/Acid-Flesh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:08:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90632315,
+            "track_name": "Color In The Snow (feat. deM atlaS, Joe Horton & Toki Wright)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 18917782,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21289978,
+            "album_name": "Color In the Snow (feat. deM atlaS, Joe Horton & Toki Wright) - Single",
+            "artist_id": 5401,
+            "artist_name": "Atmosphere",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Atmosphere-feat-deM-atlaS-Joe-Horton-Toki-Wright/Color-In-the-Snow?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Atmosphere-feat-deM-atlaS-Joe-Horton-Toki-Wright/Color-In-the-Snow/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-24T18:28:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18155598,
+            "track_name": "Bath Salt",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 11260359,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 149,
+            "album_id": 14243189,
+            "album_name": "Lord$ Never Worry",
+            "artist_id": 13986447,
+            "artist_name": "A Mob feat. Flatbush ZOMBiES",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-AP-Mob-feat-Flatbush-ZOMBiES/Bath-Salt?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-AP-Mob-feat-Flatbush-ZOMBiES/Bath-Salt/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-21T10:13:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1815415,
+            "track_name": "Blind in Texas (remix)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 1499811,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13793595,
+            "album_name": "First Blood... Last Cuts",
+            "artist_id": 12508,
+            "artist_name": "W.A.S.P.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/W-A-S-P/Blind-in-Texas-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T16:19:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92941945,
+            "track_name": "I Am In Command",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1294388,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 21457490,
+            "album_name": "Live At Master Of Rock",
+            "artist_id": 10467,
+            "artist_name": "Annihilator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-in-Command?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-in-Command/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-05T21:22:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17845904,
+            "track_name": "Red & Gold (vocal)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 11097853,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10488931,
+            "album_name": "The M.I.C. / Red & Gold",
+            "artist_id": 6205,
+            "artist_name": "MF DOOM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-Doom/Red-Gold-vocal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-Doom/Red-Gold-vocal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-16T22:51:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17845905,
+            "track_name": "Red & Gold (instrumental)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 11097852,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10488931,
+            "album_name": "The M.I.C. / Red & Gold",
+            "artist_id": 6205,
+            "artist_name": "MF DOOM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/MF-Doom/Red-Gold-instrumental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/MF-Doom/Red-Gold-instrumental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-16T22:51:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92942025,
+            "track_name": "I Am In Command - Live",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 1294391,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21457496,
+            "album_name": "In Command: Live 1989-1990",
+            "artist_id": 10467,
+            "artist_name": "Annihilator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-in-Command-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-in-Command-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-03T08:35:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 122279738,
+            "track_name": "King of da Streets",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 67663058,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 25077502,
+            "album_name": "Happy Thanksgiving and Merry Christmas",
+            "artist_id": 27893448,
+            "artist_name": "Boosie Badazz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Boosie-Badazz/King-of-da-Streets?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Boosie-Badazz/King-of-da-Streets/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-13T12:10:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94795085,
+            "track_name": "In Nomine Satanas",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 904580,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 21597215,
+            "album_name": "Jubileum III",
+            "artist_id": 7211,
+            "artist_name": "Bathory",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bathory/In-Nomine-Satanas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bathory/In-Nomine-Satanas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T14:25:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92378101,
+            "track_name": "Who Want It (feat. SwizZz)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 11705604,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21419689,
+            "album_name": "SmokeOut Conversations",
+            "artist_id": 14324599,
+            "artist_name": "Dizzy Wright",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dizzy-Wright-feat-SwizZz/Who-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dizzy-Wright-feat-SwizZz/Who-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T20:37:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30924912,
+            "track_name": "Wet Nightmare",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1051665,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13827410,
+            "album_name": "Big Beat from Badsville",
+            "artist_id": 8126,
+            "artist_name": "The Cramps",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cramps/Wet-Nightmare?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cramps/Wet-Nightmare/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:40:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30246030,
+            "track_name": "Mr. Coffee",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 246357,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13763851,
+            "album_name": "Duh",
+            "artist_id": 777,
+            "artist_name": "Lagwagon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lagwagon/Mr-Coffee?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lagwagon/Mr-Coffee/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T06:58:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92127577,
+            "track_name": "Jerusalem - Live At Toomler",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 15175774,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15685951,
+            "album_name": "Live At Toomler",
+            "artist_id": 1368,
+            "artist_name": "Anouk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-Live-At-Toomler?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-Live-At-Toomler/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-19T14:20:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94632139,
+            "track_name": "In Flames You Burn",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1839935,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 15,
+            "album_id": 21583744,
+            "album_name": "Gold Medal in Metal (Alive and Archive)",
+            "artist_id": 17692,
+            "artist_name": "Dream Evil",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dream-Evil/In-Flames-You-Burn?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dream-Evil/In-Flames-You-Burn/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T08:17:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18701501,
+            "track_name": "Jerusalem (live & acoustic)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 395284,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10463777,
+            "album_name": "Hotel New York",
+            "artist_id": 1368,
+            "artist_name": "Anouk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-live-acoustic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-live-acoustic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T19:18:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45874002,
+            "track_name": "Black Dust",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1532363,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 16312860,
+            "album_name": "Shut 'Em Down",
+            "artist_id": 12966,
+            "artist_name": "Onyx",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Onyx/Black-Dust?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Onyx/Black-Dust/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-19T09:08:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31324815,
+            "track_name": "Jerusalem",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 395283,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14265108,
+            "album_name": "Hotel New York",
+            "artist_id": 1368,
+            "artist_name": "Anouk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-06T07:26:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92942026,
+            "track_name": "I Am In Command (98 Reissue)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 51608010,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21457495,
+            "album_name": "Never, Neverland",
+            "artist_id": 10467,
+            "artist_name": "Annihilator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-In-Command-98-Reissue?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Annihilator/I-Am-In-Command-98-Reissue/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-14T04:36:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116961628,
+            "track_name": "Hellllhoooole",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 63594794,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24203581,
+            "album_name": "Worry.",
+            "artist_id": 24970006,
+            "artist_name": "Jeff Rosenstock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jeff-Rosenstock-3/Hellllhoooole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jeff-Rosenstock-3/Hellllhoooole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-30T02:35:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195204761,
+            "track_name": "Drums on the Wheel",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 109398692,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37555804,
+            "album_name": "Freedom Finger (Music from the Game)",
+            "artist_id": 10787,
+            "artist_name": "Aesop Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Drums-On-The-Wheel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Drums-On-The-Wheel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-17T01:42:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92127609,
+            "track_name": "Jerusalem - Live At Gelredome",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 15175692,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15685940,
+            "album_name": "Live At Gelredome",
+            "artist_id": 1368,
+            "artist_name": "Anouk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-Live-At-Gelredome?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anouk/Jerusalem-Live-At-Gelredome/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-19T14:20:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93353318,
+            "track_name": "Coke",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 51764254,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21484259,
+            "album_name": "Dopium",
+            "artist_id": 30346437,
+            "artist_name": "U-God, Raekwon & Slaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/U-God-Raekwon-Slaine/Coke?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/U-God-Raekwon-Slaine/Coke/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-21T11:49:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 122347188,
+            "track_name": "Let Me Rap",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 46137422,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 25085533,
+            "album_name": "Thirst 48",
+            "artist_id": 28447499,
+            "artist_name": "Boogie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Boogie-3/Let-Me-Rap?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Boogie-3/Let-Me-Rap/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-18T16:44:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195217362,
+            "track_name": "20K",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 109404728,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37559008,
+            "album_name": "Pregame Rituals",
+            "artist_id": 40295625,
+            "artist_name": "2KBABY",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2KBABY/20K?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2KBABY/20K/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-14T05:41:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18711368,
+            "track_name": "Vile Whispers (Loud Thoughts by Rabia Sorda)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 11537361,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14270692,
+            "album_name": "Vile Whispers",
+            "artist_id": 7507,
+            "artist_name": "Hocico",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers-Loud-Thoughts-by-Rabia-Sorda?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers-Loud-Thoughts-by-Rabia-Sorda/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-07T05:45:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18711365,
+            "track_name": "Vile Whispers",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 11613519,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14270692,
+            "album_name": "Vile Whispers",
+            "artist_id": 7507,
+            "artist_name": "Hocico",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-07T03:00:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 744313,
+            "track_name": "Doe or Die",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 797367,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10282553,
+            "album_name": "Doe or Die",
+            "artist_id": 6730,
+            "artist_name": "AZ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/AZ/Doe-or-Die?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/AZ/Doe-or-Die/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T07:58:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 51125607,
+            "track_name": "Yo Mind",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 23963836,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16860542,
+            "album_name": "Landing Gear",
+            "artist_id": 20690,
+            "artist_name": "Devin the Dude",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Devin-the-Dude/Yo-Mind?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Devin-the-Dude/Yo-Mind/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-04T04:48:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 119113013,
+            "track_name": "The Hitmen (Midnight Mafia Anthem 2016) (Radio Version)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 59413902,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24581083,
+            "album_name": "The Hitmen (Midnight Mafia Anthem 2016)",
+            "artist_id": 31599938,
+            "artist_name": "Da Tweekaz feat. Mc D",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Da-Tweekaz-feat-Mc-D/The-Hitmen-Midnight-Mafia-Anthem-2016-Radio-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Da-Tweekaz-feat-Mc-D/The-Hitmen-Midnight-Mafia-Anthem-2016-Radio-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-13T18:21:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96973843,
+            "track_name": "Hellhole",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 14034301,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21783823,
+            "album_name": "Death Will Reign",
+            "artist_id": 324398,
+            "artist_name": "Impending Doom",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Impending-Doom-2/Hellhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Impending-Doom-2/Hellhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-22T15:08:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115763031,
+            "track_name": "Rock Bottom",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 69001902,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 24073561,
+            "album_name": "Only When We're Naked",
+            "artist_id": 33117885,
+            "artist_name": "Zak Abel feat. Wretch 32",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Zak-Abel-feat-Wretch-32-2/Rock-Bottom-feat-Wretch-32?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Zak-Abel-feat-Wretch-32-2/Rock-Bottom-feat-Wretch-32/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-23T16:13:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114799003,
+            "track_name": "Death Sentence",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 63287947,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23973024,
+            "album_name": "Death Sentence",
+            "artist_id": 28494415,
+            "artist_name": "Jared Dines",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jared-Dines/Death-Sentence?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jared-Dines/Death-Sentence/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-06T02:46:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18711718,
+            "track_name": "Vile Whispers (original mix)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11537193,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14270711,
+            "album_name": "Vile Whispers",
+            "artist_id": 7507,
+            "artist_name": "Hocico",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers-original-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hocico/Vile-Whispers-original-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-07T03:00:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30113413,
+            "track_name": "Put to Sleep Like a Sick Animal!!!",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1294766,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 10440697,
+            "album_name": "Defending the Throne of Evil",
+            "artist_id": 10470,
+            "artist_name": "Carpathian Forest",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carpathian-Forest/Put-to-Sleep-Like-a-Sick-Animal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carpathian-Forest/Put-to-Sleep-Like-a-Sick-Animal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T19:41:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5374822,
+            "track_name": "Clash of the Titans (LP)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1534524,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10668382,
+            "album_name": "Wu-Renegades / Clash of the Titans",
+            "artist_id": 12994,
+            "artist_name": "Killarmy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Killarmy/Clash-of-the-Titans-LP?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Killarmy/Clash-of-the-Titans-LP/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:39:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

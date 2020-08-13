@@ -1,0 +1,49 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.01133394241333,
+      "available": 1
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 78021920,
+            "track_name": "Lungs",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 43236079,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20200324,
+            "album_name": "StoryBots Body Songs",
+            "artist_id": 27086818,
+            "artist_name": "StoryBots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/StoryBots/Lungs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/StoryBots/Lungs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-01T05:45:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 4,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Children's Music",
+                    "music_genre_name_extended": "Children's Music",
+                    "music_genre_vanity": "Children's-Music"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

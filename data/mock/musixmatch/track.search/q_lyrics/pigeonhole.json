@@ -1,0 +1,1523 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.090276002883911,
+      "available": 43
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 147630323,
+            "track_name": "Lucy",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 82044075,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 13,
+            "album_id": 28473129,
+            "album_name": "Lucy",
+            "artist_id": 35616299,
+            "artist_name": "Still Woozy feat. Odie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Still-Woozy-feat-Odie/Lucy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Still-Woozy-feat-Odie/Lucy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-11T01:33:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30565000,
+            "track_name": "Dear John",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 61444,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13793500,
+            "album_name": "Hat Full Of Stars",
+            "artist_id": 133,
+            "artist_name": "Cyndi Lauper",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cyndi-Lauper/Dear-John?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cyndi-Lauper/Dear-John/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-16T20:49:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 173552053,
+            "track_name": "A Better Bridge",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 96801078,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32965784,
+            "album_name": "Palms - Deeper Wells - EP",
+            "artist_id": 13625,
+            "artist_name": "Thrice",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thrice/A-Better-Bridge?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thrice/A-Better-Bridge/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-15T01:53:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 120014955,
+            "track_name": "My World",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 66397552,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 24728066,
+            "album_name": "I Am King",
+            "artist_id": 32199653,
+            "artist_name": "Code Orange",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Code-Orange/My-World?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Code-Orange/My-World/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-21T17:48:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12430374,
+            "track_name": "One Man Shows",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 8953850,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 12434574,
+            "album_name": "Words Words Words",
+            "artist_id": 435787,
+            "artist_name": "Bo Burnham",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bo-Burnham/One-Man-Shows?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bo-Burnham/One-Man-Shows/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:53:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 52120599,
+            "track_name": "Klack",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 108734,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16965064,
+            "album_name": "Weapons of Mass Destruction",
+            "artist_id": 304,
+            "artist_name": "Xzibit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Xzibit/Klack?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Xzibit/Klack/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-30T20:23:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89709560,
+            "track_name": "Real Vision (feat. Tedashi)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 50090524,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21229385,
+            "album_name": "20/20",
+            "artist_id": 13970236,
+            "artist_name": "Trip Lee feat. Tedashii",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashii/Real-Vision-feat-Tedashi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashii/Real-Vision-feat-Tedashi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-02T03:14:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30358143,
+            "track_name": "Real Vision",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11123378,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11304575,
+            "album_name": "20/20",
+            "artist_id": 13970236,
+            "artist_name": "Trip Lee feat. Tedashii",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashii/Real-Vision?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashii/Real-Vision/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-08T20:39:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18418638,
+            "track_name": "Frijoles",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1335516,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10348379,
+            "album_name": "Bazooka Tooth",
+            "artist_id": 10787,
+            "artist_name": "Aesop Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Frijoles?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Frijoles/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T12:44:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 117249947,
+            "track_name": "Waist Down (Extended Version)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 65058619,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 24254254,
+            "album_name": "Eraser Shavings",
+            "artist_id": 31995864,
+            "artist_name": "Token",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Token-3/Waist-Down-Extended-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Token-3/Waist-Down-Extended-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-23T15:26:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94621172,
+            "track_name": "Storm",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 7841089,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21582962,
+            "album_name": "Ready For This ?",
+            "artist_id": 159350,
+            "artist_name": "Tim Minchin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-16T20:51:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36770611,
+            "track_name": "Storm (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 15245337,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15694973,
+            "album_name": "Ready for This? (Live) [Bonus Track Version]",
+            "artist_id": 159350,
+            "artist_name": "Tim Minchin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-20T15:00:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18216419,
+            "track_name": "I’ll Still Be a Geek After Nobody Think It’s Chic (The Nerd Anthem)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11291073,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10900884,
+            "album_name": "Got to Fly",
+            "artist_id": 419348,
+            "artist_name": "Marian Call",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marian-Call/I-ll-Still-Be-a-Geek-After-Nobody-Think-It-s-Chic-The-Nerd-Anthem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marian-Call/I-ll-Still-Be-a-Geek-After-Nobody-Think-It-s-Chic-The-Nerd-Anthem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-03-04T09:20:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1494769,
+            "track_name": "Crooked Dice",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 820910,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10341854,
+            "album_name": "Jubilee",
+            "artist_id": 6858,
+            "artist_name": "Grant Lee Buffalo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grant-Lee-Buffalo/Crooked-Dice?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grant-Lee-Buffalo/Crooked-Dice/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-07T19:38:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17373443,
+            "track_name": "Tingin'",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 9761516,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 12997432,
+            "album_name": "Nineteen Ninety Now",
+            "artist_id": 13766420,
+            "artist_name": "Celph Titled & Buckwild",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Celph-Titled-Buckwild/Tingin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Celph-Titled-Buckwild/Tingin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-14T07:45:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138016970,
+            "track_name": "Blackbox",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 75829830,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27139899,
+            "album_name": "Blackbox",
+            "artist_id": 402118,
+            "artist_name": "Major Parkinson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Major-Parkinson/Blackbox?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Major-Parkinson/Blackbox/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-13T07:00:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73613256,
+            "track_name": "My World",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 40037891,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19662059,
+            "album_name": "I Am King",
+            "artist_id": 13942366,
+            "artist_name": "Code Orange Kids",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Code-Orange-Kids/My-World?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Code-Orange-Kids/My-World/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-03T18:24:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1006,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Punk",
+                    "music_genre_name_extended": "Alternative / Punk",
+                    "music_genre_vanity": "Alternative-Punk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86667975,
+            "track_name": "Real Cracker",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 35880978,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21053755,
+            "album_name": "I Am Not a Lobster Ok",
+            "artist_id": 27012664,
+            "artist_name": "Marc Goone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marc-Goone/Real-Cracker?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marc-Goone/Real-Cracker/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-25T16:58:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72463180,
+            "track_name": "Crystal Balling",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 34555272,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 19573135,
+            "album_name": "Holiday",
+            "artist_id": 24745672,
+            "artist_name": "Jackie Onassis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jackie-Onassis/Crystal-Balling?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jackie-Onassis/Crystal-Balling/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-13T07:49:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 64418375,
+            "track_name": "Try Me, Love Me (Bonus Track)",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 33797883,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18427503,
+            "album_name": "Fables of History",
+            "artist_id": 191535,
+            "artist_name": "The Moons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Moons/Try-Me-Love-Me-Bonus-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Moons/Try-Me-Love-Me-Bonus-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-30T16:30:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156283552,
+            "track_name": "KICK BOOM",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 86882211,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 29809473,
+            "album_name": "KICK BOOM",
+            "artist_id": 36637842,
+            "artist_name": "Tigerlily feat. Luciana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tigerlily-feat-Luciana/KICK-BOOM?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tigerlily-feat-Luciana/KICK-BOOM/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-05T17:23:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33141690,
+            "track_name": "Real Vision",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 44137094,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15428905,
+            "album_name": "20/20",
+            "artist_id": 28379397,
+            "artist_name": "Trip Lee feat. Tedashi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashi/Real-Vision?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trip-Lee-feat-Tedashi/Real-Vision/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-12T14:57:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 46697708,
+            "track_name": "Out the Box",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 20602828,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16395051,
+            "album_name": "Life's a Collection of Experiences",
+            "artist_id": 80857,
+            "artist_name": "DL Incognito",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DL-Incognito/Out-of-the-Box?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DL-Incognito/Out-of-the-Box/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-29T02:31:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7432586,
+            "track_name": "East End Blues",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5966395,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10860045,
+            "album_name": "Bent Out Of Shape",
+            "artist_id": 388834,
+            "artist_name": "Leon Jean-Marie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:30:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45410514,
+            "track_name": "Stools & Rules",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 19649006,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16268481,
+            "album_name": "Closer",
+            "artist_id": 12532,
+            "artist_name": "Beady Belle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beady-Belle/Stools-Rules?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beady-Belle/Stools-Rules/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-23T10:13:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1114,
+                    "music_genre_parent_id": 11,
+                    "music_genre_name": "Smooth Jazz",
+                    "music_genre_name_extended": "Jazz / Smooth Jazz",
+                    "music_genre_vanity": "Jazz-Smooth-Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195220035,
+            "track_name": "Butterscotch",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 109406412,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37559819,
+            "album_name": "Elevator Pitches",
+            "artist_id": 39773741,
+            "artist_name": "Demmene Syronn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Demmene-Syronn/Butterscotch?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Demmene-Syronn/Butterscotch/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-16T20:40:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2986777,
+            "track_name": "Once Upon a Time She Said",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1473004,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10462907,
+            "album_name": "The Duel",
+            "artist_id": 12193,
+            "artist_name": "Allison Moorer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Allison-Moorer/Once-Upon-a-Time-She-Said?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Allison-Moorer/Once-Upon-a-Time-She-Said/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:32:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1034,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Americana",
+                    "music_genre_name_extended": "Country / Americana",
+                    "music_genre_vanity": "Country-Americana"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34707744,
+            "track_name": "Storm (animation)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 14168322,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15554454,
+            "album_name": "Live at the Royal Albert Hall",
+            "artist_id": 159350,
+            "artist_name": "Tim Minchin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm-animation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tim-Minchin/Storm-animation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-24T09:01:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57667476,
+            "track_name": "Out The Box",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6817831,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17544215,
+            "album_name": "Life's A Collection Of Experiences (Explicit)",
+            "artist_id": 80857,
+            "artist_name": "DL Incognito",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DL-Incognito/Out-the-Box?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DL-Incognito/Out-the-Box/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T21:25:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1590733,
+            "track_name": "Pigeonhole Disease",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 101901,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10349540,
+            "album_name": "Libido",
+            "artist_id": 275,
+            "artist_name": "Buck-O-Nine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Buck-O-Nine/Pigeonhole-Disease?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Buck-O-Nine/Pigeonhole-Disease/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:17:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 136351945,
+            "track_name": "Blackbox",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 75028758,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26891316,
+            "album_name": "Blackbox",
+            "artist_id": 34219974,
+            "artist_name": "Major Parkinson feat. Linn Frøkedal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Major-Parkinson-feat-Linn-Fr%C3%B8kedal/Blackbox?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Major-Parkinson-feat-Linn-Fr%C3%B8kedal/Blackbox/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-15T00:48:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 49724066,
+            "track_name": "Pigeonhole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 22897164,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16710761,
+            "album_name": "The Shills",
+            "artist_id": 13973210,
+            "artist_name": "The Shills",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Shills/Pigeonhole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Shills/Pigeonhole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-27T00:31:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5770166,
+            "track_name": "the Losing Game",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8625253,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10703259,
+            "album_name": "the Cries of All Things Left Unsaid",
+            "artist_id": 268325,
+            "artist_name": "Doomsday Virus",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doomsday-Virus/The-Losing-Game?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doomsday-Virus/The-Losing-Game/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T22:02:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175827011,
+            "track_name": "Ur Welcome",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 97520079,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33340375,
+            "album_name": "Ur Welcome",
+            "artist_id": 39110524,
+            "artist_name": "Illsamar feat. Official Restrepo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Illsamar-feat-Official-Restrepo/Ur-Welcome?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Illsamar-feat-Official-Restrepo/Ur-Welcome/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-06T02:53:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1497078,
+            "track_name": "Let's Don't Go There",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2808310,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10342048,
+            "album_name": "Foot Fetish",
+            "artist_id": 44273,
+            "artist_name": "Jesse James Dupree",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jesse-James-Dupree/Let-s-Don-t-Go-There?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jesse-James-Dupree/Let-s-Don-t-Go-There/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-16T08:43:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157170791,
+            "track_name": "Check It",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 87390184,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29883225,
+            "album_name": "Hors D'oeuvres & Debauchery",
+            "artist_id": 30489781,
+            "artist_name": "GoodxJ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/GoodxJ/Check-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/GoodxJ/Check-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T14:25:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 188994604,
+            "track_name": "Shell",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 104278609,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35958407,
+            "album_name": "Self Service Instrumentals",
+            "artist_id": 42419764,
+            "artist_name": "Men Friends feat. Ree McGee & Kamil Henri",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Men-Friends-Ree-McGee-Kamil-Henri-14/Shell?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Men-Friends-Ree-McGee-Kamil-Henri-14/Shell/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-05T00:51:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3551273,
+            "track_name": "Stools and Rules",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1501658,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10510519,
+            "album_name": "Closer",
+            "artist_id": 12532,
+            "artist_name": "Beady Belle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beady-Belle/Stools-and-Rules?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beady-Belle/Stools-and-Rules/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-22T11:25:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168498151,
+            "track_name": "Young & Reckless",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 94729704,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32116296,
+            "album_name": "Y & R",
+            "artist_id": 36715254,
+            "artist_name": "Hunter Dane feat. Big Rube",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hunter-Dane-feat-Big-Rube/Young-Reckless?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hunter-Dane-feat-Big-Rube/Young-Reckless/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-23T15:49:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189562042,
+            "track_name": "How I Resist",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 104865839,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35338463,
+            "album_name": "How I Resist, Vol. 2",
+            "artist_id": 40407682,
+            "artist_name": "G-Natural",
+            "track_share_url": "https://www.musixmatch.com/lyrics/G-Natural-1/How-I-Resist?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/G-Natural-1/How-I-Resist/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-07T16:41:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34569465,
+            "track_name": "Hello Somebody",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3459702,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15545573,
+            "album_name": "Little Minds",
+            "artist_id": 74783,
+            "artist_name": "Count Zero",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Count-Zero/Hello-Somebody?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Count-Zero/Hello-Somebody/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:43:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 49478575,
+            "track_name": "East End Blues (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 22706051,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16684454,
+            "album_name": "iTunes Festival: London 2007",
+            "artist_id": 388834,
+            "artist_name": "Leon Jean-Marie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-26T00:02:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92629311,
+            "track_name": "East End Blues - Live at iTunes Festival London",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 23580735,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21435044,
+            "album_name": "Bring It On",
+            "artist_id": 388834,
+            "artist_name": "Leon Jean-Marie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues-Live-at-iTunes-Festival-London?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Leon-Jean-Marie/East-End-Blues-Live-at-iTunes-Festival-London/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-22T09:48:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

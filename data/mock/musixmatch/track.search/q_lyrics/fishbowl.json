@@ -1,0 +1,1658 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.088006019592285,
+      "available": 220
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 2149596,
+            "track_name": "Horses",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 2693898,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 10394679,
+            "album_name": "Celtic Sounds of Middle Earth",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Various-Artists/Horses?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Various-Artists/Horses/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-31T09:37:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169818561,
+            "track_name": "Extendo (feat. Lil Uzi Vert)",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 95132184,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 32378635,
+            "album_name": "Sli'merre",
+            "artist_id": 38336655,
+            "artist_name": "Young Nudy feat. Pi'erre Bourne & Lil Uzi Vert",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Nudy-feat-Pi-erre-Bourne-Lil-Uzi-Vert/Extendo-feat-Lil-Uzi-Vert?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Nudy-feat-Pi-erre-Bourne-Lil-Uzi-Vert/Extendo-feat-Lil-Uzi-Vert/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-03T10:27:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127959627,
+            "track_name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 81359075,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 25851632,
+            "album_name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+            "artist_id": 33372265,
+            "artist_name": "PnB Rock feat. Kodak Black & A Boogie Wit da Hoodie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/PnB-Rock-feat-Kodak-Black-A-Boogie-Wit-da-Hoodie-2/Horses-with-PnB-Rock-Kodak-Black-A-Boogie-Wit-da-Hoodie-4?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/PnB-Rock-feat-Kodak-Black-A-Boogie-Wit-da-Hoodie-2/Horses-with-PnB-Rock-Kodak-Black-A-Boogie-Wit-da-Hoodie-4/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-05T07:49:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100989114,
+            "track_name": "All My Life",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 30773729,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22152368,
+            "album_name": "Follow Me Home",
+            "artist_id": 13798857,
+            "artist_name": "Jay Rock feat. Lil Wayne & will.i.am",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-05T17:34:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84217554,
+            "track_name": "All My Life (In the Ghetto)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 9995511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 17,
+            "album_id": 20883875,
+            "album_name": "Follow Me Home",
+            "artist_id": 13798857,
+            "artist_name": "Jay Rock feat. Lil Wayne & will.i.am",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life-In-the-Ghetto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-feat-Lil-Wayne-will-i-am/All-My-Life-In-the-Ghetto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:06:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84681163,
+            "track_name": "All My Life (In the Ghetto) [feat. Lil Wayne & Will.I.Am]",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47629200,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20921870,
+            "album_name": "Follow Me Home",
+            "artist_id": 28955855,
+            "artist_name": "Jay Rock, Lil Wayne & William",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jay-Rock-Lil-Wayne-William/All-My-Life-In-the-Ghetto-feat-Lil-Wayne-Will-I-Am?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-Rock-Lil-Wayne-William/All-My-Life-In-the-Ghetto-feat-Lil-Wayne-Will-I-Am/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-17T10:45:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 166020995,
+            "track_name": "High Top Versace",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 93019793,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 31581508,
+            "album_name": "Rap Or Go To The League",
+            "artist_id": 27975477,
+            "artist_name": "2 Chainz feat. Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2-Chainz-feat-Young-Thug-2/High-Top-Versace?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2-Chainz-feat-Young-Thug-2/High-Top-Versace/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-13T18:42:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116418497,
+            "track_name": "We the People....",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 64107495,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 92,
+            "album_id": 24120645,
+            "album_name": "We got it from Here... Thank You 4 Your service",
+            "artist_id": 38334,
+            "artist_name": "A Tribe Called Quest",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-Tribe-Called-Quest/Track-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-Tribe-Called-Quest/Track-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-16T11:53:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31249388,
+            "track_name": "Terminally Unique",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 10303593,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 90,
+            "album_id": 14044034,
+            "album_name": "Resolution",
+            "artist_id": 13752,
+            "artist_name": "Lamb of God",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/Terminally-Unique?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lamb-of-God/Terminally-Unique/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-20T19:10:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126755882,
+            "track_name": "Horses",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 70206212,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 260,
+            "album_id": 25684534,
+            "album_name": "ФОРСАЖ 8: The Album",
+            "artist_id": 33372265,
+            "artist_name": "PnB Rock feat. Kodak Black & A Boogie Wit da Hoodie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/PnB-Rock-feat-Kodak-Black-A-Boogie-Wit-da-Hoodie-2/Horses-with-PnB-Rock-Kodak-Black-A-Boogie-Wit-da-Hoodie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/PnB-Rock-feat-Kodak-Black-A-Boogie-Wit-da-Hoodie-2/Horses-with-PnB-Rock-Kodak-Black-A-Boogie-Wit-da-Hoodie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T07:01:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44200072,
+            "track_name": "Welcome to the Fishbowl",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 10738260,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16175923,
+            "album_name": "Welcome to the Fishbowl",
+            "artist_id": 8538,
+            "artist_name": "Kenny Chesney",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Welcome-to-the-Fishbowl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Welcome-to-the-Fishbowl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T18:24:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115758201,
+            "track_name": "Behind Ya Back / Purple Mountain",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 63883300,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 24072928,
+            "album_name": "Elements",
+            "artist_id": 33492031,
+            "artist_name": "B.o.B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B-o-B-2/Behind-Ya-Back-Purple-Mountain?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B-o-B-2/Behind-Ya-Back-Purple-Mountain/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-19T12:05:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89394499,
+            "track_name": "Happy On The Hey Now (A Song For Kristi)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 12145748,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 21210556,
+            "album_name": "Life On A Rock",
+            "artist_id": 8538,
+            "artist_name": "Kenny Chesney",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Happy-On-the-Hey-Now-A-Song-For-Kristi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Happy-On-the-Hey-Now-A-Song-For-Kristi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-01T03:10:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 183794765,
+            "track_name": "What You Know (Instrumental)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 12969696,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 34825951,
+            "album_name": "What You Know",
+            "artist_id": 16204,
+            "artist_name": "T.I.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-I/What-You-Know-Instrumental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-I/What-You-Know-Instrumental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T22:55:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13944764,
+            "track_name": "Altered States",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 4122,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 10449307,
+            "album_name": "The Science of Things",
+            "artist_id": 16,
+            "artist_name": "BUSH",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bush/Altered-States?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bush/Altered-States/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T23:24:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 139180875,
+            "track_name": "Happy on the Hey Now (A Song for Kristi) - Live",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 76915459,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27295057,
+            "album_name": "Live in No Shoes Nation",
+            "artist_id": 8538,
+            "artist_name": "Kenny Chesney",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Happy-on-the-Hey-Now-A-Song-for-Kristi-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kenny-Chesney/Happy-on-the-Hey-Now-A-Song-for-Kristi-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-18T12:50:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130362334,
+            "track_name": "Altered States (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 72632423,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26205646,
+            "album_name": "The Science of Things (Remastered)",
+            "artist_id": 16,
+            "artist_name": "BUSH",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bush/Altered-States-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bush/Altered-States-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-28T04:30:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 167497730,
+            "track_name": "Horses (Mixed)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 94091535,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 31900811,
+            "album_name": "Straight Up Hip Hop, Vol. 3 (DJ Mix)",
+            "artist_id": 33491949,
+            "artist_name": "PnB Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/PnB-Rock/Horses-Mixed?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/PnB-Rock/Horses-Mixed/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-24T17:33:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156266056,
+            "track_name": "Blood On The Dash",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 86628254,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29807346,
+            "album_name": "Return of the Trill",
+            "artist_id": 36594865,
+            "artist_name": "Bun B feat. Gary Clark Jr.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bun-B-feat-Gary-Clark-Jr/Blood-On-the-Dash?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bun-B-feat-Gary-Clark-Jr/Blood-On-the-Dash/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-03T10:47:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192070744,
+            "track_name": "Jefe Shit (feat. 2 Chainz)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 106882028,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36649328,
+            "album_name": "No Face No Case",
+            "artist_id": 44529794,
+            "artist_name": "2 Chainz feat. T.R.U., Hott LockedN, Skooly, Sleepy Rose & Worl",
+            "track_share_url": "https://www.musixmatch.com/lyrics/T-R-U-Hott-LockedN-Skooly-Sleepy-Rose-Worl-2-Chainz/Jefe-Shit-2-Chainz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/T-R-U-Hott-LockedN-Skooly-Sleepy-Rose-Worl-2-Chainz/Jefe-Shit-2-Chainz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-29T11:33:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91189384,
+            "track_name": "Animal Pharm",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 50846730,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21334408,
+            "album_name": "Animal Pharm",
+            "artist_id": 185100,
+            "artist_name": "Lupe Fiasco",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco/Animal-Pharm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lupe-Fiasco/Animal-Pharm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-07T14:42:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103193492,
+            "track_name": "Riding Dirty",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 40452884,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 22381805,
+            "album_name": "King Remembered in Time",
+            "artist_id": 13115837,
+            "artist_name": "Big K.R.I.T.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T/Riding-Dirty?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T/Riding-Dirty/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-22T21:41:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 118099035,
+            "track_name": "Body for My Zipcode",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 62626049,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 24402800,
+            "album_name": "Body for My Zipcode",
+            "artist_id": 31983352,
+            "artist_name": "DJ Drama, Young Life, Freddie Gibbs & Dave East",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Drama-feat-Young-Life-Freddie-Gibbs-Dave-East/Body-for-My-Zipcode?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Drama-feat-Young-Life-Freddie-Gibbs-Dave-East/Body-for-My-Zipcode/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-21T09:11:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30663026,
+            "track_name": "Who's It Gonna Be",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 759041,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13802577,
+            "album_name": "Destiny",
+            "artist_id": 6492,
+            "artist_name": "Chaka Khan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chaka-Khan/Who-s-It-Gonna-Be?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chaka-Khan/Who-s-It-Gonna-Be/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T13:45:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114140000,
+            "track_name": "Body for My Zipcode (feat. Young Life, Freddie Gibbs and Dave East)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 62894846,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23903483,
+            "album_name": "Body for My Zipcode (feat. Young Life, Freddie Gibbs and Dave East)",
+            "artist_id": 31983352,
+            "artist_name": "DJ Drama, Young Life, Freddie Gibbs & Dave East",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Drama-feat-Young-Life-Freddie-Gibbs-Dave-East/Body-for-My-Zipcode-feat-Young-Life-Freddie-Gibbs-and-Dave-East?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Drama-feat-Young-Life-Freddie-Gibbs-Dave-East/Body-for-My-Zipcode-feat-Young-Life-Freddie-Gibbs-and-Dave-East/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-11T09:02:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127935846,
+            "track_name": "Cpr",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 71013516,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 25848890,
+            "album_name": "Queen Elizabitch",
+            "artist_id": 28817040,
+            "artist_name": "cupcakKe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/cupcakKe/Cpr?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/cupcakKe/Cpr/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-06T00:00:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 61024443,
+            "track_name": "The Hollow",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 31052548,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17955819,
+            "album_name": "Rafters - EP",
+            "artist_id": 14356115,
+            "artist_name": "Tall Heights",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tall-Heights/The-Hollow?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tall-Heights/The-Hollow/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-28T03:27:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18711113,
+            "track_name": "Chevy Smile",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 11537064,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10766770,
+            "album_name": "The Best Thing Smokin', Volume 6",
+            "artist_id": 14304074,
+            "artist_name": "Yung Joc feat. Trick Daddy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yung-Joc-feat-Trick-Daddy/Chevy-Smile?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yung-Joc-feat-Trick-Daddy/Chevy-Smile/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-27T10:47:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6450556,
+            "track_name": "Chevy Smile (feat. Trick Daddy, Block & Jazze Pha)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 22507668,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10766514,
+            "album_name": "Hustlenomics",
+            "artist_id": 218230,
+            "artist_name": "Yung Joc",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yung-Joc-feat-Trick-Daddy-Block-Jazze-Pha/Chevy-Smile?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yung-Joc-feat-Trick-Daddy-Block-Jazze-Pha/Chevy-Smile/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-27T22:50:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91686961,
+            "track_name": "German Whip - Remix",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 51097515,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21369643,
+            "album_name": "German Whip (Remixes)",
+            "artist_id": 27776539,
+            "artist_name": "Meridian Dan feat. Skepta, Professor Green, Bossman Birdie & Rizzle Kicks",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Meridian-Dan-Skepta-Professor-Green-Bossman-Birdie-Rizzle-Kicks/German-Whip-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Meridian-Dan-Skepta-Professor-Green-Bossman-Birdie-Rizzle-Kicks/German-Whip-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-29T00:53:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86652255,
+            "track_name": "Bury Myself Alive",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 13478427,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21052491,
+            "album_name": "Radiocalypse",
+            "artist_id": 369195,
+            "artist_name": "Downplay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Downplay-3/Bury-Myself-Alive?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Downplay-3/Bury-Myself-Alive/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-29T19:37:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6957250,
+            "track_name": "Dead Days In the Kitchen",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1077251,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10812974,
+            "album_name": "Day & Nightdriving",
+            "artist_id": 8316,
+            "artist_name": "Seven Mary Three",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Seven-Mary-Three/Dead-Days-in-the-Kitchen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Seven-Mary-Three/Dead-Days-in-the-Kitchen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T11:44:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13784309,
+            "track_name": "Psychedelic Funk",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1704236,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10303253,
+            "album_name": "Royal Highness",
+            "artist_id": 15434,
+            "artist_name": "Kottonmouth Kings",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kottonmouth-Kings/Psychedelic-Funk?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kottonmouth-Kings/Psychedelic-Funk/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T18:29:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44264634,
+            "track_name": "Kill Everything",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 19078906,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 16180860,
+            "album_name": "Oke",
+            "artist_id": 71398,
+            "artist_name": "Game",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Game/Kill-Everything?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Game/Kill-Everything/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-31T07:53:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68874432,
+            "track_name": "Fishbowl",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 6765795,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 19074818,
+            "album_name": "The Pursuit of Nappyness",
+            "artist_id": 14095,
+            "artist_name": "Nappy Roots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nappy-Roots/Fishbowl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nappy-Roots/Fishbowl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-08-17T17:40:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1402436,
+            "track_name": "Roll It Up",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1704265,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10334557,
+            "album_name": "Hidden Stash",
+            "artist_id": 15434,
+            "artist_name": "Kottonmouth Kings",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kottonmouth-Kings/Roll-It-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kottonmouth-Kings/Roll-It-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T18:29:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137035773,
+            "track_name": "Ashes, Ashes (Reworked)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 75909355,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 27001670,
+            "album_name": "All These Countless Nights (Reworked)",
+            "artist_id": 436770,
+            "artist_name": "Deaf Havana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deaf-Havana/Ashes-Ashes-Reworked?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deaf-Havana/Ashes-Ashes-Reworked/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-08T17:10:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94142661,
+            "track_name": "Into The Airwaves - 2015 Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 52117352,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21545374,
+            "album_name": "Everything In Transit",
+            "artist_id": 128099,
+            "artist_name": "Jack's Mannequin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-The-Airwaves-2015-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-The-Airwaves-2015-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-03T19:32:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4361827,
+            "track_name": "Into the Airwaves",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 7530481,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 10579746,
+            "album_name": "Everything in Transit",
+            "artist_id": 128099,
+            "artist_name": "Jack's Mannequin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-the-Airwaves?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-the-Airwaves/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T14:27:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58091183,
+            "track_name": "My Own Death",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10363389,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 17593402,
+            "album_name": "Hell Frost",
+            "artist_id": 13849471,
+            "artist_name": "The Unguided",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Unguided/My-Own-Death?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Unguided/My-Own-Death/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-21T17:48:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94142626,
+            "track_name": "Into The Airwaves - Live From Orlando",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 26217776,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21545371,
+            "album_name": "The Glass Passenger [Deluxe Version]",
+            "artist_id": 128099,
+            "artist_name": "Jack's Mannequin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-the-Airwaves-Live-from-Orlando?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jack-s-Mannequin-2/Into-the-Airwaves-Live-from-Orlando/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-01T09:28:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 133725390,
+            "track_name": "Ashes, Ashes",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 68081557,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26726991,
+            "album_name": "All These Countless Nights",
+            "artist_id": 436770,
+            "artist_name": "Deaf Havana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deaf-Havana/Ashes-Ashes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deaf-Havana/Ashes-Ashes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-07T21:10:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34207607,
+            "track_name": "Kill Everything",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 13306214,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 15511430,
+            "album_name": "OKE - Deluxe Edition",
+            "artist_id": 14372644,
+            "artist_name": "Game feat. Diddy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Game-feat-Diddy/Kill-Everything?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Game-feat-Diddy/Kill-Everything/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-29T18:20:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74448131,
+            "track_name": "A Buncha Girls",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 10416888,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19724612,
+            "album_name": "Frankie Ballard",
+            "artist_id": 11376953,
+            "artist_name": "Frankie Ballard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frankie-Ballard/A-Buncha-Girls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frankie-Ballard/A-Buncha-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-26T21:43:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113738512,
+            "track_name": "Borrowed Lives",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 62650368,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 39,
+            "album_id": 23860351,
+            "album_name": "Borrowed Lives (feat. NVDES)",
+            "artist_id": 31987724,
+            "artist_name": "Pierce Fulton feat. NVDES",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pierce-Fulton-feat-NVDES/Borrowed-Lives?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pierce-Fulton-feat-NVDES/Borrowed-Lives/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-12T15:15:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11283962,
+            "track_name": "Inside Fishbowl",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 8835812,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11387356,
+            "album_name": "Gossip Candy",
+            "artist_id": 58025,
+            "artist_name": "Kumi Koda",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kumi-Koda/Inside-Fishbowl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kumi-Koda/Inside-Fishbowl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-23T17:04:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 27,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "J-Pop",
+                    "music_genre_name_extended": "J-Pop",
+                    "music_genre_vanity": "J-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156907758,
+            "track_name": "In Gardens' Muteness",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 87225822,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29934696,
+            "album_name": "Aviary",
+            "artist_id": 311629,
+            "artist_name": "Julia Holter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Julia-Holter/In-Gardens-Muteness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Julia-Holter/In-Gardens-Muteness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-30T10:29:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127545227,
+            "track_name": "Great Divide",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 70765121,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25798379,
+            "album_name": "In the Wind",
+            "artist_id": 26510605,
+            "artist_name": "Magic Giant",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Magic-Giant/Great-Divide?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Magic-Giant/Great-Divide/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-01T15:40:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91686964,
+            "track_name": "German Whip - Wideboys Remix",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 39566782,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 21369643,
+            "album_name": "German Whip (Remixes)",
+            "artist_id": 36158185,
+            "artist_name": "Meridian Dan feat. Big H & JME",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Meridian-Dan-Big-H-JME/German-Whip-Wideboys-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Meridian-Dan-Big-H-JME/German-Whip-Wideboys-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-19T09:20:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90843139,
+            "track_name": "Space Exploration To Solve Earthly Crises",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 50600976,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21305851,
+            "album_name": "Between Bodies",
+            "artist_id": 13323072,
+            "artist_name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-World-Is-A-Beautiful-Place-I-Am-No-Longer-Afraid-To-Die/Space-Exploration-To-Solve-Earthly-Crises?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-World-Is-A-Beautiful-Place-I-Am-No-Longer-Afraid-To-Die/Space-Exploration-To-Solve-Earthly-Crises/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-04T03:22:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

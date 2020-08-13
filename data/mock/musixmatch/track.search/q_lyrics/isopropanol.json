@@ -1,0 +1,137 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.018646001815796,
+      "available": 4
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 131961843,
+            "track_name": "Riders",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 73668817,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26461500,
+            "album_name": "Músicas para Drift - EP",
+            "artist_id": 33890708,
+            "artist_name": "Yung Buda feat. Chábazz, Mano Will & Kado",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yung-Buda-feat-Ch%C3%A1bazz-Mano-Will-Kado/Riders?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yung-Buda-feat-Ch%C3%A1bazz-Mano-Will-Kado/Riders/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-04T13:19:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84307820,
+            "track_name": "Isopropanol",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 30071534,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 20894196,
+            "album_name": "Innadiflames",
+            "artist_id": 25788045,
+            "artist_name": "Fyahbwoy A.k.a Chico De Fuego",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fyahbwoy-A-k-a-Chico-De-Fuego/Isopropanol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fyahbwoy-A-k-a-Chico-De-Fuego/Isopropanol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-18T13:09:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164429519,
+            "track_name": "Bar Marathon",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 91876851,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31268480,
+            "album_name": "Spit Kickers",
+            "artist_id": 37615003,
+            "artist_name": "Don Substance feat. Tim Granite",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Don-Substance-feat-Tim-Granite/Bar-Marathon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Substance-feat-Tim-Granite/Bar-Marathon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T16:09:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192691290,
+            "track_name": "Knosti",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 107304324,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36797603,
+            "album_name": "3x3",
+            "artist_id": 44204603,
+            "artist_name": "Bastian Gronemann",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bastian-Gronemann-1/Knosti?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bastian-Gronemann-1/Knosti/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T22:23:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1783 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.13292098045349,
+      "available": 88
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 33997682,
+            "track_name": "Jejune Stars",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 9333673,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15495578,
+            "album_name": "The People's Key",
+            "artist_id": 6238,
+            "artist_name": "Bright Eyes",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bright-Eyes/Jejune-Stars?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bright-Eyes/Jejune-Stars/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T20:22:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30141007,
+            "track_name": "Mascara",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 1743759,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13756373,
+            "album_name": "Niandra LaDes and Usually Just a T-Shirt",
+            "artist_id": 16118,
+            "artist_name": "John Frusciante",
+            "track_share_url": "https://www.musixmatch.com/lyrics/John-Frusciante/Mascara?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/John-Frusciante/Mascara/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T18:30:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 38147913,
+            "track_name": "Piss Factory",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 284184,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15789335,
+            "album_name": "Land (1975-2002)",
+            "artist_id": 962,
+            "artist_name": "Patti Smith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Piss-Factory?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Piss-Factory/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T15:41:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 183401355,
+            "track_name": "Listen",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 100160467,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34698869,
+            "album_name": "Top Boy (A Selection of Music Inspired by the Series)",
+            "artist_id": 1,
+            "artist_name": "Various Artists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghetts/Listen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghetts/Listen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-26T06:27:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90468725,
+            "track_name": "I Tamper With The Evidence At The Murder Site of Odin",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 50414653,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21279554,
+            "album_name": "Dethalbum II",
+            "artist_id": 29940251,
+            "artist_name": "Metalocalypse: Dethklok",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metalocalypse-Dethklok-2/I-Tamper-With-The-Evidence-At-The-Murder-Site-of-Odin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metalocalypse-Dethklok-2/I-Tamper-With-The-Evidence-At-The-Murder-Site-of-Odin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-30T19:17:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154525994,
+            "track_name": "Cavern - Live",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 23729632,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29532383,
+            "album_name": "8/7/93 Darien Lake Performing Arts Center, Darien Center, NY (Live)",
+            "artist_id": 54,
+            "artist_name": "Phish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phish/Cavern-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phish/Cavern-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-26T14:28:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 687256,
+            "track_name": "Cavern",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 26604705,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10277545,
+            "album_name": "A Picture of Nectar",
+            "artist_id": 54,
+            "artist_name": "Phish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phish/Cavern?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phish/Cavern/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-09T03:08:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8680836,
+            "track_name": "I Tamper With the Evidence at the Murder Site of Odin",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 8499446,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10973115,
+            "album_name": "Dethalbum II",
+            "artist_id": 247370,
+            "artist_name": "Dethklok",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dethklok/I-Tamper-With-the-Evidence-at-the-Murder-Site-of-Odin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dethklok/I-Tamper-With-the-Evidence-at-the-Murder-Site-of-Odin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T21:46:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9891583,
+            "track_name": "The Curse",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 2429962,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1,
+            "album_id": 11065679,
+            "album_name": "So Runs the World Away",
+            "artist_id": 32129,
+            "artist_name": "Josh Ritter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Josh-Ritter/The-Curse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Josh-Ritter/The-Curse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:17:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2179225,
+            "track_name": "Nuclear Drive",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 548775,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10397072,
+            "album_name": "Church of Hawkwind",
+            "artist_id": 2931,
+            "artist_name": "Hawkwind",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hawkwind/Nuclear-Drive?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hawkwind/Nuclear-Drive/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:35:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15343088,
+            "track_name": "Baby I Got the Death Rattle",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 9987215,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 13874370,
+            "album_name": "Hello Sadness",
+            "artist_id": 264974,
+            "artist_name": "Los Campesinos!",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Los-Campesinos-5/Baby-I-Got-the-Death-Rattle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Los-Campesinos-5/Baby-I-Got-the-Death-Rattle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T07:30:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80751010,
+            "track_name": "Yo Ho! (Unplugged)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 15987541,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 20506169,
+            "album_name": "Blood Unplugged",
+            "artist_id": 462079,
+            "artist_name": "Blood On the Dance Floor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blood-On-the-Dance-Floor/Yo-Ho-Unplugged?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blood-On-the-Dance-Floor/Yo-Ho-Unplugged/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-07T04:55:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19638819,
+            "track_name": "Inception / Darker Side (interlude)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 14800531,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14318337,
+            "album_name": "Beautiful Death Machine",
+            "artist_id": 4298,
+            "artist_name": "Swollen Members",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Swollen-Members/Inception-Darker-Side-Interlude?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Swollen-Members/Inception-Darker-Side-Interlude/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-06T10:36:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30569963,
+            "track_name": "Czar",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 434496,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13793960,
+            "album_name": "Frank Black",
+            "artist_id": 1538,
+            "artist_name": "Frank Black",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frank-Black/Czar?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frank-Black/Czar/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:18:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100803894,
+            "track_name": "The Mary Ellen Carter",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 1367412,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22133219,
+            "album_name": "Between the Breaks…Live!",
+            "artist_id": 11011,
+            "artist_name": "Stan Rogers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/The-Mary-Ellen-Carter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/The-Mary-Ellen-Carter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-22T05:00:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9149161,
+            "track_name": "Wide-Eyed, Legless",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 3109368,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11010362,
+            "album_name": "July Flame",
+            "artist_id": 57797,
+            "artist_name": "Laura Veirs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Laura-Veirs/Wide-Eyed-Legless?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Laura-Veirs/Wide-Eyed-Legless/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-12T06:02:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14655851,
+            "track_name": "Obscure Infinity",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 3133818,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 10497456,
+            "album_name": "Into the Grave",
+            "artist_id": 58912,
+            "artist_name": "Grave",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grave/Obscure-Infinity?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grave/Obscure-Infinity/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:08:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2130875,
+            "track_name": "Visions (20/20)",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 1471710,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10393138,
+            "album_name": "Nervous Breakdown",
+            "artist_id": 12167,
+            "artist_name": "FU-Schnickens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/FU-Schnickens/Visions-20-20?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/FU-Schnickens/Visions-20-20/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-20T14:00:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146460894,
+            "track_name": "Ship of Fools (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 81353202,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28275954,
+            "album_name": "Męskie Granie 2017 Dogrywka",
+            "artist_id": 31672108,
+            "artist_name": "Julia Pietrucha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Julia-Pietrucha/Ship-of-Fools-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Julia-Pietrucha/Ship-of-Fools-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-28T19:30:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19726378,
+            "track_name": "Justino",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 6852322,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10675911,
+            "album_name": "Dead American Radio",
+            "artist_id": 82466,
+            "artist_name": "Left Alone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Left-Alone/Justino?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Left-Alone/Justino/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T18:56:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7982978,
+            "track_name": "Children of the Vortex",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 3362729,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10910295,
+            "album_name": "Holocausto de la Morte / Black Blood Vomitorium",
+            "artist_id": 69778,
+            "artist_name": "Necrophagia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Necrophagia/Children-of-the-Vortex?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Necrophagia/Children-of-the-Vortex/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T21:44:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 606424,
+            "track_name": "The Lost",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 583185,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10270397,
+            "album_name": "Apocalypse Inside",
+            "artist_id": 3425,
+            "artist_name": "Sacrifice",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sacrifice/The-Lost?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sacrifice/The-Lost/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:39:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101422415,
+            "track_name": "Across the Sea of Madness",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 55815077,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22195997,
+            "album_name": "Ancient Evil",
+            "artist_id": 20931,
+            "artist_name": "Cage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cage-2/Across-the-Sea-of-Madness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cage-2/Across-the-Sea-of-Madness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-07T19:30:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8497693,
+            "track_name": "Me & The Washing Machine",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 5741562,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10957039,
+            "album_name": "Other Houses",
+            "artist_id": 340305,
+            "artist_name": "My Awesome Mixtape",
+            "track_share_url": "https://www.musixmatch.com/lyrics/My-Awesome-Mixtape/Me-The-Washing-Machine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/My-Awesome-Mixtape/Me-The-Washing-Machine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-02T13:50:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99619605,
+            "track_name": "The Triangle",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 48741789,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22022540,
+            "album_name": "Up the Tombstones!!! Live 2000",
+            "artist_id": 29298986,
+            "artist_name": "Deceased…",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deceased%E2%80%A6/The-triangle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deceased%E2%80%A6/The-triangle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-18T10:53:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114846349,
+            "track_name": "Diatryma Paddock",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 63314478,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23977979,
+            "album_name": "Two Is a Lie",
+            "artist_id": 32105652,
+            "artist_name": "Under the Bed",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Under-the-Bed/Diatryma-Paddock?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Under-the-Bed/Diatryma-Paddock/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-22T22:42:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11104893,
+            "track_name": "Tuesday",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "サーズディ"
+                }
+              }
+            ],
+            "track_rating": 4,
+            "commontrack_id": 8757585,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11229001,
+            "album_name": "Past Time",
+            "artist_id": 414594,
+            "artist_name": "Grass Widow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grass-Widow/Tuesday?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grass-Widow/Tuesday/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-22T20:19:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 63850946,
+            "track_name": "The Mary Ellen Carter (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 33354063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18341971,
+            "album_name": "Between the Breaks… Live! (Remastered)",
+            "artist_id": 11011,
+            "artist_name": "Stan Rogers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/The-Mary-Ellen-Carter-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/The-Mary-Ellen-Carter-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-13T18:36:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1760775,
+            "track_name": "Your Kingdom Will Fall",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2409804,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10363309,
+            "album_name": "From Here to Wherever",
+            "artist_id": 31554,
+            "artist_name": "Cordrazine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cordrazine/Your-Kingdom-Will-Fall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cordrazine/Your-Kingdom-Will-Fall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:45:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83354292,
+            "track_name": "Blue Desert",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1928186,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20795778,
+            "album_name": "Sailor",
+            "artist_id": 19548,
+            "artist_name": "Sailor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sailor/Blue-Desert?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sailor/Blue-Desert/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-10-09T07:20:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1132,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Britpop",
+                    "music_genre_name_extended": "Pop / Britpop",
+                    "music_genre_vanity": "Pop-Britpop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1128869,
+            "track_name": "The Radio Is Broken",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 295003,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10312795,
+            "album_name": "The Man From Utopia",
+            "artist_id": 1017,
+            "artist_name": "Frank Zappa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frank-Zappa/The-Radio-Is-Broken?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frank-Zappa/The-Radio-Is-Broken/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T17:02:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12231947,
+            "track_name": "Me and the Washing Machine",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 9585305,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12245106,
+            "album_name": "How Could a Village Turn Into a Town",
+            "artist_id": 340305,
+            "artist_name": "My Awesome Mixtape",
+            "track_share_url": "https://www.musixmatch.com/lyrics/My-Awesome-Mixtape/Me-and-the-Washing-Machine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/My-Awesome-Mixtape/Me-and-the-Washing-Machine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-26T10:07:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 191330086,
+            "track_name": "Kumbaya Supernova!",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 101320569,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36492089,
+            "album_name": "Kumbaya Supernova!",
+            "artist_id": 27073500,
+            "artist_name": "Saint John and the Revelations",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Saint-John-and-the-Revelations/Kumbaya-Supernova?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Saint-John-and-the-Revelations/Kumbaya-Supernova/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-05T21:47:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1289,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Folk",
+                    "music_genre_name_extended": "Folk",
+                    "music_genre_vanity": "Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194182429,
+            "track_name": "Voyage Dans la Lune",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 108528478,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37218556,
+            "album_name": "Voyage Dans la Lune - Single",
+            "artist_id": 44702802,
+            "artist_name": "Linda Messerklinger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linda-Messerklinger-1/Voyage-Dans-la-Lune?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linda-Messerklinger-1/Voyage-Dans-la-Lune/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-22T08:28:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1048,
+                    "music_genre_parent_id": 17,
+                    "music_genre_name": "House",
+                    "music_genre_name_extended": "Dance / House",
+                    "music_genre_vanity": "Dance-House"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 55961082,
+            "track_name": "Be Bop Santa Claus",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7292951,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17354388,
+            "album_name": "Legendary Bop, Rhythm & Blues Classics: Babs Gonzales (Digitally Remastered)",
+            "artist_id": 110240,
+            "artist_name": "Babs Gonzales",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Babs-Gonzales/Be-Bop-Santa-Claus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Babs-Gonzales/Be-Bop-Santa-Claus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:41:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33743358,
+            "track_name": "Be-Bop Santa Claus (In the Style of Babs Gonzales) [Karaoke Version]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13539303,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15473067,
+            "album_name": "Karaoke: Cool Yule",
+            "artist_id": 24707347,
+            "artist_name": "Karaoke Cloud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karaoke-Cloud/Be-Bop-Santa-Claus-In-the-Style-of-Babs-Gonzales-Karaoke-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karaoke-Cloud/Be-Bop-Santa-Claus-In-the-Style-of-Babs-Gonzales-Karaoke-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-31T22:10:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 8,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Holiday",
+                    "music_genre_name_extended": "Holiday",
+                    "music_genre_vanity": "Holiday"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 608031,
+            "track_name": "The Triangle",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 586689,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10270522,
+            "album_name": "The Blueprints for Madness",
+            "artist_id": 3460,
+            "artist_name": "Deceased‎",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deceased%E2%80%8E/The-Triangle-Deceased?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deceased%E2%80%8E/The-Triangle-Deceased/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:40:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3484584,
+            "track_name": "Bag",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7545366,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10504951,
+            "album_name": "Intrauterine Cannibalism",
+            "artist_id": 129231,
+            "artist_name": "Malignancy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Malignancy/Bag?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Malignancy/Bag/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:07:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 109939741,
+            "track_name": "Boat Or Swim",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2986799,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23301622,
+            "album_name": "The Boat - EP",
+            "artist_id": 52381,
+            "artist_name": "Yuppie Flu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yuppie-Flu/Boat-or-Swim?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yuppie-Flu/Boat-or-Swim/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:52:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154157236,
+            "track_name": "Baby I Got the Death Rattle (Live at Islington Assembly Hall)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 85743357,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29483292,
+            "album_name": "A Good Night for a Fistfight (Live at Islington Assembly Hall)",
+            "artist_id": 264974,
+            "artist_name": "Los Campesinos!",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Los-Campesinos-5/Baby-I-Got-the-Death-Rattle-Live-at-Islington-Assembly-Hall?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Los-Campesinos-5/Baby-I-Got-the-Death-Rattle-Live-at-Islington-Assembly-Hall/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-16T05:30:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 124561693,
+            "track_name": "Orpheus",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 68967095,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25363836,
+            "album_name": "Redacted Summer Mix Tapes, Vol. 1",
+            "artist_id": 31703554,
+            "artist_name": "Minimall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Minimall/Orpheus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Minimall/Orpheus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-17T18:32:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145269109,
+            "track_name": "Submarine",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 80670528,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28089324,
+            "album_name": "Golden Staples",
+            "artist_id": 28554543,
+            "artist_name": "Not Scientists",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Not-Scientists/Submarine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Not-Scientists/Submarine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-24T06:33:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187414163,
+            "track_name": "Galvanic Corrosion",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 102672604,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35725579,
+            "album_name": "Trying to Leave My Ocean Home",
+            "artist_id": 41751366,
+            "artist_name": "Deerxing",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deerxing/Galvanic-Corrosion?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deerxing/Galvanic-Corrosion/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-03T01:15:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94426325,
+            "track_name": "Cavern - Live - Hampton, 1998",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 52225692,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21564811,
+            "album_name": "Hampton Comes Alive",
+            "artist_id": 54,
+            "artist_name": "Phish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phish/Cavern-Live-Hampton-1998?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phish/Cavern-Live-Hampton-1998/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-27T11:50:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1106894,
+            "track_name": "Seagull",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1445429,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10311065,
+            "album_name": "Earthspan",
+            "artist_id": 11795,
+            "artist_name": "The Incredible String Band",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Incredible-String-Band/Seagull?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Incredible-String-Band/Seagull/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:29:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1257716,
+            "track_name": "Mary Ellen Carter",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1367381,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10323145,
+            "album_name": "Home in Halifax",
+            "artist_id": 11011,
+            "artist_name": "Stan Rogers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/Mary-Ellen-Carter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stan-Rogers/Mary-Ellen-Carter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:19:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 163165737,
+            "track_name": "The Path of Least Resistance",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 91062003,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 31013555,
+            "album_name": "Par Avion and RPM NYC Demos",
+            "artist_id": 124237,
+            "artist_name": "The Oxygen Tent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Oxygen-Tent/The-Path-of-Least-Resistance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Oxygen-Tent/The-Path-of-Least-Resistance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T13:49:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 139377828,
+            "track_name": "Apothecary Dream",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 17136304,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27337745,
+            "album_name": "Ain't It Hard! Garage & Psych From Viva Records",
+            "artist_id": 25480170,
+            "artist_name": "The Sound Sandwich",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Sound-Sandwich/Apothecary-Dream?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Sound-Sandwich/Apothecary-Dream/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-10T21:41:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5162227,
+            "track_name": "Sidi Ifni",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 175863,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10649283,
+            "album_name": "Greenland",
+            "artist_id": 510,
+            "artist_name": "Cracker",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cracker/Sidi-Ifni?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cracker/Sidi-Ifni/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-09T03:49:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 178306560,
+            "track_name": "Fall of the Armada",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 98337224,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33744098,
+            "album_name": "Take Shelter",
+            "artist_id": 39385560,
+            "artist_name": "Linebacker Dirge",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linebacker-Dirge-2/Fall-of-the-Armada?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linebacker-Dirge-2/Fall-of-the-Armada/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-19T14:10:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

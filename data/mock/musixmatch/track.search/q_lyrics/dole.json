@@ -1,0 +1,1537 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.079185009002686,
+      "available": 2927
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 32179416,
+            "track_name": "For the First Time",
+            "track_name_translation_list": [],
+            "track_rating": 42,
+            "commontrack_id": 8883181,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10660,
+            "album_id": 15342913,
+            "album_name": "Science & Faith",
+            "artist_id": 387036,
+            "artist_name": "The Script",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-first-time?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-first-time/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-30T15:03:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37004076,
+            "track_name": "How Do U Want It",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 9795145,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1311,
+            "album_id": 15709842,
+            "album_name": "Nu-Mixx Klazzics",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-08T08:03:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 180843188,
+            "track_name": "How Do You Want It",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 12978694,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 733,
+            "album_id": 34213012,
+            "album_name": "Nu-mixx Klazzics",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-02T02:59:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 197719229,
+            "track_name": "How Do You Want It (ft. KC, Jojo)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 10763119,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 38439916,
+            "album_name": "All Eyez On Me",
+            "artist_id": 45533461,
+            "artist_name": "2Pac feat. Jojo & KC",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Featuring-K-Ci-JoJo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Featuring-K-Ci-JoJo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138804330,
+            "track_name": "Some Girls Are Bigger Than Others - 2017 Master",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 73894870,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 7,
+            "album_id": 27239918,
+            "album_name": "The Queen Is Dead (Deluxe Edition)",
+            "artist_id": 554,
+            "artist_name": "The Smiths",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-2017-Master?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-2017-Master/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-21T03:04:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103976258,
+            "track_name": "How Do You Want It (ft. KC & Jojo)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 56978384,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22476070,
+            "album_name": "All Eyez On Me",
+            "artist_id": 13899201,
+            "artist_name": "2Pac feat. KC and JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-and-JoJo/How-Do-You-Want-It-ft-KC-Jojo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-and-JoJo/How-Do-You-Want-It-ft-KC-Jojo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-14T21:06:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126396922,
+            "track_name": "Make Love",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 70069261,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 504,
+            "album_id": 25641477,
+            "album_name": "Make Love",
+            "artist_id": 26612283,
+            "artist_name": "Gucci Mane feat. Nicki Minaj",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Nicki-Minaj/Make-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gucci-Mane-feat-Nicki-Minaj/Make-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-08-14T21:52:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85866523,
+            "track_name": "How Do You Want It (Feat. K-Ci & Jojo) Live",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 48305429,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20998676,
+            "album_name": "Tupac - Live At the House of Blues Soundtrack",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Feat-K-Ci-Jojo-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Feat-K-Ci-Jojo-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-17T18:00:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30933602,
+            "track_name": "Hang Fire",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 125389,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 55,
+            "album_id": 13828168,
+            "album_name": "Tattoo You",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/Hang-Fire?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/Hang-Fire/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-23T10:56:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37004177,
+            "track_name": "Military Minds",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 44323,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15709847,
+            "album_name": "One Nation (The Album)",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Military-Minds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Military-Minds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-06T22:35:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85860977,
+            "track_name": "When The Whip Comes Down - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 15080047,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20998338,
+            "album_name": "Some Girls",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-18T09:40:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187517330,
+            "track_name": "When The Whip Comes Down - Live",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 102776533,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35760604,
+            "album_name": "Bridges To Buenos Aires (Live)",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Live-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Live-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-02T16:30:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84733706,
+            "track_name": "When The Whip Comes Down - Live Licks Tour - 2009 Re-Mastered Digital Version",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 47657006,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20925060,
+            "album_name": "Live Licks",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Live-Licks-Tour-2009-Re-Mastered-Digital-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Live-Licks-Tour-2009-Re-Mastered-Digital-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-14T06:31:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37003812,
+            "track_name": "How Do U Want It (Radio Edit)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 12540390,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 15709829,
+            "album_name": "The Best of 2Pac, Pt. 1: Thug",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-15T15:47:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864997,
+            "track_name": "How Do U Want It - (Explicit)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48306829,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 20998597,
+            "album_name": "The Best of 2Pac - Pt. 1: Thug (EXPLICIT)",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Explicit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Explicit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85860944,
+            "track_name": "Hang Fire - 2009 Re-Mastered Digital Version",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48306441,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20998336,
+            "album_name": "Tattoo You (2009 Re-Mastered)",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/Hang-Fire-2009-Re-Mastered-Digital-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/Hang-Fire-2009-Re-Mastered-Digital-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-11T03:34:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123661016,
+            "track_name": "When The Whip Comes Down (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 126199,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25241257,
+            "album_name": "Live Licks",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-10T11:55:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864789,
+            "track_name": "How Do U Want It - Edit",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 15380193,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20998576,
+            "album_name": "2Pac Greatest Hits (Edited Version)",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 111681437,
+            "track_name": "How Do U Want It",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 60239901,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 23564511,
+            "album_name": "Greatest Hits",
+            "artist_id": 24948642,
+            "artist_name": "2Pac feat. KC & Jojo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-featuring-KC-JoJo/How-Do-U-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-featuring-KC-JoJo/How-Do-U-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T10:59:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31008172,
+            "track_name": "How Do U Want It",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10661399,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 22,
+            "album_id": 13835375,
+            "album_name": "How Do U Want It",
+            "artist_id": 13899201,
+            "artist_name": "2Pac feat. KC and JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-and-JoJo/How-Do-U-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-and-JoJo/How-Do-U-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:14:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864525,
+            "track_name": "How Do You Want It (feat. Outlawz, K-Ci & JoJo) [Live]",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48305411,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20998566,
+            "album_name": "Live At The House Of Blues",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-feat-Outlawz-K-Ci-JoJo-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-feat-Outlawz-K-Ci-JoJo-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-17T18:00:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83401325,
+            "track_name": "Military Minds",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 46116657,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20799674,
+            "album_name": "Better Dayz",
+            "artist_id": 28655304,
+            "artist_name": "2Pac feat. Co Co Brothers & Buckshot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Co-Co-Brothers-Buckshot/Military-Minds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Co-Co-Brothers-Buckshot/Military-Minds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-10T13:30:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34830052,
+            "track_name": "Dale Caliente (En Directo)",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ダレ・カリエンテ( )"
+                }
+              }
+            ],
+            "track_rating": 29,
+            "commontrack_id": 12533338,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15562952,
+            "album_name": "Barrio Fino (En Directo)",
+            "artist_id": 33491419,
+            "artist_name": "Daddy Yankee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee/Dale-Caliente-En-Directo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Daddy-Yankee/Dale-Caliente-En-Directo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:38:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1119,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Latin Urban",
+                    "music_genre_name_extended": "Latin / Latin Urban",
+                    "music_genre_vanity": "Latin-Latin-Urban"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34047878,
+            "track_name": "How Do You Want It (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 46721046,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15499411,
+            "album_name": "Live at the House of Blues",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-08T13:00:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37003745,
+            "track_name": "How Do U Want It (Nu-Mixx)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 44150,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15709823,
+            "album_name": "Nu-Mixx Klazzics, Vol. 2 (Evolution: Duets and Remixes)",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Nu-Mixx?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-U-Want-It-Nu-Mixx/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-09-29T13:55:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864304,
+            "track_name": "How Do You Want It (Feat. Kci & Jojo)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48305371,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 20998552,
+            "album_name": "Death Row Dayz",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Feat-Kci-Jojo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/How-Do-You-Want-It-Feat-Kci-Jojo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-13T06:57:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82964085,
+            "track_name": "How Do You Want It",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 14651824,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20767721,
+            "album_name": "All Eyez On Me",
+            "artist_id": 24948642,
+            "artist_name": "2Pac feat. KC & Jojo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-Jojo/How-Do-You-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-KC-Jojo/How-Do-You-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-03T18:21:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85862560,
+            "track_name": "When The Whip Comes Down - Remastered; Live from the Masonic Hall, Detroit, U.S.A./1978",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 48306467,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20998435,
+            "album_name": "Sucking In The Seventies",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Remastered-Live-from-the-Masonic-Hall-Detroit-U-S-A-1978?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-The-Whip-Comes-Down-Remastered-Live-from-the-Masonic-Hall-Detroit-U-S-A-1978/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-01T15:42:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37003918,
+            "track_name": "How Do You Want It",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10763122,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 26,
+            "album_id": 15709834,
+            "album_name": "Death Row Dayz",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-You-Want-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-You-Want-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-24T03:07:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2701681,
+            "track_name": "Military Mindz",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 44325,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10439369,
+            "album_name": "Makaveli 4: Vengeance",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Military-Mindz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Military-Mindz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T14:58:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30833652,
+            "track_name": "When the Whip Comes Down",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 126197,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13818635,
+            "album_name": "Some Girls",
+            "artist_id": 383,
+            "artist_name": "The Rolling Stones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rolling-Stones/When-the-Whip-Comes-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-21T23:24:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864383,
+            "track_name": "How Do U Want It - Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 45886782,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20998557,
+            "album_name": "The Best Of 2Pac (Pt. 1: Thug)",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Radio-Edit-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Radio-Edit-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19120419,
+            "track_name": "Don't Stop",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11730024,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10696965,
+            "album_name": "Pac's Life",
+            "artist_id": 14332259,
+            "artist_name": "2Pac feat. Big Syke, Yaki Kadafi, Hussein Fatal, E.D.I. Mean, Young Noble & Stormy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Big-Syke-Yaki-Kadafi-Hussein-Fatal-E-D-I-Mean-Young-Noble-Stormy/Don-t-Stop?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Big-Syke-Yaki-Kadafi-Hussein-Fatal-E-D-I-Mean-Young-Noble-Stormy/Don-t-Stop/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-18T18:49:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137187902,
+            "track_name": "Nepýtam Sa",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 69917153,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 27022256,
+            "album_name": "Nepýtam Sa (feat. Logic)",
+            "artist_id": 33146733,
+            "artist_name": "Nerieš feat. Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nerie%C5%A1-feat-Logic/Nep%C3%BDtam-Sa?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nerie%C5%A1-feat-Logic/Nep%C3%BDtam-Sa/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-18T10:14:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18908786,
+            "track_name": "Military Minds",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11629670,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 14277128,
+            "album_name": "Better Dayz",
+            "artist_id": 14317569,
+            "artist_name": "2Pac feat. Buckshot & Coco Brothers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Buckshot-Coco-Brothers/Military-Minds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Buckshot-Coco-Brothers/Military-Minds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-12-28T09:00:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126160929,
+            "track_name": "How Do You Want It - Live",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 69920814,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25599267,
+            "album_name": "Tupac: Live At The House Of Blues",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-You-Want-It-Live-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-You-Want-It-Live-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115095639,
+            "track_name": "How Do U Want It - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 48306827,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24003796,
+            "album_name": "The Prophet Returns",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16845629,
+            "track_name": "How Do U Want It (clean version)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10763121,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10872621,
+            "album_name": "How Do U Want It",
+            "artist_id": 28621483,
+            "artist_name": "2Pac feat. K-Ci & JoJo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-clean-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-K-Ci-JoJo-2/How-Do-U-Want-It-clean-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T11:26:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15598328,
+            "track_name": "Military Minds",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10113716,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 10310488,
+            "album_name": "Better Dayz",
+            "artist_id": 13812215,
+            "artist_name": "2Pac feat. Buckshot & Cocoa Brovaz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Buckshot-Cocoa-Brovaz/Military-Minds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-feat-Buckshot-Cocoa-Brovaz/Military-Minds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-04-02T04:58:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864439,
+            "track_name": "Don't Stop",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 11165158,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20998561,
+            "album_name": "Pac's Life (UK Only Version)",
+            "artist_id": 28982856,
+            "artist_name": "2Pac, Big Syke, Yaki Kadafi, Hussein Fatal, E.D.I., Young Noble & Stormy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/Don-t-Stop-feat-Big-Syke-Yaki-Kadafi-Hussein-Fatal-E-D-I-Young-Noble-Stormy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/Don-t-Stop-feat-Big-Syke-Yaki-Kadafi-Hussein-Fatal-E-D-I-Young-Noble-Stormy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-15T18:24:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15389363,
+            "track_name": "Military Minds",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 9902798,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 13860569,
+            "album_name": "One Nation",
+            "artist_id": 13787897,
+            "artist_name": "2Pac & Boot Camp Clik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac-Boot-Camp-Clik/Military-Minds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac-Boot-Camp-Clik/Military-Minds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-05-17T13:40:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54854475,
+            "track_name": "Some Girls Are Bigger Than Others",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 186346,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 17236053,
+            "album_name": "The Queen Is Dead",
+            "artist_id": 554,
+            "artist_name": "The Smiths",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-29T07:32:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1891755,
+            "track_name": "Some Girls Are Bigger Than Others (live)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 186348,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10373861,
+            "album_name": "There Is a Light That Never Goes Out",
+            "artist_id": 554,
+            "artist_name": "The Smiths",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-28T09:01:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85752816,
+            "track_name": "Some Girls Are Bigger Than Others - 2011 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 48248159,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 22,
+            "album_id": 20991357,
+            "album_name": "The Queen Is Dead",
+            "artist_id": 554,
+            "artist_name": "The Smiths",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-2011-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-2011-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-17T10:40:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138804337,
+            "track_name": "Some Girls Are Bigger Than Others - Demo",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 73894880,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27239918,
+            "album_name": "The Queen Is Dead (Deluxe Edition)",
+            "artist_id": 554,
+            "artist_name": "The Smiths",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-Demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smiths/Some-Girls-Are-Bigger-Than-Others-Demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-30T21:31:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16338740,
+            "track_name": "For the First Time (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 9158779,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 108,
+            "album_id": 13001780,
+            "album_name": "Promo Only: Mainstream Radio, December 2010",
+            "artist_id": 387036,
+            "artist_name": "The Script",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-First-Time-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-First-Time-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-10T03:37:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86766516,
+            "track_name": "Sedim Vysoko",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 16531754,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 21060259,
+            "album_name": "Pod Vlivem EP",
+            "artist_id": 25215953,
+            "artist_name": "Logic & Jackpot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-Jackpot/Sedim-Vysoko?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-Jackpot/Sedim-Vysoko/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-25T13:04:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30217022,
+            "track_name": "One in Ten",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 108311,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 50,
+            "album_id": 13761723,
+            "album_name": "Present Arms",
+            "artist_id": 302,
+            "artist_name": "UB40",
+            "track_share_url": "https://www.musixmatch.com/lyrics/UB40/One-in-Ten?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/UB40/One-in-Ten/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-18T08:34:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115701056,
+            "track_name": "For the First Time - Live in Tokyo",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 63845369,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 24066367,
+            "album_name": "No Sound Without Silence",
+            "artist_id": 387036,
+            "artist_name": "The Script",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-First-Time-Live-in-Tokyo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Script/For-the-First-Time-Live-in-Tokyo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-01T00:00:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3334940,
+            "track_name": "1977",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 356583,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10492309,
+            "album_name": "Sonic Book #15: The Clash Story + Early Demo",
+            "artist_id": 1137,
+            "artist_name": "The Clash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Clash/1977?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Clash/1977/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T02:58:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

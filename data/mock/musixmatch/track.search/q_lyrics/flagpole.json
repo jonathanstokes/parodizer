@@ -1,0 +1,1761 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.075066089630127,
+      "available": 225
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 31387327,
+            "track_name": "Tombstone Blues",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 3371,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 37,
+            "album_id": 13783381,
+            "album_name": "Highway 61 Revisited",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-17T17:35:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16507165,
+            "track_name": "Brand New Day (acoustic)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 145241,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10390898,
+            "album_name": "A Walk in the Park",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-acoustic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-acoustic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-25T10:05:59Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30925359,
+            "track_name": "Lions",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 61695,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 47,
+            "album_id": 13827438,
+            "album_name": "Dire Straits",
+            "artist_id": 134,
+            "artist_name": "Dire Straits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-03T16:49:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84791026,
+            "track_name": "Lions - Live At The BBC",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 47700189,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20929315,
+            "album_name": "Live At The BBC",
+            "artist_id": 134,
+            "artist_name": "Dire Straits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions-Live-At-The-BBC?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions-Live-At-The-BBC/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-22T02:48:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86724292,
+            "track_name": "Tombstone Blues - Alternate Take",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 3372,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21057691,
+            "album_name": "No Direction Home: Bootleg Volume 7 (Movie Soundtrack)",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-alternate-take?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-alternate-take/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T05:17:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1894875,
+            "track_name": "Tombstone Blues (live)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 3373,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10374118,
+            "album_name": "Not Dark Yet",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T05:17:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84521004,
+            "track_name": "Ragged Old Flag - Live At The Paramount Theatre, NJ/1990",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 47548910,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20911894,
+            "album_name": "The Great Lost Performance",
+            "artist_id": 225,
+            "artist_name": "Johnny Cash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Ragged-Old-Flag-Live-At-The-Paramount-Theatre-NJ-1990?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Ragged-Old-Flag-Live-At-The-Paramount-Theatre-NJ-1990/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-07T14:50:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84505691,
+            "track_name": "King Of Pain - Live From River Plate Stadium, Buenos Aires",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 47534887,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20910846,
+            "album_name": "Certifiable (Live in Buenos Aires)",
+            "artist_id": 380,
+            "artist_name": "The Police",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Police/King-Of-Pain-Live-From-River-Plate-Stadium-Buenos-Aires?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Police/King-Of-Pain-Live-From-River-Plate-Stadium-Buenos-Aires/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-18T21:03:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1611089,
+            "track_name": "Mister Garfield",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 91070,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10351220,
+            "album_name": "America",
+            "artist_id": 225,
+            "artist_name": "Johnny Cash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Mister-Garfield?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Mister-Garfield/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T02:57:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16507004,
+            "track_name": "Brand New Day",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 145245,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10441856,
+            "album_name": "Brand New Day",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-28T11:07:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14420286,
+            "track_name": "Brand New Day (2009)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 6626921,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 11051121,
+            "album_name": "Duetos",
+            "artist_id": 13768078,
+            "artist_name": "Sting & Stevie Wonder",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting-Stevie-Wonder/Brand-New-Day-2009?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting-Stevie-Wonder/Brand-New-Day-2009/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-02-24T03:55:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32496279,
+            "track_name": "Brand New Day (Murlyn Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 145248,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15376256,
+            "album_name": "Desert Rose (Max-Single)",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Murlyn-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Murlyn-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-25T10:06:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 163139377,
+            "track_name": "Brand New Day (2019 Version)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 91042445,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 31004889,
+            "album_name": "Brand New Day (2019 Version)",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-2019-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-2019-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-04T12:05:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 167332463,
+            "track_name": "Brand New Day (My Songs Version)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 93991343,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 31860651,
+            "album_name": "My Songs (Deluxe)",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-My-Songs-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-My-Songs-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-24T11:06:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44692645,
+            "track_name": "Lions (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 19236568,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 16208518,
+            "album_name": "Sultans of Swing - Live in Germany",
+            "artist_id": 134,
+            "artist_name": "Dire Straits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Lions-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-29T03:33:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87638264,
+            "track_name": "Brand New Day - Murlyn Radio Mix",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 145249,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21109525,
+            "album_name": "Desert Rose",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Murlyn-radio-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Murlyn-radio-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-25T10:06:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84999325,
+            "track_name": "Flagpole Sitta",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 270958,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 300,
+            "album_id": 20945407,
+            "album_name": "Where Have All The Merrymakers Gone?",
+            "artist_id": 883,
+            "artist_name": "Harvey Danger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-04T07:37:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169931862,
+            "track_name": "flagpole sitta",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 95360213,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 32392947,
+            "album_name": "BRAINDEAD",
+            "artist_id": 38419090,
+            "artist_name": "Elohim feat. AWOLNATION",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elohim-feat-AWOLNATION/flagpole-sitta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elohim-feat-AWOLNATION/flagpole-sitta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-14T09:39:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16507116,
+            "track_name": "Brand New Day (Cornelius Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 145243,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10309025,
+            "album_name": "Still Be Love In the World",
+            "artist_id": 447,
+            "artist_name": "Sting",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Cornelius-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sting/Brand-New-Day-Cornelius-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-25T10:05:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90628092,
+            "track_name": "Jasper - 1989",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 18404700,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21289743,
+            "album_name": "Estrangeiro",
+            "artist_id": 6965,
+            "artist_name": "Caetano Veloso",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caetano-Veloso/Jasper-1989?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caetano-Veloso/Jasper-1989/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-20T13:40:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1225,
+                    "music_genre_parent_id": 1122,
+                    "music_genre_name": "MPB",
+                    "music_genre_name_extended": "Brazilian / MPB",
+                    "music_genre_vanity": "Brazilian-MPB"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89733234,
+            "track_name": "Critically Disdained",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12460123,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21231266,
+            "album_name": "Lunch. Drunk. Love.",
+            "artist_id": 10760,
+            "artist_name": "Bowling for Soup",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bowling-for-Soup/Critically-Disdained?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bowling-for-Soup/Critically-Disdained/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-17T11:58:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1133,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Pop/Rock",
+                    "music_genre_name_extended": "Pop / Pop/Rock",
+                    "music_genre_vanity": "Pop-Pop-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1249862,
+            "track_name": "Get Back to Radio",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 372676,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10322509,
+            "album_name": "Project K.A.O.S.",
+            "artist_id": 1228,
+            "artist_name": "Roger Waters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Get-Back-to-Radio?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Roger-Waters/Get-Back-to-Radio/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:08:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14513603,
+            "track_name": "Tombstone Blues (live)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 9330232,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13473270,
+            "album_name": "Blues Women Anthology, Volume 1",
+            "artist_id": 123,
+            "artist_name": "Sheryl Crow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sheryl-Crow/Tombstone-Blues-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sheryl-Crow/Tombstone-Blues-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-13T00:10:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 819362,
+            "track_name": "Souljacker, Part II",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 11035668,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13751857,
+            "album_name": "Souljacker",
+            "artist_id": 13953448,
+            "artist_name": "Eels",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eels/Souljacker-Part-II?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eels/Souljacker-Part-II/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:20:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72799768,
+            "track_name": "Violence Never Ending",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 39853920,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 11,
+            "album_id": 19603955,
+            "album_name": "Yesterdays",
+            "artist_id": 684,
+            "artist_name": "Pennywise",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pennywise/Violence-Never-Ending?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pennywise/Violence-Never-Ending/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-09T08:59:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91900214,
+            "track_name": "Here I Go",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 782200,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 549,
+            "album_id": 21383930,
+            "album_name": "Mind Of Mystikal",
+            "artist_id": 6660,
+            "artist_name": "Mystikal",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mystikal/Here-I-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mystikal/Here-I-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-09T23:28:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48523489,
+            "track_name": "Fame Is for Assholes",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 12014402,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 31,
+            "album_id": 16585322,
+            "album_name": "Fame Is for Assholes",
+            "artist_id": 26133667,
+            "artist_name": "Hoodie Allen feat. Chiddy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hoodie-Allen-Chiddy/Fame-Is-For-Assholes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hoodie-Allen-Chiddy/Fame-Is-For-Assholes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-27T18:36:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92489985,
+            "track_name": "Stand",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 3343730,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21426092,
+            "album_name": "Sellout",
+            "artist_id": 68949,
+            "artist_name": "Matthew West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Matthew-West/Stand?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Matthew-West/Stand/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:31:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85414591,
+            "track_name": "Flagpole Sitta (Harvey Danger cover)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 48097856,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 20971148,
+            "album_name": "Punk Goes Pop Volume Two",
+            "artist_id": 153761,
+            "artist_name": "Chiodos",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chiodos/Flagpole-Sitta-Harvey-Danger-cover?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chiodos/Flagpole-Sitta-Harvey-Danger-cover/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-02T08:36:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162030048,
+            "track_name": "Another Silent Way",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 99996378,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30813085,
+            "album_name": "Drift Episode 1 (Resolve)",
+            "artist_id": 414,
+            "artist_name": "Underworld",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Underworld/Another-Silent-Way-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Underworld/Another-Silent-Way-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-12T15:50:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1058,
+                    "music_genre_parent_id": 7,
+                    "music_genre_name": "Electronica",
+                    "music_genre_name_extended": "Electronic / Electronica",
+                    "music_genre_vanity": "Electronic-Electronica"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170826965,
+            "track_name": "Flagpole Sitta",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 7785387,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 32569650,
+            "album_name": "Punk Goes Pop, Vol. 2",
+            "artist_id": 153761,
+            "artist_name": "Chiodos",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chiodos/Flagpole-Sitta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chiodos/Flagpole-Sitta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:44:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95561036,
+            "track_name": "Holding On To Good",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 10797725,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21655131,
+            "album_name": "Carry The Fire (Deluxe Version)",
+            "artist_id": 13916850,
+            "artist_name": "Delta Rae",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Delta-Rae/Holding-on-to-Good?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Delta-Rae/Holding-on-to-Good/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-28T02:15:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15510120,
+            "track_name": "Angry Enuff",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2723976,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 13885807,
+            "album_name": "The New Testament (The Truth)",
+            "artist_id": 40746,
+            "artist_name": "Suga Free",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Suga-Free/Angry-Enuff?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Suga-Free/Angry-Enuff/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-29T05:05:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32487641,
+            "track_name": "Flagpole Sitta (In the Style of Harvey Danger) [Performance Track With Demonstration Vocals]",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 12753308,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15370113,
+            "album_name": "Flagpole Sitta (In the Style of Harvey Danger) [Performance Track With Demonstration Vocals]",
+            "artist_id": 24498488,
+            "artist_name": "Done Again",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Done-Again/Flagpole-Sitta-In-the-Style-of-Harvey-Danger-Performance-Track-With-Demonstration-Vocals?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Done-Again/Flagpole-Sitta-In-the-Style-of-Harvey-Danger-Performance-Track-With-Demonstration-Vocals/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-10T17:55:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8037013,
+            "track_name": "Flagpole Sitter",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 270959,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 10915292,
+            "album_name": "Rocktopia",
+            "artist_id": 883,
+            "artist_name": "Harvey Danger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T13:47:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73644394,
+            "track_name": "Flagpole Sitta (1998)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 40374534,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19664231,
+            "album_name": "100 Greatest Rock Songs of the 90s",
+            "artist_id": 883,
+            "artist_name": "Harvey Danger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitta-1998?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Harvey-Danger/Flagpole-Sitta-1998/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-31T06:18:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94308834,
+            "track_name": "Angry Enough",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 13827621,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21557274,
+            "album_name": "The New Testament",
+            "artist_id": 40746,
+            "artist_name": "Suga Free",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Suga-Free/Angry-Enough?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Suga-Free/Angry-Enough/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-20T06:49:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5866239,
+            "track_name": "Memory Lane",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 2228433,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10712419,
+            "album_name": "12:34",
+            "artist_id": 26882,
+            "artist_name": "Authority Zero",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Authority-Zero/Memory-Lane?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Authority-Zero/Memory-Lane/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T18:38:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 97621725,
+            "track_name": "Babies With Guns",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1335434,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21835595,
+            "album_name": "Bazooka Tooth",
+            "artist_id": 10787,
+            "artist_name": "Aesop Rock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Babies-With-Guns?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aesop-Rock/Babies-With-Guns/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T12:42:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92980124,
+            "track_name": "Happy Days",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 39444345,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21460363,
+            "album_name": "Pink Lemonade",
+            "artist_id": 369244,
+            "artist_name": "Closure In Moscow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Closure-In-Moscow/Happy-Days?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Closure-In-Moscow/Happy-Days/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-26T13:09:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37853713,
+            "track_name": "Storm Song",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 12067591,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 33,
+            "album_id": 15764552,
+            "album_name": "The Disappearance Of The Girl",
+            "artist_id": 14371493,
+            "artist_name": "PHILDEL",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phildel/Storm-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phildel/Storm-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-10T20:58:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19036769,
+            "track_name": "Polka Power!",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 10409921,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13947640,
+            "album_name": "Running With Scissors",
+            "artist_id": 13807334,
+            "artist_name": "“Weird Al” Yankovic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/%E2%80%9CWeird-Al%E2%80%9D-Yankovic/Polka-Power?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/%E2%80%9CWeird-Al%E2%80%9D-Yankovic/Polka-Power/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-17T18:23:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17498713,
+            "track_name": "Straight Between the Eyes",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 560123,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10470958,
+            "album_name": "Strength of Steel",
+            "artist_id": 3089,
+            "artist_name": "Anvil",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anvil/Straight-Between-the-Eyes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anvil/Straight-Between-the-Eyes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T16:17:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101119103,
+            "track_name": "The Siren Song - 2005 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 55679319,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22165612,
+            "album_name": "The Quiet Zone/The Pleasure Dome",
+            "artist_id": 12535,
+            "artist_name": "Van Der Graaf Generator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Van-Der-Graaf-Generator/The-Siren-Song-2005-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Der-Graaf-Generator/The-Siren-Song-2005-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T09:50:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85873610,
+            "track_name": "Young Volcanoes",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 14971087,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20999278,
+            "album_name": "I’ve Got It Covered Vol. 3",
+            "artist_id": 13994316,
+            "artist_name": "Tiffany Alvord",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tiffany-Alvord/Young-Volcanoes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tiffany-Alvord/Young-Volcanoes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-22T15:00:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187269536,
+            "track_name": "Lion",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 98954510,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35541017,
+            "album_name": "Echoes of Life: Night",
+            "artist_id": 28672461,
+            "artist_name": "Sultan + Shepard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sultan-Shepard/Lion?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sultan-Shepard/Lion/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-18T04:26:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73718723,
+            "track_name": "The Siren Song",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 11785303,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17628662,
+            "album_name": "The Quiet Zone / The Pleasure Dome",
+            "artist_id": 12535,
+            "artist_name": "Van Der Graaf Generator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Van-Der-Graaf-Generator/The-Siren-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Der-Graaf-Generator/The-Siren-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-03-19T03:25:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198530387,
+            "track_name": "Blackboxwarrior - Okultra",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 112796009,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38652634,
+            "album_name": "The Normal Album",
+            "artist_id": 28717559,
+            "artist_name": "Will Wood and the Tapeworms",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Will-Wood-and-the-Tapeworms/Blackboxwarrior-Okultra?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Will-Wood-and-the-Tapeworms/Blackboxwarrior-Okultra/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-20T02:33:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35735558,
+            "track_name": "Tombstone Blues",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 978009,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15625278,
+            "album_name": "I'm Not There (Music from the Motion Picture)",
+            "artist_id": 7589,
+            "artist_name": "Richie Havens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Richie-Havens/Tombstone-Blues?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Richie-Havens/Tombstone-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:30:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1520857,
+            "track_name": "Ferriswheel",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 2750071,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10343906,
+            "album_name": "Oaklandazulasylum",
+            "artist_id": 42087,
+            "artist_name": "WHY?",
+            "track_share_url": "https://www.musixmatch.com/lyrics/WHY/Ferriswheel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/WHY/Ferriswheel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:26:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

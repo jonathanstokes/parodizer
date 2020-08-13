@@ -1,0 +1,1925 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.1400830745697,
+      "available": 10000
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 199049117,
+            "track_name": "WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+            "track_name_translation_list": [],
+            "track_rating": 99,
+            "commontrack_id": 112693306,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 74,
+            "album_id": 38851119,
+            "album_name": "WHATS POPPIN (Remix) [feat. DaBaby, Tory Lanez & Lil Wayne] - Single",
+            "artist_id": 28830691,
+            "artist_name": "Jack Harlow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jack-Harlow-DaBaby-Lil-Wayne-Tory-Lanez/WHATS-POPPIN-DaBaby-Tory-Lanez-Lil-Wayne-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jack-Harlow-DaBaby-Lil-Wayne-Tory-Lanez/WHATS-POPPIN-DaBaby-Tory-Lanez-Lil-Wayne-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-30T07:28:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201234650,
+            "track_name": "Beers And Sunshine",
+            "track_name_translation_list": [],
+            "track_rating": 99,
+            "commontrack_id": 114611312,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 39576560,
+            "album_name": "Beers And Sunshine",
+            "artist_id": 39338,
+            "artist_name": "Darius Rucker",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Darius-Rucker/Beers-And-Sunshine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Darius-Rucker/Beers-And-Sunshine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-10T07:38:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196128514,
+            "track_name": "One of Them Girls",
+            "track_name_translation_list": [],
+            "track_rating": 97,
+            "commontrack_id": 109404621,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 15,
+            "album_id": 37870498,
+            "album_name": "One of Them Girls - Single",
+            "artist_id": 386256,
+            "artist_name": "Lee Brice",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lee-Brice/One-Of-Them-Girls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lee-Brice/One-Of-Them-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-16T09:10:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186986209,
+            "track_name": "Say So",
+            "track_name_translation_list": [],
+            "track_rating": 96,
+            "commontrack_id": 102333064,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1595,
+            "album_id": 35619221,
+            "album_name": "Hot Pink",
+            "artist_id": 27684481,
+            "artist_name": "Doja Cat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doja-Cat/Say-So?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doja-Cat/Say-So/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-22T13:32:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84163305,
+            "track_name": "My Shot",
+            "track_name_translation_list": [],
+            "track_rating": 94,
+            "commontrack_id": 47268963,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 20877048,
+            "album_name": "Hamilton (Original Broadway Cast Recording)",
+            "artist_id": 33527572,
+            "artist_name": "Lin-Manuel Miranda feat. Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr. & Original Broadway Cast of Hamilton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lin-Manuel-Miranda-feat-Anthony-Ramos-Daveed-Diggs-Okieriete-Onaodowan-Leslie-Odom-Jr-Original-Broadway-Cast-of-Hamilton/My-Shot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lin-Manuel-Miranda-feat-Anthony-Ramos-Daveed-Diggs-Okieriete-Onaodowan-Leslie-Odom-Jr-Original-Broadway-Cast-of-Hamilton/My-Shot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-15T04:10:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186100951,
+            "track_name": "Done",
+            "track_name_translation_list": [],
+            "track_rating": 93,
+            "commontrack_id": 99846054,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 35458159,
+            "album_name": "Real Friends",
+            "artist_id": 534284,
+            "artist_name": "Chris Janson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Janson/Done?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Janson/Done/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-09T15:05:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158127282,
+            "track_name": "Stairway To Heaven - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 92,
+            "commontrack_id": 88101210,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 123,
+            "album_id": 30099212,
+            "album_name": "The Song Remains The Same",
+            "artist_id": 226,
+            "artist_name": "Led Zeppelin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Led-Zeppelin/Stairway-To-Heaven-Remastered-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Led-Zeppelin/Stairway-To-Heaven-Remastered-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-03T11:22:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151614864,
+            "track_name": "Girls Like You (feat. Cardi B)",
+            "track_name_translation_list": [],
+            "track_rating": 91,
+            "commontrack_id": 84000324,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10525,
+            "album_id": 29115955,
+            "album_name": "Red Pill Blues (Deluxe)",
+            "artist_id": 40599864,
+            "artist_name": "Maroon 5 feat. Cardi B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Maroon-5-feat-Cardi-B/Girls-Like-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Maroon-5-feat-Cardi-B/Girls-Like-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-13T16:21:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1133,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Pop/Rock",
+                    "music_genre_name_extended": "Pop / Pop/Rock",
+                    "music_genre_vanity": "Pop-Pop-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 154665612,
+            "track_name": "SICKO MODE",
+            "track_name_translation_list": [],
+            "track_rating": 90,
+            "commontrack_id": 85958063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1914,
+            "album_id": 29550454,
+            "album_name": "ASTROWORLD",
+            "artist_id": 14382416,
+            "artist_name": "Travis Scott",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Travis-Scott/SICKO-MODE?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Travis-Scott/SICKO-MODE/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-05T19:15:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199858786,
+            "track_name": "Good Times Roll",
+            "track_name_translation_list": [],
+            "track_rating": 89,
+            "commontrack_id": 113393152,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39117553,
+            "album_name": "Bettie James",
+            "artist_id": 45932674,
+            "artist_name": "Jimmie Allen feat. Nelly",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jimmie-Allen-Nelly/Good-Times-Roll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jimmie-Allen-Nelly/Good-Times-Roll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-14T08:16:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 136532845,
+            "track_name": "Dusk Till Dawn - Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 87,
+            "commontrack_id": 75614289,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4406,
+            "album_id": 26919912,
+            "album_name": "Dusk Till Dawn (Radio Edit)",
+            "artist_id": 34318774,
+            "artist_name": "ZAYN feat. Sia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/ZAYN-feat-Sia/Dusk-Till-Dawn-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/ZAYN-feat-Sia/Dusk-Till-Dawn-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-17T09:36:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59668822,
+            "track_name": "Viva La Vida",
+            "track_name_translation_list": [],
+            "track_rating": 87,
+            "commontrack_id": 300496,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 27076,
+            "album_id": 17778207,
+            "album_name": "Viva La Vida - Prospekt's March Edition",
+            "artist_id": 1039,
+            "artist_name": "Coldplay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Coldplay/Viva-la-Vida?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Coldplay/Viva-la-Vida/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-22T08:43:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 131135602,
+            "track_name": "Lady May",
+            "track_name_translation_list": [],
+            "track_rating": 87,
+            "commontrack_id": 73122588,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 26328379,
+            "album_name": "Purgatory",
+            "artist_id": 25209034,
+            "artist_name": "Tyler Childers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyler-Childers/Lady-May?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyler-Childers/Lady-May/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-11T09:25:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1160,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Rock / Singer/Songwriter",
+                    "music_genre_vanity": "Rock-Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84457062,
+            "track_name": "Rap God",
+            "track_name_translation_list": [],
+            "track_rating": 86,
+            "commontrack_id": 13684821,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 41652,
+            "album_id": 20908334,
+            "album_name": "The Marshall Mathers LP2",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Rap-God?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Rap-God/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-31T16:09:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201232286,
+            "track_name": "Daylight",
+            "track_name_translation_list": [],
+            "track_rating": 85,
+            "commontrack_id": 114608389,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12,
+            "album_id": 39575818,
+            "album_name": "Daylight - Single",
+            "artist_id": 46195784,
+            "artist_name": "Joji feat. Diplo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joji-Diplo/Daylight?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joji-Diplo/Daylight/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T15:15:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 167685162,
+            "track_name": "Old Town Road (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 84,
+            "commontrack_id": 94198354,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5104,
+            "album_id": 31936342,
+            "album_name": "Old Town Road (Remix)",
+            "artist_id": 38099281,
+            "artist_name": "Lil Nas X feat. Billy Ray Cyrus",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Nas-X-feat-Billy-Ray-Cyrus/Old-Town-Road-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Nas-X-feat-Billy-Ray-Cyrus/Old-Town-Road-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:21:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114889152,
+            "track_name": "Sucker For Pain (with Logic, Ty Dolla  & X Ambassadors)",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 62391906,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 14522,
+            "album_id": 23982882,
+            "album_name": "Suicide Squad: The Album (Collector's Edition)",
+            "artist_id": 33192128,
+            "artist_name": "Lil Wayne feat. Wiz Khalifa & Imagine Dragons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-05T08:40:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87118605,
+            "track_name": "Don't Stop Believin'",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 40257493,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2416,
+            "album_id": 21079827,
+            "album_name": "Escape",
+            "artist_id": 765,
+            "artist_name": "Journey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Journey/Don-t-Stop-Believin-2008-Rerecording-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Journey/Don-t-Stop-Believin-2008-Rerecording-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-26T15:55:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198468054,
+            "track_name": "VACATION",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 112167335,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 38633751,
+            "album_name": "VACATION - Single",
+            "artist_id": 41895947,
+            "artist_name": "Tyga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyga-3/VACATION?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyga-3/VACATION/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T07:30:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 134313316,
+            "track_name": "XO TOUR Llif3",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 70829938,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3302,
+            "album_id": 26805512,
+            "album_name": "Luv Is Rage 2",
+            "artist_id": 33491455,
+            "artist_name": "Lil Uzi Vert",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert/XO-TOUR-Llif3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert/XO-TOUR-Llif3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-18T09:49:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200428022,
+            "track_name": "BLACK PARADE (Extended Version)",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 113891914,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 39298300,
+            "album_name": "The Lion King: The Gift [Deluxe Edition]",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE-Extended-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE-Extended-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-06T23:07:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185636649,
+            "track_name": "The Git Up",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 95277164,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 521,
+            "album_id": 35085589,
+            "album_name": "Honeysuckle & Lightning Bugs",
+            "artist_id": 38395800,
+            "artist_name": "Blanco Brown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blanco-Brown/The-Git-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blanco-Brown/The-Git-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-18T14:53:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1042,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Traditional Country",
+                    "music_genre_name_extended": "Country / Traditional Country",
+                    "music_genre_vanity": "Country-Traditional-Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182464511,
+            "track_name": "Wow.",
+            "track_name_translation_list": [],
+            "track_rating": 81,
+            "commontrack_id": 90892106,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1835,
+            "album_id": 34513434,
+            "album_name": "Hollywood's Bleeding",
+            "artist_id": 28444515,
+            "artist_name": "Post Malone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Post-Malone/Wow?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Post-Malone/Wow/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-04T16:21:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201234599,
+            "track_name": "ALL I NEED (feat. Drake)",
+            "track_name_translation_list": [],
+            "track_rating": 81,
+            "commontrack_id": 114611279,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 39576550,
+            "album_name": "FIXTAPE",
+            "artist_id": 46196226,
+            "artist_name": "Popcaan feat. Drake",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Popcaan-Drake/ALL-I-NEED-Drake?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Popcaan-Drake/ALL-I-NEED-Drake/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-10T08:57:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164707099,
+            "track_name": "One Big Country Song",
+            "track_name_translation_list": [],
+            "track_rating": 81,
+            "commontrack_id": 92054379,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 31327948,
+            "album_name": "Brothers",
+            "artist_id": 28471003,
+            "artist_name": "Locash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Locash/One-Big-Country-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Locash/One-Big-Country-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-06T09:35:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84420189,
+            "track_name": "Scream & Shout",
+            "track_name_translation_list": [],
+            "track_rating": 81,
+            "commontrack_id": 11814752,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1609,
+            "album_id": 20907114,
+            "album_name": "#willpower",
+            "artist_id": 14365131,
+            "artist_name": "will.i.am feat. Britney Spears",
+            "track_share_url": "https://www.musixmatch.com/lyrics/will-i-am%E3%80%81-britney-spears/Scream-Shout?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/will-i-am%E3%80%81-britney-spears/Scream-Shout/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-18T17:02:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 178308362,
+            "track_name": "Dior",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 98338165,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 365,
+            "album_id": 33744793,
+            "album_name": "Meet the Woo",
+            "artist_id": 37618763,
+            "artist_name": "Pop Smoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Dior?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pop-Smoke/Dior/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-07T15:53:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213841,
+            "track_name": "Poker Face",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 5920196,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10128,
+            "album_id": 20960801,
+            "album_name": "The Fame",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Poker-Face?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/Poker-Face/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-28T14:10:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 152384113,
+            "track_name": "No Lie (feat. Dua Lipa)",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ノー・ライ (feat. Dua Lipa)"
+                }
+              }
+            ],
+            "track_rating": 80,
+            "commontrack_id": 65496271,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5295,
+            "album_id": 29219389,
+            "album_name": "Mad Love: The Prequel",
+            "artist_id": 41921279,
+            "artist_name": "Sean Paul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sean-Paul-feat-Dua-Lipa/No-Lie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sean-Paul-feat-Dua-Lipa/No-Lie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T18:41:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199981117,
+            "track_name": "Hate the Other Side",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 113496896,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 39068722,
+            "album_name": "Legends Never Die",
+            "artist_id": 35682127,
+            "artist_name": "Juice WRLD",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Juice-Wrld/Hate-The-Other-Side-Polo-G-The-Kid-LAROI?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Juice-Wrld/Hate-The-Other-Side-Polo-G-The-Kid-LAROI/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-07T15:05:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195852572,
+            "track_name": "Say So (feat. Nicki Minaj)",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 112276115,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 59,
+            "album_id": 37765603,
+            "album_name": "Say So (feat. Nicki Minaj) - Single",
+            "artist_id": 45139564,
+            "artist_name": "Doja Cat feat. Nicki Minaj",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doja-Cat-Nicki-Minaj/Say-So-Nicki-Minaj-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doja-Cat-Nicki-Minaj/Say-So-Nicki-Minaj-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-21T11:53:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 177495285,
+            "track_name": "BROWN SKIN GIRL",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 98051969,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1763,
+            "album_id": 33593832,
+            "album_name": "The Lion King: The Gift",
+            "artist_id": 41864397,
+            "artist_name": "Blue Ivy feat. SAINt JHN, Beyoncé & WizKid",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-feat-SAINt-JHN-WizKid-Blue-Ivy-Carter/BROWN-SKIN-GIRL?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-feat-SAINt-JHN-WizKid-Blue-Ivy-Carter/BROWN-SKIN-GIRL/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:32:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170706160,
+            "track_name": "Pursuit of Happiness (Extended Steve Aoki Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 80,
+            "commontrack_id": 12626521,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 32550476,
+            "album_name": "Pursuit of Happiness [Extended Steve Aoki Remix]",
+            "artist_id": 34720954,
+            "artist_name": "Kid Cudi, MGMT & Ratatat",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kid-Cudi-feat-MGMT-Ratatat/Pursuit-of-Happiness-Extended-Steve-Aoki-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kid-Cudi-feat-MGMT-Ratatat/Pursuit-of-Happiness-Extended-Steve-Aoki-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-03T10:11:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84460582,
+            "track_name": "In Da Club",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 1082059,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6358,
+            "album_id": 20908558,
+            "album_name": "Get Rich Or Die Tryin'",
+            "artist_id": 33491930,
+            "artist_name": "50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent/In-da-Club?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent/In-da-Club/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-22T08:47:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30925322,
+            "track_name": "Sultans Of Swing",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 61734,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3886,
+            "album_id": 13827438,
+            "album_name": "Dire Straits",
+            "artist_id": 134,
+            "artist_name": "Dire Straits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Sultans-of-Swing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dire-Straits/Sultans-of-Swing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-26T12:16:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1157,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Rock & Roll",
+                    "music_genre_name_extended": "Rock / Rock & Roll",
+                    "music_genre_vanity": "Rock-Rock-Roll"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17009189,
+            "track_name": "It Was A Good Day",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 45395,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1818,
+            "album_id": 13933718,
+            "album_name": "The Predator",
+            "artist_id": 101,
+            "artist_name": "Ice Cube",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ice-Cube/It-Was-a-Good-Day?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ice-Cube/It-Was-a-Good-Day/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-05T16:17:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201077681,
+            "track_name": "What Type Of Dance",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 114465373,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6,
+            "album_id": 39541188,
+            "album_name": "What Type Of Dance",
+            "artist_id": 46167572,
+            "artist_name": "DJ Kaywise feat. Mayorkun, Naira Marley & Zlatan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Kaywise-Mayorkun-Naira-Marley-Zlatan/What-Type-Of-Dance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Kaywise-Mayorkun-Naira-Marley-Zlatan/What-Type-Of-Dance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-06T13:37:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85323302,
+            "track_name": "N.O",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 12522819,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 8362,
+            "album_id": 20964760,
+            "album_name": "O!RUL8,2?",
+            "artist_id": 24410130,
+            "artist_name": "BTS",
+            "track_share_url": "https://www.musixmatch.com/lyrics/BTS/N-O?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/BTS/N-O/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-20T04:56:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1686,
+                    "music_genre_parent_id": 1614,
+                    "music_genre_name": "K-Pop",
+                    "music_genre_name_extended": "Pop / K-Pop",
+                    "music_genre_vanity": "Pop-K-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85560071,
+            "track_name": "Clap Again",
+            "track_name_translation_list": [],
+            "track_rating": 79,
+            "commontrack_id": 48159636,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 460,
+            "album_id": 20979720,
+            "album_name": "Freedom",
+            "artist_id": 81804,
+            "artist_name": "Akon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Akon/Clap-Again?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Akon/Clap-Again/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-02T11:59:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 180838134,
+            "track_name": "Pompeii",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 11879348,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 19655,
+            "album_id": 34212303,
+            "album_name": "Bad Blood (The Extended Cut)",
+            "artist_id": 320083,
+            "artist_name": "Bastille",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bastille/Pompeii?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bastille/Pompeii/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-10T14:42:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1004,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Indie Rock",
+                    "music_genre_name_extended": "Alternative / Indie Rock",
+                    "music_genre_vanity": "Alternative-Indie-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1005,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "New Wave",
+                    "music_genre_name_extended": "Alternative / New Wave",
+                    "music_genre_vanity": "Alternative-New-Wave"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1144,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Adult Alternative",
+                    "music_genre_name_extended": "Rock / Adult Alternative",
+                    "music_genre_vanity": "Rock-Adult-Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 40104510,
+            "track_name": "Young and Beautiful",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 12127106,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 15866,
+            "album_id": 15902590,
+            "album_name": "Young and Beautiful",
+            "artist_id": 13805436,
+            "artist_name": "Lana Del Rey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lana-Del-Rey/Young-and-Beautiful?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lana-Del-Rey/Young-and-Beautiful/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-27T00:39:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1133,
+                    "music_genre_parent_id": 14,
+                    "music_genre_name": "Pop/Rock",
+                    "music_genre_name_extended": "Pop / Pop/Rock",
+                    "music_genre_vanity": "Pop-Pop-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30221078,
+            "track_name": "It's A Long Way To The Top (If You Wanna Rock 'N' Roll)",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 14460973,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 703,
+            "album_id": 13763296,
+            "album_name": "High Voltage",
+            "artist_id": 626,
+            "artist_name": "AC/DC",
+            "track_share_url": "https://www.musixmatch.com/lyrics/AC-DC/It-s-a-Long-Way-to-the-Top-If-You-Wanna-Rock-n-Roll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/AC-DC/It-s-a-Long-Way-to-the-Top-If-You-Wanna-Rock-n-Roll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-29T09:56:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196399715,
+            "track_name": "Own It (feat. Burna Boy & CHANGMO)",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 110407858,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 37958401,
+            "album_name": "Own It (feat. Burna Boy & CHANGMO) - Single",
+            "artist_id": 45254536,
+            "artist_name": "Stormzy feat. Changmo & Burna Boy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stormzy-Changmo-Burna-Boy/Own-It-Burna-Boy-CHANGMO?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stormzy-Changmo-Burna-Boy/Own-It-Burna-Boy-CHANGMO/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-14T12:59:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196774965,
+            "track_name": "My Truck",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 105978009,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 24,
+            "album_id": 38091070,
+            "album_name": "BRELAND",
+            "artist_id": 29328675,
+            "artist_name": "Breland",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Breland/My-Truck?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Breland/My-Truck/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-22T09:09:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85334951,
+            "track_name": "Party Rock Anthem",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 9892853,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 700,
+            "album_id": 20965386,
+            "album_name": "Sorry For Party Rocking",
+            "artist_id": 34018743,
+            "artist_name": "LMFAO feat. Lauren Bennett & GoonRock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LMFAO-feat-Lauren-Bennett-GoonRock-59/Party-Rock-Anthem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LMFAO-feat-Lauren-Bennett-GoonRock-59/Party-Rock-Anthem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T06:58:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1048,
+                    "music_genre_parent_id": 17,
+                    "music_genre_name": "House",
+                    "music_genre_name_extended": "Dance / House",
+                    "music_genre_vanity": "Dance-House"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185651966,
+            "track_name": "Diabolic Dice (Official Anthem)",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 101537092,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35376323,
+            "album_name": "Diabolic Dice (Official Anthem) - Single",
+            "artist_id": 48849,
+            "artist_name": "Angerfist",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Angerfist/Diabolic-Dice-Official-Anthem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Angerfist/Diabolic-Dice-Official-Anthem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-13T15:00:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195796953,
+            "track_name": "Ciel",
+            "track_name_translation_list": [],
+            "track_rating": 78,
+            "commontrack_id": 109900458,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 37750912,
+            "album_name": "Ciel (feat. Alicia Moffet) - Single",
+            "artist_id": 45130196,
+            "artist_name": "FouKi feat. Alicia Moffet",
+            "track_share_url": "https://www.musixmatch.com/lyrics/FouKi-Alicia-Moffet/Ciel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/FouKi-Alicia-Moffet/Ciel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-27T17:14:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194003694,
+            "track_name": "Young, Wild & Free (feat. Bruno Mars)",
+            "track_name_translation_list": [],
+            "track_rating": 77,
+            "commontrack_id": 14806025,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6014,
+            "album_id": 20910077,
+            "album_name": "Mac and Devin Go To High School (Music From and Inspired By The Movie)",
+            "artist_id": 44752514,
+            "artist_name": "Snoop Dogg feat. Wiz Khalifa & Bruno Mars",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg-feat-Bruno-Mars-Wiz-Khalifa/Young-Wild-Free?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg-feat-Bruno-Mars-Wiz-Khalifa/Young-Wild-Free/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:30:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200362339,
+            "track_name": "Sangría",
+            "track_name_translation_list": [],
+            "track_rating": 77,
+            "commontrack_id": 113838892,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 39279332,
+            "album_name": "Atrevido (feat. Taiu & Tatool)",
+            "artist_id": 46039352,
+            "artist_name": "Trueno feat. WOS, Taiu, TATOOL & Evlay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trueno-WOS-Taiu-TATOOL-Evlay/Sangr%C3%ADa?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trueno-WOS-Taiu-TATOOL-Evlay/Sangr%C3%ADa/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-08T00:39:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85334952,
+            "track_name": "Sexy And I Know It",
+            "track_name_translation_list": [],
+            "track_rating": 77,
+            "commontrack_id": 9788618,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 6479,
+            "album_id": 20965386,
+            "album_name": "Sorry For Party Rocking",
+            "artist_id": 437407,
+            "artist_name": "LMFAO",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LMFAO/Sexy-and-I-Know-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LMFAO/Sexy-and-I-Know-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-18T16:57:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

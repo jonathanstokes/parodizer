@@ -1,0 +1,627 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.080347061157227,
+      "available": 18
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 11319299,
+            "track_name": "Djohariah",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 8855235,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11390588,
+            "album_name": "All Delighted People EP",
+            "artist_id": 54946,
+            "artist_name": "Sufjan Stevens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Djohariah?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/Djohariah/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:52:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171230893,
+            "track_name": "Poète maudit",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 29522590,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32651403,
+            "album_name": "La mixtape Desperadoss",
+            "artist_id": 26776678,
+            "artist_name": "Dosseh & Despo'Rutti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dosseh-Despo-Rutti/Po%C3%A8te-maudit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dosseh-Despo-Rutti/Po%C3%A8te-maudit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-25T18:53:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85017791,
+            "track_name": "Vergessenes Königreich",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 46923006,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20946795,
+            "album_name": "Vergessenes Königreich",
+            "artist_id": 25402718,
+            "artist_name": "GReeeN",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Greeen-2/Vergessenes-K%C3%B6nigreich?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Greeen-2/Vergessenes-K%C3%B6nigreich/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-01T22:34:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2217993,
+            "track_name": "Vomit Upon the Cross",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2780787,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 10400382,
+            "album_name": "Necrodaemon Terrorsathan",
+            "artist_id": 43411,
+            "artist_name": "Belphegor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Belphegor/Vomit-Upon-the-Cross?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Belphegor/Vomit-Upon-the-Cross/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:30:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13685727,
+            "track_name": "Vilaine çanaille",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 9397174,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13685723,
+            "album_name": "Archimède",
+            "artist_id": 482401,
+            "artist_name": "Archimède",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Archim%C3%A8de-2/Vilaine-canaille?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Archim%C3%A8de-2/Vilaine-canaille/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:57:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37408340,
+            "track_name": "Y'a dix ans",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 9156293,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15739195,
+            "album_name": "Tous ces mots terribles - Hommage à François Béranger",
+            "artist_id": 73608,
+            "artist_name": "Loïc Lantoine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lo%C3%AFc-Lantoine/Y-a-dix-ans?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lo%C3%AFc-Lantoine/Y-a-dix-ans/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-10T17:57:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31441922,
+            "track_name": "The Barely Acceptable Truth of Knowing II",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1169056,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10417738,
+            "album_name": "Valensia II: Kosmos",
+            "artist_id": 9083,
+            "artist_name": "Valensia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Valensia/The-Barely-Acceptable-Truth-of-Knowing-II?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Valensia/The-Barely-Acceptable-Truth-of-Knowing-II/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-15T11:59:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 50878595,
+            "track_name": "Diogène série 87 (Version live 2002)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 23781250,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16834952,
+            "album_name": "Hubert-Félix Thiéfaine : Live au Bataclan (Live 2002)",
+            "artist_id": 8772,
+            "artist_name": "Hubert-Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Version-live-2002?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Version-live-2002/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-26T23:45:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2417996,
+            "track_name": "Citizen Kane",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2993937,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10416471,
+            "album_name": "If",
+            "artist_id": 52694,
+            "artist_name": "Bernard Lavilliers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bernard-Lavilliers/Citizen-Kane?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bernard-Lavilliers/Citizen-Kane/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T21:26:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94444242,
+            "track_name": "La Gloriole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6966860,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21566439,
+            "album_name": "Compilation - Master Serie",
+            "artist_id": 88677,
+            "artist_name": "Jean Yanne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jean-Yanne/La-Gloriole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jean-Yanne/La-Gloriole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:08:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 49974706,
+            "track_name": "Diogène série 87 (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 23086666,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16739014,
+            "album_name": "Hubert-Félix Thiéfaine Live au Bataclan (Live 2002)",
+            "artist_id": 8772,
+            "artist_name": "Hubert-Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-26T23:45:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162353431,
+            "track_name": "Santa Sorry",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 90582759,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30863264,
+            "album_name": "Santa Sorry",
+            "artist_id": 37326891,
+            "artist_name": "Tscheck",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tscheck-2/Santa-Sorry?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tscheck-2/Santa-Sorry/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T11:44:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150088190,
+            "track_name": "Diogène série 87 (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 83537248,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28872644,
+            "album_name": "Météo für nada (Remastered)",
+            "artist_id": 8772,
+            "artist_name": "Hubert-Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/Diog%C3%A8ne-s%C3%A9rie-87-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-15T10:00:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58768156,
+            "track_name": "The Barely Acceptable Truth of Knowing 2",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 29389195,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17667955,
+            "album_name": "Valensia 2",
+            "artist_id": 9083,
+            "artist_name": "Valensia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Valensia/The-Barely-Acceptable-Truth-of-Knowing-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Valensia/The-Barely-Acceptable-Truth-of-Knowing-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-01T15:53:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 69240366,
+            "track_name": "Prayer to the Bombs",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 37350478,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19120776,
+            "album_name": "Terror",
+            "artist_id": 24551307,
+            "artist_name": "Blackshore",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blackshore-2/Prayer-to-the-Bombs?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blackshore-2/Prayer-to-the-Bombs/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-23T16:08:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1894600,
+            "track_name": "Diogène Série 87",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7054432,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10374097,
+            "album_name": "Les Fils du coupeur de joints",
+            "artist_id": 93905,
+            "artist_name": "Brank Shme Bleu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brank-Shme-Bleu/Diog%C3%A8ne-S%C3%A9rie-87?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brank-Shme-Bleu/Diog%C3%A8ne-S%C3%A9rie-87/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-03-31T08:40:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2206472,
+            "track_name": "Diogène Série 87",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1137166,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10399380,
+            "album_name": "Météo Fûr Nada",
+            "artist_id": 8772,
+            "artist_name": "Hubert-Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/DIog%C3%A8ne-s%C3%A9rie-87?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/DIog%C3%A8ne-s%C3%A9rie-87/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:52:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86412416,
+            "track_name": "Diogène série 87 - La collection 78-88",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 48645127,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21037682,
+            "album_name": "La Collection 78-88",
+            "artist_id": 28852001,
+            "artist_name": "Hubert Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine-2/Diog%C3%A8ne-s%C3%A9rie-87-La-collection-78-88?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine-2/Diog%C3%A8ne-s%C3%A9rie-87-La-collection-78-88/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-06T21:57:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

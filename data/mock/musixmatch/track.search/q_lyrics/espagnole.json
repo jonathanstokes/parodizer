@@ -1,0 +1,1805 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.084027051925659,
+      "available": 144
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 83211362,
+            "track_name": "Andalouse",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 40242493,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3390,
+            "album_id": 20783676,
+            "album_name": "Kendji",
+            "artist_id": 27853445,
+            "artist_name": "Kendji Girac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-18T20:02:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8431347,
+            "track_name": "Saint-Valentin",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 40811348,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 10928765,
+            "album_name": "Perdu d'avance",
+            "artist_id": 13806030,
+            "artist_name": "OrelSan feat. Gringe",
+            "track_share_url": "https://www.musixmatch.com/lyrics/OrelSan-feat-Gringe/Saint-Valentin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/OrelSan-feat-Gringe/Saint-Valentin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-31T14:22:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127733346,
+            "track_name": "Andalouse (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 70876622,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 25818097,
+            "album_name": "Ensemble, le live (Live)",
+            "artist_id": 27853445,
+            "artist_name": "Kendji Girac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-28T08:51:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127651505,
+            "track_name": "Lacrizeotiek",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 70826341,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 25809096,
+            "album_name": "Lacrizeotiek",
+            "artist_id": 24879049,
+            "artist_name": "Jul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jul/Lacrizeotiek?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jul/Lacrizeotiek/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-29T10:36:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200426742,
+            "track_name": "Bénef",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 113891042,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39297850,
+            "album_name": "Bénef - Single",
+            "artist_id": 25357030,
+            "artist_name": "PLK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/PLK/B%C3%A9nef?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/PLK/B%C3%A9nef/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-05T17:24:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127373905,
+            "track_name": "Andalouse (Live à Bruxelles / 2016)",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 70379971,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25771943,
+            "album_name": "Ensemble, le live (Live)",
+            "artist_id": 27853445,
+            "artist_name": "Kendji Girac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse-Live-%C3%A0-Bruxelles-2016?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendji-Girac/Andalouse-Live-%C3%A0-Bruxelles-2016/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-10T19:20:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113551389,
+            "track_name": "Truthline, Pt. 3",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 62536204,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23840735,
+            "album_name": "Première saison",
+            "artist_id": 29332718,
+            "artist_name": "Sam's feat. Youssoupha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sam-s-feat-Youssoupha/Truthline-Pt-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sam-s-feat-Youssoupha/Truthline-Pt-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-13T17:00:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33811331,
+            "track_name": "Si Algùn Día la Ves (Si tu la croises un jour)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 13585546,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 15481178,
+            "album_name": "Algo Más de Amor",
+            "artist_id": 7847,
+            "artist_name": "Francis Cabrel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Si-Alg%C3%B9n-D%C3%ADa-la-Ves-Si-tu-la-croises-un-jour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Si-Alg%C3%B9n-D%C3%ADa-la-Ves-Si-tu-la-croises-un-jour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T09:03:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33811330,
+            "track_name": "Todo Aquello Que Escribi (L'encre de tes yeux)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 13585548,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15481178,
+            "album_name": "Algo Más de Amor",
+            "artist_id": 7847,
+            "artist_name": "Francis Cabrel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Todo-Aquello-Que-Escribi-L-encre-de-tes-yeux?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Todo-Aquello-Que-Escribi-L-encre-de-tes-yeux/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-13T20:57:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88449233,
+            "track_name": "Paco Rayban - feat. Lacrim, Mac Tyer, Rim-K",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 49558783,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21156627,
+            "album_name": "Bad Cowboy",
+            "artist_id": 29609956,
+            "artist_name": "Seth Gueko, Lacrim, Rim'K & Mac Tyer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Seth-Gueko-Lacrim-Rim-K-Mac-Tyer/Paco-Rayban-feat-Lacrim-Mac-Tyer-Rim-K?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Seth-Gueko-Lacrim-Rim-K-Mac-Tyer/Paco-Rayban-feat-Lacrim-Mac-Tyer-Rim-K/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-30T14:26:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92942855,
+            "track_name": "La Chica Que Me Acompaña (La fille qui m'accompagne)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 13585501,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21457554,
+            "album_name": "Algo Más De Amor",
+            "artist_id": 7847,
+            "artist_name": "Francis Cabrel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/La-Chica-Que-Me-Acompa%C3%B1a-La-fille-qui-m-accompagne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/La-Chica-Que-Me-Acompa%C3%B1a-La-fille-qui-m-accompagne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T22:16:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92942863,
+            "track_name": "Algo Más de Amor (Il faudra leur dire)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 13585468,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21457554,
+            "album_name": "Algo Más De Amor",
+            "artist_id": 7847,
+            "artist_name": "Francis Cabrel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Algo-M%C3%A1s-de-Amor-Il-faudra-leur-dire?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francis-Cabrel/Algo-M%C3%A1s-de-Amor-Il-faudra-leur-dire/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T15:55:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17575041,
+            "track_name": "Clara",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 182112,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10918376,
+            "album_name": "N°5 : Marieke",
+            "artist_id": 538,
+            "artist_name": "Jacques Brel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jacques-Brel/Clara?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jacques-Brel/Clara/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:05:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198071391,
+            "track_name": "En la Selva",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 375195,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38495728,
+            "album_name": "Rouge Sang",
+            "artist_id": 1244,
+            "artist_name": "Renaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Renaud/En-la-selva?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Renaud/En-la-selva/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-03T08:25:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19425241,
+            "track_name": "La Légende de la nonne",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1328326,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10907919,
+            "album_name": "Nº4 : Georges Brassens et sa guitare",
+            "artist_id": 10710,
+            "artist_name": "Georges Brassens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georges-Brassens/La-l%C3%A9gende-de-la-nonne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georges-Brassens/La-l%C3%A9gende-de-la-nonne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:10:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5700806,
+            "track_name": "La Rue du babouin (feat. Maurane)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1378512,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10697488,
+            "album_name": "(Parenthèses...)",
+            "artist_id": 11170,
+            "artist_name": "Francoise Hardy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Francoise-Hardy-2/La-Rue-du-babouin-feat-Maurane?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Francoise-Hardy-2/La-Rue-du-babouin-feat-Maurane/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-18T13:26:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8416240,
+            "track_name": "Le Virus",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2565719,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10949628,
+            "album_name": "Le Code de l'horreur",
+            "artist_id": 36366,
+            "artist_name": "Rohff",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rohff/Le-Virus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rohff/Le-Virus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:05:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 967835,
+            "track_name": "Le Tango du cachalot",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 375281,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10300088,
+            "album_name": "Cante el' Nord",
+            "artist_id": 1244,
+            "artist_name": "Renaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Renaud/Le-tango-du-cachalot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Renaud/Le-tango-du-cachalot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T17:05:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93187290,
+            "track_name": "Menos, Mas (Vers ta voix)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 14887363,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21473677,
+            "album_name": "Frágil",
+            "artist_id": 18997,
+            "artist_name": "Ana Torroja",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ana-Torroja/Menos-Mas-Vers-Ta-Voix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ana-Torroja/Menos-Mas-Vers-Ta-Voix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T08:17:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1117,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Pop in Spanish",
+                    "music_genre_name_extended": "Latin / Pop in Spanish",
+                    "music_genre_vanity": "Latin-Pop-in-Spanish"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19423328,
+            "track_name": "La Légende de la nonne",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 375251,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10278645,
+            "album_name": "Renaud chante Brassens",
+            "artist_id": 1244,
+            "artist_name": "Renaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Renaud/La-L%C3%A9gende-de-la-nonne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Renaud/La-L%C3%A9gende-de-la-nonne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-10-05T22:55:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93187284,
+            "track_name": "Me Basta Con Creer (Mes prieres)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 14887362,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21473677,
+            "album_name": "Frágil",
+            "artist_id": 18997,
+            "artist_name": "Ana Torroja",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ana-Torroja/Me-Basta-Con-Creer-Mes-Prieres?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ana-Torroja/Me-Basta-Con-Creer-Mes-Prieres/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-16T06:16:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1117,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Pop in Spanish",
+                    "music_genre_name_extended": "Latin / Pop in Spanish",
+                    "music_genre_vanity": "Latin-Pop-in-Spanish"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189044244,
+            "track_name": "Mon européenne",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 104527349,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25825043,
+            "album_name": "Le manifeste 2016 2019 : Ni dieu ni maître",
+            "artist_id": 1234,
+            "artist_name": "Sáez",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Saez/Mon-europ%C3%A9enne-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Saez/Mon-europ%C3%A9enne-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-24T18:49:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 180058110,
+            "track_name": "Pardon maman",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 98951250,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 10,
+            "album_id": 34084290,
+            "album_name": "Pardon maman",
+            "artist_id": 35596498,
+            "artist_name": "RK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/RK-25/Pardon-maman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/RK-25/Pardon-maman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-27T15:29:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84370418,
+            "track_name": "Narco",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 44928926,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20901093,
+            "album_name": "Requiem",
+            "artist_id": 28262282,
+            "artist_name": "Lino feat. Niro & Sofiane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lino-Niro-Sofiane/Narco?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lino-Niro-Sofiane/Narco/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T21:24:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 148603847,
+            "track_name": "La nuit m'appelle (Remasterisé)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 82615032,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28621627,
+            "album_name": "Le cactus de Sibérie (Remasterisé)",
+            "artist_id": 14681,
+            "artist_name": "Oxmo Puccino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/La-nuit-m-appelle-Remasteris%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/La-nuit-m-appelle-Remasteris%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-10T13:10:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101922226,
+            "track_name": "Andalouse (Live Version)",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 56041543,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22247405,
+            "album_name": "2016: Au rendez-vous des Enfoirés",
+            "artist_id": 15532,
+            "artist_name": "Les Enfoirés",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Enfoir%C3%A9s/Andalouse-Live-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Enfoir%C3%A9s/Andalouse-Live-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-19T03:02:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 102085388,
+            "track_name": "Symphonie pour Caza",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1807381,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22264492,
+            "album_name": "La grand-messe",
+            "artist_id": 17163,
+            "artist_name": "Les Cowboys Fringants",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Cowboys-Fringants/Symphonie-pour-Caza?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Cowboys-Fringants/Symphonie-pour-Caza/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:09:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34706378,
+            "track_name": "Xv Barbare",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 14145590,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 15554355,
+            "album_name": "Un Petit Pas Pour Lemsi",
+            "artist_id": 24785519,
+            "artist_name": "Hayce Lemsi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hayce-Lemsi/Xv-Barbare?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hayce-Lemsi/Xv-Barbare/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-15T10:06:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161615052,
+            "track_name": "Mon Européenne",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 70903598,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 30732341,
+            "album_name": "Le Manifeste (Vol. 1 Mon Européenne, Vol. 2 Lulu, Vol. 3 Les bords de Seine) [Extraits]",
+            "artist_id": 1234,
+            "artist_name": "Sáez",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Saez/Mon-Europ%C3%A9enne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Saez/Mon-Europ%C3%A9enne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-13T15:41:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74171940,
+            "track_name": "Made in France",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1806317,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19704331,
+            "album_name": "Une vie d'amour (Best Of)",
+            "artist_id": 17148,
+            "artist_name": "Mireille Mathieu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Made-In-France?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Made-In-France/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:09:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 76322854,
+            "track_name": "L'oriental",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 2532898,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 29,
+            "album_id": 19971409,
+            "album_name": "Le meilleur d'Enrico Macias",
+            "artist_id": 35328,
+            "artist_name": "Enrico Macias",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-Oriental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-Oriental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-06T09:47:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185636876,
+            "track_name": "Fumier en chef",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 101531394,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 35375089,
+            "album_name": "NHB",
+            "artist_id": 26404879,
+            "artist_name": "Benash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Benash/Fumier-en-chef?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Benash/Fumier-en-chef/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-14T15:12:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101507068,
+            "track_name": "La Casa Del Sol",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 2532903,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22204297,
+            "album_name": "Master Serie Vol 1",
+            "artist_id": 35328,
+            "artist_name": "Enrico Macias",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/La-casa-del-sol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/La-casa-del-sol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:02:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 142014814,
+            "track_name": "Monsieur Pagnol",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 78789978,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27611128,
+            "album_name": "Made in France",
+            "artist_id": 17148,
+            "artist_name": "Mireille Mathieu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Monsieur-Pagnol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Monsieur-Pagnol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-08T13:35:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15481271,
+            "track_name": "L'Oriental (On m'apelle l'oriental)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 2532901,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11009457,
+            "album_name": "Smile Style 3",
+            "artist_id": 35328,
+            "artist_name": "Enrico Macias",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-Oriental-On-M-Apelle-L-Oriental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-Oriental-On-M-Apelle-L-Oriental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-24T00:29:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2902037,
+            "track_name": "La nuit m'appelle",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 11204750,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13796270,
+            "album_name": "Le Cactus de Sibérie",
+            "artist_id": 14681,
+            "artist_name": "Oxmo Puccino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/La-nuit-m-appelle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Oxmo-Puccino/La-nuit-m-appelle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-12T18:08:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 101507021,
+            "track_name": "L'oriental - on m'appelle l'oriental",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 13329477,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22204294,
+            "album_name": "20 Chansons D'or",
+            "artist_id": 35328,
+            "artist_name": "Enrico Macias",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-oriental-On-M-appelle-L-oriental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-oriental-On-M-appelle-L-oriental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-01T15:59:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53553001,
+            "track_name": "L'oriental (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 25776215,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17112656,
+            "album_name": "Les premiers succès d'Enrico Macias (Remastered)",
+            "artist_id": 35328,
+            "artist_name": "Enrico Macias",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-oriental-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enrico-Macias/L-oriental-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T17:38:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115049362,
+            "track_name": "A la vie, à l'armor",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 63436335,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23999119,
+            "album_name": "Country Club",
+            "artist_id": 168226,
+            "artist_name": "Les Fatals Picards",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Fatals-Picards/A-la-vie-%C3%A0-l-Armor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Fatals-Picards/A-la-vie-%C3%A0-l-Armor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-04T09:55:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 10212314,
+            "track_name": "La Légende de la nonne",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1489645,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11083892,
+            "album_name": "Barbara chante Brassens",
+            "artist_id": 12407,
+            "artist_name": "Barbara",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Barbara/La-L%C3%A9gende-de-la-nonne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Barbara/La-L%C3%A9gende-de-la-nonne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T03:16:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83078876,
+            "track_name": "Zanotti",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 44143985,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20772584,
+            "album_name": "Johnny Niuum ne meurt jamais",
+            "artist_id": 13943369,
+            "artist_name": "Sadek",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sadek/Zanotti?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sadek/Zanotti/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-20T19:38:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3378611,
+            "track_name": "Un été",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 3358514,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10495947,
+            "album_name": "Hombre et lumière",
+            "artist_id": 69644,
+            "artist_name": "Claude Nougaro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Claude-Nougaro/Un-%C3%A9t%C3%A9?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Claude-Nougaro/Un-%C3%A9t%C3%A9/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:33:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31981032,
+            "track_name": "Grand plongeoir",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 12516615,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11337683,
+            "album_name": "Les amants parallèles",
+            "artist_id": 26571,
+            "artist_name": "Vincent Delerm",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vincent-Delerm/Grand-plongeoir?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vincent-Delerm/Grand-plongeoir/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-26T18:12:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 153057917,
+            "track_name": "Conchita",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 85266060,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29332441,
+            "album_name": "J'assume tout",
+            "artist_id": 99677,
+            "artist_name": "Patrick Sébastien",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patrick-Sebastien/Conchita?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patrick-Sebastien/Conchita/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-16T13:27:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115758060,
+            "track_name": "Bordeaux",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 63883199,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 24072909,
+            "album_name": "Où sont passés nos rêves",
+            "artist_id": 41119,
+            "artist_name": "Serge Lama",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Serge-Lama/Bordeaux?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Serge-Lama/Bordeaux/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-11T17:28:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8212873,
+            "track_name": "Clac-clac",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 8642078,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10931495,
+            "album_name": "D'où je viens",
+            "artist_id": 271038,
+            "artist_name": "Mac Tyer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mac-Tyer/Clac-clac?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mac-Tyer/Clac-clac/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T22:04:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35215538,
+            "track_name": "On en revient au même",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 14509136,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15590079,
+            "album_name": "Petit bonhomme",
+            "artist_id": 13816334,
+            "artist_name": "Demi Portion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Demi-Portion/On-en-revient-au-m%C3%AAme?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Demi-Portion/On-en-revient-au-m%C3%AAme/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-26T20:26:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 110137839,
+            "track_name": "En remontant le fleuve - Live",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 60439247,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23329362,
+            "album_name": "VIXI Tour XVII",
+            "artist_id": 28852001,
+            "artist_name": "Hubert Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine-2/En-remontant-le-fleuve-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine-2/En-remontant-le-fleuve-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-23T07:30:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 148363413,
+            "track_name": "Misère",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 82468188,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 7,
+            "album_id": 28578799,
+            "album_name": "OPN",
+            "artist_id": 32190741,
+            "artist_name": "Enima",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Enima/Mis%C3%A8re?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Enima/Mis%C3%A8re/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-11T14:39:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80743204,
+            "track_name": "En remontant le fleuve",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 40791861,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20505696,
+            "album_name": "Stratégie de l'inespoir",
+            "artist_id": 8772,
+            "artist_name": "Hubert-Félix Thiéfaine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/En-remontant-le-fleuve?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hubert-F%C3%A9lix-Thi%C3%A9faine/En-remontant-le-fleuve/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-29T19:59:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1673 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.078146934509277,
+      "available": 282
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 86796099,
+            "track_name": "Lagunas Metales",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 39799349,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 845,
+            "album_id": 21062010,
+            "album_name": "Agua Maldita",
+            "artist_id": 6589,
+            "artist_name": "Molotov",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Molotov/Lagunas-Metales?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Molotov/Lagunas-Metales/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-25T09:45:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1121,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Alternative & Rock in Spanish",
+                    "music_genre_name_extended": "Latin / Alternative & Rock in Spanish",
+                    "music_genre_vanity": "Latin-Alternative-Rock-in-Spanish"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84266459,
+            "track_name": "Ganó Holanda, Perdió China",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 47343548,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 305,
+            "album_id": 20889924,
+            "album_name": "Historias de la Calle",
+            "artist_id": 13785174,
+            "artist_name": "Calibre 50",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Calibre-50/Gan%C3%B3-Holanda-Perdi%C3%B3-China?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Calibre-50/Gan%C3%B3-Holanda-Perdi%C3%B3-China/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-16T21:38:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1123,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Regional Mexicano",
+                    "music_genre_name_extended": "Latin / Regional Mexicano",
+                    "music_genre_vanity": "Latin-Regional-Mexicano"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72476766,
+            "track_name": "Lit (Bonus Track)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 39716527,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 19574230,
+            "album_name": "Last Winter",
+            "artist_id": 27796334,
+            "artist_name": "Bas feat. J Cole & K-Quick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole-K-Quick/Lit-Bonus-Track?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole-K-Quick/Lit-Bonus-Track/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-09T18:24:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72830627,
+            "track_name": "Lit",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 39892082,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 48,
+            "album_id": 19605970,
+            "album_name": "BET Presents Music Matters, Vol. 1",
+            "artist_id": 27796334,
+            "artist_name": "Bas feat. J Cole & K-Quick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole-K-Quick/Lit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bas-feat-J-Cole-K-Quick/Lit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-20T22:18:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123995833,
+            "track_name": "Ninguno Se Monta (feat. Anuel Aa, Tempo, Juanka, Lito Kirino & Bryant Myers)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 68631910,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 34,
+            "album_id": 25290388,
+            "album_name": "La Verdadera Vuelta",
+            "artist_id": 32915330,
+            "artist_name": "Darell, Anuel Aa, Tempo, Juanka, Lito Kirino & Bryant Myers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Darell-Anuel-Aa-Tempo-Juanka-Lito-Kirino-Bryant-Myers/Ninguno-Se-Monta-feat-Anuel-Aa-Tempo-Juanka-Lito-Kirino-Bryant-Myers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Darell-Anuel-Aa-Tempo-Juanka-Lito-Kirino-Bryant-Myers/Ninguno-Se-Monta-feat-Anuel-Aa-Tempo-Juanka-Lito-Kirino-Bryant-Myers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-20T22:32:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114692100,
+            "track_name": "Ninguno Se Monta (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 63219215,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 172,
+            "album_id": 23961309,
+            "album_name": "Reggaeton Italia: Trap Hits, Vol. 1",
+            "artist_id": 32088934,
+            "artist_name": "Anuel AA, Arcángel, Bryant Myers, Darell, Ñengo Flow, Tempo, Lito Kirino, Juanka El Problematik & Tali",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anuel-AA-Arc%C3%A1ngel-Bryant-Myers-Darell-%C3%91engo-Flow-Tempo-Lito-Kirino-Juanka-El-Problematik-Tali/Ninguno-Se-Monta-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anuel-AA-Arc%C3%A1ngel-Bryant-Myers-Darell-%C3%91engo-Flow-Tempo-Lito-Kirino-Juanka-El-Problematik-Tali/Ninguno-Se-Monta-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-21T15:56:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91297019,
+            "track_name": "El Comandante De Interpol",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 30358676,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21342558,
+            "album_name": "Ayer, Hoy y Siempre Corridos Vol.1",
+            "artist_id": 17312,
+            "artist_name": "Los Tucanes de Tijuana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Los-Tucanes-De-Tijuana/El-Comandante-De-Interpol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Los-Tucanes-De-Tijuana/El-Comandante-De-Interpol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-25T17:01:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1123,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Regional Mexicano",
+                    "music_genre_name_extended": "Latin / Regional Mexicano",
+                    "music_genre_vanity": "Latin-Regional-Mexicano"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80754637,
+            "track_name": "Maria Salvador",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 44917885,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 316,
+            "album_id": 20506404,
+            "album_name": "Il bello d'esser brutti",
+            "artist_id": 28450999,
+            "artist_name": "J-Ax con Il Cile",
+            "track_share_url": "https://www.musixmatch.com/lyrics/J-Ax-con-Il-Cile/Maria-Salvador?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/J-Ax-con-Il-Cile/Maria-Salvador/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-15T15:28:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77774803,
+            "track_name": "I Travel (Remaster 2013)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 42559571,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20165987,
+            "album_name": "Celebrate: The Collection",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Remaster-2013?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Remaster-2013/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-16T10:47:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88225153,
+            "track_name": "Ola De Frio - Inédito",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 13697553,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21143216,
+            "album_name": "19 Dias Y 500 Noches",
+            "artist_id": 9281,
+            "artist_name": "Joaquín Sabina",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Ola-de-Fr%C3%ADo-In%C3%A9dito?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Ola-de-Fr%C3%ADo-In%C3%A9dito/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-18T16:01:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1121,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Alternative & Rock in Spanish",
+                    "music_genre_name_extended": "Latin / Alternative & Rock in Spanish",
+                    "music_genre_vanity": "Latin-Alternative-Rock-in-Spanish"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88225049,
+            "track_name": "Semos Diferentes",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 1193296,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21143209,
+            "album_name": "Dímelo En La Calle",
+            "artist_id": 9281,
+            "artist_name": "Joaquín Sabina",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Semos-diferentes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joaqu%C3%ADn-Sabina/Semos-diferentes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-18T03:17:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85472081,
+            "track_name": "I Travel - 2002 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 14718271,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20974927,
+            "album_name": "Electrospective",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-2002-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-2002-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-20T18:13:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19830939,
+            "track_name": "I Travel",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 285887,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 14328760,
+            "album_name": "Celebration",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T21:14:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85751324,
+            "track_name": "El Chef de las Cocinas",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 48247023,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 26,
+            "album_id": 20991236,
+            "album_name": "El Chef de las Cocinas",
+            "artist_id": 13953902,
+            "artist_name": "El Komander",
+            "track_share_url": "https://www.musixmatch.com/lyrics/El-Komander/El-Chef-de-las-Cocinas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/El-Komander/El-Chef-de-las-Cocinas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-22T21:59:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 152027636,
+            "track_name": "G.O.K.O.U",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 84710842,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 76,
+            "album_id": 29181300,
+            "album_name": "G.O.K.O.U",
+            "artist_id": 24437485,
+            "artist_name": "Kaaris",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kaaris/G-O-K-O-U?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kaaris/G-O-K-O-U/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-30T09:49:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37212340,
+            "track_name": "I Travel (2002 - Remaster)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 43362584,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15725257,
+            "album_name": "Empires and Dance (Remastered)",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-2002-Remaster-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-2002-Remaster-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-16T10:47:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34993910,
+            "track_name": "Florentino Ventura",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 7992673,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15573890,
+            "album_name": "Corridos de Pegue",
+            "artist_id": 176702,
+            "artist_name": "Los Invasores de Nuevo León",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Los-Invasores-De-Nuevo-Leo%CC%81n/Florentino-Ventura?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Los-Invasores-De-Nuevo-Leo%CC%81n/Florentino-Ventura/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:31:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1123,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Regional Mexicano",
+                    "music_genre_name_extended": "Latin / Regional Mexicano",
+                    "music_genre_vanity": "Latin-Regional-Mexicano"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73809373,
+            "track_name": "Secreto Mexicano",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 40490254,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19677500,
+            "album_name": "El Karma",
+            "artist_id": 27915874,
+            "artist_name": "Ariel Camacho y Los Plebes Del Rancho",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ariel-Camacho-y-Los-Plebes-Del-Rancho/Secreto-Mexicano?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ariel-Camacho-y-Los-Plebes-Del-Rancho/Secreto-Mexicano/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-06T07:06:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1123,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Regional Mexicano",
+                    "music_genre_name_extended": "Latin / Regional Mexicano",
+                    "music_genre_vanity": "Latin-Regional-Mexicano"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14819965,
+            "track_name": "I Travel (extended version)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 285889,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13851903,
+            "album_name": "I Travel",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-extended-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-extended-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T21:14:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33858527,
+            "track_name": "I Travel (Edit)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 13619216,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15486775,
+            "album_name": "Celebrate Greatest Hits",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-01T09:37:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75051273,
+            "track_name": "Je ne dirai rien",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 36462802,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 30,
+            "album_id": 19790787,
+            "album_name": "Le monde plus gros que mes yeux",
+            "artist_id": 27442541,
+            "artist_name": "Black M feat. The Shin Sekaï & Doomams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-M-feat-The-Shin-Seka%C3%AF-Doomams/Je-ne-dirai-rien?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-M-feat-The-Shin-Seka%C3%AF-Doomams/Je-ne-dirai-rien/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T02:42:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73639629,
+            "track_name": "Je ne dirai rien",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 40434106,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 758,
+            "album_id": 19633121,
+            "album_name": "Les yeux plus gros que le monde",
+            "artist_id": 27911398,
+            "artist_name": "Black M feat. The Shin Sekaï",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-M-feat-The-Shin-Seka%C3%AF/Je-ne-dirai-rien?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-M-feat-The-Shin-Seka%C3%AF/Je-ne-dirai-rien/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-16T07:21:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 191525224,
+            "track_name": "Father God ah Lead",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 105305622,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 16,
+            "album_id": 32359669,
+            "album_name": "Vanquish",
+            "artist_id": 33091644,
+            "artist_name": "Popcaan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Popcaan/Father-God-ah-Lead?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Popcaan/Father-God-ah-Lead/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-23T07:15:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1866,
+                    "music_genre_parent_id": 8053,
+                    "music_genre_name": "Modern Dancehall",
+                    "music_genre_name_extended": "Reggae / Modern Dancehall",
+                    "music_genre_vanity": "Reggae-Modern-Dancehall"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37211666,
+            "track_name": "I Travel (Extended Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 13724736,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15725218,
+            "album_name": "Themes, Vol. 1: March 79 - April 82",
+            "artist_id": 970,
+            "artist_name": "Simple Minds",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Extended-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simple-Minds/I-Travel-Extended-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-01T09:37:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86581494,
+            "track_name": "Rolex Daytona",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47416326,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19506412,
+            "album_name": "King",
+            "artist_id": 28882067,
+            "artist_name": "Kollegah feat. The Game",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kollegah-feat-The-Game/Rolex-Daytona?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kollegah-feat-The-Game/Rolex-Daytona/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-25T21:15:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84370714,
+            "track_name": "Je ne dirai rien",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 47418892,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 59,
+            "album_id": 20901119,
+            "album_name": "Les yeux plus gros que le monde",
+            "artist_id": 28883318,
+            "artist_name": "Black M feat. Shin Sekaï & Doomams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-M-feat-Shin-Seka%C3%AF-Doomams-2/Je-ne-dirai-rien?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-M-feat-Shin-Seka%C3%AF-Doomams-2/Je-ne-dirai-rien/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-12T08:35:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30084367,
+            "track_name": "Computerwelt 2",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 94509,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13752739,
+            "album_name": "Computerwelt",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-02-09T12:19:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68766480,
+            "track_name": "Computer World (2009 - Remaster)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 37029477,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19060188,
+            "album_name": "Computer World (Remastered)",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2009-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2009-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-20T05:37:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84297011,
+            "track_name": "Je ne dirai rien - Live",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 47375576,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20808237,
+            "album_name": "Les yeux plus gros que l'Olympia (Live)",
+            "artist_id": 28858450,
+            "artist_name": "Black M feat. Shinsekai",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Black-M-feat-Shinsekai/Je-ne-dirai-rien-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Black-M-feat-Shinsekai/Je-ne-dirai-rien-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-29T13:42:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 41598569,
+            "track_name": "Computer World",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 94512,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 15999841,
+            "album_name": "Computer World",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerworld?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerworld/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-27T12:51:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94012137,
+            "track_name": "Computer World - Live",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 52055403,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21534927,
+            "album_name": "Minimum - Maximum",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-23T13:26:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68766484,
+            "track_name": "Computer World 2 (2009 - Remaster)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 37029478,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19060188,
+            "album_name": "Computer World (Remastered)",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2-2009-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2-2009-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-06-12T08:37:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157259768,
+            "track_name": "No Tube Zone",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 87443033,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 29972926,
+            "album_name": "NQNT33",
+            "artist_id": 24844942,
+            "artist_name": "Vald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vald-3/No-Tube-Zone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vald-3/No-Tube-Zone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-17T15:41:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30505319,
+            "track_name": "Bodyguard",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 8596203,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10884622,
+            "album_name": "Juice, Volume 88",
+            "artist_id": 264385,
+            "artist_name": "Kollegah",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kollegah/Bodyguard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kollegah/Bodyguard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-12-27T16:40:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91252849,
+            "track_name": "Street Fighter - Instrumental",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 50885331,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21339088,
+            "album_name": "Ave Fénix Instrumentales",
+            "artist_id": 480046,
+            "artist_name": "Santaflow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Santaflow/Street-Fighter-Instrumental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Santaflow/Street-Fighter-Instrumental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-11T22:37:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128435210,
+            "track_name": "Wer weiß das schon",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 71004293,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25918913,
+            "album_name": "A.S.S.N.",
+            "artist_id": 33366486,
+            "artist_name": "AK Ausserkontrolle feat. Capital Bra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/AK-Ausserkontrolle-feat-Capital-Bra/Wer-wei%C3%9F-das-schon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/AK-Ausserkontrolle-feat-Capital-Bra/Wer-wei%C3%9F-das-schon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-16T15:35:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84279686,
+            "track_name": "Lit - Bonus",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 47372806,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 33,
+            "album_id": 20891257,
+            "album_name": "Last Winter",
+            "artist_id": 27869106,
+            "artist_name": "Bas feat. J. Cole & K-Quick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bas-J-Cole-K-Quick/Lit-Bonus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bas-J-Cole-K-Quick/Lit-Bonus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-26T20:35:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94012187,
+            "track_name": "Computer World 2 - 2009 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 52055413,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21534932,
+            "album_name": "Computer World (2009 Remastered Version)",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2-2009-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2-2009-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-22T16:50:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149417800,
+            "track_name": "Puta y Pistola",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 83062688,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 28747967,
+            "album_name": "El Alfa y el Omega",
+            "artist_id": 13913481,
+            "artist_name": "Kendo Kaponi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kendo-Kaponi/Puta-y-Pistola?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kendo-Kaponi/Puta-y-Pistola/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-16T05:57:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1074,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Latin Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Latin Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Latin-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30084363,
+            "track_name": "Computerwelt",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 94503,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 13752739,
+            "album_name": "Computerwelt",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:14:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2632743,
+            "track_name": "Dossier du jour",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 2753133,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10433732,
+            "album_name": "V12",
+            "artist_id": 42248,
+            "artist_name": "Koffi Olomide",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Koffi-Olomide/Dossier-du-Jour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Koffi-Olomide/Dossier-du-Jour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-23T11:15:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1203,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Africa",
+                    "music_genre_name_extended": "World / Africa",
+                    "music_genre_vanity": "World-Africa"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94012184,
+            "track_name": "Computer World - 2009 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 52055419,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21534932,
+            "album_name": "Computer World (2009 Remastered Version)",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2009-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computer-World-2009-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-26T03:34:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30139602,
+            "track_name": "Kalachnikov Love",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 373145,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12,
+            "album_id": 13843815,
+            "album_name": "Jérusalem",
+            "artist_id": 1230,
+            "artist_name": "Alpha Blondy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alpha-Blondy/Kalachnikov-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alpha-Blondy/Kalachnikov-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-12T11:35:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158569120,
+            "track_name": "Minotaurusnacken",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 88150388,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30172072,
+            "album_name": "Jung Brutal Gutaussehend XXX",
+            "artist_id": 37317054,
+            "artist_name": "Kollegah & Farid Bang",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kollegah-Farid-Bang/Minotaurusnacken?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kollegah-Farid-Bang/Minotaurusnacken/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-12-11T03:01:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126382262,
+            "track_name": "Gano Holanda Perdió China (En Vivo)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 70061811,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25639727,
+            "album_name": "Corridos en Vivo, Vol. 2",
+            "artist_id": 28928420,
+            "artist_name": "Banda Renovacion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Banda-Renovacion/Gano-Holanda-Perdio-China-En-Vivo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Banda-Renovacion/Gano-Holanda-Perdio-China-En-Vivo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-13T08:40:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1123,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Regional Mexicano",
+                    "music_genre_name_extended": "Latin / Regional Mexicano",
+                    "music_genre_vanity": "Latin-Regional-Mexicano"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94012198,
+            "track_name": "Computerwelt - 2009 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 52055424,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21534934,
+            "album_name": "Computerwelt (2009 Remastered Version)",
+            "artist_id": 238,
+            "artist_name": "Kraftwerk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt-2009-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kraftwerk/Computerwelt-2009-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-22T16:50:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78421959,
+            "track_name": "J'donne ça",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 43519096,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20232294,
+            "album_name": "L'homme au bob",
+            "artist_id": 28298527,
+            "artist_name": "Gradur feat. Alonzo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gradur-feat-Alonzo/J-donne-%C3%A7a?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gradur-feat-Alonzo/J-donne-%C3%A7a/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-01T15:59:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78186666,
+            "track_name": "LV Don II",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 43353903,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 15,
+            "album_id": 20213369,
+            "album_name": "Compilation",
+            "artist_id": 50211,
+            "artist_name": "Tempo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tempo/LV-Don-II?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tempo/LV-Don-II/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-19T11:28:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72005749,
+            "track_name": "Rolex Daytona",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 39442342,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 19506412,
+            "album_name": "King",
+            "artist_id": 27748214,
+            "artist_name": "Kollegah feat. Game",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kollegah-feat-Game/Rolex-Daytona?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kollegah-feat-Game/Rolex-Daytona/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-05-09T17:19:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14763957,
+            "track_name": "Dankbar",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 9814689,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13849109,
+            "album_name": "Jenseits von Gut und Böse",
+            "artist_id": 53039,
+            "artist_name": "Bushido",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bushido/Dankbar?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bushido/Dankbar/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T04:44:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

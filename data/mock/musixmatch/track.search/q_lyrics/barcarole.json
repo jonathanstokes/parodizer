@@ -1,0 +1,701 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.042207002639771,
+      "available": 19
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 94357238,
+            "track_name": "Gondolier",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 284912,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 21560962,
+            "album_name": "Master Serie Vol 1",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-18T11:35:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3218494,
+            "track_name": "Jive Connie",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1404317,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10482305,
+            "album_name": "Party Power",
+            "artist_id": 11362,
+            "artist_name": "Connie Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-01T23:15:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 97366430,
+            "track_name": "Jive Connie - 12\" Version",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1404318,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21813015,
+            "album_name": "Jive Connie, Jive!",
+            "artist_id": 11362,
+            "artist_name": "Connie Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-12-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-12-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-01T23:15:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57046673,
+            "track_name": "Barcarole in der Nacht",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1404076,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17472099,
+            "album_name": "Sings German Favorites",
+            "artist_id": 11362,
+            "artist_name": "Connie Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Barcarole-in-der-Nacht?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Barcarole-in-der-Nacht/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T05:46:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000066,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Pop",
+                    "music_genre_name_extended": "German Pop",
+                    "music_genre_vanity": "German-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98015448,
+            "track_name": "Barcarole",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 19044860,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21868028,
+            "album_name": "Bonjour Mireille",
+            "artist_id": 17148,
+            "artist_name": "Mireille Mathieu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Barcarole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mireille-Mathieu/Barcarole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-20T02:09:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19040223,
+            "track_name": "Scientists In Japan",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 10543328,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14174064,
+            "album_name": "Invisible Empires",
+            "artist_id": 14032,
+            "artist_name": "Sara Groves",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sara-Groves/Scientists-in-Japan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sara-Groves/Scientists-in-Japan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-24T16:37:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2009815,
+            "track_name": "Barcarole (For the Death of Venice)",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 766152,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10383349,
+            "album_name": "Burning for You",
+            "artist_id": 6539,
+            "artist_name": "Strawbs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Strawbs/Barcarole-For-the-Death-of-Venice?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Strawbs/Barcarole-For-the-Death-of-Venice/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-18T08:41:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1065,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Folk-Rock",
+                    "music_genre_name_extended": "Singer/Songwriter / Folk-Rock",
+                    "music_genre_vanity": "Singer-Songwriter-Folk-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78518493,
+            "track_name": "Gondolier (Live, Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 43564511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20243691,
+            "album_name": "Un soir à Paris (Live, Remastered)",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-19T15:56:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3218501,
+            "track_name": "Jive Connie (maxi version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1404320,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10482305,
+            "album_name": "Party Power",
+            "artist_id": 11362,
+            "artist_name": "Connie Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-maxi-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-maxi-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-01T23:15:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7413174,
+            "track_name": "Jive Connie (7\" version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1404319,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10857959,
+            "album_name": "Jive Connie",
+            "artist_id": 11362,
+            "artist_name": "Connie Francis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-7-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Connie-Francis/Jive-Connie-7-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-01T23:15:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 43745413,
+            "track_name": "Gondolier (Live March 6, 1958)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18836202,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16134926,
+            "album_name": "Live in Paris",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live-March-6-1958?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live-March-6-1958/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-11T15:52:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4284670,
+            "track_name": "Barcarole vom Abschied",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1900905,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13833283,
+            "album_name": "Die berühmten drei Worte",
+            "artist_id": 18920,
+            "artist_name": "Andy Borg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Andy-Borg/Barcarole-vom-Abschied?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Andy-Borg/Barcarole-vom-Abschied/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:20:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000066,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Pop",
+                    "music_genre_name_extended": "German Pop",
+                    "music_genre_vanity": "German-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000068,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Folk",
+                    "music_genre_name_extended": "German Folk",
+                    "music_genre_vanity": "German-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 43448930,
+            "track_name": "Gondolier (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18700097,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16117103,
+            "album_name": "Vive le vent (Remastered)",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-11T15:52:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 42205670,
+            "track_name": "Gondolier (Digitally Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 18078058,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16036631,
+            "album_name": "Gondolier",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Digitally-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Digitally-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-09T18:04:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77308630,
+            "track_name": "Gondolier (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26530746,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20102478,
+            "album_name": "Best of Dalida (Mono Version)",
+            "artist_id": 967,
+            "artist_name": "Dalida",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Gondolier-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-01T22:56:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30369880,
+            "track_name": "Barcarole d'amore",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7341920,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13775981,
+            "album_name": "Doch die Sehnsucht bleibt",
+            "artist_id": 114069,
+            "artist_name": "Kastelruther Spatzen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kastelruther-Spatzen/Barcarole-d-amore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kastelruther-Spatzen/Barcarole-d-amore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:46:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000068,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "German Folk",
+                    "music_genre_name_extended": "German Folk",
+                    "music_genre_vanity": "German-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 67091671,
+            "track_name": "Barcarole in Der Nacht (In the Style of Connie Francis) [Karaoke Version]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 37694643,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18813774,
+            "album_name": "Karaoke - Schlager",
+            "artist_id": 24611598,
+            "artist_name": "Ameritz Countdown Karaoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ameritz-Countdown-Karaoke/Barcarole-in-Der-Nacht-In-the-Style-of-Connie-Francis-Karaoke-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ameritz-Countdown-Karaoke/Barcarole-in-Der-Nacht-In-the-Style-of-Connie-Francis-Karaoke-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-16T16:16:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32456261,
+            "track_name": "Gondolier (In the Style of Dalida) [Karaoke Version]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12722252,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15360365,
+            "album_name": "Karaoke - In the Style of Dalida",
+            "artist_id": 24497386,
+            "artist_name": "Ameritz - Karaoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ameritz-Karaoke/Gondolier-In-the-Style-of-Dalida-Karaoke-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ameritz-Karaoke/Gondolier-In-the-Style-of-Dalida-Karaoke-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-18T16:56:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 67726474,
+            "track_name": "Jive Connie (In the Style of Connie Francis) [Karaoke Version]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 37708397,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18910497,
+            "album_name": "Karaoke Hits from 1992, Vol. 5",
+            "artist_id": 24611598,
+            "artist_name": "Ameritz Countdown Karaoke",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ameritz-Countdown-Karaoke/Jive-Connie-In-the-Style-of-Connie-Francis-Karaoke-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ameritz-Countdown-Karaoke/Jive-Connie-In-the-Style-of-Connie-Francis-Karaoke-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-16T22:44:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

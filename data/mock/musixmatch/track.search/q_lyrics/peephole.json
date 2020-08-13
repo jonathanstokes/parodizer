@@ -1,0 +1,1510 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.090293884277344,
+      "available": 533
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 200363633,
+            "track_name": "man i is",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 113839808,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 39279713,
+            "album_name": "No Pressure",
+            "artist_id": 14303010,
+            "artist_name": "Logic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Logic-1/man-i-is?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Logic-1/man-i-is/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T07:29:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 193961506,
+            "track_name": "Yessirskiii",
+            "track_name_translation_list": [],
+            "track_rating": 76,
+            "commontrack_id": 108344327,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 25,
+            "album_id": 37147937,
+            "album_name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+            "artist_id": 44739012,
+            "artist_name": "Lil Uzi Vert feat. 21 Savage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert-21-Savage/Yessirskiii?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Uzi-Vert-21-Savage/Yessirskiii/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-14T06:58:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200845808,
+            "track_name": "PEEP HOLE",
+            "track_name_translation_list": [],
+            "track_rating": 68,
+            "commontrack_id": 114269062,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 39454943,
+            "album_name": "BLAME IT ON BABY (DELUXE)",
+            "artist_id": 32769092,
+            "artist_name": "DaBaby",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DaBaby/PEEP-HOLE?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DaBaby/PEEP-HOLE/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-05T13:24:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32120870,
+            "track_name": "No Love",
+            "track_name_translation_list": [],
+            "track_rating": 50,
+            "commontrack_id": 39794608,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3157,
+            "album_id": 11345563,
+            "album_name": "Recovery",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/No-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/No-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-31T01:15:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 201234768,
+            "track_name": "Camelot",
+            "track_name_translation_list": [],
+            "track_rating": 45,
+            "commontrack_id": 104582384,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 26,
+            "album_id": 39576605,
+            "album_name": "Top Shotta",
+            "artist_id": 37519638,
+            "artist_name": "NLE Choppa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-18T13:15:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19799712,
+            "track_name": "No Love (Explicit)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 9132373,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 213,
+            "album_id": 12932022,
+            "album_name": "CD Pool - Radio (2010-11)",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/No-Love-Explicit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/No-Love-Explicit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-08T16:18:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18066918,
+            "track_name": "No Love (explicit)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 11205666,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1054,
+            "album_id": 14100370,
+            "album_name": "No Love",
+            "artist_id": 13862695,
+            "artist_name": "Eminem feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-explicit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-explicit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-19T18:21:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84457626,
+            "track_name": "No Love - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 47513355,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20908364,
+            "album_name": "No Love",
+            "artist_id": 13862695,
+            "artist_name": "Eminem feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-03T13:10:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32047801,
+            "track_name": "No Love",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 12542180,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 851,
+            "album_id": 11341045,
+            "album_name": "No Love",
+            "artist_id": 13861576,
+            "artist_name": "Lil Wayne feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Eminem/No-Love?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Eminem/No-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-09-18T20:24:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85341162,
+            "track_name": "Big Brother",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 3118487,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 168,
+            "album_id": 20965858,
+            "album_name": "Graduation (UK Version)",
+            "artist_id": 33091467,
+            "artist_name": "Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kanye-West/Big-Brother?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kanye-West/Big-Brother/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-06T16:24:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 125150436,
+            "track_name": "Burning Man",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 69280321,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 65,
+            "album_id": 25451063,
+            "album_name": "Burning Man",
+            "artist_id": 33033011,
+            "artist_name": "watt feat. Post Malone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Watt-feat-Post-Malone/Burning-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Watt-feat-Post-Malone/Burning-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-30T11:06:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18066919,
+            "track_name": "No Love (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 11205665,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14100370,
+            "album_name": "No Love",
+            "artist_id": 13862695,
+            "artist_name": "Eminem feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Lil-Wayne/No-Love-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-09-13T08:00:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 144609393,
+            "track_name": "Burning Man (with Post Malone)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 80312430,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 27986843,
+            "album_name": "Burning Man (with Post Malone)",
+            "artist_id": 33033011,
+            "artist_name": "watt feat. Post Malone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Watt-feat-Post-Malone/Burning-Man-with-Post-Malone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Watt-feat-Post-Malone/Burning-Man-with-Post-Malone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-26T10:29:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158535519,
+            "track_name": "Start This S**t Off Right (feat. Ashanti & Mack Maine)",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 88142883,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 30168939,
+            "album_name": "Tha Carter V",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Ashanti-Mack-Maine-2/Start-This-S-t-Off-Right?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Ashanti-Mack-Maine-2/Start-This-S-t-Off-Right/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T02:24:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1069,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Dirty South",
+                    "music_genre_name_extended": "Hip Hop/Rap / Dirty South",
+                    "music_genre_vanity": "Hip-Hop-Rap-Dirty-South"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 140621091,
+            "track_name": "Dat Side",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 77264938,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 31,
+            "album_id": 27442899,
+            "album_name": "No Dope On Sundays",
+            "artist_id": 34625828,
+            "artist_name": "CyHi The Prynce feat. Kanye West",
+            "track_share_url": "https://www.musixmatch.com/lyrics/CyHi-The-Prynce-feat-Kanye-West/Dat-Side?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/CyHi-The-Prynce-feat-Kanye-West/Dat-Side/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-02T09:38:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16096926,
+            "track_name": "I Do",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10341376,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13933697,
+            "album_name": "Thug Motivation 103: Hustlerz Ambition",
+            "artist_id": 13845914,
+            "artist_name": "Young Jeezy feat. Jay-Z, Drake & André 3000",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-Jay-Z-Drake-Andr%C3%A9-3000/I-Do?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-Jay-Z-Drake-Andr%C3%A9-3000/I-Do/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-02T17:45:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 142600037,
+            "track_name": "Marlboros & White Widow",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 79132146,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 27695144,
+            "album_name": "Dark Side of the Clouds",
+            "artist_id": 34931171,
+            "artist_name": "$ feat. Black Smurf, JGrxxn & Rvmirxz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/uicideBoy-feat-Black-Smurf-JGrxxn-Rvmirxz/Marlboros-White-Widow?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/uicideBoy-feat-Black-Smurf-JGrxxn-Rvmirxz/Marlboros-White-Widow/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-19T13:46:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195445600,
+            "track_name": "Andy Warhol (ChangesNowBowie Version)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 109586189,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37641737,
+            "album_name": "ChangesNowBowie",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie-1/Andy-Warhol-ChangesNowBowie-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie-1/Andy-Warhol-ChangesNowBowie-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-01T16:33:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84167397,
+            "track_name": "Andy Warhol",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 139212,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20877506,
+            "album_name": "Hunky Dory (Remastered)",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-15T13:13:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158505398,
+            "track_name": "Start This Shit Off Right",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 88127144,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 89,
+            "album_id": 30165206,
+            "album_name": "Tha Carter V",
+            "artist_id": 36882429,
+            "artist_name": "Lil Wayne feat. Ashanti & Mack Maine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Ashanti-Mack-Maine/Start-This-Shit-Off-Right?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Ashanti-Mack-Maine/Start-This-Shit-Off-Right/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-15T17:05:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17415584,
+            "track_name": "Real Hip Hop #3",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10133284,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13896679,
+            "album_name": "Boy in Detention",
+            "artist_id": 33490897,
+            "artist_name": "Chris Brown",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Brown/Real-Hip-Hop-3?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Brown/Real-Hip-Hop-3/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T12:29:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30806032,
+            "track_name": "Fill Your Heart / Andy Warhol",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 139402,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 13816062,
+            "album_name": "Hunky Dory",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Fill-Your-Heart-Andy-Warhol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Fill-Your-Heart-Andy-Warhol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-04-26T04:59:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17414997,
+            "track_name": "Gladiators",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 10943240,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11050536,
+            "album_name": "May 25th",
+            "artist_id": 13939672,
+            "artist_name": "B.o.B feat. J. Cole",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B-o-B-feat-J-Cole/Gladiators?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B-o-B-feat-J-Cole/Gladiators/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-09-24T13:00:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86362657,
+            "track_name": "Andy Warhol - 2015 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 47001983,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20877506,
+            "album_name": "Hunky Dory (Remastered)",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol-2015-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol-2015-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-01T10:10:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189277724,
+            "track_name": "Camelot (Remix) [feat. Yo Gotti, BlocBoy JB & Moneybagg Yo]",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 104582383,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 36023226,
+            "album_name": "Camelot (Remix) [feat. Yo Gotti, BlocBoy JB & Moneybagg Yo] - Single",
+            "artist_id": 37519638,
+            "artist_name": "NLE Choppa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NLE-Choppa-Yo-Gotti-BlocBoy-JB-Moneybagg-Yo/Camelot-Yo-Gotti-BlocBoy-JB-Moneybagg-Yo-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NLE-Choppa-Yo-Gotti-BlocBoy-JB-Moneybagg-Yo/Camelot-Yo-Gotti-BlocBoy-JB-Moneybagg-Yo-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-03T21:16:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160558471,
+            "track_name": "Negative Energy",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 89461253,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 27,
+            "album_id": 30546089,
+            "album_name": "A Love Letter to You 3",
+            "artist_id": 33337727,
+            "artist_name": "Trippie Redd feat. Kodie Shane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trippie-Redd-feat-Kodie-Shane/Negative-Energy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trippie-Redd-feat-Kodie-Shane/Negative-Energy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-09T10:12:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82220395,
+            "track_name": "Move That Dope",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 45803957,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 252,
+            "album_id": 20700457,
+            "album_name": "Move That Dope",
+            "artist_id": 14059591,
+            "artist_name": "future",
+            "track_share_url": "https://www.musixmatch.com/lyrics/future-4/Move-That-Dope?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/future-4/Move-That-Dope/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-21T20:32:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86362688,
+            "track_name": "Andy Warhol - 1999 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 54960847,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21034125,
+            "album_name": "Hunky Dory",
+            "artist_id": 28856698,
+            "artist_name": "David Bowie feat. Ken Scott",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie-feat-Ken-Scott/Andy-Warhol-1999-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie-feat-Ken-Scott/Andy-Warhol-1999-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-13T06:37:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84523073,
+            "track_name": "I Do",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47548382,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 20911985,
+            "album_name": "TM:103 Hustlerz Ambition (Explicit)",
+            "artist_id": 28926588,
+            "artist_name": "Jeezy, JAY Z & André 3000",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jeezy-JAY-Z-Andr%C3%A9-3000/I-Do?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jeezy-JAY-Z-Andr%C3%A9-3000/I-Do/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-22T23:16:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86362270,
+            "track_name": "Andy Warhol - Live",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 13870904,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21034103,
+            "album_name": "Live In Santa Monica '72",
+            "artist_id": 431,
+            "artist_name": "David Bowie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie/Andy-Warhol-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-28T17:36:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31303878,
+            "track_name": "Claymation",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12286191,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 11309779,
+            "album_name": "Watching Movies With the Sound Off",
+            "artist_id": 24397803,
+            "artist_name": "Mac Miller feat. Vinny Radio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mac-Miller-feat-Vinny-Radio/Claymation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mac-Miller-feat-Vinny-Radio/Claymation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-18T10:30:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16266578,
+            "track_name": "I Do",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10341949,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 64,
+            "album_id": 13934066,
+            "album_name": "Thug Motivation 103: Hustlerz Ambition",
+            "artist_id": 13846101,
+            "artist_name": "Young Jeezy feat. Jay-Z & André 3000",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-Jay-Z-Andr%C3%A9-3000/I-Do?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-Jay-Z-Andr%C3%A9-3000/I-Do/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-22T16:53:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16327639,
+            "track_name": "Watch Yo Back",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10415191,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13947195,
+            "album_name": "G-Unit Radio, Part 22: Hip Hop Is Dead",
+            "artist_id": 33491930,
+            "artist_name": "50 Cent",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent/Watch-Yo-Back?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent/Watch-Yo-Back/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:07:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84284836,
+            "track_name": "Andy Warhol - Mono Single Version, 2015 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 47373971,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20891801,
+            "album_name": "Five Years (1969 - 1973)",
+            "artist_id": 28856698,
+            "artist_name": "David Bowie feat. Ken Scott",
+            "track_share_url": "https://www.musixmatch.com/lyrics/David-Bowie-feat-Ken-Scott/Andy-Warhol-Mono-Single-Version-2015-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/David-Bowie-feat-Ken-Scott/Andy-Warhol-Mono-Single-Version-2015-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-12-14T12:54:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 165684069,
+            "track_name": "Quarter Milli",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 92798709,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 116,
+            "album_id": 31502901,
+            "album_name": "FATHER OF 4",
+            "artist_id": 37791590,
+            "artist_name": "Offset feat. Gucci Mane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Offset-feat-Gucci-Mane/Quarter-Milli?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Offset-feat-Gucci-Mane/Quarter-Milli/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-15T09:25:11Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145097775,
+            "track_name": "King Kong",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 80505919,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 15,
+            "album_id": 28058950,
+            "album_name": "Drip Season 3",
+            "artist_id": 33578275,
+            "artist_name": "Gunna feat. Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gunna-feat-Young-Thug/King-Kong?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gunna-feat-Young-Thug/King-Kong/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-04T12:23:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37150691,
+            "track_name": "Liberation",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 107438,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15344864,
+            "album_name": "Aquemini",
+            "artist_id": 13839622,
+            "artist_name": "OutKast feat. Cee-Lo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/OutKast-feat-Cee-Lo/Liberation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/OutKast-feat-Cee-Lo/Liberation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T20:20:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84402198,
+            "track_name": "Stunna",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 47336803,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 382,
+            "album_id": 20905692,
+            "album_name": "Slime Season",
+            "artist_id": 33492115,
+            "artist_name": "Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Thug/Stunna?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Thug/Stunna/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T14:38:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 125672685,
+            "track_name": "Drop It Off",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 69595717,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25530176,
+            "album_name": "Gelato",
+            "artist_id": 28971172,
+            "artist_name": "Migos feat. Young Dolph",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Migos-feat-Young-Dolph/Drop-It-Off?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Migos-feat-Young-Dolph/Drop-It-Off/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-06T07:28:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18354253,
+            "track_name": "Times Like These",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 8799488,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 25,
+            "album_id": 11005564,
+            "album_name": "Radio 1's Live Lounge, Volume 4",
+            "artist_id": 387036,
+            "artist_name": "The Script",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Script/Times-Like-These?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Script/Times-Like-These/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T22:18:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35317579,
+            "track_name": "I Do",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 13349922,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15597355,
+            "album_name": "TM:103 Hustlerz Ambition",
+            "artist_id": 24654995,
+            "artist_name": "Young Jeezy feat. JAY Z & Andre 3000",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-JAY-Z-Andre-3000-2/I-Do?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-Jeezy-feat-JAY-Z-Andre-3000-2/I-Do/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-11T16:18:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18060731,
+            "track_name": "Watch Yo Back",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 11203144,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10709360,
+            "album_name": "50's Back (Say Something Bitch)",
+            "artist_id": 13843785,
+            "artist_name": "50 Cent feat. Tony Yayo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/50-Cent-feat-Tony-Yayo/Watch-Yo-Back?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/50-Cent-feat-Tony-Yayo/Watch-Yo-Back/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-02-20T09:32:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160709392,
+            "track_name": "Anywhere",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 89125941,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 23,
+            "album_id": 30575953,
+            "album_name": "Oxnard",
+            "artist_id": 37141588,
+            "artist_name": "Anderson .Paak feat. Snoop Dogg & The Last Artful, Dodgr",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Anderson-Paak-feat-Snoop-Dogg-the-Last-Artful-Dodgr/Anywhere?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Anderson-Paak-feat-Snoop-Dogg-the-Last-Artful-Dodgr/Anywhere/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-22T20:19:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159299577,
+            "track_name": "Money Set",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 88618518,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 30268224,
+            "album_name": "Fully Loaded",
+            "artist_id": 36971363,
+            "artist_name": "Shy Glizzy feat. Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shy-Glizzy-feat-Young-Thug/Money-Set?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shy-Glizzy-feat-Young-Thug/Money-Set/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-15T07:41:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85893282,
+            "track_name": "Liberation",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 48326631,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21000898,
+            "album_name": "Aquemini",
+            "artist_id": 13795661,
+            "artist_name": "OutKast feat. Cee-Lo Goodie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/OutKast-feat-Cee-Lo-Goodie/Liberation?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/OutKast-feat-Cee-Lo-Goodie/Liberation/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-07T23:30:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31288042,
+            "track_name": "Chase the Sun",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 11383023,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14255977,
+            "album_name": "The Cool Cafe: Cool Tape, Volume 1",
+            "artist_id": 14005099,
+            "artist_name": "Jaden Smith feat. Josiah Bell",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jaden-Smith-feat-Josiah-Bell/Chase-the-Sun?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jaden-Smith-feat-Josiah-Bell/Chase-the-Sun/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:28:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54987328,
+            "track_name": "Move That Dope",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 47561449,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 295,
+            "album_id": 17249406,
+            "album_name": "Move That Dope",
+            "artist_id": 28930971,
+            "artist_name": "Future feat. Pharrell, Pusha T & Casino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Future-feat-Pharrell-Pusha-T-Casino-2/Move-That-Dope?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Future-feat-Pharrell-Pusha-T-Casino-2/Move-That-Dope/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T16:21:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146836974,
+            "track_name": "BABY DADDY",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 81582893,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 67,
+            "album_id": 28341821,
+            "album_name": "Lil Boat 2",
+            "artist_id": 35508537,
+            "artist_name": "Lil Yachty feat. Lil Pump & Offset",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Yachty-feat-Lil-Pump-Offset/BABY-DADDY?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Yachty-feat-Lil-Pump-Offset/BABY-DADDY/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-09T10:15:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 183423169,
+            "track_name": "Camelot",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 100166613,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 43,
+            "album_id": 34703174,
+            "album_name": "Camelot - Single",
+            "artist_id": 37519638,
+            "artist_name": "NLE Choppa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NLE-Choppa/Camelot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-14T04:00:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137589881,
+            "track_name": "Andy Warhol (Live) - MTV Unplugged, 11/17/93",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 74101167,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27081495,
+            "album_name": "Core (Super Deluxe Edition)",
+            "artist_id": 301,
+            "artist_name": "Stone Temple Pilots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stone-Temple-Pilots/Andy-Warhol-Live-MTV-Unplugged-11-17-93?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stone-Temple-Pilots/Andy-Warhol-Live-MTV-Unplugged-11-17-93/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-27T10:40:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

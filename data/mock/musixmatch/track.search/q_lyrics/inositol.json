@@ -1,0 +1,101 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.053972959518433,
+      "available": 3
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 185455659,
+            "track_name": "Beast Mode",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 101401558,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35329871,
+            "album_name": "Beast Mode - Single",
+            "artist_id": 40374659,
+            "artist_name": "Thuthu",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thuthu/Beast-Mode?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thuthu/Beast-Mode/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T09:44:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192260050,
+            "track_name": "Missed Calls (feat. Kuddy Moneybag)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 106995664,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36689899,
+            "album_name": "Missed Calls",
+            "artist_id": 37981182,
+            "artist_name": "Myriha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Myriha-2/Missed-Calls-Kuddy-Moneybag?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Myriha-2/Missed-Calls-Kuddy-Moneybag/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T23:10:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190794716,
+            "track_name": "The One",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 105850211,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36356595,
+            "album_name": "The Royal Demo",
+            "artist_id": 43333947,
+            "artist_name": "King Syrus",
+            "track_share_url": "https://www.musixmatch.com/lyrics/King-Syrus-1/The-One?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/King-Syrus-1/The-One/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-31T19:48:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

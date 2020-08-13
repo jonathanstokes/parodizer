@@ -1,0 +1,1516 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.12031006813049,
+      "available": 41
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 123352202,
+            "track_name": "Mountains and Marian",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 96138,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25198573,
+            "album_name": "Did She Mention My Name",
+            "artist_id": 244,
+            "artist_name": "Gordon Lightfoot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Mountains-and-Marian?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Mountains-and-Marian/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T07:40:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1062,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Alternative Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Alternative Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Alternative-Folk"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31222896,
+            "track_name": "Back to the Wall",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 922515,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14213092,
+            "album_name": "Copperhead Road",
+            "artist_id": 7302,
+            "artist_name": "Steve Earle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Earle-4/Back-To-The-Wall-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Earle-4/Back-To-The-Wall-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T10:11:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15980922,
+            "track_name": "Oregon Trail",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 441015,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13532434,
+            "album_name": "This Land Is Your Land",
+            "artist_id": 1628,
+            "artist_name": "Woody Guthrie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T19:20:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1698699,
+            "track_name": "Let It Ride",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 238160,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10358329,
+            "album_name": "The Country Bears",
+            "artist_id": 748,
+            "artist_name": "John Hiatt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/John-Hiatt/Let-It-Ride?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/John-Hiatt/Let-It-Ride/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:44:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44711177,
+            "track_name": "Twin Rocks, Oregon",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 298144,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16211094,
+            "album_name": "Soul's Core",
+            "artist_id": 1029,
+            "artist_name": "Shawn Mullins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T23:05:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1065,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Folk-Rock",
+                    "music_genre_name_extended": "Singer/Songwriter / Folk-Rock",
+                    "music_genre_vanity": "Singer-Songwriter-Folk-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72984902,
+            "track_name": "Bedroll Lullaby",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 18038383,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19617113,
+            "album_name": "Till Midnight",
+            "artist_id": 222600,
+            "artist_name": "Chuck Ragan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chuck-Ragan/Bedroll-Lullaby?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chuck-Ragan/Bedroll-Lullaby/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-07T13:46:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30949321,
+            "track_name": "When Sal's Burned Down",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 192314,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13829607,
+            "album_name": "The Honesty Room",
+            "artist_id": 576,
+            "artist_name": "Dar Williams",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dar-Williams/When-Sal-s-Burned-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dar-Williams/When-Sal-s-Burned-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T14:07:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1067,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Traditional Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Traditional Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Traditional-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1657602,
+            "track_name": "Love At 90 Miles an Hour",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 1539727,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10354950,
+            "album_name": "What Mattered Most",
+            "artist_id": 13049,
+            "artist_name": "Ty Herndon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ty-Herndon/Love-at-90-Miles-an-Hour?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ty-Herndon/Love-at-90-Miles-an-Hour/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:39:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1068610,
+            "track_name": "Lochinvar",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 674243,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10308117,
+            "album_name": "Powerglide",
+            "artist_id": 5070,
+            "artist_name": "New Riders of the Purple Sage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/New-Riders-of-the-Purple-Sage/Lochinvar?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/New-Riders-of-the-Purple-Sage/Lochinvar/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-16T19:45:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 142909479,
+            "track_name": "Falling With Style",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 2793640,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 27733373,
+            "album_name": "Live and Lit at Billy Bob's Texas",
+            "artist_id": 29351878,
+            "artist_name": "Jason Boland & The Stragglers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jason-Boland-The-Stragglers/Falling-With-Style?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jason-Boland-The-Stragglers/Falling-With-Style/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-07T02:31:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98128201,
+            "track_name": "Twin Rocks, Oregon - Live",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 21261762,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16488316,
+            "album_name": "Live At the Variety Playhouse",
+            "artist_id": 1029,
+            "artist_name": "Shawn Mullins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-12T10:10:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98678478,
+            "track_name": "Yarrington Town",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 821916,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21933564,
+            "album_name": "Other Voices Too ( A Trip Back To Bountiful)",
+            "artist_id": 6862,
+            "artist_name": "Nanci Griffith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nanci-Griffith/Yarrington-Town?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nanci-Griffith/Yarrington-Town/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T18:34:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58598662,
+            "track_name": "Oregon Trail (Digitally Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 29271412,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17649814,
+            "album_name": "Legends",
+            "artist_id": 1628,
+            "artist_name": "Woody Guthrie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail-Digitally-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail-Digitally-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T17:47:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18952702,
+            "track_name": "Mountains and Maryann",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 96139,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14282638,
+            "album_name": "Songbook",
+            "artist_id": 244,
+            "artist_name": "Gordon Lightfoot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Mountains-and-Maryann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Mountains-and-Maryann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-09T17:00:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3130129,
+            "track_name": "Cadence to a Drunken Arms Deal / Morrison's Jig",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7333939,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10474912,
+            "album_name": "Sons of Liberty",
+            "artist_id": 113354,
+            "artist_name": "AMADAN",
+            "track_share_url": "https://www.musixmatch.com/lyrics/AMADAN/Cadence-to-a-Drunken-Arms-Deal-Morrison-s-Jig?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/AMADAN/Cadence-to-a-Drunken-Arms-Deal-Morrison-s-Jig/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:25:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48679508,
+            "track_name": "Lochinvar (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 22095722,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16601037,
+            "album_name": "Wanted: Live at Turkey Trot",
+            "artist_id": 5070,
+            "artist_name": "New Riders of the Purple Sage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/New-Riders-of-the-Purple-Sage/Lochinvar-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/New-Riders-of-the-Purple-Sage/Lochinvar-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-08T14:39:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31410945,
+            "track_name": "The Mountains and Maryann",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 96222,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10493436,
+            "album_name": "Did She Mention My Name",
+            "artist_id": 244,
+            "artist_name": "Gordon Lightfoot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/The-Mountains-and-Maryann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/The-Mountains-and-Maryann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T07:40:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1658106,
+            "track_name": "Gone But Not Forgotten",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2399981,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10354992,
+            "album_name": "Billy Dean",
+            "artist_id": 31300,
+            "artist_name": "Billy Dean",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Billy-Dean/Gone-but-Not-Forgotten?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Billy-Dean/Gone-but-Not-Forgotten/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:44:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86724440,
+            "track_name": "Tombstone Blues - Live, Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 48816941,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21057702,
+            "album_name": "Real Live (Remastered)",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-Live-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Tombstone-Blues-Live-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-18T16:29:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100501168,
+            "track_name": "Prairie In the Sky",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1439587,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22107018,
+            "album_name": "One to the Heart, One to the Head",
+            "artist_id": 11730,
+            "artist_name": "Gretchen Peters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gretchen-Peters/Prairie-in-the-Sky?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gretchen-Peters/Prairie-in-the-Sky/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-21T22:19:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6839564,
+            "track_name": "Arkansas Lovin' Man",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 39978962,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10801508,
+            "album_name": "A Thing Called Love",
+            "artist_id": 225,
+            "artist_name": "Johnny Cash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Arkansas-Lovin-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Arkansas-Lovin-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-14T14:58:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1192781,
+            "track_name": "A Letter to Mama",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1204061,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10317967,
+            "album_name": "Stop, Look, and Listen: The Capitol Recordings",
+            "artist_id": 9377,
+            "artist_name": "Josie and the Pussycats",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Josie-and-the-Pussycats/A-Letter-to-Mama?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Josie-and-the-Pussycats/A-Letter-to-Mama/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:00:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159027413,
+            "track_name": "Strowler's Song",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 88404914,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30244646,
+            "album_name": "Pretty in Scarlet",
+            "artist_id": 36938857,
+            "artist_name": "Murder Ballads",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Murder-Ballads-2/Strowler-s-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Murder-Ballads-2/Strowler-s-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T23:39:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 155204018,
+            "track_name": "Eleonora",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 86330174,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29656713,
+            "album_name": "Naik Ke Laut",
+            "artist_id": 34064194,
+            "artist_name": "Holaspica",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Holaspica/Eleonora?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Holaspica/Eleonora/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-13T10:44:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1067,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Traditional Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Traditional Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Traditional-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16927263,
+            "track_name": "Let It Ride",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 96115,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10385513,
+            "album_name": "East of Midnight",
+            "artist_id": 244,
+            "artist_name": "Gordon Lightfoot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Let-It-Ride?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Let-It-Ride/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T18:24:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3306788,
+            "track_name": "Soul Survivor",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 381112,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10489826,
+            "album_name": "Seven",
+            "artist_id": 1283,
+            "artist_name": "Night Ranger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Night-Ranger/Soul-Survivor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Night-Ranger/Soul-Survivor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T07:51:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3147625,
+            "track_name": "The Waltzing Matilda Waltz",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2209307,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10476366,
+            "album_name": "Endangered Species",
+            "artist_id": 26440,
+            "artist_name": "Eric Bogle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eric-Bogle/The-Waltzing-Matilda-Waltz?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eric-Bogle/The-Waltzing-Matilda-Waltz/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:24:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6028511,
+            "track_name": "Prairie In The Sky",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1274818,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10727330,
+            "album_name": "Journey Home",
+            "artist_id": 10139,
+            "artist_name": "Bill Staines",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bill-Staines/Prairie-in-the-Sky?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bill-Staines/Prairie-in-the-Sky/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:08:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7392715,
+            "track_name": "Niobrara",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1562460,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10856022,
+            "album_name": "Rubber Duck",
+            "artist_id": 13295,
+            "artist_name": "C.W. McCall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/C-W-McCall/Niobrara?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/C-W-McCall/Niobrara/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T15:41:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14884938,
+            "track_name": "Little Joe, The Wrangler",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2539300,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13854704,
+            "album_name": "900 Miles and Other R.R. Songs",
+            "artist_id": 35476,
+            "artist_name": "Cisco Houston",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cisco-Houston/Little-Joe-the-Wrangler?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cisco-Houston/Little-Joe-the-Wrangler/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-02T17:32:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185420604,
+            "track_name": "Fnu Lnu",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 101371449,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35317612,
+            "album_name": "Terror Management",
+            "artist_id": 187111,
+            "artist_name": "Billy Woods",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Billy-Woods/Fnu-Lnu?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Billy-Woods/Fnu-Lnu/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-03T06:18:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4622088,
+            "track_name": "Age of Assassins",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7076983,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10601698,
+            "album_name": "what the Toll Tells",
+            "artist_id": 95333,
+            "artist_name": "Two Gallants",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Two-Gallants/Age-of-Assassins?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Two-Gallants/Age-of-Assassins/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:19:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 52375729,
+            "track_name": "Prairie In the Sky",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2093196,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16991682,
+            "album_name": "Song of the West: The Cowboy Collection",
+            "artist_id": 23505,
+            "artist_name": "Tom Russell",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tom-Russell/Prairie-in-the-Sky?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tom-Russell/Prairie-in-the-Sky/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:11:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 98128257,
+            "track_name": "Twin Rocks, Oregon - Live {see comment",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 54181680,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21877519,
+            "album_name": "What Is Life",
+            "artist_id": 1029,
+            "artist_name": "Shawn Mullins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon-Live-%7Bsee-comment?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Shawn-Mullins/Twin-Rocks-Oregon-Live-%7Bsee-comment/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-06T07:20:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 59107073,
+            "track_name": "Oregon Trail (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 29648884,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17708950,
+            "album_name": "In2Roots (Remastered)",
+            "artist_id": 1628,
+            "artist_name": "Woody Guthrie",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Woody-Guthrie/Oregon-Trail-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-28T18:30:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33371410,
+            "track_name": "Let It Ride (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13314979,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15446487,
+            "album_name": "All Live",
+            "artist_id": 244,
+            "artist_name": "Gordon Lightfoot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Let-It-Ride-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gordon-Lightfoot/Let-It-Ride-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:52:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58984614,
+            "track_name": "Tired",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1318273,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17693176,
+            "album_name": "Milly's Café",
+            "artist_id": 10620,
+            "artist_name": "Fred Eaglesmith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fred-Eaglesmith/Tired?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fred-Eaglesmith/Tired/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-10T21:02:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17245229,
+            "track_name": "Back to the Wall (edit)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10562825,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14176323,
+            "album_name": "Back to the Wall",
+            "artist_id": 7302,
+            "artist_name": "Steve Earle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Earle/Back-To-The-Wall-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Earle/Back-To-The-Wall-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-23T16:21:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 71112659,
+            "track_name": "Bedroll Lullaby (Live at Skater's Palace)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 38868354,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19391221,
+            "album_name": "Till Midnight (Deluxe Version)",
+            "artist_id": 222600,
+            "artist_name": "Chuck Ragan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chuck-Ragan/Bedroll-Lullaby-Live-at-Skater-s-Palace?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chuck-Ragan/Bedroll-Lullaby-Live-at-Skater-s-Palace/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-07T13:46:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5070480,
+            "track_name": "Stampede",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 91358,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10640980,
+            "album_name": "Mean as Hell",
+            "artist_id": 225,
+            "artist_name": "Johnny Cash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Stampede?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Johnny-Cash/Stampede/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:12:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6186521,
+            "track_name": "Trainman",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5525897,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10742349,
+            "album_name": "Boxes & Bags",
+            "artist_id": 296055,
+            "artist_name": "Coyote Grace",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Coyote-Grace/Trainman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Coyote-Grace/Trainman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-22T13:45:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

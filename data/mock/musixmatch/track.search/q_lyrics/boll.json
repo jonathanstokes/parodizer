@@ -1,0 +1,1807 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.085677862167358,
+      "available": 556
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 129580760,
+            "track_name": "Little Sister",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 224997,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 92,
+            "album_id": 26087404,
+            "album_name": "Elvis Is Back (Legacy Edition)",
+            "artist_id": 702,
+            "artist_name": "Elvis Presley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-27T13:08:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37037186,
+            "track_name": "Little Sister (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 15386424,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15713025,
+            "album_name": "Elvis In Concert (Live)",
+            "artist_id": 702,
+            "artist_name": "Elvis Presley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-22T23:50:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37039038,
+            "track_name": "Little Sister (Remastered)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 15387044,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15713130,
+            "album_name": "The Definitive Collection",
+            "artist_id": 702,
+            "artist_name": "Elvis Presley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister-New-Sound-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Little-Sister-New-Sound-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-23T03:20:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1648758,
+            "track_name": "Silvio",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 3126,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 10354217,
+            "album_name": "Down in the Groove",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Silvio?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Silvio/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:00:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86616309,
+            "track_name": "Autologic - Demo",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14459192,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21049670,
+            "album_name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+            "artist_id": 220,
+            "artist_name": "Rage Against the Machine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Auto-Logic-demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Auto-Logic-demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-12T08:41:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86724356,
+            "track_name": "Silvio - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 48816879,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21057697,
+            "album_name": "Down In The Groove (Remastered)",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Silvio-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Silvio-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-18T16:29:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19227962,
+            "track_name": "Autologic",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 88897,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14273617,
+            "album_name": "Rage Against the Machine XX",
+            "artist_id": 220,
+            "artist_name": "Rage Against the Machine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Autologic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Autologic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:12:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89192541,
+            "track_name": "Funkier Than A Mosquito's Tweeter - (Jazzeem's All Styles Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 360255,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21196914,
+            "album_name": "Remixed & Reimagined",
+            "artist_id": 1157,
+            "artist_name": "Nina Simone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nina-Simone/Funkier-Than-a-Mosquito-s-Tweeter-Jazzeem-s-All-Styles-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nina-Simone/Funkier-Than-a-Mosquito-s-Tweeter-Jazzeem-s-All-Styles-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-11T09:16:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 40409743,
+            "track_name": "Funkier Than a Mosquita's Tweeter",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "蚊の鳴き声よりもファンキー"
+                }
+              }
+            ],
+            "track_rating": 23,
+            "commontrack_id": 472726,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15922232,
+            "album_name": "Workin' Together (with Tina Turner)",
+            "artist_id": 34577893,
+            "artist_name": "Ike & Tina Turner",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-a-Mosquita-s-Tweeter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-a-Mosquita-s-Tweeter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-25T11:00:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5194966,
+            "track_name": "Todas las Estrellas",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 2834092,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10652263,
+            "album_name": "Rosa Venus",
+            "artist_id": 45454,
+            "artist_name": "Fobia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fobia/Todas-las-Estrellas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fobia/Todas-las-Estrellas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T19:50:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1121,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Alternative & Rock in Spanish",
+                    "music_genre_name_extended": "Latin / Alternative & Rock in Spanish",
+                    "music_genre_vanity": "Latin-Alternative-Rock-in-Spanish"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89978971,
+            "track_name": "Funkier Than A Mosquita's Tweeter - 2001 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 50210479,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21246506,
+            "album_name": "Workin' Together",
+            "artist_id": 34577893,
+            "artist_name": "Ike & Tina Turner",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-A-Mosquita-s-Tweeter-2001-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-A-Mosquita-s-Tweeter-2001-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-25T10:59:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 147994017,
+            "track_name": "Raputin",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 80246134,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 28534486,
+            "album_name": "Raputin",
+            "artist_id": 35176542,
+            "artist_name": "El Alfa feat. Liro Shaq, La Manta & La Sabiduria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/El-Alfa-feat-Liro-Shaq-La-Sabiduria-La-Manta/Raputin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/El-Alfa-feat-Liro-Shaq-La-Sabiduria-La-Manta/Raputin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-19T23:23:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89978762,
+            "track_name": "Funkier Than A Mosquita's Tweeter - 2002 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 39854902,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16134079,
+            "album_name": "Funkier Than a Mosquito's Tweeter",
+            "artist_id": 34577893,
+            "artist_name": "Ike & Tina Turner",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-a-Mosquita-s-Tweeter-2002-Digital-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/Funkier-Than-a-Mosquita-s-Tweeter-2002-Digital-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-25T11:00:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16565736,
+            "track_name": "Good Girls",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 10521580,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10451629,
+            "album_name": "Chestnut Street Incident",
+            "artist_id": 876,
+            "artist_name": "John Mellencamp",
+            "track_share_url": "https://www.musixmatch.com/lyrics/John-Mellencamp/Good-Girls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/John-Mellencamp/Good-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-09-02T11:35:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90748461,
+            "track_name": "The Biggest Ball Of Twine In Minnesota",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 13849947,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21297840,
+            "album_name": "UHF: Weird Al Yankovic",
+            "artist_id": 24447522,
+            "artist_name": "\"Weird Al\" Yankovic",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Weird-Al-Yankovic-2/The-Biggest-Ball-of-Twine-In-Minnesota?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Weird-Al-Yankovic-2/The-Biggest-Ball-of-Twine-In-Minnesota/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-02T23:30:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 13,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "New Age",
+                    "music_genre_name_extended": "New Age",
+                    "music_genre_vanity": "New-Age"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130594964,
+            "track_name": "Härligt, härligt men farligt, farligt",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2199320,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26235438,
+            "album_name": "Bästa nu och då",
+            "artist_id": 26208,
+            "artist_name": "Björn Skifs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bj%C3%B6rn-Skifs/H%C3%A4rligt-h%C3%A4rligt-men-farligt-farligt?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bj%C3%B6rn-Skifs/H%C3%A4rligt-h%C3%A4rligt-men-farligt-farligt/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-21T11:34:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90307463,
+            "track_name": "Boll Weevil - Demo",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 790832,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21268233,
+            "album_name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+            "artist_id": 6705,
+            "artist_name": "The Presidents of the United States of America",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Presidents-of-the-United-States-of-America/Boll-Weevil-demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Presidents-of-the-United-States-of-America/Boll-Weevil-demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-12T06:40:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8174832,
+            "track_name": "Funkier Than a Mosquito's Tweeter",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2467908,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 10928139,
+            "album_name": "The Ballad of John Henry",
+            "artist_id": 33339,
+            "artist_name": "Joe Bonamassa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joe-Bonamassa/Funkier-Than-a-Mosquito-s-Tweeter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joe-Bonamassa/Funkier-Than-a-Mosquito-s-Tweeter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:54:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 2,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Blues",
+                    "music_genre_name_extended": "Blues",
+                    "music_genre_vanity": "Blues"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 151757287,
+            "track_name": "Toto",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 84556628,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 13,
+            "album_id": 29138599,
+            "album_name": "Toto (feat. RAF Camora)",
+            "artist_id": 36161380,
+            "artist_name": "Noizy feat. RAF Camora",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Noizy-feat-RAF-Camora/Toto?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Noizy-feat-RAF-Camora/Toto/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-20T08:16:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182670689,
+            "track_name": "Pull Up",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 10956536,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34550157,
+            "album_name": "Live From The Underground (Explicit Version)",
+            "artist_id": 13941797,
+            "artist_name": "Big K.R.I.T. feat. Big Sant & Bun B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T-feat-Big-Sant-Bun-B/Pull-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Big-K-R-I-T-feat-Big-Sant-Bun-B/Pull-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:18:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1022538,
+            "track_name": "Little Sister",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 840609,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 17,
+            "album_id": 10304469,
+            "album_name": "Hillbilly Deluxe",
+            "artist_id": 6922,
+            "artist_name": "Dwight Yoakam",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T08:58:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90307428,
+            "track_name": "Boll Weevil",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 790831,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21268231,
+            "album_name": "The Presidents Of The United States Of America",
+            "artist_id": 6705,
+            "artist_name": "The Presidents of the United States of America",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Presidents-of-the-United-States-of-America/Boll-Weevil?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Presidents-of-the-United-States-of-America/Boll-Weevil/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:07:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132210315,
+            "track_name": "El 08",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 73836236,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 26503431,
+            "album_name": "Mi Vida Ha Sido Un Volado",
+            "artist_id": 28125281,
+            "artist_name": "Grupo Maximo Grado",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grupo-Maximo-Grado/El-08?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grupo-Maximo-Grado/El-08/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-19T01:48:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84970201,
+            "track_name": "Little Sister - 2006 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 47836670,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20943210,
+            "album_name": "Reprise Please Baby: The Warner Bros. Years [Digital Version]",
+            "artist_id": 6922,
+            "artist_name": "Dwight Yoakam",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-2006-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-2006-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-27T16:30:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86392357,
+            "track_name": "Se Skom Qare (feat. Presioni & Benny)",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 48629802,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21036100,
+            "album_name": "Kanuni I Katilit",
+            "artist_id": 29264402,
+            "artist_name": "Presioni feat. Benny",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Presioni-feat-Benny/Se-Skom-Qare-feat-Presioni-Benny?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Presioni-feat-Benny/Se-Skom-Qare-feat-Presioni-Benny/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-16T21:10:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95908869,
+            "track_name": "Little Sister - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 53030517,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21680981,
+            "album_name": "The Very Best Of Dwight Yoakam",
+            "artist_id": 6922,
+            "artist_name": "Dwight Yoakam",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-27T04:30:56Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75300002,
+            "track_name": "Lord You've Been Mighty Good to Me",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 24554898,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 19823316,
+            "album_name": "Heartwarming Gospel: 18 Greatest Hits",
+            "artist_id": 8001,
+            "artist_name": "George Jones",
+            "track_share_url": "https://www.musixmatch.com/lyrics/George-Jones/Lord-you-ve-Been-Mighty-Good-to-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/George-Jones/Lord-you-ve-Been-Mighty-Good-to-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-13T05:09:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1038,
+                    "music_genre_parent_id": 6,
+                    "music_genre_name": "Country Gospel",
+                    "music_genre_name_extended": "Country / Country Gospel",
+                    "music_genre_vanity": "Country-Country-Gospel"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95908939,
+            "track_name": "Little Sister - Live",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 13273400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21680985,
+            "album_name": "Dwight Live",
+            "artist_id": 6922,
+            "artist_name": "Dwight Yoakam",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dwight-Yoakam/Little-Sister-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-12T16:49:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54360703,
+            "track_name": "Glow-Worm",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 26250716,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17195975,
+            "album_name": "The Complete Louis Prima (Remastered)",
+            "artist_id": 13304,
+            "artist_name": "Louis Prima",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Louis-Prima/Glow-Worm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Louis-Prima/Glow-Worm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-13T07:16:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 124327357,
+            "track_name": "Boll Weevil Song",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1056509,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25333189,
+            "album_name": "Never To Be Forgotten",
+            "artist_id": 8168,
+            "artist_name": "Eddie Cochran",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eddie-Cochran/Boll-Weevil-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eddie-Cochran/Boll-Weevil-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:41:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196565383,
+            "track_name": "Snälla släck inte ljusen",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 110538188,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38010767,
+            "album_name": "Rampljus",
+            "artist_id": 16703,
+            "artist_name": "Håkan Hellström",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H%C3%A5kan-Hellstr%C3%B6m/Sn%C3%A4lla-sl%C3%A4ck-inte-ljusen?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H%C3%A5kan-Hellstr%C3%B6m/Sn%C3%A4lla-sl%C3%A4ck-inte-ljusen/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-10T09:23:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187259054,
+            "track_name": "Drip 2 Hard",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 102535178,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 35685677,
+            "album_name": "Drip 2 Hard - Single",
+            "artist_id": 32265919,
+            "artist_name": "Einár",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ein%C3%A1r-1/Drip-2-Hard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ein%C3%A1r-1/Drip-2-Hard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-21T01:22:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44107121,
+            "track_name": "Allting har sin tid",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2238428,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16169331,
+            "album_name": "Störst av allt",
+            "artist_id": 27121,
+            "artist_name": "Carola",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carola/Allting-har-sin-tid?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carola/Allting-har-sin-tid/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-25T09:47:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 11132427,
+            "track_name": "O rei da montanha",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2907439,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 33,
+            "album_id": 11232236,
+            "album_name": "O Espetáculo do Circo dos Horrores",
+            "artist_id": 48743,
+            "artist_name": "Facção Central",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fac%C3%A7%C3%A3o-Central/O-Rei-da-Montanha?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fac%C3%A7%C3%A3o-Central/O-Rei-da-Montanha/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-05-07T15:40:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15985999,
+            "track_name": "Como Vivir Sin Ellos",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10290668,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 13924250,
+            "album_name": "Un Grito en el Corazón",
+            "artist_id": 25579,
+            "artist_name": "Lynda",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lynda/Como-vivir-sin-ellos?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lynda/Como-vivir-sin-ellos/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-29T04:40:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162398795,
+            "track_name": "Fayeku",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 90615612,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 11,
+            "album_id": 30871249,
+            "album_name": "Fayeku",
+            "artist_id": 30482945,
+            "artist_name": "Dip Doundou Guiss",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dip-Doundou-Guiss/Fayeku?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dip-Doundou-Guiss/Fayeku/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-04T16:18:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35227391,
+            "track_name": "Den fulaste flickan i världen",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1780708,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15590937,
+            "album_name": "Det är så jag säger det",
+            "artist_id": 16703,
+            "artist_name": "Håkan Hellström",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H%C3%A5kan-Hellstr%C3%B6m/Den-fulaste-flickan-i-v%C3%A4rlden?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H%C3%A5kan-Hellstr%C3%B6m/Den-fulaste-flickan-i-v%C3%A4rlden/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-15T15:07:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3182410,
+            "track_name": "Boll Weevil",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 6985952,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10479259,
+            "album_name": "Eutaw",
+            "artist_id": 89635,
+            "artist_name": "Old Crow Medicine Show",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Old-Crow-Medicine-Show/Boll-Weevil?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Old-Crow-Medicine-Show/Boll-Weevil/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T10:42:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1488630,
+            "track_name": "Little Sister",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 771665,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10341393,
+            "album_name": "Bop Till You Drop",
+            "artist_id": 6580,
+            "artist_name": "Ry Cooder",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ry-Cooder/Little-Sister?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ry-Cooder/Little-Sister/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-09-02T15:29:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31278306,
+            "track_name": "Abie Baby / Fourscore",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1561277,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14189688,
+            "album_name": "Hair (1979 film cast)",
+            "artist_id": 13281,
+            "artist_name": "Galt MacDermot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Galt-MacDermot/Abie-Baby-Fourscore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Galt-MacDermot/Abie-Baby-Fourscore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-24T14:49:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 147279990,
+            "track_name": "Raputin",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 80300973,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 28414664,
+            "album_name": "Raputin",
+            "artist_id": 35188127,
+            "artist_name": "El Alfa el Jefe feat. Liro Shaq, La Manta & La Sabiduria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/El-Alfa-el-Jefe-feat-Liro-Shaq-La-Manta-La-Sabiduria/Raputin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/El-Alfa-el-Jefe-feat-Liro-Shaq-La-Manta-La-Sabiduria/Raputin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-10T02:54:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100148753,
+            "track_name": "There's A Cabin In The Cotton",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1063512,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22072958,
+            "album_name": "The Early Years 1930 - 1934 Disc D",
+            "artist_id": 8226,
+            "artist_name": "Cab Calloway",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cab-Calloway/There-s-a-Cabin-in-the-Cotton?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cab-Calloway/There-s-a-Cabin-in-the-Cotton/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:42:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103216760,
+            "track_name": "Vi ska till VM",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1983266,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22384392,
+            "album_name": "Klassiska Mästerverk",
+            "artist_id": 20720,
+            "artist_name": "Magnus Uggla",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Magnus-Uggla/Vi-ska-till-VM?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Magnus-Uggla/Vi-ska-till-VM/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T10:01:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127458301,
+            "track_name": "Shake It",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 70700058,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25781630,
+            "album_name": "Shake It",
+            "artist_id": 28612376,
+            "artist_name": "Chinko Ekun",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chinko-Ekun/Shake-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chinko-Ekun/Shake-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-22T21:45:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1178,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Pop",
+                    "music_genre_name_extended": "World / Afro-Pop",
+                    "music_genre_vanity": "World-Afro-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 97542400,
+            "track_name": "Little Sister (Remastered Album Version)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 53915736,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21827808,
+            "album_name": "The Ry Cooder Anthology: The UFO Has Landed",
+            "artist_id": 6580,
+            "artist_name": "Ry Cooder",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ry-Cooder/Little-Sister-Remastered-Album-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ry-Cooder/Little-Sister-Remastered-Album-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-29T10:40:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 187051458,
+            "track_name": "Sema7ni",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 102353361,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35625854,
+            "album_name": "Sema7ni - Single",
+            "artist_id": 42043738,
+            "artist_name": "Jelassi feat. Einár",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jelassi-Ein%C3%A1r/Sema7ni?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jelassi-Ein%C3%A1r/Sema7ni/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-16T18:27:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37503475,
+            "track_name": "Abie Baby / Fourscore",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 47382073,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15744783,
+            "album_name": "Hair (Original Soundtrack)",
+            "artist_id": 33325997,
+            "artist_name": "Galt MacDermot feat. Tom Pierson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Galt-MacDermot-Tom-Pierson-2/Abie-Baby-Fourscore?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Galt-MacDermot-Tom-Pierson-2/Abie-Baby-Fourscore/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T18:54:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 195237757,
+            "track_name": "Workin",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 109417737,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 37565160,
+            "album_name": "Workin - Single",
+            "artist_id": 40186958,
+            "artist_name": "Yasin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yasin-4/WORKIN?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yasin-4/WORKIN/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-01T17:42:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127712312,
+            "track_name": "AYO",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 70863272,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 25815806,
+            "album_name": "AYO",
+            "artist_id": 33341732,
+            "artist_name": "Dhurata Dora feat. DJ Geek",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dhurata-Dora-feat-DJ-Geek/AYO?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dhurata-Dora-feat-DJ-Geek/AYO/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-05T04:13:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84325568,
+            "track_name": "Qe Ku Jam",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 47391377,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20896184,
+            "album_name": "Pak Më Ndryshe",
+            "artist_id": 25672665,
+            "artist_name": "Noizy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Noizy/Qe-Ku-Jam?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Noizy/Qe-Ku-Jam/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-03T17:42:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1771 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.1244101524353,
+      "available": 131
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 34000141,
+            "track_name": "Horse Outside",
+            "track_name_translation_list": [],
+            "track_rating": 63,
+            "commontrack_id": 9454045,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15495970,
+            "album_name": "Serious About Men",
+            "artist_id": 13860758,
+            "artist_name": "The Rubberbandits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Horse-Outside?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Horse-Outside/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-19T13:44:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 140911877,
+            "track_name": "Ronko por Que Puedo",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 78153838,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 27471508,
+            "album_name": "JonTrapVolta",
+            "artist_id": 34751571,
+            "artist_name": "Jon Z feat. Myke Towers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jon-Z-feat-Myke-Towers/Ronko-por-Que-Puedo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jon-Z-feat-Myke-Towers/Ronko-por-Que-Puedo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-22T18:07:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84358132,
+            "track_name": "Pools - Kwes. Rework",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 47415470,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20899908,
+            "album_name": "Pools",
+            "artist_id": 28849798,
+            "artist_name": "Glass Animals",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glass-Animals-2/Pools-Kwes-Rework?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glass-Animals-2/Pools-Kwes-Rework/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-05T21:32:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73248856,
+            "track_name": "Pools (Kwes. Rework)",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 40113533,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 19635259,
+            "album_name": "Pools EP",
+            "artist_id": 24444227,
+            "artist_name": "Glass Animals",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glass-Animals/Pools-Kwes-Rework?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glass-Animals/Pools-Kwes-Rework/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-02T10:47:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 158872034,
+            "track_name": "Fight and Scratch",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 8203736,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30221447,
+            "album_name": "Once More",
+            "artist_id": 33676360,
+            "artist_name": "Porter Wagoner & Dolly Parton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Porter-Wagoner-feat-Dolly-Parton-2/Fight-and-Scratch?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Porter-Wagoner-feat-Dolly-Parton-2/Fight-and-Scratch/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-28T07:15:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30085267,
+            "track_name": "Mayhem Maybe",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 313341,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13752792,
+            "album_name": "The Broadsword and the Beast",
+            "artist_id": 1103,
+            "artist_name": "Jethro Tull",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jethro-Tull/Mayhem-Maybe?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jethro-Tull/Mayhem-Maybe/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T21:11:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 733199,
+            "track_name": "Inheritance",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 282509,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10281619,
+            "album_name": "Spirit of Eden",
+            "artist_id": 949,
+            "artist_name": "Talk Talk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Talk-Talk/Inheritance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Talk-Talk/Inheritance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:56:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17553569,
+            "track_name": "Nine",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 10944341,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 14214542,
+            "album_name": "Banga",
+            "artist_id": 962,
+            "artist_name": "Patti Smith",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Nine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patti-Smith/Nine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:18:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90899643,
+            "track_name": "Inheritance - 1997 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 50643020,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 21310599,
+            "album_name": "Spirit Of Eden",
+            "artist_id": 949,
+            "artist_name": "Talk Talk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Talk-Talk/Inheritance-1997-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Talk-Talk/Inheritance-1997-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-10T00:55:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2620680,
+            "track_name": "Tennessee",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 1124365,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10432776,
+            "album_name": "The New South",
+            "artist_id": 39902961,
+            "artist_name": "Hank Williams, Jr.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hank-Williams-Jr/Tennessee?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hank-Williams-Jr/Tennessee/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-05T14:12:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130294411,
+            "track_name": "Ronko Porque Puedo",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 72585649,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 19,
+            "album_id": 26189191,
+            "album_name": "Ronko Porque Puedo",
+            "artist_id": 33662491,
+            "artist_name": "Jon Z feat. Mike Towers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jon-Z-feat-Mike-Towers/Ronko-Porque-Puedo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jon-Z-feat-Mike-Towers/Ronko-Porque-Puedo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-12T16:29:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2253773,
+            "track_name": "Tennessee Stud",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 1124367,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 10403379,
+            "album_name": "The Pressure Is On",
+            "artist_id": 39902961,
+            "artist_name": "Hank Williams, Jr.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hank-Williams-Jr/Tennessee-Stud?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hank-Williams-Jr/Tennessee-Stud/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-05T14:12:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19209210,
+            "track_name": "Third Swan",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 11774444,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 14295517,
+            "album_name": "Diamond Mine: Jubilee Edition",
+            "artist_id": 13771838,
+            "artist_name": "King Creosote & Jon Hopkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/King-Creosote-Jon-Hopkins/Third-Swan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/King-Creosote-Jon-Hopkins/Third-Swan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-24T17:35:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2375749,
+            "track_name": "Fox Hill",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 813479,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10413119,
+            "album_name": "A Nod and a Wink",
+            "artist_id": 6820,
+            "artist_name": "Camel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Camel/Fox-Hill?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Camel/Fox-Hill/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T00:44:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 133973963,
+            "track_name": "Ontario",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 74688468,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 26757692,
+            "album_name": "Heiress",
+            "artist_id": 33494691,
+            "artist_name": "Novo Amor feat. Ed Tullett",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Novo-Amor-feat-Ed-Tullett-2/Ontario?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Novo-Amor-feat-Ed-Tullett-2/Ontario/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-13T15:28:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89832208,
+            "track_name": "Pools - Live At SXSW",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 50138801,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21237669,
+            "album_name": "Spotify Sessions (Live From Spotify SXSW)",
+            "artist_id": 28849798,
+            "artist_name": "Glass Animals",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glass-Animals-2/Pools-Live-At-SXSW?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glass-Animals-2/Pools-Live-At-SXSW/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 1,
+            "updated_time": "2016-05-04T17:40:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 115287409,
+            "track_name": "I'll Wear Black to My Own Vigil",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 63584722,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 24023999,
+            "album_name": "Islita",
+            "artist_id": 28670258,
+            "artist_name": "Magpie Jay",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Magpie-Jay/I-ll-Wear-Black-to-My-Own-Vigil?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Magpie-Jay/I-ll-Wear-Black-to-My-Own-Vigil/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-23T06:33:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1551527,
+            "track_name": "This Is Our Song",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 2176590,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10346374,
+            "album_name": "Hello",
+            "artist_id": 25592,
+            "artist_name": "Ben & Jason",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ben-Jason/This-Is-Our-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ben-Jason/This-Is-Our-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-23T22:23:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84745949,
+            "track_name": "Tennessee Stud - 24-Bit Digitally Remastered 04",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 47666071,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20925946,
+            "album_name": "20 Originals: The Early Years",
+            "artist_id": 16335,
+            "artist_name": "Chris LeDoux",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Chris-LeDoux/Tennessee-Stud-24-Bit-Digitally-Remastered-04?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-LeDoux/Tennessee-Stud-24-Bit-Digitally-Remastered-04/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-07T13:00:18Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14663001,
+            "track_name": "Tennessee Stud",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 1568091,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10520440,
+            "album_name": "Southbound",
+            "artist_id": 13368,
+            "artist_name": "Doc Watson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doc-Watson/Tennessee-Stud?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doc-Watson/Tennessee-Stud/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:43:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 74929359,
+            "track_name": "Defiance",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 1688106,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19772483,
+            "album_name": "Invictus",
+            "artist_id": 15147,
+            "artist_name": "Virgin Steele",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Virgin-Steele/Defiance?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Virgin-Steele/Defiance/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T14:33:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 116377400,
+            "track_name": "You Did Not Have a Home - Demo Version",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 14580439,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24116096,
+            "album_name": "The Jesus Record",
+            "artist_id": 796,
+            "artist_name": "Rich Mullins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rich-Mullins/You-Did-Not-Have-a-Home-Demo-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rich-Mullins/You-Did-Not-Have-a-Home-Demo-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-19T08:31:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1094,
+                    "music_genre_parent_id": 22,
+                    "music_genre_name": "CCM",
+                    "music_genre_name_extended": "Christian & Gospel / CCM",
+                    "music_genre_vanity": "Christian-Gospel-CCM"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6594994,
+            "track_name": "One Man's Shame",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 3110203,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 10779118,
+            "album_name": "Untitled",
+            "artist_id": 57841,
+            "artist_name": "William Elliott Whitmore",
+            "track_share_url": "https://www.musixmatch.com/lyrics/William-Elliott-Whitmore/One-Man-s-Shame?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/William-Elliott-Whitmore/One-Man-s-Shame/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:05:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35320926,
+            "track_name": "You Did Not Have a Home",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 249926,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15597580,
+            "album_name": "The Jesus Record",
+            "artist_id": 796,
+            "artist_name": "Rich Mullins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rich-Mullins/You-Did-Not-Have-a-Home?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rich-Mullins/You-Did-Not-Have-a-Home/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:05:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 65984245,
+            "track_name": "An Sabhal Aig Neill",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 999736,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 15,
+            "album_id": 18647906,
+            "album_name": "The Stamping Ground",
+            "artist_id": 7740,
+            "artist_name": "Runrig",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Runrig/An-Sabhal-Aig-Neill?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Runrig/An-Sabhal-Aig-Neill/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:33:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1065,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Folk-Rock",
+                    "music_genre_name_extended": "Singer/Songwriter / Folk-Rock",
+                    "music_genre_vanity": "Singer-Songwriter-Folk-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17890697,
+            "track_name": "The Horse",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 3468122,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10778936,
+            "album_name": "Career Suicide",
+            "artist_id": 75314,
+            "artist_name": "A Wilhelm Scream",
+            "track_share_url": "https://www.musixmatch.com/lyrics/A-Wilhelm-Scream/The-Horse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/A-Wilhelm-Scream/The-Horse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:25:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95017210,
+            "track_name": "You Did Not Have A Home (feat. Shane Barnard)",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 52594367,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21613807,
+            "album_name": "To Those Who Wait - Live EP",
+            "artist_id": 13901848,
+            "artist_name": "Bethany Dillon feat. Shane Barnard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bethany-Dillon-feat-Shane-Barnard/You-Did-Not-Have-A-Home-feat-Shane-Barnard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bethany-Dillon-feat-Shane-Barnard/You-Did-Not-Have-A-Home-feat-Shane-Barnard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-26T19:39:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86632263,
+            "track_name": "Foal",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 48753042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21050902,
+            "album_name": "Realms",
+            "artist_id": 29301844,
+            "artist_name": "Holy Fawn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Holy-Fawn/Foal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Holy-Fawn/Foal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-02T01:44:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4801477,
+            "track_name": "Lamposts",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 2876655,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10616742,
+            "album_name": "Flock",
+            "artist_id": 47422,
+            "artist_name": "Bell X1",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bell-X1/Lamposts-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bell-X1/Lamposts-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-16T03:01:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6135459,
+            "track_name": "Ride on to Die",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 780653,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10737427,
+            "album_name": "Known by the Scars",
+            "artist_id": 6646,
+            "artist_name": "Michael Card",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michael-Card/Ride-on-to-Die?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michael-Card/Ride-on-to-Die/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-07-10T02:40:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 22,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Christian & Gospel",
+                    "music_genre_name_extended": "Christian & Gospel",
+                    "music_genre_vanity": "Christian-Gospel"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34133791,
+            "track_name": "The Majesty of Rock",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 13762504,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15505620,
+            "album_name": "Break Like the Wind",
+            "artist_id": 24759874,
+            "artist_name": "Spinal Tap",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Spinal-Tap/The-Majesty-of-Rock?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Spinal-Tap/The-Majesty-of-Rock/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-15T17:55:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170957839,
+            "track_name": "Woodrow the Donkey Dude",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 95760902,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32601037,
+            "album_name": "Woodrow the Donkey Dude",
+            "artist_id": 33184077,
+            "artist_name": "Funnel Vision",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Funnel-Vision/Woodrow-the-Donkey-Dude?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Funnel-Vision/Woodrow-the-Donkey-Dude/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-09T00:47:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30287787,
+            "track_name": "I Never Felt This Way Before",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 12222178,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 11304241,
+            "album_name": "Delusions of Grandeur",
+            "artist_id": 208934,
+            "artist_name": "EF",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ef/I-Never-Felt-This-Way-Before?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ef/I-Never-Felt-This-Way-Before/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-16T16:56:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16259828,
+            "track_name": "Double Dropping Yokes With Eamon DeValera",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 10389454,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13944563,
+            "album_name": "Serious About Men",
+            "artist_id": 13860758,
+            "artist_name": "The Rubberbandits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Double-Dropping-Yokes-With-Eamon-DeValera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Double-Dropping-Yokes-With-Eamon-DeValera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-09T17:00:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114767864,
+            "track_name": "Thats Really Something",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 39129770,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23969891,
+            "album_name": "My Best Friends Are Imaginary: A Year of EPs",
+            "artist_id": 16202,
+            "artist_name": "Nerina Pallot",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nerina-Pallot/That-s-Really-Something?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nerina-Pallot/That-s-Really-Something/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-02T06:29:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1160,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Rock / Singer/Songwriter",
+                    "music_genre_vanity": "Rock-Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85123729,
+            "track_name": "Purcell / Arr Pluhar: The Mock Marriage, Z. 605/2: \"Twas within a furlong\"",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 47951897,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20953989,
+            "album_name": "Music for a While - Improvisations on Purcell",
+            "artist_id": 29045597,
+            "artist_name": "Henry Purcell feat. Christina Pluhar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Henry-Purcell-feat-Christina-Pluhar/Purcell-Arr-Pluhar-The-Mock-Marriage-Z-605-2-Twas-within-a-furlong?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Henry-Purcell-feat-Christina-Pluhar/Purcell-Arr-Pluhar-The-Mock-Marriage-Z-605-2-Twas-within-a-furlong/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-07T08:11:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88259282,
+            "track_name": "Skin (Audiotree Live Version)",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 49482305,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21145379,
+            "album_name": "Marriages on Audiotree Live",
+            "artist_id": 13893031,
+            "artist_name": "Marriages",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marriages/Skin-Audiotree-Live-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marriages/Skin-Audiotree-Live-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-20T06:40:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57072319,
+            "track_name": "01 - Animal Farm",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 28179161,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17475092,
+            "album_name": "Animal Farm",
+            "artist_id": 26656968,
+            "artist_name": "George Orwell",
+            "track_share_url": "https://www.musixmatch.com/lyrics/George-Orwell-2/01-Animal-Farm?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/George-Orwell-2/01-Animal-Farm/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-16T05:05:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000061,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Spoken Word",
+                    "music_genre_name_extended": "Spoken Word",
+                    "music_genre_vanity": "Spoken-Word"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13860875,
+            "track_name": "Horse Outside (radio edit)",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 9454047,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13861154,
+            "album_name": "I've a Horse Outside",
+            "artist_id": 13860758,
+            "artist_name": "The Rubberbandits",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Horse-Outside-Radio-Edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Rubberbandits/Horse-Outside-Radio-Edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-09-11T03:35:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123855696,
+            "track_name": "Proactive Evolution",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "プロアクティヴ エヴォルーション"
+                }
+              }
+            ],
+            "track_rating": 8,
+            "commontrack_id": 68546425,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 25264270,
+            "album_name": "Moh Lhean",
+            "artist_id": 42087,
+            "artist_name": "WHY?",
+            "track_share_url": "https://www.musixmatch.com/lyrics/WHY/Proactive-Evolution?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/WHY/Proactive-Evolution/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-10T22:48:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 50822830,
+            "track_name": "Alphabet Song",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 23733893,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16829395,
+            "album_name": "Blue's Clues: Blue's Biggest Hits - 10th Anniversary",
+            "artist_id": 26277909,
+            "artist_name": "Blues Clues",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blues-Clues/Alphabet-Song?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blues-Clues/Alphabet-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-01T23:54:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81046508,
+            "track_name": "Skin",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 44979480,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20531861,
+            "album_name": "Salome",
+            "artist_id": 13893031,
+            "artist_name": "Marriages",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marriages/Skin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marriages/Skin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-07T18:19:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1018941,
+            "track_name": "The Ringer And The Princess",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 1967491,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10304162,
+            "album_name": "The best,,, 'til now",
+            "artist_id": 20386,
+            "artist_name": "Graeme Connors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Graeme-Connors/The-Ringer-And-The-Princess?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Graeme-Connors/The-Ringer-And-The-Princess/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-05T10:49:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 181825561,
+            "track_name": "Corkscrew",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 99604002,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 34396151,
+            "album_name": "Corkscrew",
+            "artist_id": 38071334,
+            "artist_name": "Kid Jupiter",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kid-Jupiter/Corkscrew?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kid-Jupiter/Corkscrew/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-16T16:39:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13738137,
+            "track_name": "Animals",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 9412399,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13738351,
+            "album_name": "Lifeline",
+            "artist_id": 273472,
+            "artist_name": "The Answering Machine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Answering-Machine/Animals?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Answering-Machine/Animals/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T09:15:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34157282,
+            "track_name": "Let Your Mane Down",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 13775692,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15507599,
+            "album_name": "The Fantasy",
+            "artist_id": 14360313,
+            "artist_name": "d.notive",
+            "track_share_url": "https://www.musixmatch.com/lyrics/d-notive/Let-Your-Mane-Down?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/d-notive/Let-Your-Mane-Down/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-30T13:41:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80694686,
+            "track_name": "Let Your Mane Down (Aviators remix)",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 44753630,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20502690,
+            "album_name": "Equestrian Revolution III",
+            "artist_id": 14360313,
+            "artist_name": "d.notive",
+            "track_share_url": "https://www.musixmatch.com/lyrics/d-notive/Let-Your-Mane-Down-Aviators-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/d-notive/Let-Your-Mane-Down-Aviators-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-25T20:55:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146974245,
+            "track_name": "478000 Miles (Shining Forth)",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 81668414,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28364085,
+            "album_name": "Rebirth Vol. 1",
+            "artist_id": 35528594,
+            "artist_name": "loophoof",
+            "track_share_url": "https://www.musixmatch.com/lyrics/loophoof/478000-Miles-Shining-Forth?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/loophoof/478000-Miles-Shining-Forth/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-10T13:11:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 107732864,
+            "track_name": "One Day You Will Ache Like I Ache",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 59099591,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22988257,
+            "album_name": "One Day You Will Ache Like I Ache",
+            "artist_id": 31565211,
+            "artist_name": "The Body feat. Full Of Hell",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Body-feat-Full-Of-Hell/One-Day-You-Will-Ache-Like-I-Ache?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Body-feat-Full-Of-Hell/One-Day-You-Will-Ache-Like-I-Ache/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-29T07:16:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 122497791,
+            "track_name": "Has Bol Ve",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 8195217,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 25102708,
+            "album_name": "Has Bol Ve - Moving & Grooving",
+            "artist_id": 201047,
+            "artist_name": "Madan Maddi",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Madan-Maddi/Has-Bol-Ve?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Madan-Maddi/Has-Bol-Ve/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-23T15:56:34Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1844 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.098841905593872,
+      "available": 6643
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 200428022,
+            "track_name": "BLACK PARADE (Extended Version)",
+            "track_name_translation_list": [],
+            "track_rating": 82,
+            "commontrack_id": 113891914,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 39298300,
+            "album_name": "The Lion King: The Gift [Deluxe Edition]",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE-Extended-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE-Extended-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-06T23:07:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160530196,
+            "track_name": "Too Bad",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 89444068,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 30542310,
+            "album_name": "Feral Roots",
+            "artist_id": 13564972,
+            "artist_name": "Rival Sons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rival-Sons/Too-Bad?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rival-Sons/Too-Bad/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-28T09:34:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84792438,
+            "track_name": "Outta Road",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 47223552,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 34,
+            "album_id": 20929474,
+            "album_name": "Rays of Resistance",
+            "artist_id": 24561253,
+            "artist_name": "Naâman",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Na-man/Outta-Road?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Na-man/Outta-Road/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-09T10:02:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1192,
+                    "music_genre_parent_id": 24,
+                    "music_genre_name": "Roots Reggae",
+                    "music_genre_name_extended": "Reggae / Roots Reggae",
+                    "music_genre_vanity": "Reggae-Roots-Reggae"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17418435,
+            "track_name": "Warrior // Worrier",
+            "track_name_translation_list": [],
+            "track_rating": 62,
+            "commontrack_id": 39984529,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 44,
+            "album_id": 14214602,
+            "album_name": "Warrior // Worrier",
+            "artist_id": 18545,
+            "artist_name": "Outlandish",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Outlandish/Warrior-Worrier?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Outlandish/Warrior-Worrier/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-03T19:32:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200428024,
+            "track_name": "BLACK PARADE",
+            "track_name_translation_list": [],
+            "track_rating": 61,
+            "commontrack_id": 112175185,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 109,
+            "album_id": 39298300,
+            "album_name": "The Lion King: The Gift [Deluxe Edition]",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9-1/BLACK-PARADE/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-04T11:37:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81724960,
+            "track_name": "Rock And Roll",
+            "track_name_translation_list": [],
+            "track_rating": 58,
+            "commontrack_id": 92442,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1463,
+            "album_id": 20618605,
+            "album_name": "Led Zeppelin IV",
+            "artist_id": 226,
+            "artist_name": "Led Zeppelin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Led-Zeppelin/Rock-and-Roll?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Led-Zeppelin/Rock-and-Roll/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-31T07:23:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1157,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Rock & Roll",
+                    "music_genre_name_extended": "Rock / Rock & Roll",
+                    "music_genre_vanity": "Rock-Rock-Roll"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33134956,
+            "track_name": "Forgot About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 51,
+            "commontrack_id": 80773192,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 155,
+            "album_id": 15428425,
+            "album_name": "2001",
+            "artist_id": 214,
+            "artist_name": "Dr. Dre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Forgot-About-Dre-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Forgot-About-Dre-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-05T13:21:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1078,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "West Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / West Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-West-Coast-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190585992,
+            "track_name": "Slide (Remix) [feat. Pop Smoke, A Boogie wit da Hoodie & Chris Brown]",
+            "track_name_translation_list": [],
+            "track_rating": 49,
+            "commontrack_id": 105657713,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 41,
+            "album_id": 36298911,
+            "album_name": "Slide (feat. Pop Smoke) [Remix]",
+            "artist_id": 25139572,
+            "artist_name": "H.E.R.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/H-E-R-2/Slide-Remix-Pop-Smoke-A-Boogie-wit-da-Hoodie-Chris-Brown?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/H-E-R-2/Slide-Remix-Pop-Smoke-A-Boogie-wit-da-Hoodie-Chris-Brown/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-18T11:47:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189604406,
+            "track_name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 104913138,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 36099021,
+            "album_name": "Celebration (Bonus Track Version)",
+            "artist_id": 40940579,
+            "artist_name": "Madonna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Madonna-7/4-Minutes-Justin-Timberlake-Timbaland?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Madonna-7/4-Minutes-Justin-Timberlake-Timbaland/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-10T19:43:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168770754,
+            "track_name": "Sorry",
+            "track_name_translation_list": [],
+            "track_rating": 48,
+            "commontrack_id": 60467549,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12489,
+            "album_id": 32158805,
+            "album_name": "Lemonade",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Sorry?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Sorry/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-04T11:37:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85095419,
+            "track_name": "Who Am I (What's My Name)?",
+            "track_name_translation_list": [],
+            "track_rating": 42,
+            "commontrack_id": 47860,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 487,
+            "album_id": 20951940,
+            "album_name": "Doggystyle",
+            "artist_id": 106,
+            "artist_name": "Snoop Dogg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg/Who-Am-I-What-s-My-Name?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Snoop-Dogg/Who-Am-I-What-s-My-Name/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-17T20:07:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161596206,
+            "track_name": "Good Form",
+            "track_name_translation_list": [],
+            "track_rating": 42,
+            "commontrack_id": 86335365,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 368,
+            "album_id": 30729265,
+            "album_name": "Queen (Deluxe)",
+            "artist_id": 41864296,
+            "artist_name": "Nicki Minaj",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj/Good-Form?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj/Good-Form/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-01T11:45:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 182649950,
+            "track_name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+            "track_name_translation_list": [],
+            "track_rating": 41,
+            "commontrack_id": 99876345,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 34549510,
+            "album_name": "The Essential Simon & Garfunkel",
+            "artist_id": 80,
+            "artist_name": "Simon & Garfunkel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Simon-Garfunkel/Mrs-Robinson-From-The-Graduate-Soundtrack-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Simon-Garfunkel/Mrs-Robinson-From-The-Graduate-Soundtrack-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-07T03:50:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45547053,
+            "track_name": "I Got 5 on It",
+            "track_name_translation_list": [],
+            "track_rating": 40,
+            "commontrack_id": 75043995,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 181,
+            "album_id": 16283793,
+            "album_name": "Greatest Hits",
+            "artist_id": 10297,
+            "artist_name": "Luniz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Luniz/I-Got-5-on-It-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Luniz/I-Got-5-on-It-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-25T13:40:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1078,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "West Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / West Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-West-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194301931,
+            "track_name": "The War (feat. Young Thug)",
+            "track_name_translation_list": [],
+            "track_rating": 40,
+            "commontrack_id": 108629462,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 24,
+            "album_id": 37250298,
+            "album_name": "ADHD",
+            "artist_id": 44817858,
+            "artist_name": "Joyner Lucas feat. Young Thug",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joyner-Lucas/The-War-Young-Thug?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joyner-Lucas/The-War-Young-Thug/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-01T12:48:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31659914,
+            "track_name": "What's Luv",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 12358833,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 330,
+            "album_id": 11318946,
+            "album_name": "20 Years of RNB, Part 1",
+            "artist_id": 24409931,
+            "artist_name": "Fat Joe feat. Ashanti & Ja Rule",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fat-Joe-feat-Ashanti-Ja-Rule/What-s-Luv?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fat-Joe-feat-Ashanti-Ja-Rule/What-s-Luv/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-15T05:29:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84461050,
+            "track_name": "Forgot About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 10912500,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 331,
+            "album_id": 20908586,
+            "album_name": "2001 (Explicit Version)",
+            "artist_id": 13818246,
+            "artist_name": "Eminem feat. Dr. Dre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Dr-Dre/Forgot-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Dr-Dre/Forgot-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-01T15:24:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89248979,
+            "track_name": "Tha Crossroads",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 9929115,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 611,
+            "album_id": 21200607,
+            "album_name": "E. 1999 Eternal",
+            "artist_id": 13790959,
+            "artist_name": "Bone Thugs-n-Harmony",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bone-Thugs%E2%80%90n%E2%80%90Harmony/Tha-Crossroads?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bone-Thugs%E2%80%90n%E2%80%90Harmony/Tha-Crossroads/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-03T15:19:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1136,
+                    "music_genre_parent_id": 15,
+                    "music_genre_name": "Contemporary R&B",
+                    "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+                    "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 161596214,
+            "track_name": "Good Form (feat. Lil Wayne)",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 90095339,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 407,
+            "album_id": 30729265,
+            "album_name": "Queen (Deluxe)",
+            "artist_id": 41870586,
+            "artist_name": "Nicki Minaj feat. Lil Wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Lil-Wayne/Good-Form?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nicki-Minaj-feat-Lil-Wayne/Good-Form/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-20T17:22:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85864863,
+            "track_name": "All About U",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 43807,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 420,
+            "album_id": 20767721,
+            "album_name": "All Eyez On Me",
+            "artist_id": 99,
+            "artist_name": "2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/2Pac/All-About-U?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/2Pac/All-About-U/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-24T00:27:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31184510,
+            "track_name": "Seaside Rendezvous",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "シーサイド・ランデヴー"
+                }
+              }
+            ],
+            "track_rating": 36,
+            "commontrack_id": 53583,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 129,
+            "album_id": 13785654,
+            "album_name": "A Night At the Opera",
+            "artist_id": 118,
+            "artist_name": "Queen",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Queen/Seaside-Rendezvous?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Queen/Seaside-Rendezvous/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-23T10:56:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175743704,
+            "track_name": "Phone Numbers",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 97510270,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 29,
+            "album_id": 33327083,
+            "album_name": "Phone Numbers",
+            "artist_id": 31861215,
+            "artist_name": "Dominic Fike",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dominic-Fike/Phone-Numbers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dominic-Fike/Phone-Numbers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-08T08:27:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194256209,
+            "track_name": "12.38",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 108597078,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 37234810,
+            "album_name": "3.15.20",
+            "artist_id": 513697,
+            "artist_name": "Childish Gambino",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-3/12-38?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Childish-Gambino-3/12-38/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-23T11:17:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95571044,
+            "track_name": "Hump de Bump",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 956949,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 579,
+            "album_id": 21655692,
+            "album_name": "Stadium Arcadium",
+            "artist_id": 7521,
+            "artist_name": "Red Hot Chili Peppers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Hump-de-Bump?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Hump-de-Bump/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T14:28:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169090015,
+            "track_name": "Public Enemy #1",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 137525,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 90,
+            "album_id": 32219101,
+            "album_name": "Eminem Presents The Re-Up",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Public-Enemy-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Public-Enemy-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-21T08:21:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84682509,
+            "track_name": "Walkabout",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 957174,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 86,
+            "album_id": 20921972,
+            "album_name": "One Hot Minute (U.S. Version)",
+            "artist_id": 7521,
+            "artist_name": "Red Hot Chili Peppers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Walkabout?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Red-Hot-Chili-Peppers/Walkabout/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T14:28:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84459217,
+            "track_name": "Forgot About Dre - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 35,
+            "commontrack_id": 47513777,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 20908487,
+            "album_name": "2001 (Edited Version)",
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-08T07:28:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 180838301,
+            "track_name": "Gospel",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 72132210,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 112,
+            "album_id": 34212320,
+            "album_name": "Gospel",
+            "artist_id": 33577879,
+            "artist_name": "Rich Brian feat. Keith Ape & XXXTENTACION",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rich-Chigga-feat-Keith-Ape-Xxxtentacion/Gospel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rich-Chigga-feat-Keith-Ape-Xxxtentacion/Gospel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-23T17:56:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99554942,
+            "track_name": "Survival of the Fittest",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 1359685,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 234,
+            "album_id": 22017740,
+            "album_name": "The Infamous Mobb Deep (Deluxe)",
+            "artist_id": 10904,
+            "artist_name": "Mobb Deep",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mobb-Deep/Survival-of-the-Fittest?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mobb-Deep/Survival-of-the-Fittest/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-24T10:41:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1070,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "East Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / East Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-East-Coast-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84418294,
+            "track_name": "Bigger",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 6335461,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1526,
+            "album_id": 20907049,
+            "album_name": "My World (France Version)",
+            "artist_id": 33491916,
+            "artist_name": "Justin Bieber",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Bieber/Bigger?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Bieber/Bigger/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-13T22:18:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 168770763,
+            "track_name": "Sorry - Original Demo",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 94882207,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 32158805,
+            "album_name": "Lemonade",
+            "artist_id": 18927,
+            "artist_name": "Beyoncé",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Sorry-Original-Demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/Sorry-Original-Demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-04T11:37:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89179078,
+            "track_name": "Dizzy Miss Lizzy - Remastered 2009",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 49891551,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21196042,
+            "album_name": "Help! (Remastered)",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Remastered-2009?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Remastered-2009/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-17T18:37:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1593548,
+            "track_name": "Forgot About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 137182,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 168,
+            "album_id": 10349767,
+            "album_name": "Fucking Crazy",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Forgot-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Forgot-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:04:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18923886,
+            "track_name": "Forgot About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 10493775,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1030,
+            "album_id": 10490998,
+            "album_name": "Forgot About Dre",
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Forgot-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Forgot-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-18T11:06:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1072,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hardcore Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hardcore Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hardcore-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1078,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "West Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / West Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-West-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30448610,
+            "track_name": "Forget About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 137180,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 10313229,
+            "album_name": "Unrelease V",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Forget-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Forget-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-16T04:26:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32047910,
+            "track_name": "Forgot About Dre (Explicit Version)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 12541690,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 521,
+            "album_id": 11341051,
+            "album_name": "Danger - The Hip Hop Collection 5",
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Explicit-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Explicit-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-08T07:28:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4535409,
+            "track_name": "Forgot About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 12464751,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10594302,
+            "album_name": "2000-06-19: Up in Smoke Tour: San Jose, CA, USA",
+            "artist_id": 24428125,
+            "artist_name": "Dr. Dre, Eminem & Snoop Dogg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-Eminem-Snoop-Dogg/Forgot-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-Eminem-Snoop-Dogg/Forgot-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-22T04:09:52Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15919875,
+            "track_name": "Forgot About Dre (Kraddy remix)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 10262747,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11016223,
+            "album_name": "The Illegal Album",
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Kraddy-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-Kraddy-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-08T07:28:51Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16384470,
+            "track_name": "Forget About Dre",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 10619030,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10641292,
+            "album_name": null,
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forget-About-Dre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forget-About-Dre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-23T22:12:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30087216,
+            "track_name": "Forgot About Dre (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 12240630,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10945596,
+            "album_name": "Forgot About Dre",
+            "artist_id": 13804650,
+            "artist_name": "Dr. Dre feat. Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre-feat-Eminem/Forgot-About-Dre-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-15T07:30:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88856901,
+            "track_name": "Thuggish Ruggish Bone",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 11691216,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 261,
+            "album_id": 21178198,
+            "album_name": "Creepin on Ah Come Up",
+            "artist_id": 13790959,
+            "artist_name": "Bone Thugs-n-Harmony",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bone-Thugs%E2%80%90n%E2%80%90Harmony/Thuggish-Ruggish-Bone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bone-Thugs%E2%80%90n%E2%80%90Harmony/Thuggish-Ruggish-Bone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-29T07:02:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1071,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Gangsta Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Gangsta Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Gangsta-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19663858,
+            "track_name": "Let Me Ride",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 87602,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 217,
+            "album_id": 13775256,
+            "album_name": "The Chronic",
+            "artist_id": 214,
+            "artist_name": "Dr. Dre",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Let-Me-Ride?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Dre/Let-Me-Ride/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-05T13:27:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80713465,
+            "track_name": "Thug Luv",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 11691286,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 48,
+            "album_id": 13752244,
+            "album_name": "The Art of War",
+            "artist_id": 26258742,
+            "artist_name": "Bone Thugs-N-Harmony feat. 2Pac",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bone-Thugs-n-Harmony-2Pac/Thug-Luv?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bone-Thugs-n-Harmony-2Pac/Thug-Luv/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-10T01:17:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84700987,
+            "track_name": "4 Minutes (Glee Cast Version)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 15374343,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 77,
+            "album_id": 20922530,
+            "album_name": "Glee: The Music, The Power Of Madonna",
+            "artist_id": 483091,
+            "artist_name": "Glee Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Glee-Cast/4-Minutes-Glee-Cast-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Glee-Cast/4-Minutes-Glee-Cast-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-28T03:19:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170615628,
+            "track_name": "Dizzy Miss Lizzy",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ディジー・ミス・リジー"
+                }
+              }
+            ],
+            "track_rating": 33,
+            "commontrack_id": 68562,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 167,
+            "album_id": 32540727,
+            "album_name": "Help!",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-22T04:02:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114584477,
+            "track_name": "Dizzy Miss Lizzy - Live / Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 63157319,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 23950582,
+            "album_name": "Live At The Hollywood Bowl",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Live-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Live-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-09T09:20:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89179126,
+            "track_name": "Dizzy Miss Lizzy - Remastered",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 49891580,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 21196043,
+            "album_name": "Help! (Remastered)",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-07T10:51:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31079705,
+            "track_name": "Forget About Dre (live From Saturday Night Live)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 137181,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10374272,
+            "album_name": "Rap Attack",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Forget-About-Dre-live-From-Saturday-Night-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Forget-About-Dre-live-From-Saturday-Night-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-13T19:32:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114215268,
+            "track_name": "Dizzy Miss Lizzy (Live)",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ディジー・ミス・リジー"
+                }
+              }
+            ],
+            "track_rating": 33,
+            "commontrack_id": 62941300,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 23912099,
+            "album_name": "Live at the Hollywood Bowl",
+            "artist_id": 160,
+            "artist_name": "The Beatles",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Beatles/Dizzy-Miss-Lizzy-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-20T11:30:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84457814,
+            "track_name": "Public Enemy #1 - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 47513445,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20908407,
+            "album_name": "Eminem Presents The Re-Up",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Public-Enemy-1-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Public-Enemy-1-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-14T03:54:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

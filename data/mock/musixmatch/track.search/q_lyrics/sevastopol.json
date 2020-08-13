@@ -1,0 +1,183 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.039599180221558,
+      "available": 5
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 34939590,
+            "track_name": "Tam Za Tumanami",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 6930320,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 15570316,
+            "album_name": "Pesni o ludyakh",
+            "artist_id": 86767,
+            "artist_name": "Любэ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/artist-86767/Tam-za-tumanami?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/artist-86767/Tam-za-tumanami/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:35:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95435000,
+            "track_name": "Stalingrad",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 52779595,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21645470,
+            "album_name": "WW2: Europe in Flames",
+            "artist_id": 14003622,
+            "artist_name": "Ghostwolf",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ghostwolf/Stalingrad?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ghostwolf/Stalingrad/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-09T03:10:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99026467,
+            "track_name": "Zhankoyl",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 20249429,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21967908,
+            "album_name": "The Limelighters (US Release)",
+            "artist_id": 2239,
+            "artist_name": "The Limeliters",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Limeliters/Zhankoyl?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Limeliters/Zhankoyl/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-28T14:05:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 112786716,
+            "track_name": "Dovolená V Pr...",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 62051907,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23738604,
+            "album_name": "Alcatranz",
+            "artist_id": 186690,
+            "artist_name": "Traktor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Traktor-2/Dovolen%C3%A1-V-Pr?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Traktor-2/Dovolen%C3%A1-V-Pr/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-29T15:13:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68247412,
+            "track_name": "The Heights of Alma",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 36652242,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18988362,
+            "album_name": "The Falling of the Pine",
+            "artist_id": 27463401,
+            "artist_name": "Brian Miller & Randy Gosa",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brian-Miller-Randy-Gosa/The-Heights-of-Alma?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brian-Miller-Randy-Gosa/The-Heights-of-Alma/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-04T06:40:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1067,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Traditional Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Traditional Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Traditional-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

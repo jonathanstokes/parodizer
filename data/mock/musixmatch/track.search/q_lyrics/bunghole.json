@@ -1,0 +1,743 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.063674926757812,
+      "available": 24
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 13169062,
+            "track_name": "Echo",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 9213935,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13169183,
+            "album_name": "Remission",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Echo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Echo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-08T16:11:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17638938,
+            "track_name": "Echo",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 11022166,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13169182,
+            "album_name": "Fight Night",
+            "artist_id": 13951676,
+            "artist_name": "Eminem feat. Royce da 5′9″ & Liz Rodrigues",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Royce-da-5%E2%80%B29%E2%80%B3-Liz-Rodrigues/Echo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem-feat-Royce-da-5%E2%80%B29%E2%80%B3-Liz-Rodrigues/Echo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-02T06:44:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84457369,
+            "track_name": "Just Lose It - Album Version (Edited)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 47497198,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 20908348,
+            "album_name": "Encore (Deluxe Edited Version)",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-Album-Version-Edited?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-Album-Version-Edited/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-13T22:28:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4764129,
+            "track_name": "Just Lose It (instrumental)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 137339,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10613603,
+            "album_name": "Just Lose It",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-instrumental?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-instrumental/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-26T21:50:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 737425,
+            "track_name": "Funny Little Man",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "Funny Little Man"
+                }
+              }
+            ],
+            "track_rating": 21,
+            "commontrack_id": 89323,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10281985,
+            "album_name": "Come To Daddy",
+            "artist_id": 222,
+            "artist_name": "Aphex Twin",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aphex-Twin/Funny-Little-Man?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aphex-Twin/Funny-Little-Man/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:12:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31738986,
+            "track_name": "Kill Kill Kill",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 12410929,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11324564,
+            "album_name": "Lawn Mower Man",
+            "artist_id": 24417944,
+            "artist_name": "Madchild feat. Bishop Lamont & JD Era",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Madchild-feat-Bishop-Lamont-JD-Era/Kill-Kill-Kill?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Madchild-feat-Bishop-Lamont-JD-Era/Kill-Kill-Kill/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-22T13:30:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130095672,
+            "track_name": "\"HUMBLE\" Parody of Kendrick Lamar's \"HUMBLE\"",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 72471440,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26161901,
+            "album_name": "\"HUMBLE\" Parody of Kendrick Lamar's \"HUMBLE\"",
+            "artist_id": 24635887,
+            "artist_name": "The Key of Awesome",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Key-of-Awesome/HUMBLE-Parody-of-Kendrick-Lamar-s-HUMBLE?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Key-of-Awesome/HUMBLE-Parody-of-Kendrick-Lamar-s-HUMBLE/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-22T14:34:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 3,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Comedy",
+                    "music_genre_name_extended": "Comedy",
+                    "music_genre_vanity": "Comedy"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57458897,
+            "track_name": "Sorcerer of Death's Construction",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 12032907,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 17521172,
+            "album_name": "Die!",
+            "artist_id": 26057,
+            "artist_name": "Necro",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Necro-3/Sorcerer-of-Death-s-Construction?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Necro-3/Sorcerer-of-Death-s-Construction/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T10:12:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19673608,
+            "track_name": "Excellent Analogy",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 12347438,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 14320248,
+            "album_name": "Excellent",
+            "artist_id": 24406796,
+            "artist_name": "Propaganda feat. Alphonso McAuley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Propaganda-feat-Alphonso-McAuley/Excellent-Analogy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Propaganda-feat-Alphonso-McAuley/Excellent-Analogy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-19T14:59:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84338648,
+            "track_name": "Hate",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 47401660,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20897707,
+            "album_name": "What A Weird Day",
+            "artist_id": 28871371,
+            "artist_name": "Michael Christmas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michael-Christmas-3/Hate?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michael-Christmas-3/Hate/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-01T04:14:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2925231,
+            "track_name": "Rectal Wench",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 7092550,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10457782,
+            "album_name": "Show Us Your Tits",
+            "artist_id": 96181,
+            "artist_name": "Lividity",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:21:26Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 64234499,
+            "track_name": "In the Jungle",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 32619897,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11341215,
+            "album_name": "Rucka's World",
+            "artist_id": 27057361,
+            "artist_name": "Rucka Rucka Ali feat. Joseph Kony",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rucka-Rucka-Ali-feat-Joseph-Kony/In-the-Jungle?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rucka-Rucka-Ali-feat-Joseph-Kony/In-the-Jungle/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-23T17:45:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4865675,
+            "track_name": "The Roli Rho Show (clean)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2219670,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10622384,
+            "album_name": "Microphone Phenomenal",
+            "artist_id": 26677,
+            "artist_name": "Mountain Brothers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mountain-Brothers/The-Roli-Rho-Show-clean?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mountain-Brothers/The-Roli-Rho-Show-clean/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-26T01:31:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3281493,
+            "track_name": "The Roli Rho Show",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2219669,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10487648,
+            "album_name": "Triple Crown",
+            "artist_id": 26677,
+            "artist_name": "Mountain Brothers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mountain-Brothers/The-Roli-Rho-Show?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mountain-Brothers/The-Roli-Rho-Show/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-01-03T08:21:39Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3484584,
+            "track_name": "Bag",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7545366,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10504951,
+            "album_name": "Intrauterine Cannibalism",
+            "artist_id": 129231,
+            "artist_name": "Malignancy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Malignancy/Bag?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Malignancy/Bag/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:07:49Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194296594,
+            "track_name": "CBT (feat. Doobie & GooseyBoi)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 108625938,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37248757,
+            "album_name": "CBT",
+            "artist_id": 43216777,
+            "artist_name": "21spendexx",
+            "track_share_url": "https://www.musixmatch.com/lyrics/21spendexx/CBT-Doobie-GooseyBoi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/21spendexx/CBT-Doobie-GooseyBoi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T22:41:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35116626,
+            "track_name": "Just Do It",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 14442109,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15583263,
+            "album_name": "It Ain't Over",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Do-It?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Do-It/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-19T17:56:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2872334,
+            "track_name": "Just Lose It (album)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26084692,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10453275,
+            "album_name": "Just Lose It",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-album?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Just-Lose-It-album/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-07T01:59:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4842840,
+            "track_name": "Rectal Wench (Balls Deep version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7092551,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10620389,
+            "album_name": "Fetish for the Sick",
+            "artist_id": 96181,
+            "artist_name": "Lividity",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench-Balls-Deep-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench-Balls-Deep-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:21:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 56137219,
+            "track_name": "Rectal Wench (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 27479866,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17373191,
+            "album_name": "Fetish for the Sick / Live in Germany",
+            "artist_id": 96181,
+            "artist_name": "Lividity",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lividity/Rectal-Wench-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-03T10:27:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90053104,
+            "track_name": "In the Jungle (feat. Joseph Kony)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 50235736,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21250562,
+            "album_name": "Rucka's World",
+            "artist_id": 29872874,
+            "artist_name": "Rucka Rucka Ali feat. Joseph Kony",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rucka-Rucka-Ali-feat-Joseph-Kony-2/In-the-Jungle-feat-Joseph-Kony?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rucka-Rucka-Ali-feat-Joseph-Kony-2/In-the-Jungle-feat-Joseph-Kony/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-02T13:58:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 109401554,
+            "track_name": "Call Me Jennifer And Steal My Stapler",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7676588,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23225128,
+            "album_name": "Stupid Video Game Music",
+            "artist_id": 142192,
+            "artist_name": "Worm Quartet",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Worm-Quartet/Call-Me-Jennifer-and-Steal-My-Stapler?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Worm-Quartet/Call-Me-Jennifer-and-Steal-My-Stapler/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T20:22:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7443965,
+            "track_name": "Call Me Jennifer and Steal My Stapler (SVGM Remastered version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7676589,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10861269,
+            "album_name": "The FuMP, Volume 4: July - August 2007",
+            "artist_id": 142192,
+            "artist_name": "Worm Quartet",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Worm-Quartet/Call-Me-Jennifer-and-Steal-My-Stapler-SVGM-Remastered-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Worm-Quartet/Call-Me-Jennifer-and-Steal-My-Stapler-SVGM-Remastered-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-12-28T17:51:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8585705,
+            "track_name": "Chapter 8: Port Angeles 6",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 5985498,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10990979,
+            "album_name": "Twilight",
+            "artist_id": 392857,
+            "artist_name": "Stephenie Meyer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stephenie-Meyer/Chapter-8-Port-Angeles-6?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stephenie-Meyer/Chapter-8-Port-Angeles-6/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-04T16:35:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

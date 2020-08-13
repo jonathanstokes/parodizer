@@ -1,0 +1,1584 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.10092997550964,
+      "available": 713
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 84542509,
+            "track_name": "Zero To Hero - From \"Hercules\"",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 47089743,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 316,
+            "album_id": 20913428,
+            "album_name": "We Love Disney",
+            "artist_id": 13958599,
+            "artist_name": "Ariana Grande",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero-From-Hercules?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero-From-Hercules/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-12T14:48:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84542497,
+            "track_name": "Zero To Hero",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 47561606,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 20913427,
+            "album_name": "David Foster Presents: We Love Disney Track By Track Commentary",
+            "artist_id": 13958599,
+            "artist_name": "Ariana Grande",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-13T14:44:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84542369,
+            "track_name": "Zero To Hero - Aus \"Hercules\"",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 47328801,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20913422,
+            "album_name": "We Love Disney",
+            "artist_id": 13958599,
+            "artist_name": "Ariana Grande",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero-Aus-Hercules?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/Zero-To-Hero-Aus-Hercules/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-22T03:34:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 141742044,
+            "track_name": "candayapple",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 77580640,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 27571308,
+            "album_name": "cybersex",
+            "artist_id": 34785618,
+            "artist_name": "blackbear feat. Paul Wall & Riff Raff",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blackbear/Track-13?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blackbear/Track-13/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-28T13:44:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 140764069,
+            "track_name": "Marvelous Day",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 78090325,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 70,
+            "album_id": 27455628,
+            "album_name": "Mood",
+            "artist_id": 34734719,
+            "artist_name": "Kap G feat. Lil Uzi Vert & Gunna",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kap-G-feat-Lil-Uzi-Vert-Gunna/Marvelous-Day?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kap-G-feat-Lil-Uzi-Vert-Gunna/Marvelous-Day/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-22T14:00:27Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30310718,
+            "track_name": "Hoppípolla",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 906576,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 417,
+            "album_id": 13770518,
+            "album_name": "Takk...",
+            "artist_id": 7224,
+            "artist_name": "Sigur Rós",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sigur-R%C3%B3s/Hopp%C3%ADpolla?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sigur-R%C3%B3s/Hopp%C3%ADpolla/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-28T01:17:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72359775,
+            "track_name": "Troppo Politico",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 39091592,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 49,
+            "album_id": 19561246,
+            "album_name": "Museica",
+            "artist_id": 54043,
+            "artist_name": "Caparezza",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caparezza/Troppo-politico?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caparezza/Troppo-politico/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-26T20:03:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 36367584,
+            "track_name": "Ghetto Story",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 15081768,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 49,
+            "album_id": 15667313,
+            "album_name": "Sunset Flavor",
+            "artist_id": 24677858,
+            "artist_name": "Baby Cham feat. Alicia Keys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Baby-Cham-feat-Alicia-Keys/Ghetto-Story?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Baby-Cham-feat-Alicia-Keys/Ghetto-Story/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-03T01:12:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33555561,
+            "track_name": "Ghetto story (remix)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 13428488,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 7,
+            "album_id": 15459871,
+            "album_name": "Sunser Flavor",
+            "artist_id": 24677858,
+            "artist_name": "Baby Cham feat. Alicia Keys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Baby-Cham-feat-Alicia-Keys/Ghetto-story-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Baby-Cham-feat-Alicia-Keys/Ghetto-story-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-15T17:04:10Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 691206,
+            "track_name": "Boyz-N-The Hood (remix)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 39906921,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 259,
+            "album_id": 10277909,
+            "album_name": "Eazy-Duz-It",
+            "artist_id": 14373926,
+            "artist_name": "Eazy-E",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eazy-E/Boyz-N-The-Hood-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eazy-E/Boyz-N-The-Hood-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-29T07:02:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86820599,
+            "track_name": "This Song Is Not About a Girl",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14239625,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 130,
+            "album_id": 21063697,
+            "album_name": "Lockjaw",
+            "artist_id": 29289015,
+            "artist_name": "Flume feat. Chet Faker",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Flume-feat-Chet-Faker-2/This-Song-Is-Not-About-a-Girl-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Flume-feat-Chet-Faker-2/This-Song-Is-Not-About-a-Girl-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-24T11:06:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86616309,
+            "track_name": "Autologic - Demo",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14459192,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21049670,
+            "album_name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+            "artist_id": 220,
+            "artist_name": "Rage Against the Machine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Auto-Logic-demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Auto-Logic-demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-12T08:41:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85300499,
+            "track_name": "Like I Do (feat. French Montana & Yo Gotti)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 48037459,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20963394,
+            "album_name": "Taylor Gang",
+            "artist_id": 29076750,
+            "artist_name": "Wiz Khalifa, Juicy J, Ty Dolla , Yo Gotti & French Montana",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Wiz-Khalifa-Juicy-J-Ty-Dolla-ign-Yo-Gotti-French-Montana/Like-I-Do-feat-French-Montana-Yo-Gotti?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Wiz-Khalifa-Juicy-J-Ty-Dolla-ign-Yo-Gotti-French-Montana/Like-I-Do-feat-French-Montana-Yo-Gotti/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-20T14:36:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87249180,
+            "track_name": "Let's All Go Down the Strand - 2012 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 49076454,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21089646,
+            "album_name": "Modern Life Is Rubbish [Special Edition]",
+            "artist_id": 204,
+            "artist_name": "Blur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blur/Let-s-All-Go-Down-the-Strand-2012-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blur/Let-s-All-Go-Down-the-Strand-2012-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-27T12:45:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19227962,
+            "track_name": "Autologic",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 88897,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14273617,
+            "album_name": "Rage Against the Machine XX",
+            "artist_id": 220,
+            "artist_name": "Rage Against the Machine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Autologic?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rage-Against-the-Machine/Autologic/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:12:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87945824,
+            "track_name": "Remmi Demmi",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 11794437,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21127546,
+            "album_name": "Ni Carne Ni Pescado",
+            "artist_id": 17518,
+            "artist_name": "Panteón Rococó",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Panteon-Rococo/Remmi-Demmi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Panteon-Rococo/Remmi-Demmi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-20T16:29:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1194,
+                    "music_genre_parent_id": 24,
+                    "music_genre_name": "Ska",
+                    "music_genre_name_extended": "Reggae / Ska",
+                    "music_genre_vanity": "Reggae-Ska"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 123530711,
+            "track_name": "Boyz-N-The-Hood",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 18748165,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3,
+            "album_id": 25214238,
+            "album_name": "The Classic Collection",
+            "artist_id": 24443531,
+            "artist_name": "N.W.A.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/N-W-A-2/Boyz-N-The-Hood?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/N-W-A-2/Boyz-N-The-Hood/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-05T14:32:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14605386,
+            "track_name": "Nervous Assistant",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 776887,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10379281,
+            "album_name": "Aglio e olio",
+            "artist_id": 6617,
+            "artist_name": "Beastie Boys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beastie-Boys/Nervous-Assistant?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beastie-Boys/Nervous-Assistant/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T03:36:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1718327,
+            "track_name": "They Also Mourn Who Do Not Wear Black (For the Homeless in Muskegon)",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 3039893,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10359864,
+            "album_name": "Michigan",
+            "artist_id": 54946,
+            "artist_name": "Sufjan Stevens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/They-Also-Mourn-Who-Do-Not-Wear-Black-For-the-Homeless-in-Muskegon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sufjan-Stevens/They-Also-Mourn-Who-Do-Not-Wear-Black-For-the-Homeless-in-Muskegon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:58:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35178380,
+            "track_name": "Idle in Kangaroo Court",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 14484974,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15587465,
+            "album_name": "Sound System",
+            "artist_id": 1137,
+            "artist_name": "The Clash",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Clash/Idle-in-Kangaroo-Court?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Clash/Idle-in-Kangaroo-Court/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-17T15:52:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127666277,
+            "track_name": "Summatime",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 70804712,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 13,
+            "album_id": 25810807,
+            "album_name": "At What Cost",
+            "artist_id": 33328814,
+            "artist_name": "GoldLink feat. Wale & Radiant Children",
+            "track_share_url": "https://www.musixmatch.com/lyrics/GoldLink-feat-Wale-Radiant-Children/Summatime?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/GoldLink-feat-Wale-Radiant-Children/Summatime/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-30T10:29:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16442801,
+            "track_name": "Fucking Lame",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 39918655,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 12893797,
+            "album_name": "The Odd Future Tape",
+            "artist_id": 39894676,
+            "artist_name": "Tyler, The Creator",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator/Fucking-Lame?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tyler-The-Creator/Fucking-Lame/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-04T11:05:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18064604,
+            "track_name": "Let's All Go Down the Strand",
+            "track_name_translation_list": [],
+            "track_rating": 25,
+            "commontrack_id": 85661,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14239048,
+            "album_name": "Modern Life Is Rubbish",
+            "artist_id": 204,
+            "artist_name": "Blur",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Blur/Let-s-All-Go-Down-the-Strand?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Blur/Let-s-All-Go-Down-the-Strand/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-08T18:10:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7434417,
+            "track_name": "Abuelita",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 2023542,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10860215,
+            "album_name": "The Big Break - La Gran Fuga",
+            "artist_id": 21576,
+            "artist_name": "Willie Colón",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Willie-Col%C3%B3n/Abuelita?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Willie-Col%C3%B3n/Abuelita/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-09-01T05:34:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82098075,
+            "track_name": "Genie Medley",
+            "track_name_translation_list": [
+              {
+                "track_name_translation": {
+                  "language": "JA",
+                  "translation": "ジーニーメドレー"
+                }
+              }
+            ],
+            "track_rating": 24,
+            "commontrack_id": 39822567,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20687548,
+            "album_name": "Aladdin Original Broadway Cast Recording",
+            "artist_id": 28599697,
+            "artist_name": "Alan Menken feat. Adam Jacobs & James Monroe Iglehart",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alan-Menken-Adam-Jacobs-James-Monroe-Iglehart/Genie-Medley?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alan-Menken-Adam-Jacobs-James-Monroe-Iglehart/Genie-Medley/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-25T07:23:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 81377376,
+            "track_name": "Like I Do",
+            "track_name_translation_list": [],
+            "track_rating": 24,
+            "commontrack_id": 45264861,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 20,
+            "album_id": 20572133,
+            "album_name": "Ball  Hard Vol 7",
+            "artist_id": 28536803,
+            "artist_name": "Yo Gotti, French Montana & Ty Dolla ",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yo-Gotti-French-Montana-Ty-Dolla-ign/Like-I-Do?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yo-Gotti-French-Montana-Ty-Dolla-ign/Like-I-Do/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-02T02:14:45Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88984517,
+            "track_name": "Devil In Jersey City",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 2514918,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 60,
+            "album_id": 21185792,
+            "album_name": "Playlist: The Very Best Of Coheed and Cambria",
+            "artist_id": 34861,
+            "artist_name": "Coheed and Cambria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Coheed-and-Cambria/Devil-in-Jersey-City?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Coheed-and-Cambria/Devil-in-Jersey-City/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T02:02:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 189823242,
+            "track_name": "In Da Moment",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 105281280,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 5,
+            "album_id": 29419319,
+            "album_name": "To Tanesha",
+            "artist_id": 56948,
+            "artist_name": "Vybz Kartel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/In-Da-Moment?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vybz-Kartel/In-Da-Moment/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-24T22:06:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128027418,
+            "track_name": "Shut 'Em Up",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 66891717,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 24869212,
+            "album_name": "The Day Is My Enemy (Expanded Edition)",
+            "artist_id": 16439,
+            "artist_name": "The Prodigy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Prodigy/Shut-Em-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Prodigy/Shut-Em-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-18T18:55:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88352696,
+            "track_name": "Shut 'Em Up (The Prodigy Vs Public Enemy Vs Manfred Mann)",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 47334676,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 21151323,
+            "album_name": "The Day Is My Enemy (Digital Expanded Edition)",
+            "artist_id": 16439,
+            "artist_name": "The Prodigy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Prodigy/Shut-Em-Up-The-Prodigy-Vs-Public-Enemy-Vs-Manfred-Mann?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Prodigy/Shut-Em-Up-The-Prodigy-Vs-Public-Enemy-Vs-Manfred-Mann/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-13T21:21:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31019481,
+            "track_name": "Timbalero",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 2023761,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 13836587,
+            "album_name": "El Juicio",
+            "artist_id": 21576,
+            "artist_name": "Willie Colón",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Willie-Col%C3%B3n/Timbalero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Willie-Col%C3%B3n/Timbalero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-07-26T03:02:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1124,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Salsa y Tropical",
+                    "music_genre_name_extended": "Latin / Salsa y Tropical",
+                    "music_genre_vanity": "Latin-Salsa-y-Tropical"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 12,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Latin",
+                    "music_genre_name_extended": "Latin",
+                    "music_genre_vanity": "Latin"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126558014,
+            "track_name": "52 Bars, Pt. 2",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 43562824,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 25656797,
+            "album_name": "Signed to the Streets",
+            "artist_id": 14349223,
+            "artist_name": "Lil Durk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Durk/52-Bars-Pt-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Durk/52-Bars-Pt-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-11T17:51:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34205548,
+            "track_name": "52 Bars, Part 2",
+            "track_name_translation_list": [],
+            "track_rating": 23,
+            "commontrack_id": 13819275,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15511204,
+            "album_name": "Signed to the Streets",
+            "artist_id": 14349223,
+            "artist_name": "Lil Durk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Durk/52-Bars-Part-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Durk/52-Bars-Part-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-30T14:56:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53010996,
+            "track_name": "Untold Stories",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 412256,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 93,
+            "album_id": 17057593,
+            "album_name": "Til Shiloh",
+            "artist_id": 1449,
+            "artist_name": "Buju Banton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Buju-Banton/Untold-Stories?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Buju-Banton/Untold-Stories/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T14:57:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 164837476,
+            "track_name": "BDE",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 92144994,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 9,
+            "album_id": 31349678,
+            "album_name": "EP 7",
+            "artist_id": 33672690,
+            "artist_name": "Qveen Herby",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Qveen-Herby/BDE?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Qveen-Herby/BDE/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-22T08:05:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 179758708,
+            "track_name": "ok ok?",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 98574178,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 33979566,
+            "album_name": "Now, Not Yet",
+            "artist_id": 31310020,
+            "artist_name": "half•alive",
+            "track_share_url": "https://www.musixmatch.com/lyrics/half%E2%80%A2alive/ok-ok?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/half%E2%80%A2alive/ok-ok/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-08-02T10:14:20Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 53557494,
+            "track_name": "Good to Go",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 9126442,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 36,
+            "album_id": 12913255,
+            "album_name": "Trunk Muzik 0-60",
+            "artist_id": 24406466,
+            "artist_name": "Yelawolf feat. Bun B",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yelawolf-feat-Bun-B/Good-to-Go?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yelawolf-feat-Bun-B/Good-to-Go/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:55:26Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88381001,
+            "track_name": "Addicted - feat. Mohombi & Craig David & Greg Parys",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 11309814,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21152967,
+            "album_name": "Addicted (feat. Mohombi & Craig David & Greg Parys)",
+            "artist_id": 38599749,
+            "artist_name": "DJ Assad feat. Mohombi, Craig David & Greg Parys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T10:06:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18551245,
+            "track_name": "Zero to Hero",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1486628,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 24,
+            "album_id": 10388602,
+            "album_name": "Hercules",
+            "artist_id": 12375,
+            "artist_name": "Alan Menken",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alan-Menken/Zero-to-Hero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alan-Menken/Zero-to-Hero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-11T14:42:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84171772,
+            "track_name": "Cruisin' in my '64",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47275815,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 141,
+            "album_id": 20774343,
+            "album_name": "Compilation",
+            "artist_id": 24559078,
+            "artist_name": "Eazy-E",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eazy-E/Cruisin-in-my-64?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eazy-E/Cruisin-in-my-64/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-09-01T01:42:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34614310,
+            "track_name": "Addicted (feat. Mohombi, Craig David, Greg Parys) [extended no rap version]",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 14106700,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15548174,
+            "album_name": "Addicted",
+            "artist_id": 38599749,
+            "artist_name": "DJ Assad feat. Mohombi, Craig David & Greg Parys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted-extended-no-rap-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted-extended-no-rap-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T10:06:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4000835,
+            "track_name": "I Want You",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 1152505,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10548990,
+            "album_name": "Radio",
+            "artist_id": 8927,
+            "artist_name": "LL Cool J",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LL-Cool-J/I-Want-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LL-Cool-J/I-Want-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:53:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 89710357,
+            "track_name": "Oh",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 45215101,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21229477,
+            "album_name": "Pyrex Nitty",
+            "artist_id": 143575,
+            "artist_name": "Yo Gotti",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Yo-Gotti/Oh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Yo-Gotti/Oh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-03T16:45:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88470344,
+            "track_name": "Fan",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12593404,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 21157893,
+            "album_name": "Fan",
+            "artist_id": 24461910,
+            "artist_name": "Hit-Boy feat. 2 Chainz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hit-Boy-feat-2-Chainz/Fan?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hit-Boy-feat-2-Chainz/Fan/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-28T12:18:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88352626,
+            "track_name": "Shut 'Em Up",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47334672,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21151321,
+            "album_name": "The Day Is My Enemy (Expanded Edition)",
+            "artist_id": 38602033,
+            "artist_name": "The Prodigy feat. Public Enemy & Manfred Mann",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Prodigy-Public-Enemy-Manfred-Mann/Shut-em-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Prodigy-Public-Enemy-Manfred-Mann/Shut-em-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-28T12:45:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17774346,
+            "track_name": "Bitches & Bizness",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 8329536,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10665165,
+            "album_name": "M.I.Yayo",
+            "artist_id": 219511,
+            "artist_name": "Rick Ross",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rick-Ross/Bitches-Bizness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rick-Ross/Bitches-Bizness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-16T01:09:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85007790,
+            "track_name": "Devil in Jersey City - Live from the Starland Ballroom",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47864390,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20945949,
+            "album_name": "Live At The Starland Ballroom",
+            "artist_id": 34861,
+            "artist_name": "Coheed and Cambria",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Coheed-and-Cambria/Devil-in-Jersey-City-Live-from-the-Starland-Ballroom?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Coheed-and-Cambria/Devil-in-Jersey-City-Live-from-the-Starland-Ballroom/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-08-18T21:30:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86884996,
+            "track_name": "La Fiera Delle Vanità",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 48901704,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21068704,
+            "album_name": "Nella Bocca Della Tigre",
+            "artist_id": 191237,
+            "artist_name": "Mondo Marcio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio/La-Fiera-Delle-Vanit%C3%A0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio/La-Fiera-Delle-Vanit%C3%A0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-03T22:57:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 88380882,
+            "track_name": "Addicted - Radio Edit",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 12479807,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21152955,
+            "album_name": "Addicted (feat. Mohombi, Craig David, Greg Parys)",
+            "artist_id": 38599749,
+            "artist_name": "DJ Assad feat. Mohombi, Craig David & Greg Parys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted-feat-Mohombi-Craig-David-Greg-Parys-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Assad-feat-Mohombi-Craig-David-Greg-Parys/Addicted-feat-Mohombi-Craig-David-Greg-Parys-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-28T19:26:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 17,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Dance",
+                    "music_genre_name_extended": "Dance",
+                    "music_genre_vanity": "Dance"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 67985304,
+            "track_name": "La Fiera Della Vanità",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 36462917,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 18950639,
+            "album_name": "Nella Bocca Della Tigre",
+            "artist_id": 191237,
+            "artist_name": "Mondo Marcio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio/La-Fiera-Della-Vanit%C3%A0?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mondo-Marcio/La-Fiera-Della-Vanit%C3%A0/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-30T14:15:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

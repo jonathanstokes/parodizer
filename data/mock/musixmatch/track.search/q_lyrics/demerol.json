@@ -1,0 +1,1744 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.10844302177429,
+      "available": 62
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 84683911,
+            "track_name": "Morphine",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 106568,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 235,
+            "album_id": 20922057,
+            "album_name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+            "artist_id": 295,
+            "artist_name": "Michael Jackson",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michael-Jackson/Morphine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michael-Jackson/Morphine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-12T05:07:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128647629,
+            "track_name": "Ahora Soy Peor",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 68452198,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 223,
+            "album_id": 25951083,
+            "album_name": "Ahora Soy Peor",
+            "artist_id": 32878932,
+            "artist_name": "Lil Santana feat. Bad Bunny",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Santana-feat-Bad-Bunny/Ahora-Soy-Peor?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Santana-feat-Bad-Bunny/Ahora-Soy-Peor/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-23T13:26:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85810926,
+            "track_name": "Receta",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 202106,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20995615,
+            "album_name": "Galeria Caribe",
+            "artist_id": 614,
+            "artist_name": "Ricardo Arjona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-28T07:53:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1117,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Pop in Spanish",
+                    "music_genre_name_extended": "Latin / Pop in Spanish",
+                    "music_genre_vanity": "Latin-Pop-in-Spanish"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85810932,
+            "track_name": "Receta - Versión Acústica",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 202107,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 20995615,
+            "album_name": "Galeria Caribe",
+            "artist_id": 614,
+            "artist_name": "Ricardo Arjona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta-Versi%C3%B3n-Ac%C3%BAstica?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta-Versi%C3%B3n-Ac%C3%BAstica/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-14T10:52:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1117,
+                    "music_genre_parent_id": 12,
+                    "music_genre_name": "Pop in Spanish",
+                    "music_genre_name_extended": "Latin / Pop in Spanish",
+                    "music_genre_vanity": "Latin-Pop-in-Spanish"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15988728,
+            "track_name": "Receta (acústica)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 10291644,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 13924459,
+            "album_name": "Galería Caribe",
+            "artist_id": 614,
+            "artist_name": "Ricardo Arjona",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta-acustica?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ricardo-Arjona/Receta-acustica/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-23T10:12:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16100459,
+            "track_name": "Pharmacist’s Daughter",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 10339405,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 13784475,
+            "album_name": "Pump Up the Valuum",
+            "artist_id": 661,
+            "artist_name": "NOFX",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NOFX/Pharmacist-s-Daughter?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NOFX/Pharmacist-s-Daughter/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-08-12T17:58:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2037205,
+            "track_name": "Dead Skin",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 3307785,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 64,
+            "album_id": 10385613,
+            "album_name": "Crossfade",
+            "artist_id": 67017,
+            "artist_name": "CrossFade",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Crossfade/Dead-Skin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Crossfade/Dead-Skin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T20:48:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4296340,
+            "track_name": "Supernatural",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 177097,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 10574092,
+            "album_name": "Walk the Starlight",
+            "artist_id": 518,
+            "artist_name": "LIVE",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Live/Supernatural?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Live/Supernatural/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:32:08Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12361518,
+            "track_name": "SCG5: It's a Boy!",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 8926412,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12361715,
+            "album_name": "Babez for Breakfast",
+            "artist_id": 27960,
+            "artist_name": "LORDI",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lordi/SCG5-It-s-a-Boy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lordi/SCG5-It-s-a-Boy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-11-05T04:25:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 46118449,
+            "track_name": "Voices",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 20142067,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 16337195,
+            "album_name": "Only In Amerika",
+            "artist_id": 24456057,
+            "artist_name": "(hed) p.e.",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Hed-P-E/Voices?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Hed-P-E/Voices/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-23T06:30:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126949211,
+            "track_name": "Pull Up",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 70174402,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 25703272,
+            "album_name": "Dieu bénisse Supersound, saison 2",
+            "artist_id": 33208583,
+            "artist_name": "Sneazzy feat. Derek Wise",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sneazzy-feat-Derek-Wise/Pull-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sneazzy-feat-Derek-Wise/Pull-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-06T16:52:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170652503,
+            "track_name": "Return of the Crooklyn Dodgers",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 95660231,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32546901,
+            "album_name": "Hidden Gems",
+            "artist_id": 38528031,
+            "artist_name": "O.C. feat. Chubb Rock & Jeru The Damaja",
+            "track_share_url": "https://www.musixmatch.com/lyrics/O-C-feat-Chubb-Rock-Jeru-the-Damaja-2/Return-of-the-Crooklyn-Dodgers?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/O-C-feat-Chubb-Rock-Jeru-the-Damaja-2/Return-of-the-Crooklyn-Dodgers/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-06T02:58:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34848337,
+            "track_name": "Rainbow Trout",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 14254393,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15564153,
+            "album_name": "Double Exposure",
+            "artist_id": 24851740,
+            "artist_name": "Matt Kivel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Matt-Kivel/Rainbow-Trout?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Matt-Kivel/Rainbow-Trout/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-05T03:33:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 13,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "New Age",
+                    "music_genre_name_extended": "New Age",
+                    "music_genre_vanity": "New-Age"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13304248,
+            "track_name": "Supernatural",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 9263361,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13304480,
+            "album_name": "The Nomad Series, Volume 2: Demons",
+            "artist_id": 474,
+            "artist_name": "Cowboy Junkies",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cowboy-Junkies/Supernatural?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cowboy-Junkies/Supernatural/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-11T23:40:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104733226,
+            "track_name": "Codeine Phosphate Promethazine",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 30248783,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22573426,
+            "album_name": "DMT Sessions",
+            "artist_id": 28747,
+            "artist_name": "Esham",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Esham/Codeine-Phosphate-Promethazine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Esham/Codeine-Phosphate-Promethazine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-13T16:37:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 69004034,
+            "track_name": "Terminal Addiction",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 28014830,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19087836,
+            "album_name": "Rohnert Park",
+            "artist_id": 73339,
+            "artist_name": "Ceremony",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ceremony/Terminal-Addiction?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ceremony/Terminal-Addiction/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-20T05:35:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78990088,
+            "track_name": "Demerol y piedras",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 43839873,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 20301586,
+            "album_name": "Nueve",
+            "artist_id": 25257325,
+            "artist_name": "Rufus T. Firefly",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rufus-T-Firefly/Demerol-y-piedras?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rufus-T-Firefly/Demerol-y-piedras/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-05T22:57:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73096219,
+            "track_name": "Cult Leader",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 40024417,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19624587,
+            "album_name": "Ultraviolet",
+            "artist_id": 553511,
+            "artist_name": "Sadistik",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sadistik/Cult-Leader?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sadistik/Cult-Leader/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-09-26T04:46:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159568951,
+            "track_name": "Nonkilling 6 | Hunger",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 87231400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30358466,
+            "album_name": "The Anteroom",
+            "artist_id": 551627,
+            "artist_name": "How to Dress Well",
+            "track_share_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Nonkilling-6-%7C-Hunger?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Nonkilling-6-%7C-Hunger/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-17T13:42:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 100007,
+                    "music_genre_parent_id": 5,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Classical / Electronic",
+                    "music_genre_vanity": "Classic-Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159568958,
+            "track_name": "Hunger",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 87231401,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30358466,
+            "album_name": "The Anteroom",
+            "artist_id": 551627,
+            "artist_name": "How to Dress Well",
+            "track_share_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Hunger?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Hunger/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-03-10T21:45:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 100007,
+                    "music_genre_parent_id": 5,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Classical / Electronic",
+                    "music_genre_vanity": "Classic-Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 44811132,
+            "track_name": "Who's the King",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 902160,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 23,
+            "album_id": 16218124,
+            "album_name": "All Boro Kings (Bonus Tracks)",
+            "artist_id": 7188,
+            "artist_name": "Dog Eat Dog",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-s-the-King?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-s-the-King/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:08:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16869180,
+            "track_name": "Idle Heart",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 10631552,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 14180437,
+            "album_name": "I Love You, It's Cool",
+            "artist_id": 151917,
+            "artist_name": "Bear In Heaven",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bear-In-Heaven/Idle-Heart?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bear-In-Heaven/Idle-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T15:07:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14681277,
+            "track_name": "Who's the King? (slight remix)",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 9797094,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 10577650,
+            "album_name": "All Boro Kings",
+            "artist_id": 7188,
+            "artist_name": "Dog Eat Dog",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-s-the-King-slight-remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-s-the-King-slight-remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-16T18:39:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96101881,
+            "track_name": "Supernatural",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 1787407,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21698818,
+            "album_name": "Drunk",
+            "artist_id": 16814,
+            "artist_name": "Vic Chesnutt",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vic-Chesnutt/Supernatural?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vic-Chesnutt/Supernatural/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-24T00:04:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 136771708,
+            "track_name": "We All Got Problems",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 72408850,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26948993,
+            "album_name": "Love, Drugs, & Decisions",
+            "artist_id": 481969,
+            "artist_name": "Caleb Hawley",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caleb-Hawley/We-All-Got-Problems?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caleb-Hawley/We-All-Got-Problems/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-13T19:39:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175676164,
+            "track_name": "I Don't Feel Real",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 86036046,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33322122,
+            "album_name": "I Don't Know What I'm Doing Here",
+            "artist_id": 28743441,
+            "artist_name": "Patternist",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patternist/I-Don-t-Feel-Real?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patternist/I-Don-t-Feel-Real/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-04T05:00:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6474592,
+            "track_name": "Good Ol' Alcohol",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 1683123,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10768614,
+            "album_name": "Have Mercy",
+            "artist_id": 15075,
+            "artist_name": "The Mooney Suzuki",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mooney-Suzuki/Good-Ol-Alcohol?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mooney-Suzuki/Good-Ol-Alcohol/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:55:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 586578,
+            "track_name": "Sleeping Pill",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 525441,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10268638,
+            "album_name": "Cop and Speeder",
+            "artist_id": 2585,
+            "artist_name": "Heatmiser",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Heatmiser/Sleeping-Pill?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Heatmiser/Sleeping-Pill/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-13T18:55:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5419505,
+            "track_name": "Been Stoned Kids",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 2358738,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10672467,
+            "album_name": "New South",
+            "artist_id": 30571,
+            "artist_name": "Haystak",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Haystak/Been-Stoned-Kids?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Haystak/Been-Stoned-Kids/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:16:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1637402,
+            "track_name": "One Life",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 3083545,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 9,
+            "album_id": 10353329,
+            "album_name": "Legend of Bigfoot",
+            "artist_id": 56594,
+            "artist_name": "The Last Emperor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Last-Emperor/One-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Last-Emperor/One-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:22:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 106625891,
+            "track_name": "Everywhere",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 36777028,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22829996,
+            "album_name": "Leap of Faith EP",
+            "artist_id": 480117,
+            "artist_name": "The Narcicyst",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Narcicyst/Everywhere?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Narcicyst/Everywhere/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-09T09:16:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33450916,
+            "track_name": "Return of the Crooklyn",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 13361389,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15452453,
+            "album_name": "Keep It Real",
+            "artist_id": 24658096,
+            "artist_name": "Crooklyn Dodgers 95",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Crooklyn-Dodgers-95/Return-of-the-Crooklyn?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Crooklyn-Dodgers-95/Return-of-the-Crooklyn/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-20T17:40:57Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34499379,
+            "track_name": "Calisthenics",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 13973569,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15536880,
+            "album_name": "TKTTSM",
+            "artist_id": 24815005,
+            "artist_name": "TKTTSM",
+            "track_share_url": "https://www.musixmatch.com/lyrics/TKTTSM/Calisthenics?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/TKTTSM/Calisthenics/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-12T22:21:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 157130061,
+            "track_name": "It's Not Dirty, You Are",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 87376651,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 29915923,
+            "album_name": "Things That Scare Me, That Should Scare You Too",
+            "artist_id": 36715004,
+            "artist_name": "Ayces",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ayces/It-s-Not-Dirty-You-Are?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ayces/It-s-Not-Dirty-You-Are/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-21T21:21:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 196310819,
+            "track_name": "Have It All",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 110340101,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37936005,
+            "album_name": "Dead Flowers",
+            "artist_id": 45202761,
+            "artist_name": "Special Guests",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Special-Guests-1/Have-It-All?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Special-Guests-1/Have-It-All/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-04T23:40:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 198351807,
+            "track_name": "The High Life",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 112087440,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35592234,
+            "album_name": "Crack (The Social Help Project)",
+            "artist_id": 33331659,
+            "artist_name": "Apex",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Apex-13/The-High-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Apex-13/The-High-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-06-06T06:43:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 13821815,
+            "track_name": "Buda",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 9440980,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13821942,
+            "album_name": "Left Alone: 1996-2000",
+            "artist_id": 82466,
+            "artist_name": "Left Alone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Left-Alone/Buda?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Left-Alone/Buda/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-03T19:31:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7401335,
+            "track_name": "A Void Employs a Kiss",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1976005,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10856826,
+            "album_name": "Talk Like Blood",
+            "artist_id": 20556,
+            "artist_name": "31Knots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/31Knots/A-Void-Employs-a-Kiss?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/31Knots/A-Void-Employs-a-Kiss/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:28:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1299258,
+            "track_name": "Supernatural",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7923,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10326503,
+            "album_name": "Singles",
+            "artist_id": 29,
+            "artist_name": "Garbage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Garbage/Supernatural?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Garbage/Supernatural/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T00:54:37Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9356827,
+            "track_name": "Real Rap Shit",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2559660,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11023085,
+            "album_name": "Elizabeth (Introduction to the Psychic)",
+            "artist_id": 36123,
+            "artist_name": "Killah Priest",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Killah-Priest/Real-Rap-Shit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Killah-Priest/Real-Rap-Shit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-23T17:19:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31111909,
+            "track_name": "Return of the Crooklyn Dodgers (final mix with intro) (street version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 12218223,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13786250,
+            "album_name": "Return of the Crooklyn Dodgers",
+            "artist_id": 131299,
+            "artist_name": "Crooklyn Dodgers '95",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Crooklyn-Dodgers-95-2/Return-of-the-Crooklyn-Dodgers-final-mix-with-intro-street-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Crooklyn-Dodgers-95-2/Return-of-the-Crooklyn-Dodgers-final-mix-with-intro-street-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-06T19:34:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194275745,
+            "track_name": "After",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 108611763,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37242089,
+            "album_name": "Lights N' Nights",
+            "artist_id": 34448239,
+            "artist_name": "Gasper Burden",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gasper-Burden-2/After?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gasper-Burden-2/After/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-24T17:52:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 146627203,
+            "track_name": "Analog Dreams",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 81448758,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28302662,
+            "album_name": "Analog",
+            "artist_id": 35476462,
+            "artist_name": "Saint Cassius feat. Otc & Omari Hardwick",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Saint-Cassius-feat-Otc-Omari-Hardwick/Analog-Dreams?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Saint-Cassius-feat-Otc-Omari-Hardwick/Analog-Dreams/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-29T22:02:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2647245,
+            "track_name": "Sickbeds",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1511761,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10434905,
+            "album_name": "The Roads Outgrown",
+            "artist_id": 12677,
+            "artist_name": "The Frames",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Frames/Sickbeds?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Frames/Sickbeds/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:37:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18962751,
+            "track_name": "Unraveling",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 10633542,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14180602,
+            "album_name": "Over the Influence",
+            "artist_id": 13969,
+            "artist_name": "Slaves On Dope",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Slaves-On-Dope/Unraveling?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Slaves-On-Dope/Unraveling/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-01T21:32:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 175413089,
+            "track_name": "Somewhere in Between",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 97377157,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 33267285,
+            "album_name": "In the Fire",
+            "artist_id": 36696998,
+            "artist_name": "Nick Sumner & the Assistance",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nick-Sumner-the-Assistance/Somewhere-in-Between?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nick-Sumner-the-Assistance/Somewhere-in-Between/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-22T16:52:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1639209,
+            "track_name": "Who Is the King",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 902157,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10353474,
+            "album_name": "De Afrekening, Volume 10",
+            "artist_id": 7188,
+            "artist_name": "Dog Eat Dog",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-Is-the-King?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dog-Eat-Dog/Who-Is-the-King/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-10-11T13:05:05Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14887749,
+            "track_name": "Tribbles and Ecstasy",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7327165,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10947864,
+            "album_name": "It's Dead, Jim",
+            "artist_id": 112796,
+            "artist_name": "Warp 11",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Warp-11/Tribbles-and-Ecstasy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Warp-11/Tribbles-and-Ecstasy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-10-10T15:05:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1369791,
+            "track_name": "Illegal Busyness",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2567030,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10331971,
+            "album_name": "Obelisk Movements",
+            "artist_id": 36431,
+            "artist_name": "Micranots",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Micranots/Illegal-Busyness?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Micranots/Illegal-Busyness/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-05-20T06:05:03Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 148546443,
+            "track_name": "Roses",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 82581275,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 28610300,
+            "album_name": "Roses",
+            "artist_id": 35742608,
+            "artist_name": "Evan Boreale",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Evan-Boreale/Roses?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Evan-Boreale/Roses/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-08-16T11:11:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 15,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "R&B/Soul",
+                    "music_genre_name_extended": "R&B/Soul",
+                    "music_genre_vanity": "R-B-Soul"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

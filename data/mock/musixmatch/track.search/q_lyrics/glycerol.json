@@ -1,0 +1,310 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.021090984344482,
+      "available": 8
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 15700069,
+            "track_name": "The Sacrilege of Fatal Arms",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 10159273,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13901059,
+            "album_name": "Violence Begets Violence",
+            "artist_id": 10524,
+            "artist_name": "Jedi Mind Tricks",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jedi-Mind-Tricks/The-Sacrilege-of-Fatal-Arms?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jedi-Mind-Tricks/The-Sacrilege-of-Fatal-Arms/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:07:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14559849,
+            "track_name": "Perhaps Now the Vultures",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 189383,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10294168,
+            "album_name": "Vampire On Titus",
+            "artist_id": 564,
+            "artist_name": "Guided By Voices",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Guided-By-Voices/Perhaps-Now-the-Vultures?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Guided-By-Voices/Perhaps-Now-the-Vultures/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:34:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 55033428,
+            "track_name": "Geryon",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 26054410,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 17253050,
+            "album_name": "Joyland",
+            "artist_id": 8757,
+            "artist_name": "Trust",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Trust-6/Geryon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Trust-6/Geryon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-26T05:48:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 136565738,
+            "track_name": "Balea 2003 - Live",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 43514228,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26922280,
+            "album_name": "Demotape",
+            "artist_id": 205032,
+            "artist_name": "Jan Hegenberg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jan-Hegenberg/Balea-2003-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jan-Hegenberg/Balea-2003-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-26T09:28:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 61885603,
+            "track_name": "Liquid Fat",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 31843370,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18064082,
+            "album_name": "Music for Mutants",
+            "artist_id": 24788636,
+            "artist_name": "The Radioactive Chicken Heads",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Radioactive-Chicken-Heads/Liquid-Fat?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Radioactive-Chicken-Heads/Liquid-Fat/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-03-09T12:02:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2505636,
+            "track_name": "Bomba",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6924697,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10423603,
+            "album_name": "...Ať Von Zacvrč!",
+            "artist_id": 86544,
+            "artist_name": "Houba",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Houba/Bomba?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Houba/Bomba/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-07-24T02:24:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1006,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Punk",
+                    "music_genre_name_extended": "Alternative / Punk",
+                    "music_genre_vanity": "Alternative-Punk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9583306,
+            "track_name": "Crionica",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6603376,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11042032,
+            "album_name": "CreHated From No_Thing",
+            "artist_id": 518312,
+            "artist_name": "Delirium X Tremens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Delirium-X-Tremens/Crionica?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Delirium-X-Tremens/Crionica/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-18T08:41:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 75756485,
+            "track_name": "Cryogenia",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 46578929,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19890689,
+            "album_name": "Supralumínico",
+            "artist_id": 28698479,
+            "artist_name": "Peepshow",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Peepshow-2/Cryogenia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Peepshow-2/Cryogenia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-13T21:55:12Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

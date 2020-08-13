@@ -1,0 +1,75 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.058255910873413,
+      "available": 2
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 719458,
+            "track_name": "Lay",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1001295,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10280444,
+            "album_name": "Chawalaleng",
+            "artist_id": 7750,
+            "artist_name": "Pilfers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pilfers/Lay?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pilfers/Lay/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:34:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57561313,
+            "track_name": "Oh California",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 28548215,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17532378,
+            "album_name": "San Francisco Shanties and Sea Songs of California's Gold Rush with Tom Murphey",
+            "artist_id": 25015512,
+            "artist_name": "Dick and Carol Holdstock",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dick-and-Carol-Holdstock/Oh-California?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dick-and-Carol-Holdstock/Oh-California/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-19T03:19:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

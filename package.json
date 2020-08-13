@@ -37,14 +37,15 @@
   "scripts": {
     "lint": "eslint '{src,server}/**/*.{js,ts,tsx}' --quiet --fix",
     "start": "run-p --race start:server start:app",
-    "start:app": "react-scripts start",
+    "start:app": "PORT=3300 react-scripts start",
     "start:server": "cd server && ts-node-dev --project ../tsconfig.node.json --respawn --transpile-only --debug ./server.ts && wait-on tcp:5500",
     "start:test": "cd server && ts-node-dev --help",
     "populate": "cd server && ts-node --project ../tsconfig.node.json --transpile-only ../script/read-billboard.ts",
     "build": "react-scripts build",
-    "test": "react-scripts test --watchAll=false --collectCoverage --ci && yarn run test:server",
-    "test:client": "react-scripts test",
-    "test:server": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
+    "test": "react-scripts test --watchAll=false --collectCoverage --ci && yarn run test:unit:server",
+    "test:unit:client": "react-scripts test",
+    "test:unit:server": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register 'server/**/*.test.ts'",
+    "test:integration:server": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.node.testing.json\" mocha --require ts-node/register --timeout 300000 'server/**/*.integration-test.ts' --exit",
     "precommit": "yarn run lint && yarn run test"
   },
   "eslintConfig": {

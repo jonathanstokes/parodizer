@@ -1,7 +1,10 @@
 # Todo
 - ~Remove duplicate songs from search results.~
-- Convert rating/scores into an object that can return its number but display the history of how it got there, for better tweaking of results.
+- ~Convert rating/scores into an object that can return its number but display the history of how it got there, for better tweaking of results.~
+- ~Write integration tests to debug rating issues.~
+- Investigate performance issues.
 - Create an original logo.
+- Bug: UI flashes 'none found' message before showing loading indicator when searching.
 - Have the job status include some percentage complete, especially based on the rhyming words being searched through.
 - When opening a lyric page, highlight the matching words. (`#:~:text=`)
 - button to open the top youtube search result. 

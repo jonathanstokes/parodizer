@@ -1,0 +1,1675 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.064913988113403,
+      "available": 56
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 35338722,
+            "track_name": "Fuoriclasse",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14613662,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 15598739,
+            "album_name": "Xtreme Quality",
+            "artist_id": 40401665,
+            "artist_name": "Gemitaiz feat. MadMan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gemitaiz-feat-Madman/Fuoriclasse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gemitaiz-feat-Madman/Fuoriclasse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-07T15:12:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92506397,
+            "track_name": "Televators",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 2361312,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 77,
+            "album_id": 21427167,
+            "album_name": "Deloused in the Comatorium (UK/Japan Version)",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-13T23:32:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3359056,
+            "track_name": "Televators (live, The Electric Ballroom)",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 2361315,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10494285,
+            "album_name": "Televators",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-live-The-Electric-Ballroom?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-live-The-Electric-Ballroom/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-04T22:10:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5169640,
+            "track_name": "Televators (main radio edit)",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 2361316,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10649927,
+            "album_name": "Televators",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-main-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-main-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-04T22:10:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 79278706,
+            "track_name": "Inimical Chimera (Session) [Remaster]",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 44013912,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20342138,
+            "album_name": "Prison of Desire: The Album - The Sessions (Remaster)",
+            "artist_id": 10830,
+            "artist_name": "After Forever",
+            "track_share_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-Session-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-Session-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-05T00:30:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 79278686,
+            "track_name": "Inimical Chimera (Remaster)",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 44013937,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20342138,
+            "album_name": "Prison of Desire: The Album - The Sessions (Remaster)",
+            "artist_id": 10830,
+            "artist_name": "After Forever",
+            "track_share_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-Remaster?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-Remaster/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-05T00:30:40Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14648905,
+            "track_name": "Inimical Chimera",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 1344847,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 12,
+            "album_id": 10478830,
+            "album_name": "Ephemeral",
+            "artist_id": 10830,
+            "artist_name": "After Forever",
+            "track_share_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-14T00:46:50Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8854868,
+            "track_name": "Nowhere, No-One, Nothing",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 661375,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10988715,
+            "album_name": "Wormwood",
+            "artist_id": 4775,
+            "artist_name": "Marduk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Marduk/Nowhere-No-One-Nothing?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Marduk/Nowhere-No-One-Nothing/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:48:49Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132555791,
+            "track_name": "New York I Love You",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 74047437,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26555983,
+            "album_name": "Out of All This Blue (Deluxe)",
+            "artist_id": 567,
+            "artist_name": "The Waterboys",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Waterboys/New-York-I-Love-You?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Waterboys/New-York-I-Love-You/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-30T16:01:51Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162419557,
+            "track_name": "Seventh Heaven",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 90627369,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4,
+            "album_id": 30874968,
+            "album_name": "Conspiracy",
+            "artist_id": 28117769,
+            "artist_name": "The Raven Age",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Raven-Age/Seventh-Heaven?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Raven-Age/Seventh-Heaven/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-01T05:30:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 58374844,
+            "track_name": "So Clear",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 25526399,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17624723,
+            "album_name": "Reflection",
+            "artist_id": 24472517,
+            "artist_name": "Pentangle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pentangle/So-Clear?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pentangle/So-Clear/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-30T02:11:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1067,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Traditional Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Traditional Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Traditional-Folk"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 78063909,
+            "track_name": "Leon",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 43223737,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20203854,
+            "album_name": "Numero Zero ep",
+            "artist_id": 28256941,
+            "artist_name": "Nerone & Biggie Paul",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nerone-Biggie-Paul/Leon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nerone-Biggie-Paul/Leon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-05-05T21:03:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90606649,
+            "track_name": "Pazzo",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 50472800,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 21288372,
+            "album_name": "100K",
+            "artist_id": 24442311,
+            "artist_name": "Nerone",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nerone-2/Pazzo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nerone-2/Pazzo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-25T20:41:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72501630,
+            "track_name": "Jhwh",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 39727474,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19576148,
+            "album_name": "Contradiction",
+            "artist_id": 27798088,
+            "artist_name": "Schammasch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Schammasch-2/Jhwh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Schammasch-2/Jhwh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-12-23T23:13:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73456046,
+            "track_name": "So Clear",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 1814083,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 10520857,
+            "album_name": "Reflection",
+            "artist_id": 17289,
+            "artist_name": "The Pentangle",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Pentangle/So-Clear?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Pentangle/So-Clear/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-08-06T16:05:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2954009,
+            "track_name": "Liber Angelis",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 7090915,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10460180,
+            "album_name": "Codex Barathri",
+            "artist_id": 96138,
+            "artist_name": "Axamenta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Axamenta/Liber-Angelis?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Axamenta/Liber-Angelis/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T19:21:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 194952745,
+            "track_name": "Le sang et le pain (feat. Fayçal)",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 44930646,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 37477282,
+            "album_name": "Le Grand Chaos",
+            "artist_id": 14381165,
+            "artist_name": "VII",
+            "track_share_url": "https://www.musixmatch.com/lyrics/VII-3/Le-sang-et-le-pain-feat-Fay%C3%A7al?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/VII-3/Le-sang-et-le-pain-feat-Fay%C3%A7al/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-09-04T16:29:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1561995,
+            "track_name": "Atlantis",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 2886270,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10347235,
+            "album_name": "Song of the Marching Children / Atlantis",
+            "artist_id": 47867,
+            "artist_name": "Earth and Fire",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Earth-and-Fire/Atlantis?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Earth-and-Fire/Atlantis/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T11:42:06Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104561417,
+            "track_name": "Aureole - Studio",
+            "track_name_translation_list": [],
+            "track_rating": 3,
+            "commontrack_id": 57271669,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22550421,
+            "album_name": "Rise Pantheon Dreams",
+            "artist_id": 33345,
+            "artist_name": "The Blood Divine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Blood-Divine/Aureole-Studio?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Blood-Divine/Aureole-Studio/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-11T15:47:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 12288884,
+            "track_name": "The Angel of the Dark Garden",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8898791,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 12289706,
+            "album_name": "The End of the Christian Age",
+            "artist_id": 12289424,
+            "artist_name": "Atheistc",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Atheistc/The-Angel-of-the-Dark-Garden?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Atheistc/The-Angel-of-the-Dark-Garden/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T23:31:41Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 586048,
+            "track_name": "This Cannibal",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 522910,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10268593,
+            "album_name": "Clean",
+            "artist_id": 2556,
+            "artist_name": "Caesar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Caesar/This-Cannibal?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Caesar/This-Cannibal/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:30:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5298877,
+            "track_name": "Televators (demo)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2361313,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10661632,
+            "album_name": "Summer Demo Sessions 2002",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-demo?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-demo/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-04T22:10:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5862299,
+            "track_name": "Coldhearted Blasphemy",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 8670042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10712036,
+            "album_name": "Omnes Dii Gentium Daemonia",
+            "artist_id": 276343,
+            "artist_name": "Sorath",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sorath/Coldhearted-Blasphemy?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sorath/Coldhearted-Blasphemy/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T11:37:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9704442,
+            "track_name": "The Don of Venice",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 3122120,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 11052957,
+            "album_name": "Camera Obscura, Part 2: A View with a Room",
+            "artist_id": 58405,
+            "artist_name": "Ordo Draconis",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ordo-Draconis/The-Don-of-Venice?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ordo-Draconis/The-Don-of-Venice/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T12:07:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113884148,
+            "track_name": "The Hermit",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 62728476,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23874546,
+            "album_name": "The Tarot of the Bohemians - Part 1",
+            "artist_id": 35083,
+            "artist_name": "Heavenwood",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Heavenwood/The-Hermit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Heavenwood/The-Hermit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-03T16:26:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1149,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Death Metal/Black Metal",
+                    "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                    "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 103368549,
+            "track_name": "Aureole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 39398084,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22400548,
+            "album_name": "Słowo honoru",
+            "artist_id": 24910557,
+            "artist_name": "Bezczel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bezczel/Aureole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bezczel/Aureole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-14T15:28:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1076,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1073,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Hip-Hop",
+                    "music_genre_name_extended": "Hip Hop/Rap / Hip-Hop",
+                    "music_genre_vanity": "Hip-Hop-Rap-Hip-Hop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127153205,
+            "track_name": "Conquistador (Live from the Jubilee Auditorium, Canada)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 70427871,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 25743196,
+            "album_name": "Live In Concert with the Edmonton Symphony Orchestra",
+            "artist_id": 33265705,
+            "artist_name": "Procol Harum feat. The Edmonton Symphony Orchestra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Procol-Harum-feat-The-Edmonton-Symphony-Orchestra/Conquistador-Live-from-the-Jubilee-Auditorium-Canada?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Procol-Harum-feat-The-Edmonton-Symphony-Orchestra/Conquistador-Live-from-the-Jubilee-Auditorium-Canada/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-23T01:54:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 190461639,
+            "track_name": "Emerald Haze of Rot",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 105622558,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36287638,
+            "album_name": "Vertigo Freeway",
+            "artist_id": 43213829,
+            "artist_name": "Vertigo Freeway",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Vertigo-Freeway/Emerald-Haze-of-Rot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Vertigo-Freeway/Emerald-Haze-of-Rot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T21:11:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15092489,
+            "track_name": "Ange",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 9918042,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13863059,
+            "album_name": "Ligne 2",
+            "artist_id": 250586,
+            "artist_name": "Andréel",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Andr%C3%A9el/Ange?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Andr%C3%A9el/Ange/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:25:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2309638,
+            "track_name": "Black Aureole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6777501,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10407831,
+            "album_name": "Ars Moriendi",
+            "artist_id": 78317,
+            "artist_name": "Lunar Aurora",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lunar-Aurora/Black-Aureole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lunar-Aurora/Black-Aureole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T18:46:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 149233744,
+            "track_name": "Marsz Śmieci",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 82943591,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28715574,
+            "album_name": "Solarium 2.0",
+            "artist_id": 35837696,
+            "artist_name": "Karolina Czarnecka feat. UV",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karolina-Czarnecka-feat-UV/Marsz-%C5%9Amieci?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karolina-Czarnecka-feat-UV/Marsz-%C5%9Amieci/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-27T13:34:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37903785,
+            "track_name": "Conquistador (Live)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 15956164,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15767518,
+            "album_name": "Live In Concert With the Edmonton Symphony Orchestra",
+            "artist_id": 25201642,
+            "artist_name": "Procol Harum, The Edmonton Symphony Orchestra, Da Camera Singers & Lawrence Leonard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Procol-Harum-The-Edmonton-Symphony-Orchestra-Da-Camera-Singers-Lawrence-Leonard/Conquistador-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Procol-Harum-The-Edmonton-Symphony-Orchestra-Da-Camera-Singers-Lawrence-Leonard/Conquistador-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-25T15:04:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99621613,
+            "track_name": "Przyjaźń?",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 43442795,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22022658,
+            "album_name": "Made In 2",
+            "artist_id": 461533,
+            "artist_name": "Fabuła",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabu%C5%82a/Przyja%C5%BA%C5%84?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabu%C5%82a/Przyja%C5%BA%C5%84/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-15T15:32:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2257592,
+            "track_name": "Iris (And the Burning Aureole)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1833951,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10403691,
+            "album_name": "Athenian Echoes",
+            "artist_id": 17595,
+            "artist_name": "Nightfall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightfall/Iris-And-the-Burning-Aureole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightfall/Iris-And-the-Burning-Aureole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:12:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18727663,
+            "track_name": "Wesele",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11544377,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14271396,
+            "album_name": "Hotel Polonia",
+            "artist_id": 224518,
+            "artist_name": "KONIEC ŚWIATA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/KONIEC-%C5%9AWIATA/Wesele?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/KONIEC-%C5%9AWIATA/Wesele/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-13T18:13:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171322991,
+            "track_name": "Nadzieja",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 19204321,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32659956,
+            "album_name": "Bursa",
+            "artist_id": 25877480,
+            "artist_name": "Fonetyka",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fonetyka/Nadzieja?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fonetyka/Nadzieja/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-09-06T16:39:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4644892,
+            "track_name": "Aureole",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2468056,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10603624,
+            "album_name": "Rise Pantheon Dreams",
+            "artist_id": 33345,
+            "artist_name": "The Blood Divine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Blood-Divine/Aureole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Blood-Divine/Aureole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-12T10:54:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30111381,
+            "track_name": "The Summer Wheel",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1115258,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13754654,
+            "album_name": "Winter Songs",
+            "artist_id": 8547,
+            "artist_name": "Art Bears",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Art-Bears/The-Summer-Wheel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Art-Bears/The-Summer-Wheel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T17:49:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19486533,
+            "track_name": "A Doctrine Unreachable",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11919945,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14309999,
+            "album_name": "Monument In Black",
+            "artist_id": 247549,
+            "artist_name": "Sonic Reign",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sonic-Reign/A-Doctrine-Unreachable?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sonic-Reign/A-Doctrine-Unreachable/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-11T16:58:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 132754865,
+            "track_name": "Mozzarella Trafelata (Freak Antoni)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 37860322,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26575955,
+            "album_name": "Senza perdere la tenerezza",
+            "artist_id": 27569339,
+            "artist_name": "Ossi Duri feat. Freak Antoni",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ossi-Duri-feat-Freak-Antoni/Mozzarella-trafelata?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ossi-Duri-feat-Freak-Antoni/Mozzarella-trafelata/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-06T14:52:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 66852476,
+            "track_name": "Kiedy Opadnie Konfetti",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 35619052,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18778822,
+            "album_name": "Dorosłem Do Rapu",
+            "artist_id": 24609926,
+            "artist_name": "Onar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Onar/Kiedy-Opadnie-Konfetti?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Onar/Kiedy-Opadnie-Konfetti/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-24T15:29:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18727660,
+            "track_name": "Duchy Martwych Dni",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11544367,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14271396,
+            "album_name": "Hotel Polonia",
+            "artist_id": 224518,
+            "artist_name": "KONIEC ŚWIATA",
+            "track_share_url": "https://www.musixmatch.com/lyrics/KONIEC-%C5%9AWIATA/Duchy-Martwych-Dni?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/KONIEC-%C5%9AWIATA/Duchy-Martwych-Dni/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-10T09:21:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73434943,
+            "track_name": "Jhwh",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40233641,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19648550,
+            "album_name": "Contradiction",
+            "artist_id": 26762782,
+            "artist_name": "Schammasch",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Schammasch/Jhwh?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Schammasch/Jhwh/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-26T11:06:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 7569715,
+            "track_name": "Inimical Chimera (session version)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1344848,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10872762,
+            "album_name": "Prison of Desire",
+            "artist_id": 10830,
+            "artist_name": "After Forever",
+            "track_share_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-session-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/After-Forever/Inimical-Chimera-session-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-08T18:18:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 66853012,
+            "track_name": "Przyjaźń?",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 35619222,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18778875,
+            "album_name": "Made in 2",
+            "artist_id": 139932,
+            "artist_name": "Fábula",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabula/Przyja%C5%BA%C5%84?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabula/Przyja%C5%BA%C5%84/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-01-15T09:27:59Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 72625801,
+            "track_name": "Conquistador (Live in Edmonton, Canada)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 39787483,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19586008,
+            "album_name": "Inside/Outside - The Very Best of Live & in the Studio",
+            "artist_id": 25201642,
+            "artist_name": "Procol Harum, The Edmonton Symphony Orchestra, Da Camera Singers & Lawrence Leonard",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Procol-Harum-The-Edmonton-Symphony-Orchestra-Da-Camera-Singers-Lawrence-Leonard/Conquistador-Live-in-Edmonton-Canada?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Procol-Harum-The-Edmonton-Symphony-Orchestra-Da-Camera-Singers-Lawrence-Leonard/Conquistador-Live-in-Edmonton-Canada/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-06-25T15:10:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14062587,
+            "track_name": "Heretic I (Inquisition)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2291896,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10599754,
+            "album_name": "Flicker Like a Candle",
+            "artist_id": 28499,
+            "artist_name": "Stromkern",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Stromkern/Heretic-I-Inquisition?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Stromkern/Heretic-I-Inquisition/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-25T01:28:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1061,
+                    "music_genre_parent_id": 7,
+                    "music_genre_name": "Industrial",
+                    "music_genre_name_extended": "Electronic / Industrial",
+                    "music_genre_vanity": "Electronic-Industrial"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19135455,
+            "track_name": "Televators - Live From The Electric Ballroom, London",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11737657,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 14292055,
+            "album_name": "De-Loused in the Comatorium",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-Live-From-The-Electric-Ballroom-London?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-Live-From-The-Electric-Ballroom-London/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-23T00:30:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31458642,
+            "track_name": "Victimized",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1833999,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13811943,
+            "album_name": "LYSSA: Rural Gods and Astonishing Punishments",
+            "artist_id": 17595,
+            "artist_name": "Nightfall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nightfall/Victimized?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nightfall/Victimized/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:12:47Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5169641,
+            "track_name": "Televators (extended radio edit)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 2361314,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10649927,
+            "album_name": "Televators",
+            "artist_id": 30651,
+            "artist_name": "The Mars Volta",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-extended-radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Mars-Volta/Televators-extended-radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-04T22:10:04Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

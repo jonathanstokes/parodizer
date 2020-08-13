@@ -1,0 +1,1808 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.10228109359741,
+      "available": 124
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 32147853,
+            "track_name": "Medley Starmania",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 39511,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15340899,
+            "album_name": "A l'Olympia",
+            "artist_id": 86,
+            "artist_name": "Céline Dion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-Starmania?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-Starmania/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-12T21:10:14Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85462197,
+            "track_name": "Les uns contre les autres",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 39475,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 20974419,
+            "album_name": "Dion chante Plamondon - Céline Dion Sings the Songs of Luc Plamondon",
+            "artist_id": 86,
+            "artist_name": "Céline Dion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Les-Uns-contre-les-autres?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Les-Uns-contre-les-autres/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-05T13:13:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85462116,
+            "track_name": "Medley Starmania - Live à l'Olympia",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 12574508,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20974413,
+            "album_name": "A L'Olympia",
+            "artist_id": 86,
+            "artist_name": "Céline Dion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-starmania-Live-%C3%A0-l-Olympia?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-starmania-Live-%C3%A0-l-Olympia/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-23T18:12:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80743384,
+            "track_name": "Medley Starmania: Quand an Arrive en Ville / Les Uns Contre les Autres / Le Monde est Stone / Naziland, ce Soir on Danse",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 44698016,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20505711,
+            "album_name": "Céline Dion à l'Olympia",
+            "artist_id": 86,
+            "artist_name": "Céline Dion",
+            "track_share_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-Starmania-Quand-an-Arrive-en-Ville-Les-Uns-Contre-les-Autres-Le-Monde-est-Stone-Naziland-ce-Soir-on-Danse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/C%C3%A9line-Dion/Medley-Starmania-Quand-an-Arrive-en-Ville-Les-Uns-Contre-les-Autres-Le-Monde-est-Stone-Naziland-ce-Soir-on-Danse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-18T13:58:24Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84771487,
+            "track_name": "Notes .../Prima Donna - Live At The Royal Albert Hall/2011",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 47685510,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20927801,
+            "album_name": "The Phantom Of The Opera At The Royal Albert Hall",
+            "artist_id": 488,
+            "artist_name": "Andrew Lloyd Webber",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Andrew-Lloyd-Webber/Notes-Prima-Donna-Live-At-The-Royal-Albert-Hall-2011?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Andrew-Lloyd-Webber/Notes-Prima-Donna-Live-At-The-Royal-Albert-Hall-2011/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-15T23:11:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 43237504,
+            "track_name": "Contre nous",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 13683597,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 46,
+            "album_id": 16103474,
+            "album_name": "Dernier mc",
+            "artist_id": 24742810,
+            "artist_name": "Kery James feat. Youssoupha & Medine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kery-James-feat-Youssoupha-Medine/Contre-nous?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kery-James-feat-Youssoupha-Medine/Contre-nous/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-04T12:25:32Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 102162154,
+            "track_name": "Contre Nous",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 12264903,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 98,
+            "album_id": 22272995,
+            "album_name": "Dernier MC (Version Deluxe)",
+            "artist_id": 24390857,
+            "artist_name": "Kery James feat. Youssoupha et Médine",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Kery-James-feat-Youssoupha-et-M%C3%A9dine/Contre-nous?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Kery-James-feat-Youssoupha-et-M%C3%A9dine/Contre-nous/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-07-06T06:38:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 92546625,
+            "track_name": "C'Est Trop Tard",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 18616423,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 18,
+            "album_id": 21429836,
+            "album_name": "Mes Courants Electriques",
+            "artist_id": 9407,
+            "artist_name": "Alizee",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Aliz%C3%A9e/C-est-trop-tard?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Aliz%C3%A9e/C-est-trop-tard/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-14T09:00:00Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94080026,
+            "track_name": "Rose du bitume",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 36840496,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 21540282,
+            "album_name": "S.O.S.",
+            "artist_id": 24419428,
+            "artist_name": "Diam's",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Diam-s/Rose-du-bitume?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Diam-s/Rose-du-bitume/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-17T20:19:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19533203,
+            "track_name": "À l'ombre des maris",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1328192,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10455448,
+            "album_name": "Volume 11 : Fernande",
+            "artist_id": 10710,
+            "artist_name": "Georges Brassens",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georges-Brassens/%C3%80-l-ombre-des-maris?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georges-Brassens/%C3%80-l-ombre-des-maris/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-06-26T15:46:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 91231528,
+            "track_name": "The Old Main Drag",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 1193664,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 5,
+            "album_id": 21337284,
+            "album_name": "Rum Sodomy & The Lash (Expanded)",
+            "artist_id": 9284,
+            "artist_name": "The Pogues",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Pogues/The-Old-Main-Drag?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Pogues/The-Old-Main-Drag/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-05-21T14:27:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 94726455,
+            "track_name": "Les Uns Contre Les Autres - Live Pleyel",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 14488059,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21591982,
+            "album_name": "Pleyel",
+            "artist_id": 37859,
+            "artist_name": "France Gall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/France-Gall/Les-Uns-Contre-Les-Autr%C3%A8s-Live-Pleyel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/France-Gall/Les-Uns-Contre-Les-Autr%C3%A8s-Live-Pleyel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-22T16:56:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14598585,
+            "track_name": "From the Flagstones",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 292385,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10366957,
+            "album_name": "Sunburst and Snowblind",
+            "artist_id": 1008,
+            "artist_name": "Cocteau Twins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cocteau-Twins/From-the-Flagstones?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cocteau-Twins/From-the-Flagstones/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T15:58:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 102149643,
+            "track_name": "Les Uns Contres Les Autres - Live 84",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 33419079,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22271736,
+            "album_name": "PALAIS DES SPORTS (1983)",
+            "artist_id": 13033,
+            "artist_name": "Michel Berger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contr%C3%A8s-les-autr%C3%A8s-Live-84?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contr%C3%A8s-les-autr%C3%A8s-Live-84/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-26T09:50:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 15613810,
+            "track_name": "L'homme modeste",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 10117976,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13893884,
+            "album_name": "Ben Mazué",
+            "artist_id": 13812956,
+            "artist_name": "Ben Mazué",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ben-Mazu%C3%A9/L-homme-Modeste?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ben-Mazu%C3%A9/L-homme-Modeste/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-05T13:25:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17456268,
+            "track_name": "Les uns contre les autres",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1537767,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 11087516,
+            "album_name": "Starmania",
+            "artist_id": 13033,
+            "artist_name": "Michel Berger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contre-les-autres?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contre-les-autres/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T18:39:44Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 138381845,
+            "track_name": "Un peu de mélancolie heureuse",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 76297396,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27090489,
+            "album_name": "Mélancolie heureuse",
+            "artist_id": 31720509,
+            "artist_name": "Tim Dup",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tim-Dup/Un-peu-de-m%C3%A9lancolie-heureuse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tim-Dup/Un-peu-de-m%C3%A9lancolie-heureuse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-26T14:27:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14312448,
+            "track_name": "Herr major",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 1480306,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10983994,
+            "album_name": "Passé le Rio Grande",
+            "artist_id": 12299,
+            "artist_name": "Alain Bashung",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Alain-Bashung/Herr-major?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Alain-Bashung/Herr-major/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-09T05:29:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30833632,
+            "track_name": "Broadway Hotel",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 839924,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 13844476,
+            "album_name": "Year of the Cat",
+            "artist_id": 6920,
+            "artist_name": "Al Stewart",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Al-Stewart/Broadway-Hotel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Al-Stewart/Broadway-Hotel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-14T00:51:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80026894,
+            "track_name": "Les uns contre les autres (live 80)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 44489914,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20434772,
+            "album_name": "On n'est pas seul",
+            "artist_id": 13033,
+            "artist_name": "Michel Berger",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contre-les-autres-live-80?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michel-Berger/Les-uns-contre-les-autres-live-80/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-22T07:40:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73609600,
+            "track_name": "Je suis de celles (version acoustique)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 40109521,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 19634820,
+            "album_name": "Inspiré de faits réels",
+            "artist_id": 18851,
+            "artist_name": "Bénabar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles-Version-acoustique?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles-Version-acoustique/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-25T14:47:32Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 96425961,
+            "track_name": "Je Suis De Celles - Live",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 19123551,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 21725992,
+            "album_name": "Live Au Grand Rex",
+            "artist_id": 18851,
+            "artist_name": "Bénabar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-12T07:30:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99261167,
+            "track_name": "Broadway Hotel - 2001 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 54766936,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21989567,
+            "album_name": "Year Of The Cat",
+            "artist_id": 28909007,
+            "artist_name": "Al Stewart",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Al-Stewart-3/Broadway-Hotel-2001-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Al-Stewart-3/Broadway-Hotel-2001-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-22T20:03:06Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 145419135,
+            "track_name": "Grace",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 80745789,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 28108751,
+            "album_name": "L'oiseleur",
+            "artist_id": 27839201,
+            "artist_name": "Feu! Chatterton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Feu-Chatterton/Grace?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Feu-Chatterton/Grace/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-03-14T11:17:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30415491,
+            "track_name": "Je suis de celles",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1897628,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 13780070,
+            "album_name": "LES RISQUES DU METIER",
+            "artist_id": 18851,
+            "artist_name": "Bénabar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/B%C3%A9nabar/Je-suis-de-celles/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-03T22:57:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48516140,
+            "track_name": "Le steak ou \"Complainte de ceux qui ont le ventre vide, considérée comme une gaudriole par ceux qui ont le ventre plein\"",
+            "track_name_translation_list": [],
+            "track_rating": 13,
+            "commontrack_id": 23363398,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16584520,
+            "album_name": "Le steak",
+            "artist_id": 12409,
+            "artist_name": "Maxime Le Forestier",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Maxime-Le-Forestier/Le-Steak-ou-Complainte-de-ceux-qui-ont-le-ventre-vide-consid%C3%A9r%C3%A9e-comme-une-gaudriole-par-ceux-qui-ont-le-ventre-plein?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Maxime-Le-Forestier/Le-Steak-ou-Complainte-de-ceux-qui-ont-le-ventre-vide-consid%C3%A9r%C3%A9e-comme-une-gaudriole-par-ceux-qui-ont-le-ventre-plein/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-21T15:14:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 185276566,
+            "track_name": "Khaleesi",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 101288777,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 35287180,
+            "album_name": "Khaleesi",
+            "artist_id": 39504976,
+            "artist_name": "An'Om feat. Vayn",
+            "track_share_url": "https://www.musixmatch.com/lyrics/An-Om-feat-Vayn/Khaleesi?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/An-Om-feat-Vayn/Khaleesi/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-05T12:41:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 45207716,
+            "track_name": "Les Uns Contre Les Autres",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 1989791,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 16251114,
+            "album_name": "L'un Pour L'autre",
+            "artist_id": 20837,
+            "artist_name": "Maurane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Maurane/Les-Uns-contre-les-autres?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Maurane/Les-Uns-contre-les-autres/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:14:27Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 17097992,
+            "track_name": "Histoire de...",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 1074421,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10356091,
+            "album_name": "Tout c'qu'on a...",
+            "artist_id": 8283,
+            "artist_name": "Sinsemilia",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sins%C3%A9milia/Histoire-de?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sins%C3%A9milia/Histoire-de/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-11-12T22:59:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 24,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Reggae",
+                    "music_genre_name_extended": "Reggae",
+                    "music_genre_vanity": "Reggae"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 150040996,
+            "track_name": "Dim",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 83446094,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 28865151,
+            "album_name": "Sunshine Dust",
+            "artist_id": 24764395,
+            "artist_name": "Skyharbor",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Skyharbor-2/Dim?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Skyharbor-2/Dim/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-16T15:17:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8879206,
+            "track_name": "Coax Me",
+            "track_name_translation_list": [],
+            "track_rating": 12,
+            "commontrack_id": 300027,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10990861,
+            "album_name": "Twice Removed",
+            "artist_id": 1038,
+            "artist_name": "Sloan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Sloan/Coax-Me?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Sloan/Coax-Me/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-05-31T21:53:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73638951,
+            "track_name": "The Prince of the Hanging Gardens",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 40188149,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 19663773,
+            "album_name": "The Hanging Gardens of Beatenberg",
+            "artist_id": 33091180,
+            "artist_name": "Beatenberg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Beatenberg/The-Prince-of-the-Hanging-Gardens?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Beatenberg/The-Prince-of-the-Hanging-Gardens/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T09:32:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85931906,
+            "track_name": "Les Uns Contre Les Autres - remastered",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 48355297,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21003942,
+            "album_name": "Starmania 78 - 30 ans",
+            "artist_id": 22601,
+            "artist_name": "Fabienne Thibeault",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabienne-Thibeault/Les-Uns-Contre-Les-Autres-remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabienne-Thibeault/Les-Uns-Contre-Les-Autres-remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-11T17:09:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 43964824,
+            "track_name": "Les Uns Contre Les Autres",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 2058659,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 16151811,
+            "album_name": "Les Plus Belles Chansons",
+            "artist_id": 22601,
+            "artist_name": "Fabienne Thibeault",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Fabienne-Thibeault/Les-uns-contre-les-autres?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Fabienne-Thibeault/Les-uns-contre-les-autres/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-15T14:12:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 60610813,
+            "track_name": "The Secret of Surrender",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 52870668,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17903686,
+            "album_name": "The Secret of Love: Meditations for Attracting and Being in Love",
+            "artist_id": 13818013,
+            "artist_name": "Deepak Chopra feat. Adam Plack",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Deepak-Chopra-Adam-Plack/The-Secret-of-Surrender?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Deepak-Chopra-Adam-Plack/The-Secret-of-Surrender/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-04T01:00:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 95549540,
+            "track_name": "Elle Sort Qu'Avec Des Blacks",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 7810437,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21654423,
+            "album_name": "The Cheap Show",
+            "artist_id": 156235,
+            "artist_name": "anaïs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ana%C3%AFs/Elle-sort-qu-avec-des-blacks-pimped-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ana%C3%AFs/Elle-sort-qu-avec-des-blacks-pimped-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-23T22:19:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9701573,
+            "track_name": "Du jaune",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 5964371,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 11052705,
+            "album_name": "Carmen Maria Vega",
+            "artist_id": 388447,
+            "artist_name": "Carmen Maria Vega",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Carmen-Maria-Vega/Du-jaune?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Carmen-Maria-Vega/Du-jaune/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:30:20Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33700146,
+            "track_name": "How to Handle a Woman",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 1537373,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15469943,
+            "album_name": "Camelot (Original 1982 London Cast)",
+            "artist_id": 13030,
+            "artist_name": "Richard Harris",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Richard-Harris/How-to-Handle-a-Woman?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Richard-Harris/How-to-Handle-a-Woman/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-26T20:34:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 39771918,
+            "track_name": "Camelot: How to Handle a Woman",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 47361885,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15884611,
+            "album_name": "Camelot (Original Broadway Cast Recording)",
+            "artist_id": 81610,
+            "artist_name": "Richard Burton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Richard-Burton/Camelot-How-to-Handle-a-Woman-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Richard-Burton/Camelot-How-to-Handle-a-Woman-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-02-29T14:52:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84330637,
+            "track_name": "Les Uns Contre Les Autres - remastered",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 47395238,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20896791,
+            "album_name": "Starmania 88 - 30 ans 1CD",
+            "artist_id": 24765409,
+            "artist_name": "Starmania",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Starmania/Les-Uns-Contre-Les-Autres-remastered?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Starmania/Les-Uns-Contre-Les-Autres-remastered/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-30T22:18:16Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87021178,
+            "track_name": "Threes: Take 3 (Julia Ecklar)",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 21259438,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21074644,
+            "album_name": "Roundworm",
+            "artist_id": 38084,
+            "artist_name": "Julia Ecklar",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Julia-Ecklar/Threes-Take-3-Julia-Ecklar?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Julia-Ecklar/Threes-Take-3-Julia-Ecklar/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-12T12:53:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 48940660,
+            "track_name": "J'aime (Radio edit)",
+            "track_name_translation_list": [],
+            "track_rating": 4,
+            "commontrack_id": 22290128,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16629121,
+            "album_name": "Déclarations",
+            "artist_id": 305286,
+            "artist_name": "Clara Morgane",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Clara-Morgane/J-aime-Radio-edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Clara-Morgane/J-aime-Radio-edit/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:41:35Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 162484930,
+            "track_name": "Slippin",
+            "track_name_translation_list": [],
+            "track_rating": 3,
+            "commontrack_id": 90662780,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30885698,
+            "album_name": "Melt",
+            "artist_id": 35918911,
+            "artist_name": "Doov",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Doov/Slippin?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Doov/Slippin/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-05-22T11:55:22Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 156741774,
+            "track_name": "Eastern Baby",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 87098249,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 7,
+            "album_id": 29880944,
+            "album_name": "Eastern Baby - Single",
+            "artist_id": 36698452,
+            "artist_name": "King Perryy",
+            "track_share_url": "https://www.musixmatch.com/lyrics/King-Perryy-2/Eastern-Baby?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/King-Perryy-2/Eastern-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-16T02:53:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1177,
+                    "music_genre_parent_id": 19,
+                    "music_genre_name": "Afro-Beat",
+                    "music_genre_name_extended": "World / Afro-Beat",
+                    "music_genre_vanity": "World-Afro-Beat"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 19,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "World",
+                    "music_genre_name_extended": "World",
+                    "music_genre_vanity": "World"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 57664412,
+            "track_name": "Folette, ma chatte",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 28625192,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17543900,
+            "album_name": "Salut la compagnie",
+            "artist_id": 135781,
+            "artist_name": "Pierre Louki",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pierre-Louki/Folette-ma-chatte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pierre-Louki/Folette-ma-chatte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-11-11T16:19:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73587989,
+            "track_name": "Bad Men (Radio Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 40336964,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 19660431,
+            "album_name": "Bad Men",
+            "artist_id": 27898311,
+            "artist_name": "Miel de Botton",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Miel-de-Botton/Bad-Men-Radio-Mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Miel-de-Botton/Bad-Men-Radio-Mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-04-01T22:45:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2825323,
+            "track_name": "Danse avec Loulou",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 6967331,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10449311,
+            "album_name": "La bête est revenue",
+            "artist_id": 88708,
+            "artist_name": "Pierre Perret",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pierre-Perret/Danse-avec-Loulou?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pierre-Perret/Danse-avec-Loulou/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-20T16:19:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54247168,
+            "track_name": "Sois belle et tais-toi (1960)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 26209044,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17189272,
+            "album_name": "Greatest Hits",
+            "artist_id": 1245,
+            "artist_name": "Serge Gainsbourg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Serge-Gainsbourg/Sois-belle-et-tais-toi-1960?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Serge-Gainsbourg/Sois-belle-et-tais-toi-1960/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T10:49:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54246762,
+            "track_name": "Sois belle et tais-toi (Romantique 60)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 11410039,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17189251,
+            "album_name": "Serge Gainsbourg: The Collection, Vol. 1",
+            "artist_id": 1245,
+            "artist_name": "Serge Gainsbourg",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Serge-Gainsbourg/Sois-belle-et-tais-toi-Romantique-60?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Serge-Gainsbourg/Sois-belle-et-tais-toi-Romantique-60/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-06T05:24:02Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 54506183,
+            "track_name": "Dino le dinosaure",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 15220405,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 17205028,
+            "album_name": "Les Larmes de crocodile et autres fables",
+            "artist_id": 25044149,
+            "artist_name": "Emma Daumas & Marcel Amont",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Emma-Daumas-Marcel-Amont/Dino-le-dinosaure?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Emma-Daumas-Marcel-Amont/Dino-le-dinosaure/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-02-13T09:52:19Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1690 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.075670003890991,
+      "available": 1095
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 166598403,
+            "track_name": "Why We Drink",
+            "track_name_translation_list": [],
+            "track_rating": 95,
+            "commontrack_id": 93391053,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 12,
+            "album_id": 31703667,
+            "album_name": "Late Nights and Longnecks",
+            "artist_id": 473029,
+            "artist_name": "Justin Moore",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Moore/Why-We-Drink?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Moore/Why-We-Drink/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-03-29T00:23:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114889152,
+            "track_name": "Sucker For Pain (with Logic, Ty Dolla  & X Ambassadors)",
+            "track_name_translation_list": [],
+            "track_rating": 83,
+            "commontrack_id": 62391906,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 14522,
+            "album_id": 23982882,
+            "album_name": "Suicide Squad: The Album (Collector's Edition)",
+            "artist_id": 33192128,
+            "artist_name": "Lil Wayne feat. Wiz Khalifa & Imagine Dragons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-feat-X-Ambassadors/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-05T08:40:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199985240,
+            "track_name": "North Star of Nija",
+            "track_name_translation_list": [],
+            "track_rating": 73,
+            "commontrack_id": 113522602,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39149108,
+            "album_name": "Nija",
+            "artist_id": 25504761,
+            "artist_name": "Orbit Culture",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Orbit-Culture/North-Star-of-Nija?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Orbit-Culture/North-Star-of-Nija/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-08T07:51:43Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 171134402,
+            "track_name": "Phenomenal",
+            "track_name_translation_list": [],
+            "track_rating": 38,
+            "commontrack_id": 46834784,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 4274,
+            "album_id": 32643396,
+            "album_name": "Southpaw (Music from and Inspired By the Motion Picture)",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Phenomenal-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Phenomenal-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-07-01T21:04:38Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160316512,
+            "track_name": "10 Freaky Girls (with 21 Savage)",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 89296634,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 50,
+            "album_id": 30498663,
+            "album_name": "NOT ALL HEROES WEAR CAPES",
+            "artist_id": 37093361,
+            "artist_name": "Metro Boomin feat. 21 Savage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metro-Boomin-feat-21-Savage/10-Freaky-Girls-with-21-Savage?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metro-Boomin-feat-21-Savage/10-Freaky-Girls-with-21-Savage/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-02T11:18:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 127472567,
+            "track_name": "Kmt",
+            "track_name_translation_list": [],
+            "track_rating": 37,
+            "commontrack_id": 70710692,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 327,
+            "album_id": 25784989,
+            "album_name": "More Life",
+            "artist_id": 33313368,
+            "artist_name": "Drake feat. Giggs",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake-feat-Giggs/KMT?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake-feat-Giggs/KMT/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-30T15:43:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 82510726,
+            "track_name": "Crystals",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 45508964,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1875,
+            "album_id": 20732029,
+            "album_name": "Beneath The Skin",
+            "artist_id": 13800504,
+            "artist_name": "Of Monsters and Men",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Of-Monsters-and-Men/Crystals?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Of-Monsters-and-Men/Crystals/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-17T08:22:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 172504551,
+            "track_name": "Frgt/10",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 96346618,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 32809281,
+            "album_name": "Reanimation",
+            "artist_id": 34731317,
+            "artist_name": "Linkin Park feat. Chali 2na",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Chali-2na/Frgt-10?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Chali-2na/Frgt-10/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-20T17:19:53Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114036499,
+            "track_name": "Sucker For Pain (with Logic & Ty Dolla ",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 83700982,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 92,
+            "album_id": 23891643,
+            "album_name": "Suicide Squad: The Album",
+            "artist_id": 35454190,
+            "artist_name": "Lil Wayne feat. Wiz Khalifa, Imagine Dragons, Logic, Ty Dolla  & X Ambassadors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Logic-Ty-Dolla-ign?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Logic-Ty-Dolla-ign/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-30T18:49:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 113410746,
+            "track_name": "Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla ",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 82081312,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 75,
+            "album_id": 23826274,
+            "album_name": "Sucker For Pain (with Logic & Ty Dolla  feat. X Ambassadors)",
+            "artist_id": 35454190,
+            "artist_name": "Lil Wayne feat. Wiz Khalifa, Imagine Dragons, Logic, Ty Dolla  & X Ambassadors",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne-feat-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign-X-Ambassadors/Sucker-For-Pain-with-Wiz-Khalifa-Imagine-Dragons-Logic-Ty-Dolla-ign/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-04-13T05:49:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 83461994,
+            "track_name": "Phenomenal ((From \"Southpaw\"))",
+            "track_name_translation_list": [],
+            "track_rating": 34,
+            "commontrack_id": 46695615,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20805454,
+            "album_name": "Phenomenal (From \"Southpaw\")",
+            "artist_id": 426,
+            "artist_name": "Eminem",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Eminem/Phenomenal-From-Southpaw?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Eminem/Phenomenal-From-Southpaw/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-08T10:01:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37137303,
+            "track_name": "Zero",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 914693,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 324,
+            "album_id": 15719719,
+            "album_name": "Mellon Collie and the Infinite Sadness (Remastered)",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-11-16T13:05:09Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199456454,
+            "track_name": "We Livin' Like That",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 113031352,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 38964779,
+            "album_name": "Fwa",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/We-Livin-Like-That?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/We-Livin-Like-That/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-03T08:50:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 80033780,
+            "track_name": "Empty Gold",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 41058602,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 1037,
+            "album_id": 20435422,
+            "album_name": "Room 93",
+            "artist_id": 33491439,
+            "artist_name": "Halsey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Halsey/Empty-Gold?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Halsey/Empty-Gold/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-23T14:45:13Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 6160758,
+            "track_name": "In Your Eyes",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 895327,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 11,
+            "album_id": 10739974,
+            "album_name": "Reanitheory",
+            "artist_id": 7132,
+            "artist_name": "LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/In-Your-Eyes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/In-Your-Eyes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-08-01T06:43:13Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 125550603,
+            "track_name": "Sucker for Pain (Remix)",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 69525158,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 45,
+            "album_id": 25516917,
+            "album_name": "Sucker for Pain (Remix)",
+            "artist_id": 33223304,
+            "artist_name": "Jtk feat. Imagine Dragons",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jtk-feat-Imagine-Dragons/Sucker-for-Pain-Remix-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jtk-feat-Imagine-Dragons/Sucker-for-Pain-Remix-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-03T04:34:33Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 125185789,
+            "track_name": "Frgt/10",
+            "track_name_translation_list": [],
+            "track_rating": 33,
+            "commontrack_id": 895282,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 218,
+            "album_id": 25454321,
+            "album_name": "Reanimation",
+            "artist_id": 7132,
+            "artist_name": "LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-30T13:02:57Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 90582493,
+            "track_name": "N 2 Gether Now",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 40350783,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 167,
+            "album_id": 21286571,
+            "album_name": "Significant Other (Explicit)",
+            "artist_id": 144,
+            "artist_name": "Limp Bizkit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2-Gether-Now?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2-Gether-Now/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-12T15:46:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85316497,
+            "track_name": "Two Suns In The Sunset - 2011 Remastered Version",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 43913059,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 17,
+            "album_id": 20964487,
+            "album_name": "The Final Cut (2011 Remastered Version)",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Two-Suns-In-the-Sunset-2011-Remastered-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Two-Suns-In-the-Sunset-2011-Remastered-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-21T09:37:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99649030,
+            "track_name": "Two Suns In The Sunset - 2004 Digital Remaster",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 52864,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 167,
+            "album_id": 22024747,
+            "album_name": "The Final Cut",
+            "artist_id": 117,
+            "artist_name": "Pink Floyd",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Two-Suns-in-the-Sunset?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Pink-Floyd/Two-Suns-in-the-Sunset/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-04-21T09:34:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18417545,
+            "track_name": "Closer",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 11385255,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 75,
+            "album_id": 11001052,
+            "album_name": "Comeback Season",
+            "artist_id": 14001426,
+            "artist_name": "Drake feat. Andreena Mill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake-feat-Andreena-Mill/Closer?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake-feat-Andreena-Mill/Closer/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-09-05T16:14:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31527315,
+            "track_name": "Frgt/10 (Alchemist feat. Chali 2na)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 895284,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 115,
+            "album_id": 14319801,
+            "album_name": "Reanimation",
+            "artist_id": 7132,
+            "artist_name": "LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10-Alchemist-feat-Chali-2na?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10-Alchemist-feat-Chali-2na/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-10-27T05:50:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213877,
+            "track_name": "White Christmas - Live",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 47503015,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 2,
+            "album_id": 20960809,
+            "album_name": "A Very Gaga Holiday",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-17T06:36:17Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84487243,
+            "track_name": "Frgt/10",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 47525809,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20909766,
+            "album_name": "Reanimation",
+            "artist_id": 34731318,
+            "artist_name": "Linkin Park feat. The Alchemist & Chali 2na",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Alchemist/Frgt-10?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Linkin-Park-feat-Alchemist/Frgt-10/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-01-17T09:20:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18366768,
+            "track_name": "Closer 2 My Dreams",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 11360972,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 15,
+            "album_id": 10934190,
+            "album_name": "Heartbreak Drake",
+            "artist_id": 14001426,
+            "artist_name": "Drake feat. Andreena Mill",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Drake-feat-Andreena-Mill/Closer-2-My-Dreams?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Drake-feat-Andreena-Mill/Closer-2-My-Dreams/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-07-17T20:45:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73457920,
+            "track_name": "Frgt/10 (album version)",
+            "track_name_translation_list": [],
+            "track_rating": 32,
+            "commontrack_id": 40248521,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 19650519,
+            "album_name": "Enth E Nd / Frgt/10",
+            "artist_id": 7132,
+            "artist_name": "LINKIN PARK",
+            "track_share_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10-album-version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/LINKIN-PARK/Frgt-10-album-version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-07T05:54:28Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 16399452,
+            "track_name": "White Christmas",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 10447774,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 42,
+            "album_id": 13927607,
+            "album_name": "A Very Gaga Holiday",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-28T08:44:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85319592,
+            "track_name": "Empty Gold - Commentary",
+            "track_name_translation_list": [],
+            "track_rating": 31,
+            "commontrack_id": 48045340,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20964639,
+            "album_name": "Room 93 (Commentary)",
+            "artist_id": 33491439,
+            "artist_name": "Halsey",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Halsey/Empty-Gold-Commentary?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Halsey/Empty-Gold-Commentary/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-04-28T13:50:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84378933,
+            "track_name": "Nancy (With The Laughing Face) - 78rpm Version",
+            "track_name_translation_list": [],
+            "track_rating": 30,
+            "commontrack_id": 14467038,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 20902200,
+            "album_name": "Ultimate Sinatra",
+            "artist_id": 69,
+            "artist_name": "Frank Sinatra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frank-Sinatra/Nancy-With-the-Laughing-Face-78-RPM-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frank-Sinatra/Nancy-With-the-Laughing-Face-78-RPM-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-12T23:20:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 25,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Easy Listening",
+                    "music_genre_name_extended": "Easy Listening",
+                    "music_genre_vanity": "Easy-Listening"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200179992,
+            "track_name": "Shine",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 113677310,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 39214112,
+            "album_name": "The Light Pack - Single",
+            "artist_id": 40403315,
+            "artist_name": "Joey Bada24831",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Joey-Bada-1/Shine?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Joey-Bada-1/Shine/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-17T14:26:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 85213873,
+            "track_name": "White Christmas - Live From \"A Very Gaga Thanksgiving'\"",
+            "track_name_translation_list": [],
+            "track_rating": 29,
+            "commontrack_id": 13823067,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 20960808,
+            "album_name": "A Very Gaga Holiday",
+            "artist_id": 378462,
+            "artist_name": "Lady Gaga",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas-Live-from-A-Very-Gaga-Thanksgiving?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga/White-Christmas-Live-from-A-Very-Gaga-Thanksgiving/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-12-19T22:46:48Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 197254943,
+            "track_name": "2020 Vision (Clean)",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 106770669,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 29,
+            "album_id": 38271166,
+            "album_name": "Red Flu",
+            "artist_id": 28820528,
+            "artist_name": "Young M.A",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Young-M-a/2020-Vision?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Young-M-a/2020-Vision/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-11T09:42:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1070,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "East Coast Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / East Coast Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-East-Coast-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 31498566,
+            "track_name": "A Short Term Effect",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 134194,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3,
+            "album_id": 13752518,
+            "album_name": "Pornography",
+            "artist_id": 416,
+            "artist_name": "The Cure",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-04T18:25:39Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 73342496,
+            "track_name": "Dusse",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 40171753,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 19642146,
+            "album_name": "Back on My Shit",
+            "artist_id": 23619,
+            "artist_name": "lil wayne",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dusse?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lil-Wayne/Dusse/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-08-07T19:45:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1068,
+                    "music_genre_parent_id": 18,
+                    "music_genre_name": "Alternative Rap",
+                    "music_genre_name_extended": "Hip Hop/Rap / Alternative Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap-Alternative-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 8979292,
+            "track_name": "Zero",
+            "track_name_translation_list": [],
+            "track_rating": 28,
+            "commontrack_id": 2240510,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10999511,
+            "album_name": "2003-10-16: Live at Le Zénith, Paris, France",
+            "artist_id": 27177,
+            "artist_name": "Evanescence",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Evanescence/Zero?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Evanescence/Zero/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-30T12:56:25Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 86724455,
+            "track_name": "Blind Willie McTell - Studio Outtake - 1983",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 1879,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 22,
+            "album_id": 21057700,
+            "album_name": "The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991",
+            "artist_id": 13,
+            "artist_name": "Bob Dylan",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Blind-Willie-McTell?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Bob-Dylan/Blind-Willie-McTell/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-06-04T12:09:17Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84257353,
+            "track_name": "Zero (Synth Mix)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 11603160,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 3,
+            "album_id": 20888825,
+            "album_name": "Mellon Collie and the Infinite Sadness (Deluxe Edition)",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-Synth-mix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-Synth-mix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T13:32:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87136288,
+            "track_name": "A Short Term Effect (Remastered LP Version",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 48994719,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21080851,
+            "album_name": "Pornography (Deluxe Edition)",
+            "artist_id": 416,
+            "artist_name": "The Cure",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Remastered-LP-Version?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Remastered-LP-Version/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-23T11:10:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 35150327,
+            "track_name": "Nancy (With the Laughing Face)",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 32994,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 14,
+            "album_id": 15585484,
+            "album_name": "A Man and His Music",
+            "artist_id": 69,
+            "artist_name": "Frank Sinatra",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Frank-Sinatra/Nancy-With-the-Laughing-Face?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Frank-Sinatra/Nancy-With-the-Laughing-Face/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-27T18:54:31Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 2525680,
+            "track_name": "Shut the Fuck Up",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 44671976,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10425212,
+            "album_name": "Take Cover: Cover Versions & Rarities",
+            "artist_id": 13799544,
+            "artist_name": "Limp Bizkit feat. Method Man",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit-feat-Method-Man/Shut-the-Fuck-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit-feat-Method-Man/Shut-the-Fuck-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-03-09T18:23:35Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 87136314,
+            "track_name": "A Short Term Effect [Live In Brussels 6/82]",
+            "track_name_translation_list": [],
+            "track_rating": 27,
+            "commontrack_id": 14120219,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21080851,
+            "album_name": "Pornography (Deluxe Edition)",
+            "artist_id": 416,
+            "artist_name": "The Cure",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Live-In-Brussels-6-82?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Live-In-Brussels-6-82/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-28T18:15:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 160448866,
+            "track_name": "10 Freaky Girls",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 89387333,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 226,
+            "album_id": 30526346,
+            "album_name": "NOT ALL HEROES WEAR CAPES",
+            "artist_id": 37093361,
+            "artist_name": "Metro Boomin feat. 21 Savage",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Metro-Boomin-feat-21-Savage/10-Freaky-Girls?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Metro-Boomin-feat-21-Savage/10-Freaky-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-11-08T11:40:30Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9472183,
+            "track_name": "Zero (Power Outage)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 914695,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 39,
+            "album_id": 11033211,
+            "album_name": "1995-10-23: Sorrow and Pity: Riviera Theater, Chicago, IL, USA",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-Power-Outage?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-Power-Outage/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-03-17T09:27:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 9472184,
+            "track_name": "Zero (All the Way Through)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 914694,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 11033211,
+            "album_name": "1995-10-23: Sorrow and Pity: Riviera Theater, Chicago, IL, USA",
+            "artist_id": 7274,
+            "artist_name": "The Smashing Pumpkins",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-All-the-Way-Through?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Smashing-Pumpkins/Zero-All-the-Way-Through/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-03-17T09:27:14Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 33728224,
+            "track_name": "N 2 Gether Now",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 64614,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 15472040,
+            "album_name": "Greatest Hitz",
+            "artist_id": 13799544,
+            "artist_name": "Limp Bizkit feat. Method Man",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit-feat-Method-Man/N-2-Gether-Now?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit-feat-Method-Man/N-2-Gether-Now/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-04-26T12:03:31Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34660425,
+            "track_name": "A Short Term Effect (Live In Brussels)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 14120341,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15551233,
+            "album_name": "Pornography (Deluxe Edition)",
+            "artist_id": 416,
+            "artist_name": "The Cure",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Live-In-Brussels?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-Live-In-Brussels/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-11-28T18:15:56Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 3610297,
+            "track_name": "A Short Term Effect (live)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 134195,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 13778893,
+            "album_name": "Pornography",
+            "artist_id": 416,
+            "artist_name": "The Cure",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Cure/A-Short-Term-Effect-live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-06T08:15:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 170617210,
+            "track_name": "N 2gether Now (All in Together Now) [Neptunes Remix]",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 26470642,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32540904,
+            "album_name": "New Old Songs",
+            "artist_id": 144,
+            "artist_name": "Limp Bizkit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2gether-Now-All-in-Together-Now-Neptunes-Remix?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2gether-Now-All-in-Together-Now-Neptunes-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-06-02T18:57:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1152,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Hard Rock",
+                    "music_genre_name_extended": "Rock / Hard Rock",
+                    "music_genre_vanity": "Rock-Hard-Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1515491,
+            "track_name": "Shut the Fuck Up",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 64662,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 8,
+            "album_id": 10343495,
+            "album_name": "Phat-Ass Rarities",
+            "artist_id": 144,
+            "artist_name": "Limp Bizkit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/Shut-the-Fuck-Up?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/Shut-the-Fuck-Up/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-02-13T09:15:54Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 37041585,
+            "track_name": "N 2 Gether Now (All In Together Now Mix by the Neptunes)",
+            "track_name_translation_list": [],
+            "track_rating": 26,
+            "commontrack_id": 15388080,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15713289,
+            "album_name": "New Old Songs (Remixes)",
+            "artist_id": 144,
+            "artist_name": "Limp Bizkit",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2-Gether-Now-All-In-Together-Now-Mix-by-the-Neptunes?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Limp-Bizkit/N-2-Gether-Now-All-In-Together-Now-Mix-by-the-Neptunes/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-01-28T19:37:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

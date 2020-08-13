@@ -1,0 +1,739 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.047534942626953,
+      "available": 20
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 129851930,
+            "track_name": "First Night Back In Port",
+            "track_name_translation_list": [],
+            "track_rating": 71,
+            "commontrack_id": 71951801,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26124746,
+            "album_name": "First Night Back In Port",
+            "artist_id": 13346688,
+            "artist_name": "Ye Banished Privateers",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Ye-Banished-Privateers/First-Night-Back-in-Port?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Ye-Banished-Privateers/First-Night-Back-in-Port/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-21T14:52:01Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 1289,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Folk",
+                    "music_genre_name_extended": "Folk",
+                    "music_genre_vanity": "Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 14701882,
+            "track_name": "Corazon de Oro",
+            "track_name_translation_list": [],
+            "track_rating": 22,
+            "commontrack_id": 215287,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 6,
+            "album_id": 10644405,
+            "album_name": "BYO Split Series, Volume III",
+            "artist_id": 661,
+            "artist_name": "NOFX",
+            "track_share_url": "https://www.musixmatch.com/lyrics/NOFX/Corazon-De-Oro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/NOFX/Corazon-De-Oro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-02T01:46:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 30413961,
+            "track_name": "Corazon de Oro",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 219693,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 16,
+            "album_id": 13779936,
+            "album_name": "Life Won't Wait",
+            "artist_id": 686,
+            "artist_name": "Rancid",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rancid/Corazon-de-Oro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rancid/Corazon-de-Oro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T21:54:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 19772574,
+            "track_name": "Who Wanna Be A Star (New Single)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1633067,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10637981,
+            "album_name": "730 Presents... The Brand Nu Mixtape",
+            "artist_id": 14244,
+            "artist_name": "Brand Nubian",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brand-Nubian/Who-Wanna-Be-A-Star-New-Single?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brand-Nubian/Who-Wanna-Be-A-Star-New-Single/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-07-01T09:20:03Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100136872,
+            "track_name": "Who Wanna Be A Star? (It's Brand Nu Baby!)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 12203120,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22071804,
+            "album_name": "Fire In The Hole",
+            "artist_id": 14244,
+            "artist_name": "Brand Nubian",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Brand-Nubian/Who-Wanna-Be-a-Star-It-s-Brand-Nu-Baby?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Brand-Nubian/Who-Wanna-Be-a-Star-It-s-Brand-Nu-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-10-22T10:31:11Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 68262198,
+            "track_name": "Corazón de Oro",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 36663366,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18990736,
+            "album_name": "Corazón de Oro",
+            "artist_id": 14352164,
+            "artist_name": "Tim Timebomb",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tim-Timebomb/Coraz%C3%B3n-de-Oro?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tim-Timebomb/Coraz%C3%B3n-de-Oro/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-01-09T19:08:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 106815947,
+            "track_name": "The Fighter, the Rube, the Asshole",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 58602920,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22857283,
+            "album_name": "Gather Up the Chaps",
+            "artist_id": 120614,
+            "artist_name": "The Falcon",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Falcon/The-Fighter-The-Rube-The-Asshole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Falcon/The-Fighter-The-Rube-The-Asshole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-18T21:54:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 100019,
+                    "music_genre_parent_id": 20,
+                    "music_genre_name": "Pop Punk",
+                    "music_genre_name_extended": "Alternative / Pop Punk",
+                    "music_genre_vanity": "Alternative-Pop-Punk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5618926,
+            "track_name": "Red for Fire + Black for Death",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 1914489,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10690194,
+            "album_name": "Black for Death: An Icelandic Odyssey, Part II",
+            "artist_id": 19209,
+            "artist_name": "Solefald",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Solefald/Red-for-Fire-Black-for-Death?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Solefald/Red-for-Fire-Black-for-Death/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-17T11:19:55Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 169273546,
+            "track_name": "Up in Flames",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 95066856,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 32258848,
+            "album_name": "Uncovered Treasure",
+            "artist_id": 32903515,
+            "artist_name": "Mammoth",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Mammoth-14/Up-in-Flames?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Mammoth-14/Up-in-Flames/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T15:50:21Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1153,
+                    "music_genre_parent_id": 21,
+                    "music_genre_name": "Heavy Metal",
+                    "music_genre_name_extended": "Rock / Heavy Metal",
+                    "music_genre_vanity": "Rock-Heavy-Metal"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 5064833,
+            "track_name": "Trip To Hyden",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 1867788,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10640498,
+            "album_name": "In Search Of A Song",
+            "artist_id": 18183,
+            "artist_name": "Tom T. Hall",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tom-T-Hall/Trip-to-Hyden?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tom-T-Hall/Trip-to-Hyden/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T19:16:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 6,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Country",
+                    "music_genre_name_extended": "Country",
+                    "music_genre_vanity": "Country"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 63565872,
+            "track_name": "Coming Up For Air (Live In Prague)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 33136016,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 18300416,
+            "album_name": "Life: The Movie Collected Films & Clips",
+            "artist_id": 5011,
+            "artist_name": "The Walkabouts",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Walkabouts/Coming-Up-For-Air-Live-In-Prague?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Walkabouts/Coming-Up-For-Air-Live-In-Prague/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-13T08:49:07Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 659286,
+            "track_name": "Organized Meat",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 705792,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10274779,
+            "album_name": "Whorn",
+            "artist_id": 5781,
+            "artist_name": "Cows",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Cows/Organized-Meat?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Cows/Organized-Meat/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:53:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 124606963,
+            "track_name": "Stranger's Tide",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 68939164,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25373802,
+            "album_name": "Stranger EP",
+            "artist_id": 32965753,
+            "artist_name": "Rhym",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Rhym/Stranger-s-Tide?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Rhym/Stranger-s-Tide/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-11-28T07:02:46Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 192162252,
+            "track_name": "Payback",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 106934063,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 36665549,
+            "album_name": "Gage \"Deadzy\" Frank (Self-Titled)",
+            "artist_id": 36194139,
+            "artist_name": "Gage \"Deadzy\" Frank",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Gage-Deadzy-Frank/Payback?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Gage-Deadzy-Frank/Payback/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-02-21T00:16:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 200847185,
+            "track_name": "Coming Up for Air",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 671448,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 39455208,
+            "album_name": "Acetylene",
+            "artist_id": 5011,
+            "artist_name": "The Walkabouts",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Walkabouts/Coming-Up-for-Air?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Walkabouts/Coming-Up-for-Air/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-06-10T16:49:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 21,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Rock",
+                    "music_genre_name_extended": "Rock",
+                    "music_genre_vanity": "Rock"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 186129054,
+            "track_name": "This Is War",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 101783871,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 35461837,
+            "album_name": "Spare Thoughts",
+            "artist_id": 40237125,
+            "artist_name": "Tom Swifty",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Tom-Swifty/This-Is-War?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Tom-Swifty/This-Is-War/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-01-08T03:58:55Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77444989,
+            "track_name": "Corazon De Oro (In the Style of Rancid) [lead part played by piano]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42935365,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20121413,
+            "album_name": "Corazon De Oro (In the Style of Rancid) [Karaoke Versions]",
+            "artist_id": 24743158,
+            "artist_name": "Karaoke Star",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-lead-part-played-by-piano?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-lead-part-played-by-piano/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-21T16:11:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77444990,
+            "track_name": "Corazon De Oro (In the Style of Rancid) [lead part played by piano, With metronome]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42935322,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20121413,
+            "album_name": "Corazon De Oro (In the Style of Rancid) [Karaoke Versions]",
+            "artist_id": 24743158,
+            "artist_name": "Karaoke Star",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-lead-part-played-by-piano-With-metronome?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-lead-part-played-by-piano-With-metronome/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-02-21T16:11:53Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77444988,
+            "track_name": "Corazon De Oro (In the Style of Rancid) [With metronome]",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42933629,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20121413,
+            "album_name": "Corazon De Oro (In the Style of Rancid) [Karaoke Versions]",
+            "artist_id": 24743158,
+            "artist_name": "Karaoke Star",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-With-metronome?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid-With-metronome/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-28T18:32:28Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 77444987,
+            "track_name": "Corazon De Oro (In the Style of Rancid)",
+            "track_name_translation_list": [],
+            "track_rating": 1,
+            "commontrack_id": 42934495,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20121413,
+            "album_name": "Corazon De Oro (In the Style of Rancid) [Karaoke Versions]",
+            "artist_id": 24743158,
+            "artist_name": "Karaoke Star",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Karaoke-Star/Corazon-De-Oro-In-the-Style-of-Rancid/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-28T19:07:04Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 52,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Karaoke",
+                    "music_genre_name_extended": "Karaoke",
+                    "music_genre_vanity": "Karaoke"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

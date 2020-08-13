@@ -1,0 +1,1619 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.071433782577515,
+      "available": 91
+    },
+    "body": {
+      "track_list": [
+        {
+          "track": {
+            "track_id": 130021978,
+            "track_name": "Preparations",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 71707782,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501605,
+            "artist_name": "Nick Choksi feat. Lucas Steele & Josh Groban",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nick-Choksi-feat-Lucas-Steele-Josh-Groban/Preparations?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nick-Choksi-feat-Lucas-Steele-Josh-Groban/Preparations/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T14:01:29Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021984,
+            "track_name": "Pierre & Anatole",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 71707756,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501609,
+            "artist_name": "Josh Groban feat. Lucas Steele",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Josh-Groban-feat-Lucas-Steele/Pierre-Anatole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Josh-Groban-feat-Lucas-Steele/Pierre-Anatole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T14:04:48Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021970,
+            "track_name": "The Duel",
+            "track_name_translation_list": [],
+            "track_rating": 21,
+            "commontrack_id": 71707765,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501600,
+            "artist_name": "Lucas Steele feat. Josh Groban, Nick Choksi, Amber Gray & Original Broadway Company of Natasha, Pierre and the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lucas-Steele-feat-Josh-Groban-Nick-Choksi-Amber-Gray-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Duel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lucas-Steele-feat-Josh-Groban-Nick-Choksi-Amber-Gray-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Duel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T14:19:58Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 199432164,
+            "track_name": "Bébé de Bogota",
+            "track_name_translation_list": [],
+            "track_rating": 20,
+            "commontrack_id": 113010051,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 38958099,
+            "album_name": "Bébé de Bogota - Single",
+            "artist_id": 35011152,
+            "artist_name": "Moha La Squale",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Moha-La-Squale/B%C3%A9b%C3%A9-de-Bogota?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Moha-La-Squale/B%C3%A9b%C3%A9-de-Bogota/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2020-07-06T10:43:16Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114550475,
+            "track_name": "My life",
+            "track_name_translation_list": [],
+            "track_rating": 19,
+            "commontrack_id": 25793743,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 23946812,
+            "album_name": "Faites entrer Lacrim",
+            "artist_id": 14321596,
+            "artist_name": "Lacrim",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lacrim/My-Life?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lacrim/My-Life/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-04-16T09:07:15Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 39648584,
+            "track_name": "Les deux écoles",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2177944,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 15876670,
+            "album_name": "Rouge",
+            "artist_id": 25616,
+            "artist_name": "Michel Sardou",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michel-Sardou/Les-Deux-%C3%89coles?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michel-Sardou/Les-Deux-%C3%89coles/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-10-30T02:23:08Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 967835,
+            "track_name": "Le Tango du cachalot",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 375281,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 10300088,
+            "album_name": "Cante el' Nord",
+            "artist_id": 1244,
+            "artist_name": "Renaud",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Renaud/Le-tango-du-cachalot?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Renaud/Le-tango-du-cachalot/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T17:05:37Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 126147254,
+            "track_name": "Laissez-les kouma - Interlude",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 69521128,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 22,
+            "album_id": 25597630,
+            "album_name": "Le monde à l'envers",
+            "artist_id": 217000,
+            "artist_name": "Zaho",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Zaho/Laissez-les-kouma-Interlude?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Zaho/Laissez-les-kouma-Interlude/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-02-28T14:26:42Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 93587241,
+            "track_name": "La Maison Des Vacances",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 2177879,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 21503689,
+            "album_name": "Marie Jeanne",
+            "artist_id": 25616,
+            "artist_name": "Michel Sardou",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Michel-Sardou/La-maison-des-vacances?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Michel-Sardou/La-maison-des-vacances/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2013-06-01T13:00:58Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 111249850,
+            "track_name": "Eloko",
+            "track_name_translation_list": [],
+            "track_rating": 18,
+            "commontrack_id": 58747450,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 54,
+            "album_id": 23495199,
+            "album_name": "Eloko",
+            "artist_id": 29524003,
+            "artist_name": "Innoss'B feat. Werrason",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Innoss-B-feat-Werrason/Eloko?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Innoss-B-feat-Werrason/Eloko/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-15T16:57:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 1067,
+                    "music_genre_parent_id": 10,
+                    "music_genre_name": "Traditional Folk",
+                    "music_genre_name_extended": "Singer/Songwriter / Traditional Folk",
+                    "music_genre_vanity": "Singer-Songwriter-Traditional-Folk"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32139296,
+            "track_name": "Qu'est-ce que tu veux que j'te dise",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 12570313,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15340265,
+            "album_name": "Mon Prisme",
+            "artist_id": 82107,
+            "artist_name": "Georgio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georgio/Qu-est-ce-que-tu-veux-que-j-te-dise?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georgio/Qu-est-ce-que-tu-veux-que-j-te-dise/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-18T16:14:43Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 32139291,
+            "track_name": "Carpe diem",
+            "track_name_translation_list": [],
+            "track_rating": 17,
+            "commontrack_id": 12570306,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 15340265,
+            "album_name": "Mon Prisme",
+            "artist_id": 82107,
+            "artist_name": "Georgio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georgio/Carpe-diem?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georgio/Carpe-diem/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-18T12:25:02Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84296048,
+            "track_name": "6 avril 93",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 47185282,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 20892837,
+            "album_name": "Bleu noir",
+            "artist_id": 28786231,
+            "artist_name": "Georgio feat. Sanka",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georgio-feat-Sanka/6-avril-93?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georgio-feat-Sanka/6-avril-93/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-18T10:36:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 114398333,
+            "track_name": "No future",
+            "track_name_translation_list": [],
+            "track_rating": 16,
+            "commontrack_id": 63053924,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 4,
+            "album_id": 23931248,
+            "album_name": "Héra",
+            "artist_id": 82107,
+            "artist_name": "Georgio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georgio/No-future?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georgio/No-future/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-11-07T09:30:18Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121189734,
+            "track_name": "Sunday Morning",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 67053546,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 24915074,
+            "album_name": "Natasha, Pierre And The Great Comet Of 1812 (Original Cast Recording)",
+            "artist_id": 34306222,
+            "artist_name": "Grace McLean feat. Phillipa Soo & Brittain Ashford",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grace-McLean-Phillipa-Soo-Brittain-Ashford/Sunday-Morning?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grace-McLean-Phillipa-Soo-Brittain-Ashford/Sunday-Morning/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-12T17:36:00Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99944880,
+            "track_name": "D'Allemagne - Live 1991",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 55146400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 22055574,
+            "album_name": "Carnets De Scène (Live 1991)",
+            "artist_id": 9097,
+            "artist_name": "Patricia Kaas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Live-1991?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Live-1991/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-10T15:10:21Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121189736,
+            "track_name": "The Ball",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 68278783,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24915074,
+            "album_name": "Natasha, Pierre And The Great Comet Of 1812 (Original Cast Recording)",
+            "artist_id": 32696835,
+            "artist_name": "Phillipa Soo feat. Lucas Steele",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Phillipa-Soo-feat-Lucas-Steele/The-Ball?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Phillipa-Soo-feat-Lucas-Steele/The-Ball/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-10-12T17:35:38Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 34062285,
+            "track_name": "D'Allemagne (version courte)",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 13726150,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 15500438,
+            "album_name": "Mademoiselle chante",
+            "artist_id": 9097,
+            "artist_name": "Patricia Kaas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Version-courte?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Version-courte/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-04-04T14:57:30Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99944406,
+            "track_name": "D'Allemagne",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1170426,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 10,
+            "album_id": 22055548,
+            "album_name": "Rien Ne S'Arrête",
+            "artist_id": 9097,
+            "artist_name": "Patricia Kaas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-26T08:52:10Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99902485,
+            "track_name": "Le Telefon",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 1961026,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 2,
+            "album_id": 22051702,
+            "album_name": "Satanée Mirza",
+            "artist_id": 20254,
+            "artist_name": "Nino Ferrer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9fon?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9fon/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-07-16T08:49:25Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 100933479,
+            "track_name": "Le Téléfon - Live",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 15008928,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22146295,
+            "album_name": "Concert Chez Harry Vol 10",
+            "artist_id": 20254,
+            "artist_name": "Nino Ferrer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9fon-Live?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9fon-Live/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2019-02-27T15:14:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121189745,
+            "track_name": "Find Anatole",
+            "track_name_translation_list": [],
+            "track_rating": 15,
+            "commontrack_id": 68278777,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24915074,
+            "album_name": "Natasha, Pierre And The Great Comet Of 1812 (Original Cast Recording)",
+            "artist_id": 32850696,
+            "artist_name": "Dave Malloy feat. Lucas Steele, Amber Gray & Phillipa Soo",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Dave-Malloy-Lucas-Steele-Amber-Gray-Phillipa-Soo/Find-Anatole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Dave-Malloy-Lucas-Steele-Amber-Gray-Phillipa-Soo/Find-Anatole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-28T01:22:01Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 18395873,
+            "track_name": "Le Téléphone",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 1961028,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10760572,
+            "album_name": "Hallo Bonjour Salut: 32 Great French Hits From the 60's + 70's",
+            "artist_id": 20254,
+            "artist_name": "Nino Ferrer",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9phone?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Nino-Ferrer/Le-T%C3%A9l%C3%A9phone/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-03-24T22:14:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 84296043,
+            "track_name": "Rêveur (Pour Anatole)",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 47185302,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 20892837,
+            "album_name": "Bleu noir",
+            "artist_id": 82107,
+            "artist_name": "Georgio",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Georgio/R%C3%AAveur-Pour-Anatole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Georgio/R%C3%AAveur-Pour-Anatole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-10-09T10:29:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 99944462,
+            "track_name": "D'Allemagne - Live 2005",
+            "track_name_translation_list": [],
+            "track_rating": 14,
+            "commontrack_id": 55146306,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22055553,
+            "album_name": "Toute La Musique (Live 2005)",
+            "artist_id": 9097,
+            "artist_name": "Patricia Kaas",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Live-2005?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Patricia-Kaas/D-Allemagne-Live-2005/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-05-10T15:10:23Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128787586,
+            "track_name": "L'Augmentation (Pt. 1)",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 71579921,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25972509,
+            "album_name": "La Vie Augmente (Vol.1)",
+            "artist_id": 188267,
+            "artist_name": "Isha",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Isha/L-Augmentation-Pt-1?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Isha/L-Augmentation-Pt-1/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-07-17T14:05:23Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 18,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Hip Hop/Rap",
+                    "music_genre_name_extended": "Hip-Hop/Rap",
+                    "music_genre_vanity": "Hip-Hop-Rap"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 159568951,
+            "track_name": "Nonkilling 6 | Hunger",
+            "track_name_translation_list": [],
+            "track_rating": 11,
+            "commontrack_id": 87231400,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 30358466,
+            "album_name": "The Anteroom",
+            "artist_id": 551627,
+            "artist_name": "How to Dress Well",
+            "track_share_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Nonkilling-6-%7C-Hunger?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/How-to-Dress-Well/Nonkilling-6-%7C-Hunger/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-10-17T13:42:45Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 100007,
+                    "music_genre_parent_id": 5,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Classical / Electronic",
+                    "music_genre_vanity": "Classic-Electronic"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 7,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Electronic",
+                    "music_genre_name_extended": "Electronic",
+                    "music_genre_vanity": "Electronic"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 1508915,
+            "track_name": "Anatole of Paris",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 2825566,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10342992,
+            "album_name": "Entertainer Extraordinary",
+            "artist_id": 45045,
+            "artist_name": "Danny Kaye",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Danny-Kaye/Anatole-of-Paris?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Danny-Kaye/Anatole-of-Paris/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2012-06-10T03:25:05Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 23,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Vocal",
+                    "music_genre_name_extended": "Vocal",
+                    "music_genre_vanity": "Vocal"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 14,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Pop",
+                    "music_genre_name_extended": "Pop",
+                    "music_genre_vanity": "Pop"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 11,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Jazz",
+                    "music_genre_name_extended": "Jazz",
+                    "music_genre_vanity": "Jazz"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128541217,
+            "track_name": "Zeus",
+            "track_name_translation_list": [],
+            "track_rating": 10,
+            "commontrack_id": 64202471,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 25931046,
+            "album_name": "Masterpiece",
+            "artist_id": 32176175,
+            "artist_name": "Swift Guad feat. Mani Deiz",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Swift-Guad-feat-Mani-Deiz/Zeus?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Swift-Guad-feat-Mani-Deiz/Zeus/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-06-25T01:13:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 128573695,
+            "track_name": "Prologue",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 71431166,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 3,
+            "album_id": 25934603,
+            "album_name": "Prologue",
+            "artist_id": 33501593,
+            "artist_name": "Original Broadway Company of Natasha, Pierre & the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/Prologue-2?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/Prologue-2/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T12:55:15Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021972,
+            "track_name": "Sunday Morning",
+            "track_name_translation_list": [],
+            "track_rating": 9,
+            "commontrack_id": 71707775,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501595,
+            "artist_name": "Denée Benton feat. Brittain Ashford & Grace McLean",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Den%C3%A9e-Benton-feat-Brittain-Ashford-Grace-McLean/Sunday-Morning?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Den%C3%A9e-Benton-feat-Brittain-Ashford-Grace-McLean/Sunday-Morning/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-25T10:22:42Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021980,
+            "track_name": "The Abduction",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 71707772,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501593,
+            "artist_name": "Original Broadway Company of Natasha, Pierre & the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Abduction?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Abduction/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T13:09:33Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021968,
+            "track_name": "The Opera",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 71707777,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501593,
+            "artist_name": "Original Broadway Company of Natasha, Pierre & the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Opera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/The-Opera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T12:58:36Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021982,
+            "track_name": "A Call to Pierre",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 71707771,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501607,
+            "artist_name": "Grace McLean feat. Josh Groban & Original Broadway Company of Natasha, Pierre and the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Grace-McLean-feat-Josh-Groban-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/A-Call-to-Pierre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Grace-McLean-feat-Josh-Groban-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/A-Call-to-Pierre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T13:04:46Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268963,
+            "track_name": "The Ball",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 15852647,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Ball?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Ball/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-23T22:31:36Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268957,
+            "track_name": "The Opera",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 15852650,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Opera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Opera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T19:42:29Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021974,
+            "track_name": "The Ball",
+            "track_name_translation_list": [],
+            "track_rating": 8,
+            "commontrack_id": 71707757,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501599,
+            "artist_name": "Denée Benton feat. Lucas Steele",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Den%C3%A9e-Benton-feat-Lucas-Steele/The-Ball?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Den%C3%A9e-Benton-feat-Lucas-Steele/The-Ball/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T13:57:12Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268969,
+            "track_name": "The Abduction",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 15852646,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Abduction?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Abduction/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-10-27T19:47:34Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 4837463,
+            "track_name": "Ya!",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 8231890,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 10619886,
+            "album_name": "Les Dales Hawerchuk",
+            "artist_id": 205688,
+            "artist_name": "Les Dales Hawerchuk",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Les-Dales-Hawerchuk/Ya?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Les-Dales-Hawerchuk/Ya/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2011-12-16T12:02:41Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 50000064,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "French Pop",
+                    "music_genre_name_extended": "French Pop",
+                    "music_genre_vanity": "French-Pop"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268960,
+            "track_name": "The Duel",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 15852648,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Duel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/The-Duel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-03-07T18:32:47Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104269079,
+            "track_name": "Preparations",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 15852641,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Preparations?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Preparations/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-12-11T20:35:24Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268947,
+            "track_name": "Prologue",
+            "track_name_translation_list": [],
+            "track_rating": 7,
+            "commontrack_id": 15852642,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Prologue?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Prologue/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2015-12-18T18:28:52Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104268961,
+            "track_name": "Sunday Morning",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 15852645,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 1,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Sunday-Morning?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Sunday-Morning/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-05T20:10:44Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 49312694,
+            "track_name": "Angelitos",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 22572930,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 16666736,
+            "album_name": "Angelitos",
+            "artist_id": 26182139,
+            "artist_name": "José Carbajal \"El Sabalero\"",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Jos%C3%A9-Carbajal-El-Sabalero-2/Angelitos?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Jos%C3%A9-Carbajal-El-Sabalero-2/Angelitos/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2014-11-24T23:25:19Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 10,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Singer/Songwriter",
+                    "music_genre_name_extended": "Singer/Songwriter",
+                    "music_genre_vanity": "Singer-Songwriter"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104269090,
+            "track_name": "A Call to Pierre",
+            "track_name_translation_list": [],
+            "track_rating": 6,
+            "commontrack_id": 15852623,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/A-Call-to-Pierre?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/A-Call-to-Pierre/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-23T19:38:50Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 130021983,
+            "track_name": "Find Anatole",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 71707778,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 26145430,
+            "album_name": "Natasha, Pierre & the Great Comet of 1812 (Original Broadway Cast Recording)",
+            "artist_id": 33501608,
+            "artist_name": "Josh Groban feat. Lucas Steele, Amber Gray, Denée Benton & Original Broadway Company of Natasha, Pierre and the Great Comet of 1812",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Josh-Groban-feat-Lucas-Steele-Amber-Gray-Den%C3%A9e-Benton-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/Find-Anatole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Josh-Groban-feat-Lucas-Steele-Amber-Gray-Den%C3%A9e-Benton-Original-Broadway-Company-of-Natasha-Pierre-the-Great-Comet-of-1812/Find-Anatole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-05-22T13:26:07Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 104269094,
+            "track_name": "Pierre & Anatole",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 15852638,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 22513172,
+            "album_name": "Natasha, Pierre and the Great Comet of 1812 (Original Cast Recording)",
+            "artist_id": 25208751,
+            "artist_name": "The Great Comet Original Cast",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Pierre-Anatole?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast/Pierre-Anatole/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2016-04-23T19:47:54Z",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 16,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Soundtrack",
+                    "music_genre_name_extended": "Soundtrack",
+                    "music_genre_vanity": "Soundtrack"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121189733,
+            "track_name": "The Duel",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 67053558,
+            "instrumental": 0,
+            "explicit": 1,
+            "has_lyrics": 1,
+            "has_subtitles": 0,
+            "has_richsync": 0,
+            "num_favourite": 1,
+            "album_id": 24915074,
+            "album_name": "Natasha, Pierre And The Great Comet Of 1812 (Original Cast Recording)",
+            "artist_id": 32696837,
+            "artist_name": "Lucas Steele, Nick Choksi, Dave Malloy & Amber Gray",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Lucas-Steele-Nick-Choksi-Dave-Malloy-Amber-Gray/The-Duel?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Lucas-Steele-Nick-Choksi-Dave-Malloy-Amber-Gray/The-Duel/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-05-25T00:28:40Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 137045842,
+            "track_name": "Les deux écoles",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 75924982,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 27003534,
+            "album_name": "SARDOU et nous...",
+            "artist_id": 27170036,
+            "artist_name": "Thibault",
+            "track_share_url": "https://www.musixmatch.com/lyrics/Thibault-2/Les-deux-%C3%A9coles?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/Thibault-2/Les-deux-%C3%A9coles/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2018-01-06T22:40:09Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        },
+        {
+          "track": {
+            "track_id": 121189730,
+            "track_name": "The Opera",
+            "track_name_translation_list": [],
+            "track_rating": 5,
+            "commontrack_id": 67053560,
+            "instrumental": 0,
+            "explicit": 0,
+            "has_lyrics": 1,
+            "has_subtitles": 1,
+            "has_richsync": 0,
+            "num_favourite": 0,
+            "album_id": 24915074,
+            "album_name": "Natasha, Pierre And The Great Comet Of 1812 (Original Cast Recording)",
+            "artist_id": 32696829,
+            "artist_name": "'The Great Comet' Original Cast Ensemble",
+            "track_share_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast-Ensemble/The-Opera?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "track_edit_url": "https://www.musixmatch.com/lyrics/The-Great-Comet-Original-Cast-Ensemble/The-Opera/edit?utm_source=application&utm_campaign=api&utm_medium=Jonathan+Stokes%3A1409620480009",
+            "restricted": 0,
+            "updated_time": "2017-01-01T03:12:22Z",
+            "primary_genres": {
+              "music_genre_list": []
+            }
+          }
+        }
+      ]
+    }
+  }
+}
