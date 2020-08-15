@@ -24,7 +24,7 @@ describe('LyricListService integration', () => {
     beforeEach(() => {
       axiosStub.callsFake(async (url: string, config: AxiosRequestConfig) => {
         if (url.startsWith(`https://wordsapiv1.p.rapidapi.com/words/`)) {
-          const baseDir = path.join(__dirname, '../../../data/mock/rhyming');
+          const baseDir = path.join(__dirname, '../data/rhyming');
           const filePath = url.substring(`https://wordsapiv1.p.rapidapi.com/`.length);
           const filename = path.join(baseDir, `${filePath}.json`);
           const jsonData = fs.readFileSync(filename, { encoding: 'utf8', flag: 'r' });
@@ -34,7 +34,7 @@ describe('LyricListService integration', () => {
           };
         } else if (url.startsWith(`https://api.musixmatch.com/ws/1.1/track.search`)) {
           const word = config.params.q_lyrics;
-          const baseDir = path.join(__dirname, '../../../data/mock/musixmatch/track.search/q_lyrics/');
+          const baseDir = path.join(__dirname, '../data/musixmatch/track.search/q_lyrics/');
           const filename = path.join(baseDir, `${word}.json`);
           const stringData = fs.readFileSync(filename, { encoding: 'utf8', flag: 'r' });
           try {
