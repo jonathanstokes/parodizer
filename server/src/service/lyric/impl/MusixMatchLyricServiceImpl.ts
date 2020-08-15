@@ -29,7 +29,7 @@ export class MusixMatchLyricServiceImpl implements LyricService {
         }
         throw new Error(`No 'track_list' found in: ${JSON.stringify(response.data)}`);
       }
-      return response.data.message.body.track_list.map<SongSummary>((trackContainer) => {
+      return response.data.message.body.track_list.map<SongSummary>(trackContainer => {
         const mmTrack = trackContainer.track;
         return {
           id: `${mmTrack.track_id}`,

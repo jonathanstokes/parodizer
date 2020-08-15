@@ -18,10 +18,10 @@ describe('Top40Service', () => {
     const songs = await Top40Service.getSongCache();
 
     const confirmSongRank = (title: string, artist: string, weeksInTop100: number) => {
-      const song = songs.find((s) => s.title === title && s.artist === artist);
+      const song = songs.find(s => s.title === title && s.artist === artist);
       if (!song) {
-        const artistsThatMatchTitle = songs.filter((s) => s.title === title).map((s) => s.artist);
-        const otherTitlesByArtist = songs.filter((s) => s.artist === artist).map((s) => s.title);
+        const artistsThatMatchTitle = songs.filter(s => s.title === title).map(s => s.artist);
+        const otherTitlesByArtist = songs.filter(s => s.artist === artist).map(s => s.title);
         console.log(
           `Song '${title}' by ${artist} not found.\nOther artists that match that title: ${artistsThatMatchTitle.join(
             ', '

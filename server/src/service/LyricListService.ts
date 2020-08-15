@@ -45,7 +45,7 @@ export class LyricListService {
   }
 
   protected runJob(job: Job): Job {
-    this.doRunJob(job).catch((err) => {
+    this.doRunJob(job).catch(err => {
       console.error(`Error running job ${job.id}:`, err);
       job.error = err.message;
       job.status = 'error';
@@ -96,10 +96,10 @@ export class LyricListService {
 
     const mergedSongs = [...primarySongs];
     for (const ss of secondarySongs) {
-      const matchedPrimary = mergedSongs.find((ps) => ps.id === ss.id);
+      const matchedPrimary = mergedSongs.find(ps => ps.id === ss.id);
       if (matchedPrimary) {
         matchedPrimary.score.accumulateSecondaryWordMatch();
-        (ss.containsWords || []).forEach((w) => {
+        (ss.containsWords || []).forEach(w => {
           if (matchedPrimary.containsWords && matchedPrimary.containsWords.indexOf(w) < 0) {
             matchedPrimary.containsWords.push(w);
           }
@@ -118,11 +118,11 @@ export class LyricListService {
       const songMatches = await this.lyricService.findSongs(rhymingWord);
       for (const songMatch of songMatches) {
         // If this song hasn't already been found for this rhyming word...
-        if (!filteredSongMatches.find((fsm) => songMatch.id === fsm.id)) {
+        if (!filteredSongMatches.find(fsm => songMatch.id === fsm.id)) {
           const songRating = await this.getSongMatchRating(songMatch, filteredSongMatches);
           const ratedSongMatch = (songRating && songRating.alternativeSong) || songMatch;
           // If this possibly-altered song still isn't one that's already been picked.
-          if (songRating && !filteredSongMatches.find((fsm) => ratedSongMatch.id === fsm.id)) {
+          if (songRating && !filteredSongMatches.find(fsm => ratedSongMatch.id === fsm.id)) {
             filteredSongMatches.push({
               ...ratedSongMatch,
               score: songRating.score,
@@ -134,7 +134,7 @@ export class LyricListService {
     }
     const songCountByRhymingWord: { [word: string]: number | undefined } = {};
     Object.keys(songMatchesByRhymingWord).forEach(
-      (word) => (songCountByRhymingWord[word] = songMatchesByRhymingWord[word].length || undefined)
+      word => (songCountByRhymingWord[word] = songMatchesByRhymingWord[word].length || undefined)
     );
     console.log(`Unfiltered song counts by word: ${JSON.stringify(songCountByRhymingWord)}`);
 
@@ -159,7 +159,7 @@ export class LyricListService {
     output.sort((a, b) => b.score.compare(a.score));
     console.log(
       `Song results for ${JSON.stringify(rhymingWords)}:${output
-        .map((wms) => {
+        .map(wms => {
           return '\n' + wms.score.ratingToString() + '\t' + wms.year + '\t' + wms.title + '\tby ' + wms.artist;
         })
         .join('')}`

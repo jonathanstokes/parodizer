@@ -22,7 +22,7 @@ export class GeniusRapidApiLyricServiceImpl {
         },
       }
     );
-    return results.data.response.hits.map((hit) => hit.result);
+    return results.data.response.hits.map(hit => hit.result);
   }
 
   async loadSong(songId: number): Promise<RaGeniusSong> {

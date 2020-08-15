@@ -21,7 +21,7 @@ export const parseSearchTerms = (inputString: string): SearchTerms => {
       const primary = tokens.splice(0, 1);
       if (primary[0].startsWith('"') && primary[0].endsWith('"'))
         primary[0] = primary[0].substring(1, primary[0].length - 1);
-      const secondary = tokens.filter((t) => {
+      const secondary = tokens.filter(t => {
         if (t.startsWith('"') && t.endsWith('"')) {
           primary.push(t.substring(1, t.length - 1));
           return false;

@@ -27,7 +27,7 @@ export class RhymingService {
         // Only take single words
         if (resultPhrase.indexOf(' ') < 0) wordSet.add(resultPhrase);
       }
-      wordSet.forEach((w) => output.push(w));
+      wordSet.forEach(w => output.push(w));
     }
     return output;
   }

@@ -57,7 +57,7 @@ describe('LyricListService integration', () => {
       const job = await service.startJob(['roll'], []);
       expect(job.status).to.equal('running');
       while (job.status === 'running') {
-        await new Promise((resolve) => setTimeout(resolve, 100));
+        await new Promise(resolve => setTimeout(resolve, 100));
       }
       if (job.status === 'error') {
         console.error(job.error);
@@ -69,7 +69,7 @@ describe('LyricListService integration', () => {
       const songs = job.output.songs as SongResult[];
       expect(songs.length).to.be.greaterThan(1);
       for (const song of songs) {
-        const dupes = songs.filter((s) => s !== song && s.title === song.title && s.artist === song.artist);
+        const dupes = songs.filter(s => s !== song && s.title === song.title && s.artist === song.artist);
         expect(dupes, `${dupes.length} duplicate(s) found for '${song.title}' by ${song.artist}.`).to.have.length(0);
       }
     });

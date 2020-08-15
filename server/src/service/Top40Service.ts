@@ -133,7 +133,7 @@ export class Top40Service {
         return obj;
       }, {});
       await new Promise((resolve, reject) => {
-        fs.writeFile(Top40Service.HOT_100_CACHE_FILENAME, JSON.stringify(printable, null, 2), (err) => {
+        fs.writeFile(Top40Service.HOT_100_CACHE_FILENAME, JSON.stringify(printable, null, 2), err => {
           if (err) reject(err);
           else resolve();
         });
@@ -149,7 +149,7 @@ export class Top40Service {
       } catch (err) {
         if (!firstError) firstError = err;
         console.log(`Retrying to load ${chartName} for ${weekDate}.`);
-        await new Promise((resolve) => setTimeout(resolve, 2000));
+        await new Promise(resolve => setTimeout(resolve, 2000));
       }
     }
     throw firstError;
