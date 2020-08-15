@@ -1,4 +1,4 @@
-import {Top40Service} from "../server/service/Top40Service";
+import {Top40Service} from "../server/src/service/Top40Service";
 
 const doIt = async () => {
     const top40Service = new Top40Service();

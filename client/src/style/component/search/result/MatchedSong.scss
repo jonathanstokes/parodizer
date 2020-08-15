@@ -1,0 +1,52 @@
+@import 'client/srcent/src/style/imports';
+
+.matched-song {
+  margin: 2rem;
+  padding: 1rem;
+  border: 0.125rem solid $dark-border-color;
+  border-radius: 1rem;
+
+  .header {
+    .title-row {
+      .title {
+        font-size: 1.125rem;
+        margin: 0 0.5rem 0 0;
+      }
+      .song-links {
+        .song-link {
+          font-size: 0.75rem;
+          line-height: 80%;
+          padding: 0 0.5rem;
+          border-radius: 1rem;
+        }
+      }
+    }
+    .credit-row {
+      padding: 0 1rem;
+      font-size: 0.875rem;
+      .artist {
+
+      }
+      .year {
+        font-size: 0.625rem;
+        margin: 0.25rem;
+      }
+    }
+  }
+  .contains-words {
+    border-top: 0.0625rem solid $light-border-color;
+
+    .contains-words-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+    }
+
+    .contains-word {
+      font-size: 0.75rem;
+      margin: 0.25rem;
+      background-color: $contains-word-background-color;
+      padding: 0.125rem 0.25rem;
+      border-radius: 0.25rem;
+    }
+  }
+}

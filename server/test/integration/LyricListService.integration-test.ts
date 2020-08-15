@@ -2,10 +2,10 @@ import { expect } from 'chai';
 import 'mocha';
 import axios, { AxiosRequestConfig } from 'axios';
 import * as Sinon from 'sinon';
-import { LyricListService } from '../../service/LyricListService';
+import { LyricListService } from '../../src/service/LyricListService';
 import * as path from 'path';
 import * as fs from 'fs';
-import { SongResult } from '../../../src/client-and-server/lyric-types';
+import { SongResult } from '../../../client/src/client-and-server/lyric-types';
 
 describe('LyricListService integration', () => {
   let service: LyricListService;
