@@ -1,4 +1,4 @@
-import { Job } from './lyric-list-service-types';
+import { Job } from "./lyric-list-service-types";
 
 export interface SearchResponse {
   success: boolean;

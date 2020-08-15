@@ -1,44 +1,41 @@
-import React, { useState } from 'react';
-import axios from 'axios';
-import Button from 'react-bootstrap/Button';
-import Spinner from 'react-bootstrap/Spinner';
+import React, { useState } from "react";
+import axios from "axios";
+import Button from "react-bootstrap/Button";
+import Spinner from "react-bootstrap/Spinner";
 
-import SearchInputField from './component/search/SearchInputField';
-import { Job } from './client-and-server/lyric-list-service-types';
-import { SearchJobStatusResponse, SearchSuccessResponse } from './client-and-server/search-types';
-import SearchResults from './component/search/SearchResults';
+import SearchInputField from "./component/search/SearchInputField";
+import { Job } from "./client-and-server/lyric-list-service-types";
+import {
+  SearchJobStatusResponse,
+  SearchSuccessResponse,
+} from "./client-and-server/search-types";
+import SearchResults from "./component/search/SearchResults";
 
 // import logo from './logo.svg';
-import logo from './logo.png';
-import './style/App.scss';
+import logo from "./logo.png";
+import "./style/App.scss";
 
 function App() {
-  const [previousSearchTerms, setPreviousSearchTerms] = useState<string>('');
-  const [searchTerms, setSearchTerms] = useState<string>('');
+  const [previousSearchTerms, setPreviousSearchTerms] = useState<string>("");
+  const [searchTerms, setSearchTerms] = useState<string>("");
   const [isSearching, setIsSearching] = useState<boolean>(false);
   const [currentJob, setCurrentJob] = useState<Job | null>(null);
-  const onSearch = async (query: string) => {
-    const result = await axios.post<SearchSuccessResponse>(`/api/search`, { q: query });
-    if (result.status === 202) {
-      setIsSearching(true);
-      setPreviousSearchTerms(searchTerms);
-      setCurrentJob(result.data.job);
-      pollForJobProgress(result.data.statusUrl, 1000);
-    }
-  };
 
   const pollForJobProgress = (statusUrl: string, delayInMs: number) => {
     const markJobAsErrored = (err: Error | string) => {
-      if (currentJob) setCurrentJob({ ...currentJob, status: 'error', error: err });
+      if (currentJob)
+        setCurrentJob({ ...currentJob, status: "error", error: err });
       setIsSearching(false);
     };
     setTimeout(async () => {
       try {
-        const result = await axios.get<SearchJobStatusResponse>(statusUrl, { timeout: 10000 });
+        const result = await axios.get<SearchJobStatusResponse>(statusUrl, {
+          timeout: 10000,
+        });
         if (result.status === 200) {
           const newJob = result.data.job;
           setCurrentJob(newJob);
-          if (newJob.status === 'started' || newJob.status === 'running') {
+          if (newJob.status === "started" || newJob.status === "running") {
             pollForJobProgress(statusUrl, delayInMs * 1.2);
           } else {
             // The job has completed.
@@ -54,6 +51,18 @@ function App() {
         markJobAsErrored(err);
       }
     }, delayInMs);
+  };
+
+  const onSearch = async (query: string) => {
+    const result = await axios.post<SearchSuccessResponse>(`/api/search`, {
+      q: query,
+    });
+    if (result.status === 202) {
+      setIsSearching(true);
+      setPreviousSearchTerms(searchTerms);
+      setCurrentJob(result.data.job);
+      pollForJobProgress(result.data.statusUrl, 1000);
+    }
   };
 
   return (
@@ -83,12 +92,14 @@ function App() {
                 <Spinner animation="border" /> Finding…
               </span>
             ) : (
-              'Find parody songs'
+              "Find parody songs"
             )}
           </Button>
         </div>
       </div>
-      <div className="output-section">{currentJob && <SearchResults job={currentJob} />}</div>
+      <div className="output-section">
+        {currentJob && <SearchResults job={currentJob} />}
+      </div>
     </div>
   );
 }

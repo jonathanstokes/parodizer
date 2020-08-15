@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
 
-import '../../style/component/search/SearchInputField.scss';
+import "../../style/component/search/SearchInputField.scss";
 
 interface SearchInputFieldProps {
   onSearch: (query: string) => void;
 }
-const SearchInputField = (props: SearchInputFieldProps & React.InputHTMLAttributes<HTMLInputElement>) => {
+const SearchInputField = (
+  props: SearchInputFieldProps & React.InputHTMLAttributes<HTMLInputElement>
+) => {
   const { onSearch, ...inputProps } = props;
   const onSubmit = (event: any) => {
     event.preventDefault();

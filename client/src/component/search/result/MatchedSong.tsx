@@ -1,11 +1,11 @@
-import React from 'react';
-import Button from 'react-bootstrap/Button';
+import React from "react";
+import Button from "react-bootstrap/Button";
 
-import { Job } from '../../../client-and-server/lyric-list-service-types';
-import SongLyricSet from './SongLyricSet';
+import { Job } from "../../../client-and-server/lyric-list-service-types";
+import SongLyricSet from "./SongLyricSet";
 
-import '../../../style/component/search/result/MatchedSong.scss';
-import { SongResult } from '../../../client-and-server/lyric-types';
+import "../../../style/component/search/result/MatchedSong.scss";
+import { SongResult } from "../../../client-and-server/lyric-types";
 
 const MatchedSong = (props: { song: SongResult; job: Job }) => {
   const { song, job } = props;
@@ -22,7 +22,12 @@ const MatchedSong = (props: { song: SongResult; job: Job }) => {
         <div className="title-row d-flex justify-content-between">
           <div className="title">{title}</div>
           <div className="song-links d-flex">
-            <Button className="song-link lyrics-link" variant="outline-secondary" size="sm" onClick={openSongLyrics}>
+            <Button
+              className="song-link lyrics-link"
+              variant="outline-secondary"
+              size="sm"
+              onClick={openSongLyrics}
+            >
               Lyrics ⇗
             </Button>
           </div>

@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
-import { Job } from '../../../client-and-server/lyric-list-service-types';
+import { Job } from "../../../client-and-server/lyric-list-service-types";
 
-import '../../../style/component/search/result/RhymingTerms.scss';
+import "../../../style/component/search/result/RhymingTerms.scss";
 
 const RhymingTerms = (props: { job: Job }) => {
   const { job } = props;
-  const isRunning = job.status === 'running' || job.status === 'started';
+  const isRunning = job.status === "running" || job.status === "started";
   const isLoadingRhymingTerms = isRunning && !job.output.rhymingTerms;
   return !isLoadingRhymingTerms ? (
     <div className="rhyming-terms d-flex flex-column">

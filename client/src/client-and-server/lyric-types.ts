@@ -27,7 +27,10 @@ export class Score {
     const ratingBefore = this.rating;
     this.rating += 0.05;
     this.debugInfo.secondaryWordMatch = this.debugInfo.secondaryWordMatch || {};
-    this.debugInfo.secondaryWordMatch[0] = { previous: ratingBefore, next: this.rating };
+    this.debugInfo.secondaryWordMatch[0] = {
+      previous: ratingBefore,
+      next: this.rating,
+    };
   }
 
   /** Determines whether this score is considered a metch. */
@@ -48,6 +51,9 @@ export class Score {
     const ratingBefore = this.rating;
     this.rating += 0.1;
     this.debugInfo.wordMatch = this.debugInfo.wordMatch || {};
-    this.debugInfo.wordMatch[word] = { previous: ratingBefore, next: this.rating };
+    this.debugInfo.wordMatch[word] = {
+      previous: ratingBefore,
+      next: this.rating,
+    };
   }
 }

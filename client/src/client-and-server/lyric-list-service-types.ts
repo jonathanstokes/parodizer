@@ -1,4 +1,4 @@
-import { SongResult } from './lyric-types';
+import { SongResult } from "./lyric-types";
 
 export interface SearchTerms {
   primary: string[];
@@ -19,7 +19,7 @@ export interface JobOutput {
 
 export interface Job {
   id: string;
-  status: 'started' | 'running' | 'complete' | 'error' | 'timed-out';
+  status: "started" | "running" | "complete" | "error" | "timed-out";
   error?: any;
   created: Date;
   lastUpdated: Date;

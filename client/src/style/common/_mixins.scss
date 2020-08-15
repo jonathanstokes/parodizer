@@ -1,4 +1,4 @@
-@import "client/src/style/common/variables";
+@import "src/style/common/variables";
 
 @mixin shimmer($bgColor: $light-secondary, $width: 50rem, $height: 13rem, $duration: 3.5s) {
   background: $bgColor

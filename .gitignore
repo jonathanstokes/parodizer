@@ -26,3 +26,6 @@ yarn-error.log*
 /data/billboard-hot-100.bak.json
 /populate.log
 /server/node_modules/
+/client/node_modules/
+/client/build/
+/client/coverage/
