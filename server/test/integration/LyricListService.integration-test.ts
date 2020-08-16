@@ -18,6 +18,10 @@ describe('LyricListService integration', () => {
     service = new LyricListService({ rapidApiKey: 'fake-rapid-api-key', musixMatchApiKey: 'fake-musix-match-api-key' });
   });
 
+  afterEach(() => {
+    service.close();
+  });
+
   afterEach(() => sandbox.restore());
 
   describe('startJob()', () => {
@@ -54,15 +58,22 @@ describe('LyricListService integration', () => {
     });
 
     it(`should return results for 'roll'`, async () => {
+      console.log(`Starting search job.`);
       const job = await service.startJob(['roll'], []);
       expect(job.status).to.equal('running');
+      let pings = 0;
       while (job.status === 'running') {
-        await new Promise(resolve => setTimeout(resolve, 100));
+        pings++;
+        await new Promise(resolve => setTimeout(resolve, 500));
+        if (pings % 40 === 0) {
+          console.log(`Still running after ${Math.round(pings / 2)} seconds.`);
+        }
       }
       if (job.status === 'error') {
         console.error(job.error);
         throw job.error;
       }
+      console.log(`Search complete. Validating results.`);
       expect(job.status, `Job status=${job.status}, error=${JSON.stringify(job.error)}.`).to.equal('complete');
       expect(job.input).to.deep.equal({ primary: ['roll'], secondary: [] });
       expect(job.output.songs && job.output.songs.length).to.be.greaterThan(1);

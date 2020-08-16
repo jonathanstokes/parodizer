@@ -1,6 +1,6 @@
 import { RhymingService } from './RhymingService';
 import { Song, Top40Service } from './Top40Service';
-import { uuid } from 'uuidv4';
+import { v4 } from 'uuid';
 import PQueue from 'p-queue';
 import { Job, SearchTerms } from '../../../client/src/client-and-server/lyric-list-service-types';
 import { LyricService } from './lyric/LyricService';
@@ -21,6 +21,12 @@ export class LyricListService {
     this.top40Service = new Top40Service();
   }
 
+  /** Close down this service and its underlying resources. */
+  async close(): Promise<void> {
+    LyricListService.queue.pause();
+    LyricListService.queue.clear();
+  }
+
   async getJob(jobId: string): Promise<Job | null> {
     return LyricListService.jobsById[jobId] || null;
   }
@@ -28,7 +34,7 @@ export class LyricListService {
   async startJob(primaryTerms: string[], secondaryTerms: string[]): Promise<Job> {
     const created = new Date();
     const job: Job = {
-      id: uuid(),
+      id: v4(),
       status: 'running',
       input: { primary: primaryTerms, secondary: secondaryTerms },
       output: {},

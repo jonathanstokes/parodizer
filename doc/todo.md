@@ -1,10 +1,11 @@
 # Todo
 - Set up a caching layer.
-  - Separate client code into a client/ directory
-  - Correct node_modules for client and server.
+  - ~Separate client code into a client/ directory~
+  - ~Correct node_modules for client and server.~
   - Create Dockerfile images for client/ and server/.
   - Create a docker-compose.yml for both images.
   - Add a Redis image to the mix.
+- Learn how to profile nodejs server code to find out why things take so long.
 - All words aren't being associated with song matches properly. E.g. "Fast Car" shows up in a search for "blast far", but "fast" is not listed as a matching word and neither is "car". Only "bar" is. 
 - Make the rhyming words collapsed when there are too many of them.
 - Investigate performance issues.

@@ -1,0 +1,31 @@
+{
+  "name": "parodizer",
+  "version": "1.0.0",
+  "repository": "https://github.com/jonathanstokes/parodizer.git",
+  "author": "Jonathan Stokes",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "run-s lint:client lint:server",
+    "start": "run-p --race start:server start:client",
+    "build": "run-s build:server build:client",
+    "test": "run-s test:client test:server",
+    "test:unit": "run-s test:unit:client test:unit:server",
+    "precommit": "run-s precommit:client precommit:server",
+    "lint:client": "cd client && yarn lint && cd ..",
+    "lint:server": "cd server && yarn lint && cd ..",
+    "start:client": "cd client && PORT=3300 yarn start && cd ..",
+    "start:server": "cd server && PORT=5500 yarn start && cd ..",
+    "build:client": "cd client && yarn build && cd ..",
+    "build:server": "cd server && yarn build && cd ..",
+    "test:client": "cd client && yarn test && cd ..",
+    "test:server": "cd server && yarn test && cd ..",
+    "test:unit:client": "cd client && yarn test:unit && cd ..",
+    "test:unit:server": "cd server && yarn test:unit && cd ..",
+    "precommit:client": "cd client && yarn run precommit && cd ..",
+    "precommit:server": "cd server && yarn run precommit && cd .."
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

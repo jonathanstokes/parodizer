@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "lint": "eslint 'src/**/*.{js,ts,tsx}' --quiet --fix",
-    "start": "PORT=3300 react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --watchAll=false --collectCoverage --ci",
-    "test:unit": "react-scripts test",
+    "test": "yarn run test:unit",
+    "test:unit": "react-scripts test --watchAll=false --collectCoverage --ci",
     "precommit": "yarn run lint && yarn run test"
   },
   "eslintConfig": {

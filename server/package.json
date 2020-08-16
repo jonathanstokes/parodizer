@@ -9,14 +9,12 @@
     "lint": "eslint '{src,test}/**/*.{js,ts,tsx}' --quiet --fix",
     "start": "ts-node-dev --project ./tsconfig.json --respawn --transpile-only --debug ./src/server.ts",
     "start:test": "cd ../src && ts-node-dev --help",
+    "build": "tsc",
     "populate": "ts-node --project ./tsconfig.json --transpile-only ../script/read-billboard.ts",
     "test": "yarn run test:unit && yarn run test:integration",
-    "test:unit": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.testing.json\" mocha --require ts-node/register 'src/**/*.test.ts'",
-    "test:integration": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.testing.json\" mocha --require ts-node/register --timeout 300000 'test/integration/**/*.integration-test.ts' --exit",
+    "test:unit": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.testing.json\" mocha --require ts-node/register --exit 'src/**/*.test.ts'",
+    "test:integration": "RAPID_API_KEY=fake-rapid-api-key MUSIXMATCH_API_KEY=fake-mm-api-key TS_NODE_PROJECT=\"tsconfig.testing.json\" mocha --require ts-node/register --timeout 600000 --exit 'test/integration/**/*.integration-test.ts'",
     "precommit": "yarn run lint && yarn run test"
-  },
-  "mocha": {
-    "spec": "src/**/*.test.ts"
   },
   "dependencies": {
     "axios": "^0.19.2",
