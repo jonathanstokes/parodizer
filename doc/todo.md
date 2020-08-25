@@ -1,4 +1,7 @@
 # Todo
+- ~Swap out rhyming service for the one behind Rhyme Zone, which is so much awesomer.~
+- Look for a better lyric search service.
+- Add trace logging to a bunch of stuff, because we'll probably want that anyway, and then use it to see roughly where all the time is being spent in the integration test. 5 minutes is just so long if no network I/O is being done, so something is wrong.
 - Set up a caching layer.
   - ~Separate client code into a client/ directory~
   - ~Correct node_modules for client and server.~

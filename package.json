@@ -22,6 +22,8 @@
     "test:server": "cd server && yarn test && cd ..",
     "test:unit:client": "cd client && yarn test:unit && cd ..",
     "test:unit:server": "cd server && yarn test:unit && cd ..",
+    "test:integration": "yarn run test:integration:server",
+    "test:integration:server": "cd server && yarn test:integration && cd ..",
     "precommit:client": "cd client && yarn run precommit && cd ..",
     "precommit:server": "cd server && yarn run precommit && cd .."
   },

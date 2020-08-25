@@ -1,6 +1,7 @@
 import axios from 'axios';
+import {RhymingService} from "../RhymingService";
 
-export class RhymingService {
+export class RapidApiRhymingService implements RhymingService {
   protected rapidApiKey: string;
 
   constructor(rapidApiKey: string) {

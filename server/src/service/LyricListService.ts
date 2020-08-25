@@ -1,11 +1,12 @@
-import { RhymingService } from './RhymingService';
-import { Song, Top40Service } from './Top40Service';
-import { v4 } from 'uuid';
+import {Song, Top40Service} from './Top40Service';
+import {v4} from 'uuid';
 import PQueue from 'p-queue';
-import { Job, SearchTerms } from '../../../client/src/client-and-server/lyric-list-service-types';
-import { LyricService } from './lyric/LyricService';
-import { MusixMatchLyricServiceImpl } from './lyric/impl/MusixMatchLyricServiceImpl';
-import { Score, SongResult, SongSummary } from '../../../client/src/client-and-server/lyric-types';
+import {Job, SearchTerms} from '../../../client/src/client-and-server/lyric-list-service-types';
+import {LyricService} from './lyric/LyricService';
+import {MusixMatchLyricServiceImpl} from './lyric/impl/MusixMatchLyricServiceImpl';
+import {Score, SongResult, SongSummary} from '../../../client/src/client-and-server/lyric-types';
+import {RhymingService} from "./rhyme/RhymingService";
+import {DataMuseRhymingService} from "./rhyme/impl/DataMuseRhymingService";
 
 export class LyricListService {
   static queue = new PQueue({ concurrency: 1 });
@@ -16,7 +17,7 @@ export class LyricListService {
   protected top40Service: Top40Service;
 
   constructor(apiKeys: { rapidApiKey: string; musixMatchApiKey: string }) {
-    this.rhymingService = new RhymingService(apiKeys.rapidApiKey);
+    this.rhymingService = new DataMuseRhymingService();
     this.lyricService = new MusixMatchLyricServiceImpl(apiKeys.musixMatchApiKey);
     this.top40Service = new Top40Service();
   }
@@ -97,9 +98,12 @@ export class LyricListService {
   }
 
   async findSongs(terms: SearchTerms): Promise<SongResult[]> {
+    console.debug(`Finding songs containing primary words '${terms.primary.join(', ')}'.`);
     const primarySongs = await this.findSongsWithWords(terms.primary);
+    console.debug(`Finding songs containing secondary words '${terms.primary.join(', ')}'.`);
     const secondarySongs = await this.findSongsWithWords(terms.secondary);
 
+    console.debug(`Merging ${primarySongs.length} primary song(s) with ${secondarySongs.length} secondary songs.`);
     const mergedSongs = [...primarySongs];
     for (const ss of secondarySongs) {
       const matchedPrimary = mergedSongs.find(ps => ps.id === ss.id);
@@ -114,6 +118,7 @@ export class LyricListService {
         mergedSongs.push(ss);
       }
     }
+    console.debug(`Returning ${mergedSongs.length} merged songs.`);
     return mergedSongs;
   }
 
@@ -121,21 +126,34 @@ export class LyricListService {
     const songMatchesByRhymingWord: { [rhymingWord: string]: SongResult[] } = {};
     for (const rhymingWord of rhymingWords) {
       const filteredSongMatches: SongResult[] = [];
+      console.debug(`Finding songs for word ${rhymingWord}.`);
       const songMatches = await this.lyricService.findSongs(rhymingWord);
+      console.debug(`Processing ${songMatches.length} possible songs for word ${rhymingWord}.`);
       for (const songMatch of songMatches) {
         // If this song hasn't already been found for this rhyming word...
-        if (!filteredSongMatches.find(fsm => songMatch.id === fsm.id)) {
+        let alreadyFoundSong = filteredSongMatches.find(fsm => songMatch.id === fsm.id);
+        if (!alreadyFoundSong) {
           const songRating = await this.getSongMatchRating(songMatch, filteredSongMatches);
           const ratedSongMatch = (songRating && songRating.alternativeSong) || songMatch;
           // If this possibly-altered song still isn't one that's already been picked.
-          if (songRating && !filteredSongMatches.find(fsm => ratedSongMatch.id === fsm.id)) {
-            filteredSongMatches.push({
-              ...ratedSongMatch,
-              score: songRating.score,
-            });
+          if (songRating) {
+            alreadyFoundSong = filteredSongMatches.find(fsm => ratedSongMatch.id === fsm.id);
+            if (!alreadyFoundSong) {
+              filteredSongMatches.push({
+                ...ratedSongMatch,
+                score: songRating.score,
+              });
+            }
           }
         }
+        if (alreadyFoundSong) {
+          console.warn(`****** Song ${alreadyFoundSong.title} by ${alreadyFoundSong.artist} already found.`);
+          // const containsWords = alreadyFoundSong.containsWords || [];
+          // containsWords.push(rhymingWord);
+          // alreadyFoundSong.containsWords = containsWords;
+        }
       }
+      console.debug(`Including ${filteredSongMatches.length} songs for word ${rhymingWord}.`);
       songMatchesByRhymingWord[rhymingWord] = filteredSongMatches;
     }
     const songCountByRhymingWord: { [word: string]: number | undefined } = {};
@@ -177,6 +195,7 @@ export class LyricListService {
     songMatch: SongSummary,
     existingSongMatches: SongResult[]
   ): Promise<{ score: Score; alternativeSong?: SongSummary } | null> {
+    // console.debug(`Finding score/rating for '${songMatch.title}' by ${songMatch.artist}.`);
     try {
       let alternativeSong: SongSummary | undefined = undefined;
       const variations = this.createSongVariations(songMatch);
@@ -205,6 +224,7 @@ export class LyricListService {
       if (result) {
         const rating = this.rateSong(result);
         songMatch.year = songMatch.year || result.year;
+        console.debug(`Returning score of ${rating.ratingToString()} for '${(alternativeSong || songMatch).title}' by ${(alternativeSong || songMatch).artist}.`);
         return { score: rating, alternativeSong };
       } else {
         // console.log(
