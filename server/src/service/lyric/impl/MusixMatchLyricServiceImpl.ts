@@ -4,6 +4,8 @@ import { LyricService } from '../LyricService';
 import { SongSummary } from '../../../../../client/src/client-and-server/lyric-types';
 
 export class MusixMatchLyricServiceImpl implements LyricService {
+  protected static GENRE_ID_ROCK = 21;
+
   constructor(protected apiKey: string) {}
 
   async findSongs(searchTerm: string): Promise<SongSummary[]> {
@@ -14,6 +16,7 @@ export class MusixMatchLyricServiceImpl implements LyricService {
         quorum_factor: 1,
         apikey: this.apiKey,
         s_track_rating: 'desc',
+        f_music_genre_id: MusixMatchLyricServiceImpl.GENRE_ID_ROCK,
         page_size: 50,
       },
     });

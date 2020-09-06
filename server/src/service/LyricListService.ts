@@ -1,12 +1,12 @@
-import {Song, Top40Service} from './Top40Service';
-import {v4} from 'uuid';
+import { Song, Top40Service } from './Top40Service';
+import { v4 } from 'uuid';
 import PQueue from 'p-queue';
-import {Job, SearchTerms} from '../../../client/src/client-and-server/lyric-list-service-types';
-import {LyricService} from './lyric/LyricService';
-import {MusixMatchLyricServiceImpl} from './lyric/impl/MusixMatchLyricServiceImpl';
-import {Score, SongResult, SongSummary} from '../../../client/src/client-and-server/lyric-types';
-import {RhymingService} from "./rhyme/RhymingService";
-import {DataMuseRhymingService} from "./rhyme/impl/DataMuseRhymingService";
+import { Job, SearchTerms } from '../../../client/src/client-and-server/lyric-list-service-types';
+import { LyricService } from './lyric/LyricService';
+import { MusixMatchLyricServiceImpl } from './lyric/impl/MusixMatchLyricServiceImpl';
+import { Score, SongResult, SongSummary } from '../../../client/src/client-and-server/lyric-types';
+import { RhymingService } from './rhyme/RhymingService';
+import { DataMuseRhymingService } from './rhyme/impl/DataMuseRhymingService';
 
 export class LyricListService {
   static queue = new PQueue({ concurrency: 1 });
@@ -224,7 +224,11 @@ export class LyricListService {
       if (result) {
         const rating = this.rateSong(result);
         songMatch.year = songMatch.year || result.year;
-        console.debug(`Returning score of ${rating.ratingToString()} for '${(alternativeSong || songMatch).title}' by ${(alternativeSong || songMatch).artist}.`);
+        console.debug(
+          `Returning score of ${rating.ratingToString()} for '${(alternativeSong || songMatch).title}' by ${
+            (alternativeSong || songMatch).artist
+          }.`
+        );
         return { score: rating, alternativeSong };
       } else {
         // console.log(

@@ -40,4 +40,9 @@ describe('Top40Service', () => {
     confirmSongRank("U Can't Touch This", 'M.C. Hammer', 17); // 1990
     confirmSongRank('Addicted To Love', 'Robert Palmer', 22); // 1986
   });
+
+  it('should report on song counts', async () => {
+    const songs = await Top40Service.getSongCache();
+    console.log('song count = ', songs.length);
+  });
 });

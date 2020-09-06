@@ -3,7 +3,7 @@ import 'mocha';
 import * as Sinon from 'sinon';
 
 import { LyricListService } from './LyricListService';
-import { RhymingService } from './RhymingService';
+import { RhymingService } from './rhyme/RhymingService';
 import { Top40Service } from './Top40Service';
 import { SongSummary } from '../../../client/src/client-and-server/lyric-types';
 import { LyricService } from './lyric/LyricService';
